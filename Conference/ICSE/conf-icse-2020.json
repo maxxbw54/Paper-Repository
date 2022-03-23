@@ -1,0 +1,1421 @@
+[
+    {
+        "title": "Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380369",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A cost-efficient approach to building in continuous integration.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380437",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Practical fault detection in puppet programs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380384",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Learning from, understanding, and supporting DevOps artifacts for docker.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380406",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Adapting requirements models to varying environments.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380927",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Comparing formal tools for system design: a judgment study.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380373",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Debugging inputs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380329",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Causal testing: understanding defects' root causes.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380377",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Impact analysis of cross-project bugs on software ecosystems.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380442",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Taming behavioral backward incompatibilities via cross-project testing and analysis.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380436",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Watchman: monitoring dependency conflicts for Python library ecosystem.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380426",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "One size does not fit all: a grounded theory and online survey study of developer preferences for security warning types.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380387",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Schrödinger's security: opening the box on app developers' security rationale.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380394",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "How software practitioners use informal local meetups to share software engineering knowledge.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380333",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Predicting developers' negative feelings about code review.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380414",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Near-duplicate detection in web app model inference.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380416",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Extracting taint specifications for JavaScript libraries.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380390",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "SLACC: simion-based language agnostic code clones.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380407",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Finding client-side business flow tampering vulnerabilities.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380355",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Securing unsafe rust programs with XRust.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380325",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Is rust used safely by software developers?",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380413",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Burn after reading: a shadow stack with microsecond-level runtime rerandomization for protecting return addresses.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380439",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "SAVER: scalable, precise, and safe memory-error repair.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380323",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Revealing injection vulnerabilities by leveraging existing tests.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380326",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "RoScript: a visual script driven truly non-intrusive robotic testing system for touch screen applications.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380431",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Translating video recordings of mobile app usages into replayable scenarios.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380328",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Unblind your apps: predicting natural-language labels for mobile GUI components by deep learning.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380327",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "SLEMI: equivalence modulo input (EMI) based mutation of CPS models for finding compiler bugs in Simulink.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380381",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "DeepBillboard: systematic physical-world testing of autonomous driving systems.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380422",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Misbehaviour prediction for autonomous driving systems.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380353",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Approximation-refinement testing of compute-intensive cyber-physical models: an approach based on system identification.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380370",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A comprehensive study of autonomous vehicle bugs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380397",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Studying the use of Java logging utilities in the wild.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380408",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A study on the prevalence of human values in software engineering publications, 2015 - 2018.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380393",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Explaining pair programming session dynamics from knowledge gaps.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380925",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Engineering gender-inclusivity into software: ten teams' tales from the trenches.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380371",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "How has forking changed in the last 20 years?: a study of hard forks on GitHub.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380412",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Multiple-entry testing of Android applications by constructing activity launching contexts.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380347",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "ComboDroid: generating high-quality test inputs for Android apps via use case combinations.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380382",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Time-travel testing of Android apps.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380402",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "HeteroRefactor: refactoring for heterogeneous computing with FPGA.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380340",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "HARP: holistic analysis for refactoring Python-based analytics programs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380434",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "CC2Vec: distributed representations of code changes.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380361",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Empirical review of automated analysis tools on 47, 587 Ethereum smart contracts.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380364",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Gap between theory and practice: an empirical study of security patches in solidity.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380424",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "An investigation of cross-project learning in online just-in-time software defect prediction.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380403",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Understanding the automated parameter optimization on transfer learning for cross-project defect prediction: an empirical study.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380360",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Software visualization and deep transfer learning for effective software defect prediction.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380389",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Software documentation: the practitioners' perspective.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380405",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "DLFix: context-based code transformation learning for automated program repair.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380345",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "On the efficiency of test suite based program repair: A Systematic Assessment of 16 Automated Repair Systems for Java Programs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380338",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Caspar: extracting and synthesizing user stories of problems from app reviews.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380924",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Detection of hidden feature requests from massive chat messages via deep siamese network.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380356",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A tale from the trenches: cognitive biases and software development.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380330",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Recognizing developers' emotions while programming.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380374",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Neurological divide: an fMRI study of prose and code writing.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380348",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Here we go again: why is it difficult for developers to learn another programming language?",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380352",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Importance-driven deep learning system testing.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380391",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "ReluDiff: differential verification of deep neural networks.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380337",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Dissector: input validation for deep learning applications by crossing-layer dissection.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380379",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Towards characterizing adversarial defects of deep learning software from the lens of uncertainty.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380368",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Gang of eight: a defect taxonomy for infrastructure as code scripts.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380409",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "MemLock: memory usage guided fuzzing.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380396",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "sFuzz: an efficient adaptive fuzzer for solidity smart contracts.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380334",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Targeted greybox fuzzing with static lookahead analysis.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380388",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Planning for untangling: predicting the difficulty of merge conflicts.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380344",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Conquering the extensional scalability problem for value-flow analysis frameworks.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380346",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Tailoring programs for static analysis via program transformation.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380343",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Pipelining bottom-up data flow analysis.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380425",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A novel approach to tracing safety requirements and state-based design models.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380332",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Establishing multilevel test-to-code traceability links.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380921",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Improving the effectiveness of traceability link recovery using hierarchical bayesian networks.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380418",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "How Android developers handle evolution-induced API compatibility issues: a large-scale study.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380357",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "An empirical study on API parameter rules.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380922",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "When APIs are intentionally bypassed: an exploratory study of API workarounds.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380433",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Demystify official API usage directives with crowdsourced API misuse scenarios, erroneous code examples and patches.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380430",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Simulee: detecting CUDA synchronization bugs via memory-access modeling.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380358",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "White-box fairness testing through adversarial sampling.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380331",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Structure-invariant testing for machine translation.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380339",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Automatic testing and improvement of machine translation.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380420",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "TRADER: trace divergence analysis and embedding regulation for debugging recurrent neural networks.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380423",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Typestate-guided fuzzer for discovering use-after-free vulnerabilities.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380386",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "JVM fuzzing for JIT-induced side-channel detection.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380432",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Ankou: guiding grey-box fuzzing towards combinatorial difference.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380421",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "BCFA: bespoke control flow analysis for CFA at scale.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380435",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "On the recall of static call graph construction in practice.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380441",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Heaps'n leaks: how heap snapshots improve Android taint analysis.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380438",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Big code != big vocabulary: open-vocabulary models for source code.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380342",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Improving data scientist efficiency with provenance.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380366",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Managing data constraints in database-backed web applications.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380375",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Taxonomy of real faults in deep learning systems.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380395",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Testing DNN image classifiers for confusion & bias errors.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380400",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Repairing deep neural networks: fix patterns and challenges.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380378",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Fuzz testing based data augmentation to improve robustness of deep neural networks.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380415",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "An empirical study on program failures of deep learning jobs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380362",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Primers or reminders?: the effects of existing review comments on code review.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380385",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Mitigating turnover with code review recommendation: balancing expertise, workload, and knowledge distribution.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380335",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "How do companies collaborate in open source ecosystems?: an empirical study of OpenStack.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380376",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "How to not get rich: an empirical study of donations in open source.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380410",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Scaling open source communities: an empirical study of the Linux kernel.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380920",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "SpecuSym: speculative symbolic execution for cache timing leak detection.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380428",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Symbolic verification of message passing interface programs.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380419",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Efficient generation of error-inducing floating-point inputs via symbolic execution.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380359",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "HyDiff: hybrid differential software analysis.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380363",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Seenomaly: vision-based linting of GUI animation effects against design-don't guidelines.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380411",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Low-overhead deadlock prediction.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380367",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "An empirical assessment of security risks of global Android banking apps.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380417",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Accessibility issues in Android apps: state of affairs, sentiments, and ways forward.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380392",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Collaborative bug finding for Android apps.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380349",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "POSIT: simultaneously tagging natural and programming languages.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380440",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "CPC: automatically classifying and propagating natural language comments via program analysis.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380427",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Suggesting natural method names to check name consistencies.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380926",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Retrieval-based neural source code summarization.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380383",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "On learning meaningful assert statements for unit test cases.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380429",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Quickly generating diverse valid test inputs with reinforcement learning.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380399",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "An evidence-based inquiry into the use of grey literature in software engineering.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380336",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Towards the use of the readily available tests from the release pipeline as performance tests: are we there yet?",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380351",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Verifying object construction.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380341",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Automatically testing string solvers.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380398",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A study on the lifecycle of flaky tests.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3381749",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Testing file system implementations on layered models.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380350",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Co-evolving code with evolving metamodels.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380324",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Lazy product discovery in huge configuration spaces.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380372",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Reducing run-time adaptation space via analysis of possible utility bounds.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380365",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Context-aware in-process crowdworker recommendation.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380380",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "A large-scale empirical study on vulnerability distribution within projects and the lessons learned.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380923",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Unsuccessful story about few shot malware family classification and siamese network to the rescue.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380354",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "How does misconfiguration of analytic services compromise mobile privacy?",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380401",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    },
+    {
+        "title": "Interpreting cloud computer vision pain-points: a mining study of stack overflow.",
+        "venue_name": "icse",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3377811.3380404",
+        "abstract": "CRAWLER-ERROR",
+        "keywords": [
+            "CRAWLER-ERROR"
+        ]
+    }
+]
