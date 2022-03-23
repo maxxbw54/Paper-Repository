@@ -1,0 +1,1132 @@
+[
+    {
+        "title": "Editorial: A New Editor in Chief and the State of the Journal.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.21",
+        "volume": "36"
+    },
+    {
+        "title": "Editorial: A New Decade of TSE.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.20",
+        "volume": "36"
+    },
+    {
+        "title": "Better Debugging via Output Tracing and Callstack-Sensitive Slicing.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.66",
+        "volume": "36",
+        "abstract": "Debugging often involves 1) finding the point of failure (the first statement that produces bad output) and 2) finding and fixing the actual bug. Print statements and debugger break points can help with step 1. Slicing the program back from values used at the point of failure can help with step 2. However, neither approach is ideal: Debuggers and print statements can be clumsy and time-consuming and backward slices can be almost as large as the original program. This paper addresses both problems. We present callstack-sensitive slicing, which reduces slice sizes by leveraging the series of calls active when a program fails. We also show how slice intersections may further reduce slice sizes. We then describe a set of tools that identifies points of failure for programs that produce bad output. Finally, we apply our point-of-failure tools to a suite of buggy programs and evaluate callstack-sensitive slicing and slice intersection as applied to debugging. Callstack-sensitive slicing is very effective: On average, a callstack-sensitive slice is about 0.31 time the size of the corresponding full slice, down to just 0.06 time in the best case. Slice intersection is less impressive, on average, but may sometimes prove useful in practice.",
+        "keywords": [
+            "Debugging",
+            "Programming profession",
+            "Computer crashes",
+            "Failure analysis",
+            "Testing",
+            "Linux"
+        ]
+    },
+    {
+        "title": "DECOR: A Method for the Specification and Detection of Code and Design Smells.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.50",
+        "volume": "36",
+        "abstract": "Code and design smells are poor solutions to recurring implementation and design problems. They may hinder the evolution of a system by making it hard for software engineers to carry out changes. We propose three contributions to the research field related to code and design smells: (1) DECOR, a method that embodies and defines all the steps necessary for the specification and detection of code and design smells, (2) DETEX, a detection technique that instantiates this method, and (3) an empirical validation in terms of precision and recall of DETEX. The originality of DETEX stems from the ability for software engineers to specify smells at a high level of abstraction using a consistent vocabulary and domain-specific language for automatically generating detection algorithms. Using DETEX, we specify four well-known design smells: the antipatterns Blob, Functional Decomposition, Spaghetti Code, and Swiss Army Knife, and their 15 underlying code smells, and we automatically generate their detection algorithms. We apply and validate the detection algorithms in terms of precision and recall on XERCES v2.7.0, and discuss the precision of these algorithms on 11 open-source systems.",
+        "keywords": [
+            "Detection algorithms",
+            "Vocabulary",
+            "Domain specific languages",
+            "Algorithm design and analysis",
+            "Metamodeling",
+            "Java",
+            "Design engineering",
+            "Object oriented programming",
+            "Phase detection",
+            "Costs"
+        ]
+    },
+    {
+        "title": "Directed Explicit State-Space Search in the Generation of Counterexamples for Stochastic Model Checking.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.57",
+        "volume": "36",
+        "abstract": "Current stochastic model checkers do not make counterexamples for property violations readily available. In this paper, we apply directed explicit state-space search to discrete and continuous-time Markov chains in order to compute counterexamples for the violation of PCTL or CSL properties. Directed explicit state-space search algorithms explore the state space on-the-fly, which makes our method very efficient and highly scalable. They can also be guided using heuristics which usually improve the performance of the method. Counterexamples provided by our method have two important properties. First, they include those traces which contribute the greatest amount of probability to the property violation. Hence, they show the most probable offending execution scenarios of the system. Second, the obtained counterexamples tend to be small. Hence, they can be effectively analyzed by a human user. Both properties make the counterexamples obtained by our method very useful for debugging purposes. We implemented our method based on the stochastic model checker PRISM and applied it to a number of case studies in order to illustrate its applicability.",
+        "keywords": [
+            "Stochastic processes",
+            "Debugging",
+            "Probabilistic logic",
+            "Safety",
+            "Performance analysis",
+            "Space exploration",
+            "State-space methods",
+            "Humans",
+            "Shape",
+            "Sampling methods"
+        ]
+    },
+    {
+        "title": "Effects of Personality on Pair Programming.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.41",
+        "volume": "36",
+        "abstract": "Personality tests in various guises are commonly used in recruitment and career counseling industries. Such tests have also been considered as instruments for predicting the job performance of software professionals both individually and in teams. However, research suggests that other human-related factors such as motivation, general mental ability, expertise, and task complexity also affect the performance in general. This paper reports on a study of the impact of the Big Five personality traits on the performance of pair programmers together with the impact of expertise and task complexity. The study involved 196 software professionals in three countries forming 98 pairs. The analysis consisted of a confirmatory part and an exploratory part. The results show that: (1) Our data do not confirm a meta-analysis-based model of the impact of certain personality traits on performance and (2) personality traits, in general, have modest predictive value on pair programming performance compared with expertise, task complexity, and country. We conclude that more effort should be spent on investigating other performance-related predictors such as expertise, and task complexity, as well as other promising predictors, such as programming skill and learning. We also conclude that effort should be spent on elaborating on the effects of personality on various measures of collaboration, which, in turn, may be used to predict and influence performance. Insights into such malleable, rather than static, factors may then be used to improve pair programming performance.",
+        "keywords": [
+            "Programming profession",
+            "Collaborative work",
+            "Keyboards",
+            "Books",
+            "Recruitment",
+            "Engineering profession",
+            "Employee welfare",
+            "Software testing",
+            "Instruments",
+            "Software performance"
+        ]
+    },
+    {
+        "title": "Generating Event Sequence-Based Test Cases Using GUI Runtime State Feedback.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.68",
+        "volume": "36",
+        "abstract": "This paper presents a fully automatic model-driven technique to generate test cases for graphical user interfaces (GUIs)-based applications. The technique uses feedback from the execution of a ¿seed test suite,¿ which is generated automatically using an existing structural event interaction graph model of the GUI. During its execution, the runtime effect of each GUI event on all other events pinpoints event semantic interaction (ESI) relationships, which are used to automatically generate new test cases. Two studies on eight applications demonstrate that the feedback-based technique 1) is able to significantly improve existing techniques and helps identify serious problems in the software and 2) the ESI relationships captured via GUI state yield test suites that most often detect more faults than their code, event, and event-interaction-coverage equivalent counterparts.",
+        "keywords": [
+            "Graphical user interfaces",
+            "Runtime",
+            "State feedback",
+            "Automatic testing",
+            "Software testing",
+            "System testing",
+            "Application software",
+            "Costs",
+            "Fault diagnosis",
+            "Event detection"
+        ]
+    },
+    {
+        "title": "How Developers' Experience and Ability Influence Web Application Comprehension Tasks Supported by UML Stereotypes: A Series of Four Experiments.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.69",
+        "volume": "36",
+        "abstract": "In recent years, several design notations have been proposed to model domain-specific applications or reference architectures. In particular, Conallen has proposed the UML Web Application Extension (WAE): a UML extension to model Web applications. The aim of our empirical investigation is to test whether the usage of the Conallen notation supports comprehension and maintenance activities with significant benefits, and whether such benefits depend on developers ability and experience. This paper reports and discusses the results of a series of four experiments performed in different locations and with subjects possessing different experience-namely, undergraduate students, graduate students, and research associates-and different ability levels. The experiments aim at comparing performances of subjects in comprehension tasks where they have the source code complemented either by standard UML diagrams or by diagrams stereotyped using the Conallen notation. Results indicate that, although, in general, it is not possible to observe any significant benefit associated with the usage of stereotyped diagrams, the availability of stereotypes reduces the gap between subjects with low skill or experience and highly skilled or experienced subjects. Results suggest that organizations employing developers with low experience can achieve a significant performance improvement by adopting stereotyped UML diagrams for Web applications.",
+        "keywords": [
+            "Unified modeling language",
+            "Application software",
+            "Object oriented modeling",
+            "Software maintenance",
+            "Web pages",
+            "Software engineering",
+            "Computer Society",
+            "Computer architecture",
+            "Service oriented architecture",
+            "Testing"
+        ]
+    },
+    {
+        "title": "Providing Architectural Languages and Tools Interoperability through Model Transformation Technologies.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.51",
+        "volume": "36",
+        "abstract": "Many architectural languages have been proposed in the last 15 years, each one with the chief aim of becoming the ideal language for specifying software architectures. What is evident nowadays, instead, is that architectural languages are defined by stakeholder concerns. Capturing all such concerns within a single, narrowly focused notation is impossible. At the same time, it is also impractical to define and use a \"universal\" notation, such as UML. As a result, many domain-specific notations for architectural modeling have been proposed, each one focusing on a specific application domain, analysis type, or modeling environment. As a drawback, a proliferation of languages exists, each one with its own specific notation, tools, and domain specificity. No effective interoperability is possible to date. Therefore, if a software architect has to model a concern not supported by his own language/tool, he has to manually transform (and, eventually, keep aligned) the available architectural specification into the required language/tool. This paper presents DUALLy, an automated framework that allows architectural languages and tools interoperability. Given a number of architectural languages and tools, they can all interoperate thanks to automated model transformation techniques. DUALLy is implemented as an Eclipse plugin. Putting it in practice, we apply the DUALLy approach to the Darwin/FSP ADL and to a UML2.0 profile for software architectures. By making use of an industrial complex system, we transform a UML software architecture specification in Darwin/FSP, make some verifications by using LTSA, and reflect changes required by the verifications back to the UML specification.",
+        "keywords": [
+            "Software architecture",
+            "Unified modeling language",
+            "Computer architecture",
+            "Application software",
+            "Software tools",
+            "Computer industry",
+            "Architecture description languages",
+            "LAN interconnection",
+            "Domain specific languages",
+            "Software systems"
+        ]
+    },
+    {
+        "title": "Editorial: Readers, Writers, Reviewers, and Editors.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.44",
+        "volume": "36"
+    },
+    {
+        "title": "Guest Editors' Introduction to the Special Section on Exception Handling: From Requirements to Software Maintenance.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.45",
+        "volume": "36",
+        "abstract": "The four papers in this special section focus on topics related to exception handling.",
+        "keywords": [
+            "Software maintenance",
+            "Application software",
+            "Software systems",
+            "Computer languages",
+            "Programming",
+            "Software quality",
+            "Software engineering",
+            "Protection",
+            "Pressing",
+            "Reflection"
+        ]
+    },
+    {
+        "title": "Understanding Exception Handling: Viewpoints of Novices and Experts.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.7",
+        "volume": "36",
+        "abstract": "Several recent studies indicate that many industrial applications exhibit poor quality in the design of exception-handling. To improve the quality of error-handling, we need to understand the problems and obstacles that developers face when designing and implementing exception-handling. In this paper, we present our research on understanding the viewpoint of developers-novices and experts-toward exception-handling. First, we conducted a study with novice developers in industry. The study results reveal that novices tend to ignore exceptions because of the complex nature of exception-handling. Then, we conducted a second study with experts in industry to understand their perspective on exception-handling. The study results show that, for experts, exception-handling is a crucial part in the development process. Experts also confirm the novices' approach of ignoring exception-handling and provide insights as to why novices do so. After analyzing the study data, we identified factors that influence experts' strategy selection process for handling exceptions and then built a model that represents a strategy selection process experts use to handle exceptions. Our model is based on interacting modules and fault scope. We conclude with some recommendations to help novices improve their understanding of exception-handling.",
+        "keywords": [
+            "Software performance",
+            "Application software",
+            "Debugging",
+            "Data analysis",
+            "Software tools",
+            "Functional programming",
+            "Programming profession",
+            "Performance evaluation",
+            "Visualization"
+        ]
+    },
+    {
+        "title": "Exception Handling Patterns for Process Modeling.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.1",
+        "volume": "36",
+        "abstract": "Process modeling allows for analysis and improvement of processes that coordinate multiple people and tools working together to carry out a task. Process modeling typically focuses on the normative process, that is, how the collaboration transpires when everything goes as desired. Unfortunately, real-world processes rarely proceed that smoothly. A more complete analysis of a process requires that the process model also include details about what to do when exceptional situations arise. We have found that, in many cases, there are abstract patterns that capture the relationship between exception handling tasks and the normative process. Just as object-oriented design patterns facilitate the development, documentation, and maintenance of object-oriented programs, we believe that process patterns can facilitate the development, documentation, and maintenance of process models. In this paper, we focus on the exception handling patterns that we have observed over many years of process modeling. We describe these patterns using three process modeling notations: UML 2.0 Activity Diagrams, BPMN, and Little-JIL. We present both the abstract structure of the pattern as well as examples of the pattern in use. We also provide some preliminary statistical survey data to support the claim that these patterns are found commonly in actual use and discuss the relative merits of the three notations with respect to their ability to represent these patterns.",
+        "keywords": [
+            "Object oriented modeling",
+            "Documentation",
+            "Humans",
+            "Pattern analysis",
+            "Collaborative work",
+            "Unified modeling language",
+            "Collaboration",
+            "Data processing",
+            "Manufacturing processes",
+            "Medical services"
+        ]
+    },
+    {
+        "title": "A Framework for Programming Robust Context-Aware Applications.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.11",
+        "volume": "36",
+        "abstract": "In this paper, we present a forward recovery model for programming robust context-aware applications. The mechanisms devised as part of this model fall into two categories: asynchronous event handling and synchronous exception handling. These mechanisms enable designing recovery actions to handle different kinds of failure conditions arising in context-aware applications. These include service discovery failures, service binding failures, exceptions raised by a service, and context invalidations. This model is integrated in the high-level programming framework that we have designed for building context-aware collaborative (CSCW) applications. In this paper, we demonstrate the capabilities of this model for programming various kinds of recovery patterns in context-aware applications.",
+        "keywords": [
+            "Robustness",
+            "Context-aware services",
+            "Context modeling",
+            "Access control",
+            "Application software",
+            "Collaboration",
+            "Information systems",
+            "Buildings",
+            "Fault tolerance",
+            "Design methodology"
+        ]
+    },
+    {
+        "title": "Exception Handling for Repair in Service-Based Processes.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.8",
+        "volume": "36",
+        "abstract": "This paper proposes a self-healing approach to handle exceptions in service-based processes and to repair the faulty activities with a model-based approach. In particular, a set of repair actions is defined in the process model, and repairability of the process is assessed by analyzing the process structure and the available repair actions. During execution, when an exception arises, repair plans are generated by taking into account constraints posed by the process structure, dependencies among data, and available repair actions. The paper also describes the main features of the prototype developed to validate the proposed repair approach for composed Web services; the self-healing architecture for repair handling and the experimental results are illustrated.",
+        "keywords": [
+            "Web services",
+            "Prototypes",
+            "Service oriented architecture",
+            "Logic design",
+            "Proposals"
+        ]
+    },
+    {
+        "title": "A Quantitative Investigation of the Acceptable Risk Levels of Object-Oriented Metrics in Open-Source Systems.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.9",
+        "volume": "36",
+        "abstract": "Object-oriented metrics have been validated empirically as measures of design complexity. These metrics can be used to mitigate potential problems in the software complexity. However, there are few studies that were conducted to formulate the guidelines, represented as threshold values, to interpret the complexity of the software design using metrics. Classes can be clustered into low and high risk levels using threshold values. In this paper, we use a statistical model, derived from the logistic regression, to identify threshold values for the Chidamber and Kemerer (CK) metrics. The methodology is validated empirically on a large open-source system-the Eclipse project. The empirical results indicate that the CK metrics have threshold effects at various risk levels. We have validated the use of these thresholds on the next release of the Eclipse project-Version 2.1-using decision trees. In addition, the selected threshold values were more accurate than those were selected based on either intuitive perspectives or on data distribution parameters. Furthermore, the proposed model can be exploited to find the risk level for an arbitrary threshold value. These findings suggest that there is a relationship between risk levels and object-oriented metrics and that risk levels can be used to identify threshold effects.",
+        "keywords": [
+            "Open source software",
+            "Object oriented modeling",
+            "Software metrics",
+            "Software quality",
+            "Software testing",
+            "Software design",
+            "Predictive models",
+            "Quality assurance",
+            "Probability",
+            "Fault diagnosis"
+        ]
+    },
+    {
+        "title": "A Theoretical and Empirical Study of Search-Based Testing: Local, Global, and Hybrid Search.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.71",
+        "volume": "36",
+        "abstract": "Search-based optimization techniques have been applied to structural software test data generation since 1992, with a recent upsurge in interest and activity within this area. However, despite the large number of recent studies on the applicability of different search-based optimization approaches, there has been very little theoretical analysis of the types of testing problem for which these techniques are well suited. There are also few empirical studies that present results for larger programs. This paper presents a theoretical exploration of the most widely studied approach, the global search technique embodied by Genetic Algorithms. It also presents results from a large empirical study that compares the behavior of both global and local search-based optimization on real-world programs. The results of this study reveal that cases exist of test data generation problem that suit each algorithm, thereby suggesting that a hybrid global-local search (a Memetic Algorithm) may be appropriate. The paper presents a Memetic Algorithm along with further empirical results studying its performance.",
+        "keywords": [
+            "Software testing",
+            "Automatic testing",
+            "Genetic algorithms",
+            "Costs",
+            "Hybrid power systems",
+            "Software engineering",
+            "Automation",
+            "Stress",
+            "Debugging",
+            "Artificial intelligence"
+        ]
+    },
+    {
+        "title": "Bayesian Approaches to Matching Architectural Diagrams.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.56",
+        "volume": "36",
+        "abstract": "IT system architectures and many other kinds of structured artifacts are often described by formal models or informal diagrams. In practice, there are often a number of versions of a model or diagram, such as a series of revisions, divergent variants, or multiple views of a system. Understanding how versions correspond or differ is crucial, and thus, automated assistance for matching models and diagrams is essential. We have designed a framework for finding these correspondences automatically based on Bayesian methods. We represent models and diagrams as graphs whose nodes have attributes such as name, type, connections to other nodes, and containment relations, and we have developed probabilistic models for rating the quality of candidate correspondences based on various features of the nodes in the graphs. Given the probabilistic models, we can find high-quality correspondences using search algorithms. Preliminary experiments focusing on architectural models suggest that the technique is promising.",
+        "keywords": [
+            "Bayesian methods",
+            "Context modeling",
+            "Large-scale systems",
+            "Network topology",
+            "Centralized control",
+            "Merging",
+            "Collaboration",
+            "Adaptation model",
+            "Application software",
+            "Security"
+        ]
+    },
+    {
+        "title": "Engineering a Sound Assertion Semantics for the Verifying Compiler.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.59",
+        "volume": "36",
+        "abstract": "The Verifying Compiler (VC) project is a core component of the Dependable Systems Evolution Grand Challenge. The VC offers the promise of automatically proving that a program or component is correct, where correctness is defined by program assertions. While several VC prototypes exist, all adopt a semantics for assertions that is unsound. This paper presents a consolidation of VC requirements analysis (RA) activities that, in particular, brought us to ask targeted VC customers what kind of semantics they wanted. Taking into account both practitioners' needs and current technological factors, we offer recovery of soundness through an adjusted definition of assertion validity that matches user expectations and can be implemented practically using current prover technology. For decades, there have been debates concerning the most appropriate semantics for program assertions. Our contribution here is unique in that we have applied fundamental software engineering techniques by asking primary stakeholders what they want and, based on this, proposed a means of efficiently realizing the semantics stakeholders want using standard tools and techniques. We describe how support for the new semantics has been added to ESC/Java2, one of the most fully developed VC prototypes. Case studies demonstrate the effectiveness of the new semantics at uncovering previously indiscernible specification errors.",
+        "keywords": [
+            "Acoustical engineering",
+            "Virtual colonoscopy",
+            "Prototypes",
+            "Software prototyping",
+            "Java",
+            "Logic programming",
+            "Runtime",
+            "Software engineering",
+            "Software standards",
+            "Contracts"
+        ]
+    },
+    {
+        "title": "Service-Level Agreements for Electronic Services.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.55",
+        "volume": "36",
+        "abstract": "The potential of communication networks and middleware to enable the composition of services across organizational boundaries remains incompletely realized. In this paper, we argue that this is in part due to outsourcing risks and describe the possible contribution of Service-Level Agreements (SLAs) to mitigating these risks. For SLAs to be effective, it should be difficult to disregard their original provisions in the event of a dispute between the parties. Properties of understandability, precision, and monitorability ensure that the original intent of an SLA can be recovered and compared to trustworthy accounts of service behavior to resolve disputes fairly and without ambiguity. We describe the design and evaluation of a domain-specific language for SLAs that tend to exhibit these properties and discuss the impact of monitorability requirements on service-provision practices.",
+        "keywords": [
+            "Outsourcing",
+            "Cloud computing",
+            "Consumer electronics",
+            "Middleware",
+            "Service oriented architecture",
+            "Domain specific languages",
+            "Distributed computing",
+            "Computer Society",
+            "Communication networks",
+            "Monitoring"
+        ]
+    },
+    {
+        "title": "In Memoriam: Robin Milner and Amir Pnueli.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.57",
+        "volume": "36",
+        "abstract": "Provides the biographies for two members of the computing community, Robin Milner and Amir Pnueli, who recently passed away. Both were Turing Award winners and both contributed in fundamental ways to the foundations of software engineering.",
+        "keywords": [
+            "Obituary",
+            "Robin Milner and Amir Pnueli"
+        ]
+    },
+    {
+        "title": "Guest Editors' Introduction to the Special Section on Evaluation and Improvement of Software Dependability.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.56",
+        "volume": "36",
+        "abstract": "The four papers in this special section present new findings on different aspects of software dependability.",
+        "keywords": [
+            "Software systems",
+            "Information security",
+            "Safety",
+            "Software testing",
+            "Medical control systems",
+            "Control systems",
+            "Humans",
+            "Software quality",
+            "Availability",
+            "Airplanes"
+        ]
+    },
+    {
+        "title": "Incremental Test Generation for Software Product Lines.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.30",
+        "volume": "36",
+        "abstract": "Recent advances in mechanical techniques for systematic testing have increased our ability to automatically find subtle bugs, and hence, to deploy more dependable software. This paper builds on one such systematic technique, scope-bounded testing, to develop a novel specification-based approach for efficiently generating tests for products in a software product line. Given properties of features as first-order logic formulas in Alloy, our approach uses SAT-based analysis to automatically generate test inputs for each product in a product line. To ensure soundness of generation, we introduce an automatic technique for mapping a formula that specifies a feature into a transformation that defines incremental refinement of test suites. Our experimental results using different data structure product lines show that an incremental approach can provide an order of magnitude speedup over conventional techniques. We also present a further optimization using dedicated integer constraint solvers for feature properties that introduce integer constraints, and show how to use a combination of solvers in tandem for solving Alloy formulas.",
+        "keywords": [
+            "Software testing",
+            "Automatic testing",
+            "System testing",
+            "Computer bugs",
+            "Logic testing",
+            "Data structures",
+            "Software quality",
+            "Automatic logic units",
+            "Acoustic testing",
+            "Constraint optimization"
+        ]
+    },
+    {
+        "title": "Software Reliability and Testing Time Allocation: An Architecture-Based Approach.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.6",
+        "volume": "36",
+        "abstract": "With software systems increasingly being employed in critical contexts, assuring high reliability levels for large, complex systems can incur huge verification costs. Existing standards usually assign predefined risk levels to components in the design phase, to provide some guidelines for the verification. It is a rough-grained assignment that does not consider the costs and does not provide sufficient modeling basis to let engineers quantitatively optimize resources usage. Software reliability allocation models partially address such issues, but they usually make so many assumptions on the input parameters that their application is difficult in practice. In this paper, we try to reduce this gap, proposing a reliability and testing resources allocation model that is able to provide solutions at various levels of detail, depending upon the information the engineer has about the system. The model aims to quantitatively identify the most critical components of software architecture in order to best assign the testing resources to them. A tool for the solution of the model is also developed. The model is applied to an empirical case study, a program developed for the European Space Agency, to verify model's prediction abilities and evaluate the impact of the parameter estimation errors on the prediction accuracy.",
+        "keywords": [
+            "Software reliability",
+            "Software testing",
+            "Reliability engineering",
+            "Predictive models",
+            "Software systems",
+            "Guidelines",
+            "Cost function",
+            "Application software",
+            "System testing",
+            "Resource management"
+        ]
+    },
+    {
+        "title": "Verification and Trade-Off Analysis of Security Properties in UML System Models.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.36",
+        "volume": "36",
+        "abstract": "Designing secure systems is a nontrivial task. Incomplete or faulty designs can cause security mechanisms to be incorrectly incorporated in a system, allowing them to be bypassed and resulting in a security breach. We advocate the use of the Aspect-Oriented Risk-Driven Development (AORDD) methodology for developing secure systems. This methodology begins with designers defining system assets, identifying potential attacks against them, and evaluating system risks. When a risk is unacceptable, designers must mitigate the associated threat by incorporating security mechanisms methodically into the system design. Designers next formally evaluate the resulting design to ensure that the threat has been mitigated, while still allowing development to meet other project constraints. In this paper, we focus on the AORDD analysis, which consists of: (1) a formal security evaluation and (2) a trade-off analysis that enables system designers to position alternative security solutions against each other. The formal security evaluation uses the Alloy Analyzer to provide assurance that an incorporated security mechanism performs as expected and makes the system resilient to previously identified attacks. The trade-off analysis uses a Bayesian Belief Network topology to allow equally effective security mechanisms to be compared against system security requirements and other factors such as time-to-market and budget constraints.",
+        "keywords": [
+            "Unified modeling language",
+            "Protection",
+            "Standards development",
+            "ISO standards",
+            "Data security",
+            "Design methodology",
+            "Bayesian methods",
+            "Risk management",
+            "Computer security",
+            "Computer Society"
+        ]
+    },
+    {
+        "title": "Vulnerability Discovery with Attack Injection.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.91",
+        "volume": "36",
+        "abstract": "The increasing reliance put on networked computer systems demands higher levels of dependability. This is even more relevant as new threats and forms of attack are constantly being revealed, compromising the security of systems. This paper addresses this problem by presenting an attack injection methodology for the automatic discovery of vulnerabilities in software components. The proposed methodology, implemented in AJECT, follows an approach similar to hackers and security analysts to discover vulnerabilities in network-connected servers. AJECT uses a specification of the server's communication protocol and predefined test case generation algorithms to automatically create a large number of attacks. Then, while it injects these attacks through the network, it monitors the execution of the server in the target system and the responses returned to the clients. The observation of an unexpected behavior suggests the presence of a vulnerability that was triggered by some particular attack (or group of attacks). This attack can then be used to reproduce the anomaly and to assist the removal of the error. To assess the usefulness of this approach, several attack injection campaigns were performed with 16 publicly available POP and IMAP servers. The results show that AJECT could effectively be used to locate vulnerabilities, even on well-known servers tested throughout the years.",
+        "keywords": [
+            "Network servers",
+            "Software testing",
+            "Protocols",
+            "Debugging",
+            "Application software",
+            "Computer networks",
+            "Computer hacking",
+            "Communication system security",
+            "Automatic testing",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Discovering Services during Service-Based System Design Using UML.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.88",
+        "volume": "36",
+        "abstract": "Recently, there has been a proliferation of service-based systems, i.e., software systems that are composed of autonomous services but can also use software code. In order to support the development of these systems, it is necessary to have new methods, processes, and tools. In this paper, we describe a UML-based framework to assist with the development of service-based systems. The framework adopts an iterative process in which software services that can provide functional and nonfunctional characteristics of a system being developed are discovered, and the identified services are used to reformulate the design models of the system. The framework uses a query language to represent structural, behavioral, and quality characteristics of services to be identified, and a query processor to match the queries against service registries. The matching process is based on distance measurements between the queries and service specifications. A prototype tool has been implemented. The work has been evaluated in terms of recall, precision, and performance measurements.",
+        "keywords": [
+            "Unified modeling language",
+            "Software systems",
+            "Database languages",
+            "Quality of service",
+            "Computer Society",
+            "Distance measurement",
+            "Software prototyping",
+            "Prototypes",
+            "Documentation",
+            "Engines"
+        ]
+    },
+    {
+        "title": "Learning Communicating Automata from MSCs.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.89",
+        "volume": "36",
+        "abstract": "This paper is concerned with bridging the gap between requirements and distributed systems. Requirements are defined as basic message sequence charts (MSCs) specifying positive and negative scenarios. Communicating finite-state machines (CFMs), i.e., finite automata that communicate via FIFO buffers, act as system realizations. The key contribution is a generalization of Angluin's learning algorithm for synthesizing CFMs from MSCs. This approach is exact-the resulting CFM precisely accepts the set of positive scenarios and rejects all negative ones-and yields fully asynchronous implementations. The paper investigates for which classes of MSC languages CFMs can be learned, presents an optimization technique for learning partial orders, and provides substantial empirical evidence indicating the practical feasibility of the approach.",
+        "keywords": [
+            "Learning automata",
+            "Software engineering",
+            "Software design",
+            "Unified modeling language",
+            "Communication channels",
+            "System recovery",
+            "Computer Society",
+            "Design engineering",
+            "Design methodology",
+            "Artificial intelligence"
+        ]
+    },
+    {
+        "title": "On Event-Based Middleware for Location-Aware Mobile Applications.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.90",
+        "volume": "36",
+        "abstract": "As mobile applications become more widespread, programming paradigms and middleware architectures designed to support their development are becoming increasingly important. The event-based programming paradigm is a strong candidate for the development of mobile applications due to its inherent support for the loose coupling between components required by mobile applications. However, existing middleware that supports the event-based programming paradigm is not well suited to supporting location-aware mobile applications in which highly mobile components come together dynamically to collaborate at some location. This paper presents a number of techniques including location-independent announcement and subscription coupled with location-dependent filtering and event delivery that can be used by event-based middleware to support such collaboration. We describe how these techniques have been implemented in STEAM, an event-based middleware with a fully decentralized architecture, which is particularly well suited to deployment in ad hoc network environments. The cost of such location-based event dissemination and the benefits of distributed event filtering are evaluated.",
+        "keywords": [
+            "Middleware",
+            "Collaboration",
+            "Mobile computing",
+            "Application software",
+            "Mobile communication",
+            "Unmanned aerial vehicles",
+            "Pervasive computing",
+            "Computer architecture",
+            "Filtering",
+            "Ad hoc networks"
+        ]
+    },
+    {
+        "title": "Program Behavior Discovery and Verification: A Graph Grammar Approach.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.3",
+        "volume": "36",
+        "abstract": "Discovering program behaviors and functionalities can ease program comprehension and verification. Existing program analysis approaches have used text mining algorithms to infer behavior patterns or formal models from program execution. When one tries to identify the hierarchical composition of a program behavior at different abstraction levels, textual descriptions are not informative and expressive enough. To address this, we present a semi-automatic graph grammar approach to retrieving the hierarchical structure of the program behavior. The hierarchical structure is built on recurring substructures in a bottom-up fashion. We formulate the behavior discovery and verification problem as a graph grammar induction and parsing problem, i.e., automatically iteratively mining qualified patterns and then constructing graph rewriting rules. Furthermore, using the induced grammar to parse the behavioral structure of a new program could verify if the program has the same behavioral properties specified by the grammar.",
+        "keywords": [
+            "Software maintenance",
+            "Reverse engineering",
+            "Learning automata",
+            "Software systems",
+            "Data mining",
+            "Clustering algorithms",
+            "Pattern analysis",
+            "Algorithm design and analysis",
+            "Text mining",
+            "Documentation"
+        ]
+    },
+    {
+        "title": "Editorial: How Special Should Issues Be?",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.75",
+        "volume": "36"
+    },
+    {
+        "title": "Introduction: The Best Papers of ISSTA.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.76",
+        "volume": "36",
+        "abstract": "We present the best papers of the International Symposium on Software Testing and Analysis (ISSTA) 2008.",
+        "keywords": [
+            "Software testing",
+            "System testing",
+            "Sections",
+            "Electronic equipment testing",
+            "Electronic voting",
+            "Humans",
+            "Computer science",
+            "Computer industry",
+            "Security",
+            "Electronic voting systems"
+        ]
+    },
+    {
+        "title": "An Experience in Testing the Security of Real-World Electronic Voting Systems.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.53",
+        "volume": "36",
+        "abstract": "Voting is the process through which a democratic society determines its government. Therefore, voting systems are as important as other well-known critical systems, such as air traffic control systems or nuclear plant monitors. Unfortunately, voting systems have a history of failures that seems to indicate that their quality is not up to the task. Because of the alarming frequency and impact of the malfunctions of voting systems, in recent years a number of vulnerability analysis exercises have been carried out against voting systems to determine if they can be compromised in order to control the results of an election. We have participated in two such large-scale projects, sponsored by the Secretaries of State of California and Ohio, whose goals were to perform the security testing of the electronic voting systems used in their respective states. As the result of the testing process, we identified major vulnerabilities in all of the systems analyzed. We then took advantage of a combination of these vulnerabilities to generate a series of attacks that would spread across the voting systems and would “steal” votes by combining voting record tampering with social engineering approaches. As a response to the two large-scale security evaluations, the Secretaries of State of California and Ohio recommended changes to improve the security of the voting process. In this paper, we describe the methodology that we used in testing the two real-world electronic voting systems we evaluated, the findings of our analysis, our attacks, and the lessons we learned.",
+        "keywords": [
+            "Electronic equipment testing",
+            "System testing",
+            "Security",
+            "Electronic voting systems",
+            "Large-scale systems",
+            "Government",
+            "Air traffic control",
+            "History",
+            "Frequency",
+            "Control systems"
+        ]
+    },
+    {
+        "title": "Finding Bugs in Web Applications Using Dynamic Test Generation and Explicit-State Model Checking.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.31",
+        "volume": "36",
+        "abstract": "Web script crashes and malformed dynamically generated webpages are common errors, and they seriously impact the usability of Web applications. Current tools for webpage validation cannot handle the dynamically generated pages that are ubiquitous on today's Internet. We present a dynamic test generation technique for the domain of dynamic Web applications. The technique utilizes both combined concrete and symbolic execution and explicit-state model checking. The technique generates tests automatically, runs the tests capturing logical constraints on inputs, and minimizes the conditions on the inputs to failing tests so that the resulting bug reports are small and useful in finding and fixing the underlying faults. Our tool Apollo implements the technique for the PHP programming language. Apollo generates test inputs for a Web application, monitors the application for crashes, and validates that the output conforms to the HTML specification. This paper presents Apollo's algorithms and implementation, and an experimental evaluation that revealed 673 faults in six PHP Web applications.",
+        "keywords": [
+            "Computer bugs",
+            "Vehicle crash testing",
+            "Automatic testing",
+            "Logic testing",
+            "Computer crashes",
+            "Usability",
+            "Internet",
+            "Concrete",
+            "Computer languages",
+            "HTML"
+        ]
+    },
+    {
+        "title": "Proofs from Tests.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.49",
+        "volume": "36",
+        "abstract": "We present an algorithm DASH to check if a program P satisfies a safety property φ. The unique feature of this algorithm is that it uses only test generation operations, and it refines and maintains a sound program abstraction as a consequence of failed test generation operations. Thus, each iteration of the algorithm is inexpensive, and can be implemented without any global may-alias information. In particular, we introduce a new refinement operator WP\n<sub xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">α</sub>\n that uses only the alias information obtained by symbolically executing a test to refine abstractions in a sound manner. We present a full exposition of the DASH algorithm and its theoretical properties. We have implemented DASH in a tool called YOGI that plugs into Microsoft's Static Driver Verifier framework. We have used this framework to run YOGI on 69 Windows Vista drivers with 85 properties and find that YOGI scales much better than SLAM, the current engine driving Microsoft's Static Driver Verifier.",
+        "keywords": [
+            "Acoustic testing",
+            "Safety",
+            "Performance evaluation",
+            "Iterative algorithms",
+            "Plugs",
+            "Simultaneous localization and mapping",
+            "Engines",
+            "Instruments",
+            "Automatic testing",
+            "Algorithm design and analysis"
+        ]
+    },
+    {
+        "title": "Aspect-Oriented Race Detection in Java.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.25",
+        "volume": "36",
+        "abstract": "In the past, researchers have developed specialized programs to aid programmers in detecting concurrent programming errors such as deadlocks, livelocks, starvation, and data races. In this work, we propose a language extension to the aspect-oriented programming language AspectJ, in the form of three new pointcuts, lock(), unlock(), and maybeShared(). These pointcuts allow programmers to monitor program events where locks are granted or handed back, and where values are accessed that may be shared among multiple Java threads. We decide thread locality using a static thread-local-objects analysis developed by others. Using the three new primitive pointcuts, researchers can directly implement efficient monitoring algorithms to detect concurrent-programming errors online. As an example, we describe a new algorithm which we call RACER, an adaption of the well-known ERASER algorithm to the memory model of Java. We implemented the new pointcuts as an extension to the AspectBench Compiler, implemented the RACER algorithm using this language extension, and then applied the algorithm to the NASA K9 Rover Executive and two smaller programs. Our experiments demonstrate that our implementation is effective in finding subtle data races. In the Rover Executive, RACER finds 12 data races, with no false warnings. Only one of these races was previously known.",
+        "keywords": [
+            "Java",
+            "Programming profession",
+            "Computer languages",
+            "System recovery",
+            "Monitoring",
+            "Runtime",
+            "Protection",
+            "Instruments",
+            "Libraries"
+        ]
+    },
+    {
+        "title": "The Probabilistic Program Dependence Graph and Its Application to Fault Diagnosis.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.87",
+        "volume": "36",
+        "abstract": "This paper presents an innovative model of a program's internal behavior over a set of test inputs, called the probabilistic program dependence graph (PPDG), which facilitates probabilistic analysis and reasoning about uncertain program behavior, particularly that associated with faults. The PPDG construction augments the structural dependences represented by a program dependence graph with estimates of statistical dependences between node states, which are computed from the test set. The PPDG is based on the established framework of probabilistic graphical models, which are used widely in a variety of applications. This paper presents algorithms for constructing PPDGs and applying them to fault diagnosis. The paper also presents preliminary evidence indicating that a PPDG-based fault localization technique compares favorably with existing techniques. The paper also presents evidence indicating that PPDGs can be useful for fault comprehension.",
+        "keywords": [
+            "Fault diagnosis",
+            "Graphical models",
+            "Application software",
+            "Testing",
+            "Software engineering",
+            "Automatic control",
+            "Information analysis",
+            "Runtime",
+            "Probability distribution",
+            "Computer Society"
+        ]
+    },
+    {
+        "title": "Learning a Metric for Code Readability.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.70",
+        "volume": "36",
+        "abstract": "In this paper, we explore the concept of code readability and investigate its relation to software quality. With data collected from 120 human annotators, we derive associations between a simple set of local code features and human notions of readability. Using those features, we construct an automated readability measure and show that it can be 80 percent effective and better than a human, on average, at predicting readability judgments. Furthermore, we show that this metric correlates strongly with three measures of software quality: code changes, automated defect reports, and defect log messages. We measure these correlations on over 2.2 million lines of code, as well as longitudinally, over many releases of selected projects. Finally, we discuss the implications of this study on programming language design and engineering practice. For example, our data suggest that comments, in and of themselves, are less important than simple blank lines to local judgments of readability.",
+        "keywords": [
+            "Software quality",
+            "Humans",
+            "Software maintenance",
+            "Readability metrics",
+            "Documentation",
+            "Software measurement",
+            "Computer languages",
+            "Design engineering",
+            "Machine learning",
+            "Costs"
+        ]
+    },
+    {
+        "title": "Assessing Software Service Quality and Trustworthiness at Selection Time.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.2",
+        "volume": "36",
+        "abstract": "The integration of external software in project development is challenging and risky, notably because the execution quality of the software and the trustworthiness of the software provider may be unknown at integration time. This is a timely problem and of increasing importance with the advent of the SaaS model of service delivery. Therefore, in choosing the SaaS service to utilize, project managers must identify and evaluate the level of risk associated with each candidate. Trust is commonly assessed through reputation systems; however, existing systems rely on ratings provided by consumers. This raises numerous issues involving the subjectivity and unfairness of the service ratings. This paper describes a framework for reputation-aware software service selection and rating. A selection algorithm is devised for service recommendation, providing SaaS consumers with the best possible choices based on quality, cost, and trust. An automated rating model, based on the expectancy-disconfirmation theory from market science, is also defined to overcome feedback subjectivity issues. The proposed rating and selection models are validated through simulations, demonstrating that the system can effectively capture service behavior and recommend the best possible choices.",
+        "keywords": [
+            "Software quality",
+            "Risk management",
+            "Software maintenance",
+            "Costs",
+            "Software performance",
+            "Project management",
+            "Feedback",
+            "Monitoring",
+            "Business",
+            "Computer industry"
+        ]
+    },
+    {
+        "title": "Evaluation of Accuracy in Design Pattern Occurrence Detection.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.92",
+        "volume": "36",
+        "abstract": "Detection of design pattern occurrences is part of several solutions to software engineering problems, and high accuracy of detection is important to help solve the actual problems. The improvement in accuracy of design pattern occurrence detection requires some way of evaluating various approaches. Currently, there are several different methods used in the community to evaluate accuracy. We show that these differences may greatly influence the accuracy results, which makes it nearly impossible to compare the quality of different techniques. We propose a benchmark suite to improve the situation and a community effort to contribute to, and evolve, the benchmark suite. Also, we propose fine-grained metrics assessing the accuracy of various approaches in the benchmark suite. This allows comparing the detection techniques and helps improve the accuracy of detecting design pattern occurrences.",
+        "keywords": [
+            "Design methodology",
+            "Software systems",
+            "Computer science",
+            "Natural languages",
+            "Software engineering",
+            "Measurement techniques",
+            "Reverse engineering",
+            "Software tools",
+            "Application software",
+            "Software quality"
+        ]
+    },
+    {
+        "title": "Guest Editors' Introduction: 2008 Conference on the Foundations of Software Engineering.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.88",
+        "volume": "36",
+        "abstract": "The four papers in this special section are extended versions of selected papers from the 16th ACM International Symposium on the Foundations of Software Engineering, held in Atlanta, Georgia, 11-13 November 2008.",
+        "keywords": [
+            "Special issues and sections",
+            "Meetings",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "The Effects of Time Constraints on Test Case Prioritization: A Series of Controlled Experiments.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.58",
+        "volume": "36",
+        "abstract": "Regression testing is an expensive process used to validate modified software. Test case prioritization techniques improve the cost-effectiveness of regression testing by ordering test cases such that those that are more important are run earlier in the testing process. Many prioritization techniques have been proposed and evidence shows that they can be beneficial. It has been suggested, however, that the time constraints that can be imposed on regression testing by various software development processes can strongly affect the behavior of prioritization techniques. If this is correct, a better understanding of the effects of time constraints could lead to improved prioritization techniques and improved maintenance and testing processes. We therefore conducted a series of experiments to assess the effects of time constraints on the costs and benefits of prioritization techniques. Our first experiment manipulates time constraint levels and shows that time constraints do play a significant role in determining both the cost-effectiveness of prioritization and the relative cost-benefit trade-offs among techniques. Our second experiment replicates the first experiment, controlling for several threats to validity including numbers of faults present, and shows that the results generalize to this wider context. Our third experiment manipulates the number of faults present in programs to examine the effects of faultiness levels on prioritization and shows that faultiness level affects the relative cost-effectiveness of prioritization techniques. Taken together, these results have several implications for test engineers wishing to cost-effectively regression test their software systems. These include suggestions about when and when not to prioritize, what techniques to employ, and how differences in testing processes may relate to prioritization cost--effectiveness.",
+        "keywords": [
+            "Time factors",
+            "Software testing",
+            "Automatic testing",
+            "Maintenance engineering",
+            "Programming",
+            "System testing",
+            "Computer Society",
+            "Software systems",
+            "Bayesian methods",
+            "Software quality"
+        ]
+    },
+    {
+        "title": "What Makes a Good Bug Report?",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.63",
+        "volume": "36",
+        "abstract": "In software development, bug reports provide crucial information to developers. However, these reports widely differ in their quality. We conducted a survey among developers and users of APACHE, ECLIPSE, and MOZILLA to find out what makes a good bug report. The analysis of the 466 responses revealed an information mismatch between what developers need and what users supply. Most developers consider steps to reproduce, stack traces, and test cases as helpful, which are, at the same time, most difficult to provide for users. Such insight is helpful for designing new bug tracking tools that guide users at collecting and providing more helpful information. Our CUEZILLA prototype is such a tool and measures the quality of new bug reports; it also recommends which elements should be added to improve the quality. We trained CUEZILLA on a sample of 289 bug reports, rated by developers as part of the survey. The participants of our survey also provided 175 comments on hurdles in reporting and resolving bugs. Based on these comments, we discuss several recommendations for better bug tracking systems, which should focus on engaging bug reporters, better tool support, and improved handling of bug duplicates.",
+        "keywords": [
+            "Computer bugs",
+            "Programming",
+            "Prototypes",
+            "Software engineering",
+            "Information analysis",
+            "Software testing",
+            "Debugging",
+            "Software maintenance",
+            "Human factors",
+            "Engineering management"
+        ]
+    },
+    {
+        "title": "Context-Aware Adaptive Applications: Fault Patterns and Their Automated Identification.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.35",
+        "volume": "36",
+        "abstract": "Applications running on mobile devices are intensely context-aware and adaptive. Streams of context values continuously drive these applications, making them very powerful but, at the same time, susceptible to undesired configurations. Such configurations are not easily exposed by existing validation techniques, thereby leading to new analysis and testing challenges. In this paper, we address some of these challenges by defining and applying a new model of adaptive behavior called an Adaptation Finite-State Machine (A-FSM) to enable the detection of faults caused by both erroneous adaptation logic and asynchronous updating of context information, with the latter leading to inconsistencies between the external physical context and its internal representation within an application. We identify a number of adaptation fault patterns, each describing a class of faulty behaviors. Finally, we describe three classes of algorithms to detect such faults automatically via analysis of the A-FSM. We evaluate our approach and the trade-offs between the classes of algorithms on a set of synthetically generated Context-Aware Adaptive Applications (CAAAs) and on a simple but realistic application in which a cell phone's configuration profile changes automatically as a result of changes to the user's location, speed, and surrounding environment. Our evaluation describes the faults our algorithms are able to detect and compares the algorithms in terms of their performance and storage requirements.",
+        "keywords": [
+            "Fault diagnosis",
+            "Fault detection",
+            "Context modeling",
+            "Algorithm design and analysis",
+            "Handheld computers",
+            "Personal digital assistants",
+            "Data structures",
+            "Global Positioning System",
+            "Computer science",
+            "Lead"
+        ]
+    },
+    {
+        "title": "A Comparison of Six UML-Based Languages for Software Process Modeling.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.85",
+        "volume": "36",
+        "abstract": "Describing and managing activities, resources, and constraints of software development processes is a challenging goal for many organizations. A first generation of Software Process Modeling Languages (SPMLs) appeared in the 1990s but failed to gain broad industrial support. Recently, however, a second generation of SPMLs has appeared, leveraging the strong industrial interest for modeling languages such as UML. In this paper, we propose a comparison of these UML-based SPMLs. While not exhaustive, this comparison concentrates on SPMLs most representative of the various alternative approaches, ranging from UML-based framework specializations to full-blown executable metamodeling approaches. To support the comparison of these various approaches, we propose a frame gathering a set of requirements for process modeling, such as semantic richness, modularity, executability, conformity to the UML standard, and formality. Beyond discussing the relative merits of these approaches, we also evaluate the overall suitability of these UML-based SPMLs for software process modeling. Finally, we discuss the impact of these approaches on the current state of the practice, and conclude with lessons we have learned in doing this comparison.",
+        "keywords": [
+            "Unified modeling language",
+            "Software",
+            "Object oriented modeling",
+            "Analytical models",
+            "Semantics",
+            "Programming",
+            "Computational modeling"
+        ]
+    },
+    {
+        "title": "How Reliable Are Systematic Reviews in Empirical Software Engineering?",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.28",
+        "volume": "36",
+        "abstract": "BACKGROUND-The systematic review is becoming a more commonly employed research instrument in empirical software engineering. Before undue reliance is placed on the outcomes of such reviews it would seem useful to consider the robustness of the approach in this particular research context. OBJECTIVE-The aim of this study is to assess the reliability of systematic reviews as a research instrument. In particular, we wish to investigate the consistency of process and the stability of outcomes. METHOD-We compare the results of two independent reviews undertaken with a common research question. RESULTS-The two reviews find similar answers to the research question, although the means of arriving at those answers vary. CONCLUSIONS-In addressing a well-bounded research question, groups of researchers with similar domain experience can arrive at the same review outcomes, even though they may do so in different ways. This provides evidence that, in this context at least, the systematic review is a robust research method.",
+        "keywords": [
+            "Software engineering",
+            "Instruments",
+            "Robustness",
+            "Best practices",
+            "Stability",
+            "Costs",
+            "Mathematics",
+            "Computer science"
+        ]
+    },
+    {
+        "title": "Reverse Engineering Input Syntactic Structure from Program Execution and Its Applications.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.54",
+        "volume": "36",
+        "abstract": "Program input syntactic structure is essential for a wide range of applications such as test case generation, software debugging, and network security. However, such important information is often not available (e.g., most malware programs make use of secret protocols to communicate) or not directly usable by machines (e.g., many programs specify their inputs in plain text or other random formats). Furthermore, many programs claim they accept inputs with a published format, but their implementations actually support a subset or a variant. Based on the observations that input structure is manifested by the way input symbols are used during execution and most programs take input with top-down or bottom-up grammars, we devise two dynamic analyses, one for each grammar category. Our evaluation on a set of real-world programs shows that our technique is able to precisely reverse engineer input syntactic structure from execution. We apply our technique to hierarchical delta debugging (HDD) and network protocol reverse engineering. Our technique enables the complete automation of HDD, in which programmers were originally required to provide input grammars, and improves the runtime performance of HDD. Our client study on network protocol reverse engineering also shows that our technique supersedes existing techniques.",
+        "keywords": [
+            "Reverse engineering",
+            "Application software",
+            "Protocols",
+            "Computer science",
+            "Software debugging",
+            "Information security",
+            "Runtime",
+            "XML",
+            "Software testing",
+            "Automation"
+        ]
+    },
+    {
+        "title": "Stressing Search with Scenarios for Flexible Solutions to Real-Time Task Allocation Problems.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.58",
+        "volume": "36",
+        "abstract": "One of the most important properties of a good software engineering process and of the design of the software it produces is robustness to changing requirements. Scenario-based analysis is a popular method for improving the flexibility of software architectures. This paper demonstrates a search-based technique for automating scenario-based analysis in the software architecture deployment view. Specifically, a novel parallel simulated annealing search algorithm is applied to the real-time task allocation problem to find baseline solutions which require a minimal number of changes in order to meet the requirements of potential upgrade scenarios. Another simulated annealing-based search is used for finding a solution that is similar to an existing baseline when new requirements arise. Solutions generated using a variety of scenarios are judged by how well they respond to different system requirements changes. The evaluation is performed on a set of problems with a controlled set of different characteristics.",
+        "keywords": [
+            "Software architecture",
+            "Computer architecture",
+            "Hardware",
+            "Real time systems",
+            "Software engineering",
+            "Software design",
+            "Simulated annealing",
+            "System testing",
+            "Robustness",
+            "Performance evaluation"
+        ]
+    },
+    {
+        "title": "Time and Probability-Based Information Flow Analysis.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.4",
+        "volume": "36",
+        "abstract": "In multilevel systems, it is important to avoid unwanted indirect information flow from higher levels to lower levels, namely, the so-called covert channels. Initial studies of information flow analysis were performed by abstracting away from time and probability. It is already known that systems that are proven to be secure in a possibilistic framework may turn out to be insecure when time or probability is considered. Recently, work has been done in order to consider also aspects either of time or of probability, but not both. In this paper, we propose a general framework based on Probabilistic Timed Automata, where both probabilistic and timing covert channels can be studied. We define a Noninterference security property and a Nondeducibility on Composition security property, which allow expressing information flow in a timed and probabilistic setting. We then compare these properties with analogous ones defined in contexts where either time or probability or neither of them are taken into account. This permits a classification of the properties depending on their discerning power. As an application, we study a system with covert channels that we are able to discover by applying our techniques.",
+        "keywords": [
+            "Information analysis",
+            "Information security",
+            "Automata",
+            "Clocks",
+            "Multilevel systems",
+            "Timing",
+            "Communication system control",
+            "Performance analysis",
+            "Power system security",
+            "Control systems"
+        ]
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.104",
+        "volume": "36"
+    },
+    {
+        "title": "Search Based Software Engineering: Introduction to the Special Issue of the IEEE Transactions on Software Engineering.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.106",
+        "volume": "36"
+    },
+    {
+        "title": "A Systematic Review of the Application and Empirical Investigation of Search-Based Test Case Generation.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2009.52",
+        "volume": "36",
+        "abstract": "Metaheuristic search techniques have been extensively used to automate the process of generating test cases, and thus providing solutions for a more cost-effective testing process. This approach to test automation, often coined “Search-based Software Testing” (SBST), has been used for a wide variety of test case generation purposes. Since SBST techniques are heuristic by nature, they must be empirically investigated in terms of how costly and effective they are at reaching their test objectives and whether they scale up to realistic development artifacts. However, approaches to empirically study SBST techniques have shown wide variation in the literature. This paper presents the results of a systematic, comprehensive review that aims at characterizing how empirical studies have been designed to investigate SBST cost-effectiveness and what empirical evidence is available in the literature regarding SBST cost-effectiveness and scalability. We also provide a framework that drives the data collection process of this systematic review and can be the starting point of guidelines on how SBST techniques can be empirically assessed. The intent is to aid future researchers doing empirical studies in SBST by providing an unbiased view of the body of empirical evidence and by guiding them in performing well-designed and executed empirical studies.",
+        "keywords": [
+            "System testing",
+            "Automatic testing",
+            "Software testing",
+            "Automation",
+            "Costs",
+            "Logic testing",
+            "Scalability",
+            "Guidelines",
+            "Genetic algorithms",
+            "Algorithm design and analysis"
+        ]
+    },
+    {
+        "title": "Efficient Software Verification: Statistical Testing Using Automated Search.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.24",
+        "volume": "36",
+        "abstract": "Statistical testing has been shown to be more efficient at detecting faults in software than other methods of dynamic testing such as random and structural testing. Test data are generated by sampling from a probability distribution chosen so that each element of the software's structure is exercised with a high probability. However, deriving a suitable distribution is difficult for all but the simplest of programs. This paper demonstrates that automated search is a practical method of finding near-optimal probability distributions for real-world programs, and that test sets generated from these distributions continue to show superior efficiency in detecting faults in the software.",
+        "keywords": [
+            "Statistical analysis",
+            "Software testing",
+            "Automatic testing",
+            "Probability distribution",
+            "Software engineering",
+            "Fault detection",
+            "Sampling methods",
+            "Software algorithms",
+            "Application software",
+            "Flow graphs"
+        ]
+    },
+    {
+        "title": "A Genetic Algorithm-Based Stress Test Requirements Generator Tool and Its Empirical Evaluation.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.5",
+        "volume": "36",
+        "abstract": "Genetic algorithms (GAs) have been applied previously to UML-driven stress test requirements generation with the aim of increasing chances of discovering faults relating to network traffic in distributed real-time systems. However, since evolutionary algorithms are heuristic, their performance can vary across multiple executions, which may affect robustness and scalability. To address this, we present the design and technical detail of a UML-driven, GA-based stress test requirements generation tool, together with its empirical analysis. The main goal is to analyze and improve the applicability, efficiency, and effectiveness and also to validate the design choices of the GA used in the tool. Findings of the empirical evaluation reveal that the tool is robust and reasonably scalable when it is executed on large-scale experimental design models. The study also reveals the main bottlenecks and limitations of the tools, e.g., there is a performance bottleneck when the system under test has a large number of sequence diagrams which could be triggered independently from each other. In addition, issues specific to stress testing, e.g., the impact of variations in task arrival pattern types, reveal that the tool generally generates effective test requirements, although the features of those test requirements might be different in different runs (e.g., different stress times from the test start time might be chosen). While the use of evolutionary algorithms to generate software test cases has been widely reported, the extent, depth, and detail of the empirical findings presented in this paper are novel and suggest that the proposed approach is effective and efficient in generating stress test requirements. It is hoped that the findings of this empirical study will help other SBSE researchers with the empirical evaluation of their own techniques and tools.",
+        "keywords": [
+            "Stress",
+            "System testing",
+            "Robustness",
+            "Genetic algorithms",
+            "Telecommunication traffic",
+            "Real time systems",
+            "Evolutionary computation",
+            "Scalability",
+            "Large-scale systems",
+            "Design for experiments"
+        ]
+    },
+    {
+        "title": "Interactive, Evolutionary Search in Upstream Object-Oriented Class Design.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.34",
+        "volume": "36",
+        "abstract": "Although much evidence exists to suggest that early life cycle software engineering design is a difficult task for software engineers to perform, current computational tool support for software engineers is limited. To address this limitation, interactive search-based approaches using evolutionary computation and software agents are investigated in experimental upstream design episodes for two example design domains. Results show that interactive evolutionary search, supported by software agents, appears highly promising. As an open system, search is steered jointly by designer preferences and software agents. Directly traceable to the design problem domain, a mass of useful and interesting class designs is arrived at which may be visualized by the designer with quantitative measures of structural integrity, such as design coupling and class cohesion. The class designs are found to be of equivalent or better coupling and cohesion when compared to a manual class design for the example design domains, and by exploiting concurrent execution, the runtime performance of the software agents is highly favorable.",
+        "keywords": [
+            "Software agents",
+            "Software design",
+            "Software performance",
+            "Software tools",
+            "Design engineering",
+            "Software engineering",
+            "Evolutionary computation",
+            "Open systems",
+            "Visualization",
+            "Runtime"
+        ]
+    },
+    {
+        "title": "Solving the Class Responsibility Assignment Problem in Object-Oriented Analysis with Multi-Objective Genetic Algorithms.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.70",
+        "volume": "36",
+        "abstract": "In the context of object-oriented analysis and design (OOAD), class responsibility assignment is not an easy skill to acquire. Though there are many methodologies for assigning responsibilities to classes, they all rely on human judgment and decision making. Our objective is to provide decision-making support to reassign methods and attributes to classes in a class diagram. Our solution is based on a multi-objective genetic algorithm (MOGA) and uses class coupling and cohesion measurement for defining fitness functions. Our MOGA takes as input a class diagram to be optimized and suggests possible improvements to it. The choice of a MOGA stems from the fact that there are typically many evaluation criteria that cannot be easily combined into one objective, and several alternative solutions are acceptable for a given OO domain model. Using a carefully selected case study, this paper investigates the application of our proposed MOGA to the class responsibility assignment problem, in the context of object-oriented analysis and domain class models. Our results suggest that the MOGA can help correct suboptimal class responsibility assignment decisions and perform far better than simpler alternative heuristics such as hill climbing and a single-objective GA.",
+        "keywords": [
+            "Algorithm design and analysis",
+            "Genetic algorithms",
+            "Object oriented modeling",
+            "Context modeling",
+            "Unified modeling language",
+            "Decision making",
+            "Humans",
+            "Software quality",
+            "Genetic engineering",
+            "Laboratories"
+        ]
+    },
+    {
+        "title": "ASCENT: An Algorithmic Technique for Designing Hardware and Software in Tandem.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.77",
+        "volume": "36",
+        "abstract": "Search-based software engineering is an emerging paradigm that uses automated search algorithms to help designers iteratively find solutions to complicated design problems. For example, when designing a climate monitoring satellite, designers may want to use the minimal amount of computing hardware to reduce weight and cost while supporting the image processing algorithms running onboard. A key problem in these situations is that the hardware and software designs are locked in a tightly coupled cost-constrained producer/consumer relationship that makes it hard to find a good hardware/software design configuration. Search-based software engineering can be used to apply algorithmic techniques to automate the search for hardware/software designs that maximize the image processing accuracy while respecting cost constraints. This paper provides the following contributions to research on search-based software engineering: 1) We show how a cost-constrained producer/consumer problem can be modeled as a set of two multidimensional multiple-choice knapsack problems (MMKPs), 2) we present a polynomial-time search-based software engineering technique, called the Allocation-baSed Configuration Exploration Technique (ASCENT), for finding near optimal hardware/software codesign solutions, and 3) we present empirical results showing that ASCENT's solutions average over 95 percent of the optimal solution's value.",
+        "keywords": [
+            "Software algorithms",
+            "Software design",
+            "Algorithm design and analysis",
+            "Hardware",
+            "Software engineering",
+            "Iterative algorithms",
+            "Costs",
+            "Image processing",
+            "Monitoring",
+            "Satellites"
+        ]
+    },
+    {
+        "title": "Evolutionary Optimization of Software Quality Modeling with Multiple Repositories.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.51",
+        "volume": "36",
+        "abstract": "A novel search-based approach to software quality modeling with multiple software project repositories is presented. Training a software quality model with only one software measurement and defect data set may not effectively encapsulate quality trends of the development organization. The inclusion of additional software projects during the training process can provide a cross-project perspective on software quality modeling and prediction. The genetic-programming-based approach includes three strategies for modeling with multiple software projects: Baseline Classifier, Validation Classifier, and Validation-and-Voting Classifier. The latter is shown to provide better generalization and more robust software quality models. This is based on a case study of software metrics and defect data from seven real-world systems. A second case study considers 17 different (nonevolutionary) machine learners for modeling with multiple software data sets. Both case studies use a similar majority-voting approach for predicting fault-proneness class of program modules. It is shown that the total cost of misclassification of the search-based software quality models is consistently lower than those of the non-search-based models. This study provides clear guidance to practitioners interested in exploiting their organization's software measurement data repositories for improved software quality modeling.",
+        "keywords": [
+            "Software quality",
+            "Software measurement",
+            "Predictive models",
+            "Software metrics",
+            "Electronic mail",
+            "Genetic programming",
+            "Robustness",
+            "Costs",
+            "Machine learning",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Using Genetic Search for Reverse Engineering of Parametric Behavior Models for Performance Prediction.",
+        "venue_name": "tse",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2010.69",
+        "volume": "36",
+        "abstract": "In component-based software engineering, existing components are often reused in new applications. Correspondingly, the response time of an entire component-based application can be predicted from the execution durations of individual component services. These execution durations depend on the runtime behavior of a component which itself is influenced by three factors: the execution platform, the usage profile, and the component wiring. To cover all relevant combinations of these influencing factors, conventional prediction of response times requires repeated deployment and measurements of component services for all such combinations, incurring a substantial effort. This paper presents a novel comprehensive approach for reverse engineering and performance prediction of components. In it, genetic programming is utilized for reconstructing a behavior model from monitoring data, runtime bytecode counts, and static bytecode analysis. The resulting behavior model is parameterized over all three performance-influencing factors, which are specified separately. This results in significantly fewer measurements: The behavior model is reconstructed only once per component service, and one application-independent bytecode benchmark run is sufficient to characterize an execution platform. To predict the execution durations for a concrete platform, our approach combines the behavior model with platform-specific benchmarking results. We validate our approach by predicting the performance of a file sharing application.",
+        "keywords": [
+            "Reverse engineering",
+            "Predictive models",
+            "Application software",
+            "Delay",
+            "Runtime",
+            "Software engineering",
+            "Wiring",
+            "Genetic programming",
+            "Monitoring",
+            "Concrete"
+        ]
+    }
+]

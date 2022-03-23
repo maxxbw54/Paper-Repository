@@ -1,0 +1,1850 @@
+[
+    {
+        "title": "Wikipedia and how to use it for semantic document representation.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100054",
+        "abstract": "Summary form only given. With petascale systems becoming broadly available in high end computing, attention is now focused on the challenges associated with the next major performance milestone: exascale computing. Demand for computational capability grows unabated, with areas of national and commercial interest including global climate change, alternative energy sources, defense and medicine, as well as basic science. Past growth in the high end has relied on a combination of faster clock speeds and larger systems, but the clock speed benefits of Moore's Law have ended, and 200-cabinet petascale machines are near a practical limit. Future system designs will instead be constrained by power density and total system power demand, resulting in radically different architectures. The challenges associated with exascale computing will require broad research activities across computer science, including the development of new algorithms, programming models, system software and computer architecture."
+    },
+    {
+        "title": "Unifying testing and analysis through behavioral coverage.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100066",
+        "abstract": "Summary form only given. The primary technical goal of this work is the development of a comprehensive approach to perimeter protection for critical infrastructure and industrial sites. The approach taken is to combine both video and non-video sensors so as to produce a real-time system capable of tracking objects of interest and of detecting potential events that may warrant the attention of security officials. A summary of the system architecture is shown in Figure 1. System modules include: • The ability to detect and track people using both visual and radar based sensors. • The detection of articulated motions as well as complex and abnormal events. • The application of object recognition to detected left behind objects."
+    },
+    {
+        "title": "Automated web application testing using search based software engineering.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100082",
+        "abstract": "This paper introduces three related algorithms and a tool, SWAT, for automated web application testing using Search Based Software Testing (SBST). The algorithms significantly enhance the efficiency and effectiveness of traditional search based techniques exploiting both static and dynamic analysis. The combined approach yields a 54% increase in branch coverage and a 30% reduction in test effort. Each improvement is separately evaluated in an empirical study on 6 real world web applications.",
+        "keywords": [
+            "Testing",
+            "Heuristic algorithms",
+            "Algorithm design and analysis",
+            "Vectors",
+            "HTML",
+            "Instruments",
+            "Acceleration"
+        ]
+    },
+    {
+        "title": "Auto-locating and fix-propagating for HTML validation errors to PHP server-side code.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100047",
+        "abstract": "Checking/correcting HTML validation errors in Web pages is helpful for Web developers in finding/fixing bugs. However, existing validating/fixing tools work well only on static HTML pages and do not help fix the corresponding server code if validation errors are found in HTML pages, due to several challenges with dynamically generated pages in Web development. We propose PhpSync, a novel automatic locating/fixing tool for HTML validation errors in PHP-based Web applications. Given an HTML page produced by a server-side PHP program, PhpSync uses Tidy, an HTML validating/correcting tool to find the validation errors in that HTML page. If errors are detected, it leverages the fixes from Tidy in the given HTML page and propagates them to the corresponding location(s) in PHP code. Our core solutions include 1) a symbolic execution algorithm on the given PHP program to produce a single tree-based model, called D-model, which approximately represents its possible client page outputs, 2) an algorithm mapping any text in the given HTML page to the text(s) in the node(s) of the D-model and then to the PHP code, and 3) a fix-propagating algorithm from the fixes in the HTML page to the PHP code via the D-model and the mapping algorithm. Our empirical evaluation shows that on average, PhpSync achieves 96.7% accuracy in locating the corresponding locations in PHP code from client pages, and 95% accuracy in propagating the fixes to the server-side code.",
+        "keywords": [
+            "HTML",
+            "Servers",
+            "Web pages",
+            "Approximation algorithms",
+            "Three dimensional displays",
+            "Browsers",
+            "Accuracy"
+        ]
+    },
+    {
+        "title": "Scaling up automated test generation: Automatically generating maintainable regression unit tests for programs.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100059",
+        "abstract": "This paper presents an automatic technique for generating maintainable regression unit tests for programs. We found previous test generation techniques inadequate for two main reasons. First. they were designed for and evaluated upon libraries rather than applications. Second, they were designed to find bugs rather than to create maintainable regression test suites: the test suites that they generated were brittle and hard to understand. This paper presents a suite of techniques that address these problems by enhancing an existing unit test generation system. In experiments using an industrial system, the generated tests achieved good coverage and mutation kill score, were readable by the product's developers, and required few edits as the system under test evolved. While our evaluation is in the context of one test generator, we are aware of many research systems that suffer similar limitations, so our approach and observations are more generally relevant.",
+        "keywords": [
+            "Libraries",
+            "Software",
+            "Testing",
+            "Observers",
+            "Security",
+            "Databases",
+            "Context"
+        ]
+    },
+    {
+        "title": "Heap cloning: Enabling dynamic symbolic execution of java programs.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100071",
+        "abstract": "The dynamic symbolic-execution technique can automatically perform symbolic execution of programs that use problematic features of Java, such as native methods. However, to compute precise symbolic execution, the technique requires manual effort to specify models for problematic code. Furthermore, existing approaches to perform symbolic execution either cannot be extended to perform dynamic symbolic execution or incur significant imprecision. In this paper, we present a novel program-transformation technique called heap cloning. Heap cloning transforms a program in such a way that dynamic symbolic execution of the transformed program results in the same path constraints as dynamic symbolic execution of the original program. However, symbolic execution of the transformed program produces feedback on where imprecision is introduced, and that feedback can reduce the manual effort required to build models. Furthermore, such transformation can enable existing approaches to perform symbolic execution systems to overcome their limitations. In this paper, we also present a system, called Cinger, that leverages heap cloning, and that we used to perform an empirical evaluation. The empirical evaluation shows that Cinger can compute precise path constraints, and requires little (if any) manual effort for a set of large real-world programs.",
+        "keywords": [
+            "Cloning",
+            "Java",
+            "Instruments",
+            "Libraries",
+            "Manuals",
+            "Concrete",
+            "Computational modeling"
+        ]
+    },
+    {
+        "title": "Automatic generation of load tests.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100093",
+        "abstract": "Load tests aim to validate whether system performance is acceptable under peak conditions. Existing test generation techniques induce load by increasing the size or rate of the input. Ignoring the particular input values, however, may lead to test suites that grossly mischaracterize a system's performance. To address this limitation we introduce a mixed symbolic execution based approach that is unique in how it 1) favors program paths associated with a performance measure of interest, 2) operates in an iterative-deepening beam-search fashion to discard paths that are unlikely to lead to high-load tests, and 3) generates a test suite of a given size and level of diversity. An assessment of the approach shows it generates test suites that induce program response times and memory consumption several times worse than the compared alternatives, it scales to large and complex inputs, and it exposes a diversity of resource consuming program behavior.",
+        "keywords": [
+            "Time factors",
+            "Current measurement",
+            "Memory management",
+            "Testing",
+            "Size measurement",
+            "Databases",
+            "Servers"
+        ]
+    },
+    {
+        "title": "Symbolic search-based testing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100119",
+        "abstract": "We present an algorithm for constructing fitness functions that improve the efficiency of search-based testing when trying to generate branch adequate test data. The algorithm combines symbolic information with dynamic analysis and has two key advantages: It does not require any change in the underlying test data generation technique and it avoids many problems traditionally associated with symbolic execution, in particular the presence of loops. We have evaluated the algorithm on industrial closed source and open source systems using both local and global search-based testing techniques, demonstrating that both are statistically significantly more efficient using our approach. The test for significance was done using a one-sided, paired Wilcoxon signed rank test. On average, the local search requires 23.41% and the global search 7.78% fewer fitness evaluations when using a symbolic execution based fitness function generated by the algorithm.",
+        "keywords": [
+            "Approximation methods",
+            "Algorithm design and analysis",
+            "Software algorithms",
+            "Educational institutions",
+            "Approximation algorithms",
+            "Software testing"
+        ]
+    },
+    {
+        "title": "Automated documentation inference to explain failed tests.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100145",
+        "abstract": "A failed test reveals a potential bug in the tested code. Developers need to understand which parts of the test are relevant to the failure before they start bug-fixing. This paper presents a fully-automated technique (and its tool implementation, called FailureDoc) to explain a failed test. FailureDoc augments the failed test with explanatory documentation in the form of code comments. The comments indicate changes to the test that would cause it to pass, helping programmers understand why the test fails. We evaluated FailureDoc on five real-world programs. FailureDoc generated meaningful comments for most of the failed tests. The inferred comments were concise and revealed important debugging clues. We further conducted a user study. The results showed that FailureDoc is useful in bug diagnosis.",
+        "keywords": [
+            "Documentation",
+            "Debugging",
+            "Concrete",
+            "Correlation",
+            "Vectors",
+            "Measurement",
+            "Arrays"
+        ]
+    },
+    {
+        "title": "Generating program inputs for database application testing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100152",
+        "abstract": "Testing is essential for quality assurance of database applications. Achieving high code coverage of the database application is important in testing. In practice, there may exist a copy of live databases that can be used for database application testing. Using an existing database state is desirable since it tends to be representative of real-world objects' characteristics, helping detect faults that could cause failures in real-world settings. However, to cover a specific program code portion (e.g., block), appropriate program inputs also need to be generated for the given existing database state. To address this issue, in this paper, we propose a novel approach that generates program inputs for achieving high code coverage of a database application, given an existing database state. Our approach uses symbolic execution to track how program inputs are transformed before appearing in the executed SQL queries and how the constraints on query results affect the application's execution. One significant challenge in our problem context is the gap between program-input constraints derived from the program and from the given existing database state; satisfying both types of constraints is needed to cover a specific program code portion. Our approach includes novel query formulation to bridge this gap. Our approach is loosely integrated into Pex, a state-of-the-art white-box testing tool for .NET from Microsoft Research. Empirical evaluations on two real database applications show that our approach assists Pex to generate program inputs that achieve higher code coverage than the program inputs generated by Pex without our approach's assistance.",
+        "keywords": [
+            "Databases",
+            "Testing",
+            "Concrete",
+            "Loans and mortgages",
+            "Copper",
+            "Context",
+            "Feeds"
+        ]
+    },
+    {
+        "title": "Prioritizing tests for fault localization through ambiguity group reduction.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100153",
+        "abstract": "In practically all development processes, regression tests are used to detect the presence of faults after a modification. If faults are detected, a fault localization algorithm can be used to reduce the manual inspection cost. However, while using test case prioritization to enhance the rate of fault detection of the test suite (e.g., statement coverage), the diagnostic information gain per test is not optimal, which results in needless inspection cost during diagnosis. We present RAPTOR, a test prioritization algorithm for fault localization, based on reducing the similarity between statement execution patterns as the testing progresses. Unlike previous diagnostic prioritization algorithms, RAPTOR does not require false negative information, and is much less complex. Experimental results from the Software Infrastructure Repository's benchmarks show that RAPTOR is the best technique under realistic conditions, with average cost reductions of 40% with respect to the next best technique, with negligible impact on fault detection capability.",
+        "keywords": [
+            "Inspection",
+            "Testing",
+            "Complexity theory",
+            "Software",
+            "Subspace constraints",
+            "Estimation",
+            "Bayesian methods"
+        ]
+    },
+    {
+        "title": "Identifying future field accesses in exhaustive state space traversal.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100154",
+        "abstract": "One popular approach to detect errors in multi-threaded programs is to systematically explore all possible interleavings. A common algorithmic strategy is to construct the program state space on-the-fly and perform thread scheduling choices at any instruction that could have effects visible to other threads. Existing tools do not look ahead in the code to be executed, and thus their decisions are too conservative. They create unnecessary thread scheduling choices at instructions that do not actually influence other threads, which implies exploring exponentially greater numbers of interleavings. In this paper we describe how information about field accesses that may occur in the future can be used to identify and eliminate unnecessary thread choices. This reduces the number of states that must be processed to explore all possible behaviors and therefore improves the performance of exhaustive state space traversal. We have applied this technique to Java PathFinder, using the WALA library for static analysis. Experiments on several Java programs show big performance gains. In particular, it is now possible to check with Java PathFinder more complex programs than before in reasonable time.",
+        "keywords": [
+            "Java",
+            "Transfer functions",
+            "Instruction sets",
+            "Remuneration",
+            "Context",
+            "Companies",
+            "Performance analysis"
+        ]
+    },
+    {
+        "title": "Model checking distributed systems by combining caching and process checkpointing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100043",
+        "abstract": "Verification of distributed software systems by model checking is not a straightforward task due to inter-process communication. Many software model checkers only explore the state space of a single multi-threaded process. Recent work proposes a technique that applies a cache to capture communication between the main process and its peers, and allows the model checker to complete state-space exploration. Although previous work handles non-deterministic output in the main process, any peer program is required to produce deterministic output. This paper introduces a process checkpointing tool. The combination of caching and process checkpointing makes it possible to handle non-determinism on both sides of communication. Peer states are saved as checkpoints and restored when the model checker backtracks and produces a request not available in the cache. We also introduce the concept of strategies to control the creation of checkpoints and the overhead caused by the checkpointing tool.",
+        "keywords": [
+            "Checkpointing",
+            "Instruction sets",
+            "Message systems",
+            "Schedules",
+            "Space exploration",
+            "Process control"
+        ]
+    },
+    {
+        "title": "Supporting domain-specific state space reductions through local partial-order reduction.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100044",
+        "abstract": "Model checkers offer to automatically prove safety and liveness properties of complex concurrent software systems, but they are limited by state space explosion. Partial-Order Reduction (POR) is an effective technique to mitigate this burden. However, applying existing notions of POR requires to verify conditions based on execution paths of unbounded length, a difficult task in general. To enable a more intuitive and still flexible application of POR, we propose local POR (LPOR). LPOR is based on the existing notion of statically computed stubborn sets, but its locality allows to verify conditions in single states rather than over long paths. As a case study, we apply LPOR to message-passing systems. We implement it within the Java Pathfinder model checker using our general Java-based LPOR library. Our experiments show significant reductions achieved by LPOR for model checking representative message-passing protocols and, maybe surprisingly, that LPOR can outperform dynamic POR.",
+        "keywords": [
+            "Optimization",
+            "System recovery",
+            "Computational modeling",
+            "Algorithm design and analysis",
+            "Heuristic algorithms",
+            "Complexity theory",
+            "Java"
+        ]
+    },
+    {
+        "title": "Scalable and precise symbolic analysis for atomicity violations.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100045",
+        "abstract": "We present a symbolic testing tool BEST for finding atomicity violations. We automatically infer and generate potential atomicity properties from an observed run of a multi-threaded program, and use precise modeling and constraint-based symbolic search to find atomicity violating schedules in the most generalization of the observed run. We focus mainly on the tool scalability by devising various simplification steps to reduce the formula and the search space by orders-of-magnitude. To that effect, we also introduce a new notion of atomicity that is useful and simple to check. We demonstrate the effectiveness of the combined techniques on several public C/C++/Java benchmarks in finding known/unknown atomicity bugs.",
+        "keywords": [
+            "Schedules",
+            "Synchronization",
+            "Computer bugs",
+            "Concurrent computing",
+            "Runtime",
+            "Generators",
+            "Java"
+        ]
+    },
+    {
+        "title": "DC2: A framework for scalable, scope-bounded software verification.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100046",
+        "abstract": "Software model checking and static analysis have matured over the last decade, enabling their use in automated software verification. However, lack of scalability makes these tools hard to apply. Furthermore, approximations in the models of program and environment lead to a profusion of false alarms. This paper proposes DC2, a verification framework using scope-bounding to bridge these gaps. DC2 splits the analysis problem into manageable parts, relying on a combination of three automated techniques: (a) techniques to infer useful specifications for functions in the form of pre- and post-conditions; (b) stub inference techniques that infer abstractions to replace function calls beyond the verification scope; and (c) automatic refinement of pre- and post-conditions from false alarms identified by a user. DC2 enables iterative reasoning over the calling environment, to help in finding non-trivial bugs and fewer false alarms. We present an experimental evaluation that demonstrates the effectiveness of DC2 on several open-source and industrial software projects.",
+        "keywords": [
+            "Software",
+            "Analytical models",
+            "Arrays",
+            "Scalability",
+            "Computer bugs",
+            "Industries",
+            "Syntactics"
+        ]
+    },
+    {
+        "title": "Formalizing hardware/software interface specifications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100048",
+        "abstract": "Software drivers are usually developed after hardware devices become available. This dependency can induce a long product cycle. Although co-simulation and co-verification techniques have been utilized to facilitate the driver development, Hardware/Software (HW/SW) interface models, as the test harnesses, are often challenging to specify. Such interface models should have formal semantics, be efficient for testing, and cover all HW/SW behaviors described by HW/SW interface protocols. We present an approach to formalizing HW/SW interface specifications, where we propose a semantic model, relative atomicity, to capture the concurrency model in HW/SW interfaces; demonstrate our approach via a realistic example; elaborate on how we have utilized this approach in device/driver development process; and discuss criteria for evaluating our formal specifications. We have detected fifteen issues in four English specifications. Furthermore, our formal specifications are readily useful as the test harnesses for co-verification, which has discovered twelve real bugs in five industrial driver programs.",
+        "keywords": [
+            "Hardware",
+            "Software",
+            "Concurrent computing",
+            "Protocols",
+            "Registers",
+            "Barium",
+            "Semantics"
+        ]
+    },
+    {
+        "title": "Safe asynchronous multicore memory operations.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100049",
+        "abstract": "Asynchronous memory operations provide a means for coping with the memory wall problem in multicore processors, and are available in many platforms and languages, e.g., the Cell Broadband Engine, CUDA and OpenCL. Reasoning about the correct usage of such operations involves complex analysis of memory accesses to check for races. We present a method and tool for proving memory-safety and race-freedom of multicore programs that use asynchronous memory operations. Our approach uses separation logic with permissions, and our tool automates this method, targeting a C-like core language. We describe our solutions to several challenges that arose in the course of this research. These include: syntactic reasoning about permissions and arrays, integration of numerical abstract domains, and utilization of an SMT solver. We demonstrate the feasibility of our approach experimentally by checking absence of DMA races on a set of programs drawn from the IBM Cell SDK.",
+        "keywords": [
+            "Instruction sets",
+            "Cognition",
+            "Multicore processing",
+            "Computer bugs",
+            "Microprocessors",
+            "Logic arrays"
+        ]
+    },
+    {
+        "title": "A rule-based approach to the semantic lifting of model differences in the context of model versioning.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100050",
+        "abstract": "In model-based software engineering, models are primary artifacts which iteratively evolve and which are often developed in teams. Therefore, comparison and merge tools for models are indispensable. These tools must compare models in a technology-dependent runtime representation and will initially derive low-level changes, which can differ considerably from user-level editing commands. Low-level differences are often incomprehensible and should be semantically lifted to the level of editing operations. This transformation of differences depends on the model type, supported editing operations, and user preferences; thus specific transformers are needed, and building them is a challenge. We present a rule-based approach to this problem: low-level differences are represented based on the Eclipse Modeling Framework. They are transformed into representations of editing operations using a rule-based model transformation engine. The necessary transformation rules are automatically derived from basic transformation rules for the editing operations.",
+        "keywords": [
+            "Unified modeling language",
+            "Semantics",
+            "Computational modeling",
+            "Context modeling",
+            "Context",
+            "Pattern recognition",
+            "Runtime"
+        ]
+    },
+    {
+        "title": "A model-driven framework for guided design space exploration.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100051",
+        "abstract": "Design space exploration (DSE) aims at searching through various models representing different design candidates to support activities like configuration design of critical systems or automated maintenance of IT systems. In model-driven engineering, DSE is applied to find instance models that are (i) reachable from an initial model with a sequence of transformation rules and (ii) satisfy a set of structural and numerical constraints. Since exhaustive exploration of the design space is infeasible for large models, the traversal is often guided by hints, derived by system analysis, to prioritize the next states to traverse (selection criteria) and to avoid searching unpromising states (cut-off criteria). In this paper, we define an exploration approach where selection and cut-off criteria are defined using dependency analysis of transformation rules and an algebraic abstraction. The approach is evaluated against other exploration techniques and illustrated on a cloud infrastructure configuration problem.",
+        "keywords": [
+            "Space exploration",
+            "Servers",
+            "Analytical models",
+            "Vectors",
+            "Databases",
+            "Numerical models",
+            "Labeling"
+        ]
+    },
+    {
+        "title": "Automated extraction of architecture-level performance models of distributed component-based systems.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100052",
+        "abstract": "Modern enterprise applications have to satisfy increasingly stringent Quality-of-Service requirements. To ensure that a system meets its performance requirements, the ability to predict its performance under different configurations and workloads is essential. Architecture-level performance models describe performance-relevant aspects of software architectures and execution environments allowing to evaluate different usage profiles as well as system deployment and configuration options. However, building performance models manually requires a lot of time and effort. In this paper, we present a novel automated method for the extraction of architecture-level performance models of distributed component-based systems, based on monitoring data collected at run-time. The method is validated in a case study with the industry-standard SPECjEnterprise2010 Enterprise Java benchmark, a representative software system executed in a realistic environment. The obtained performance predictions match the measurements on the real system within an error margin of mostly 10-20 percent.",
+        "keywords": [
+            "Unified modeling language",
+            "Monitoring",
+            "Predictive models",
+            "Java",
+            "Context",
+            "Servers",
+            "Data mining"
+        ]
+    },
+    {
+        "title": "Precomputing possible configuration error diagnoses.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100053",
+        "abstract": "Complex software packages, particularly systems software, often require substantial customization before being used. Small mistakes in configuration can lead to hard-todiagnose error messages. We demonstrate how to build a map from each program point to the options that might cause an error at that point. This can aid users in troubleshooting these errors without any need to install or use additional tools. Our approach relies on static dataflow analysis, meaning all the analysis is done in advance. We evaluate our work in detail on two substantial systems, Hadoop and the JChord program analysis toolkit, using failure injection and also by using log messages as a source of labeled program points. When logs and stack traces are available, they can be incorporated into the analysis. This reduces the number of false positives by nearly a factor of four for Hadoop, at the cost of approximately one minute's work per unique query.",
+        "keywords": [
+            "Libraries",
+            "Java",
+            "Instruments",
+            "Context",
+            "Debugging",
+            "Web services",
+            "Servers"
+        ]
+    },
+    {
+        "title": "An optimal strategy for algorithmic debugging.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100055",
+        "abstract": "Algorithmic debugging is a technique that uses an internal data structure to represent computations and ask about their correctness. The strategy used to explore this data structure is essential for the performance of the technique. The most efficient strategy in practice is Divide and Query that, until now, has been considered optimal in the worst case. In this paper we first show that the original algorithm is inaccurate and moreover, in some situations it is unable to find all possible solutions, thus it is incomplete. Then, we present a new version of the algorithm that solves these problems. Moreover, we introduce a counterexample showing that Divide and Query is not optimal, and we propose the first optimal strategy for algorithmic debugging with respect to the number of questions asked by the debugger.",
+        "keywords": [
+            "Debugging",
+            "Data structures",
+            "Equations",
+            "Indexes",
+            "Search problems",
+            "Heuristic algorithms",
+            "USA Councils"
+        ]
+    },
+    {
+        "title": "Localizing SQL faults in database applications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100056",
+        "abstract": "This paper presents a new fault-localization technique designed for applications that interact with a relational database. The technique uses dynamic information specific to the application's database, such as Structured Query Language (SQL) commands, to provide a fault-location diagnosis. By creating statement-SQL tuples and calculating their suspiciousness, the presented method lets the developer identify the database commands and the program statements likely to cause the failures. The technique also calculates suspiciousness for statement-attribute tuples and uses this information to identify SQL fragments that are statistically likely to be responsible for the suspiciousness of that SQL command. The paper reports the results of two empirical studies. The first study compares existing and database-aware fault-localization methods, and reveals the strengths and limitations of prior techniques, while also highlighting the effectiveness of the new approach. The second study demonstrates the benefits of using database information to improve understanding and reduce manual debugging effort.",
+        "keywords": [
+            "Marketing and sales",
+            "Measurement",
+            "Relational databases",
+            "Instruments",
+            "Java",
+            "Software"
+        ]
+    },
+    {
+        "title": "Improving automated documentation to code traceability by combining retrieval techniques.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100057",
+        "abstract": "Documentation written in natural language and source code are two of the major artifacts of a software system. Tracking a variety of traceability links between software documentation and source code assists software developers in comprehension, efficient development, and effective management of a system. Automated traceability systems to date have been faced with a major open research challenge: how to extract these links with both high precision and high recall. In this paper we introduce an approach that combines three supporting techniques, Regular Expression, Key Phrases, and Clustering, with a Vector Space Model (VSM) to improve the performance of automated traceability between documents and source code. This combination approach takes advantage of strengths of the three techniques to ameliorate limitations of VSM. Four case studies have been used to evaluate our combined technique approach. Experimental results indicate that our approach improves the performance of VSM, increases the precision of retrieved links, and recovers more true links than VSM alone.",
+        "keywords": [
+            "Documentation",
+            "Vectors",
+            "Clustering algorithms",
+            "Unified modeling language",
+            "Software systems",
+            "Engines"
+        ]
+    },
+    {
+        "title": "Iterative mining of resource-releasing specifications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100058",
+        "abstract": "Software systems commonly use resources such as network connections or external file handles. Once finish using the resources, the software systems must release these resources by explicitly calling specific resource-releasing API methods. Failing to release resources properly could result in resource leaks or even outright system failures. Existing verification techniques could analyze software systems to detect defects related to failing to release resources. However, these techniques require resource-releasing specifications for specifying which API method acquires/releases certain resources, and such specifications are not well documented in practice, due to the large amount of manual effort required to document them. To address this issue, we propose an iterative mining approach, called RRFinder, to automatically mining resource-releasing specifications for API libraries in the form of (resource-acquiring, resource-releasing) API method pairs. RRFinder first identifies resource-releasing API methods, for which RRFinder then identifies the corresponding resource-acquiring API methods. To identify resource-releasing API methods, RRFinder performs an iterative process including three steps: model-based prediction, call-graph-based propagation, and class-hierarchy-based propagation. From heterogeneous information (e.g., source code, natural language), the model-based prediction employs a classification model to predict the likelihood that an API method is a resource-releasing method. The call-graph-based and class-hierarchy-based propagation propagates the likelihood information across methods. We evaluated RRFinder on eight open source libraries, and the results show that RRFinder achieved an average recall of 94.0% with precision of 86.6% in mining resource-releasing specifications, and the mined specifications are useful in detecting resource leak defects.",
+        "keywords": [
+            "Libraries",
+            "Predictive models",
+            "Object oriented modeling",
+            "Java",
+            "Resource management",
+            "Feature extraction",
+            "Iterative methods"
+        ]
+    },
+    {
+        "title": "Flexible design pattern detection based on feature types.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100060",
+        "abstract": "Accurately recovered design patterns support development related tasks like program comprehension and reengineering. Researchers proposed a variety of recognition approaches already. Though, much progress was made, there is still a lack of accuracy and flexibility in recognition. A major problem is the large variety of variants for implementing the same pattern. Furthermore, the integration of multiple search techniques is required to provide more accurate and effective pattern detection. In this paper, we propose variable pattern definitions composed of reusable feature types. Each feature type is assigned to one of multiple search techniques that is best fitting for its detection. A prototype implementation was applied to three open source applications. For each system a baseline was determined and used for comparison with the results of previous techniques. We reached very good results with an improved pattern catalog, but also demonstrated the necessity for customizations on new inspected systems. These results demonstrate the importance of customizable pattern definitions and multiple search techniques in order to overcome accuracy and flexibility issues of previous approaches.",
+        "keywords": [
+            "Feature extraction",
+            "Pattern recognition",
+            "Catalogs",
+            "Production facilities",
+            "Analytical models",
+            "Accuracy",
+            "Java"
+        ]
+    },
+    {
+        "title": "Towards more accurate retrieval of duplicate bug reports.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100061",
+        "abstract": "In a bug tracking system, different testers or users may submit multiple reports on the same bugs, referred to as duplicates, which may cost extra maintenance efforts in triaging and fixing bugs. In order to identify such duplicates accurately, in this paper we propose a retrieval function (REP) to measure the similarity between two bug reports. It fully utilizes the information available in a bug report including not only the similarity of textual content in summary and description fields, but also similarity of non-textual fields such as product, component, version, etc. For more accurate measurement of textual similarity, we extend BM25F - an effective similarity formula in information retrieval community, specially for duplicate report retrieval. Lastly we use a two-round stochastic gradient descent to automatically optimize REP for specific bug repositories in a supervised learning manner. We have validated our technique on three large software bug repositories from Mozilla, Eclipse and OpenOffice. The experiments show 10-27% relative improvement in recall rate@k and 17-23% relative improvement in mean average precision over our previous model. We also applied our technique to a very large dataset consisting of 209,058 reports from Eclipse, resulting in a recall rate@k of 37-71% and mean average precision of 47%.",
+        "keywords": [
+            "Training",
+            "Accuracy",
+            "Computer bugs",
+            "Tuning",
+            "Information retrieval",
+            "Support vector machines",
+            "Software"
+        ]
+    },
+    {
+        "title": "A topic-based approach for narrowing the search space of buggy files from a bug report.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100062",
+        "abstract": "Locating buggy code is a time-consuming task in software development. Given a new bug report, developers must search through a large number of files in a project to locate buggy code. We propose BugScout, an automated approach to help developers reduce such efforts by narrowing the search space of buggy files when they are assigned to address a bug report. BugScout assumes that the textual contents of a bug report and that of its corresponding source code share some technical aspects of the system which can be used for locating buggy source files given a new bug report. We develop a specialized topic model that represents those technical aspects as topics in the textual contents of bug reports and source files, and correlates bug reports and corresponding buggy files via their shared topics. Our evaluation shows that BugScout can recommend buggy files correctly up to 45% of the cases with a recommended ranked list of 10 files.",
+        "keywords": [
+            "Synchronization",
+            "Training",
+            "Vectors",
+            "Prediction algorithms",
+            "Software algorithms",
+            "Software systems"
+        ]
+    },
+    {
+        "title": "Specifying and detecting meaningful changes in programs.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100063",
+        "abstract": "Software developers are often interested in particular changes in programs that are relevant to their current tasks: not all changes to evolving software are equally important. However, most existing differencing tools, such as diff, notify developers of more changes than they wish to see. In this paper, we propose a technique to specify and automatically detect only those changes in programs deemed meaningful, or relevant, to a particular development task. Using four elementary annotations on the grammar of any programming language, namely Ignore, Order, Prefer and Scope, developers can specify, with limited effort, the type of change they wish to detect. Our algorithms use these annotations to transform the input programs into a normalised form, and to remove clones across different normalised programs in order to detect non-trivial and relevant differences. We evaluate our tool on a benchmark of programs to demonstrate its improved precision compared to other differencing approaches.",
+        "keywords": [
+            "Cloning",
+            "Grammar",
+            "Java",
+            "Semantics",
+            "Optimized production technology",
+            "Syntactics"
+        ]
+    },
+    {
+        "title": "Self-adaptive software meets control theory: A preliminary approach supporting reliability requirements.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100064",
+        "abstract": "This paper investigates a novel approach to derive self-adaptive software by automatically modifying the model of the application using a control-theoretical approach. Self adaptation is achieved at the model level to assure that the model-which lives alongside the application at run-time- continues to satisfy its reliability requirements, despite changes in the environment that might lead to a violation. We assume that the model is given in terms of a Discrete Time Markov Chain (DTMC). DTMCs can express reliability concerns by modeling possible failures through transitions to failure states. Reliability requirements may be expressed as reachability properties that constrain the probability to reach certain states, denoted as failure states. We assume that DTMCs describe possible variant behaviors of the adaptive system through transitions exiting a given state that represent alternative choices, made according to certain probabilities. Viewed from a control-theory standpoint, these probabilities correspond to the input variables of a controlled system-i.e., in the control theory lexicon, \"control variables\". Adopting the same lexicon, such variables are continuously modified at run-time by a feedback controller so as to ensure continuous satisfaction of the requirements despite disturbances, i.e., changes in the environment. Changes at the model level may then be automatically transferred to changes in the running implementation. The approach is methodologically described by providing a translation scheme from DTMCs to discrete-time dynamic systems, the formalism in which the controllers are derived. An initial empirical assessment is described for a case study. Conjectures for extensions to other models and other requirements.",
+        "keywords": [
+            "Software",
+            "Mathematical model",
+            "Control systems",
+            "Adaptation models",
+            "Software reliability",
+            "Equations"
+        ]
+    },
+    {
+        "title": "Generalizing evolutionary coupling with stochastic dependencies.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100065",
+        "abstract": "Researchers have leveraged evolutionary coupling derived from revision history to conduct various software analyses, such as software change impact analysis (IA). The problem is that the validity of historical data depends on the recency of changes and varies with different evolution paths-thus, influencing the accuracy of analysis results. In this paper, we formalize evolutionary coupling as a stochastic process using a Markov chain model. By varying the parameters of this model, we define a family of stochastic dependencies that accounts for different types of evolution paths. Each member of this family weighs historical data differently according to their recency and frequency. To assess the utility of this model, we conduct IA on 78 releases of five open source systems, using 16 stochastic dependency types, and compare with the results of several existing approaches. The results show that our stochastic-based IA technique can provide more accurate results than these existing techniques.",
+        "keywords": [
+            "History",
+            "Software",
+            "Markov processes",
+            "Couplings",
+            "Smoothing methods",
+            "Accuracy"
+        ]
+    },
+    {
+        "title": "Differential precondition checking: A lightweight, reusable analysis for refactoring tools.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100067",
+        "abstract": "One of the most difficult parts of building automated refactorings is ensuring that they preserve behavior. This paper proposes a new technique to check for behavior preservation; we call this technique differential precondition checking. It is simple yet expressive enough to implement the most common refactorings, and the core algorithm runs in linear time. However, the main advantage is that a differential precondition checker can be placed in a library and reused in refactoring tools for many different languages; the core algorithm can be implemented in a way that is completely language independent. We have implemented a differential precondition checker and used it in refactoring tools for Fortran (Photran), PHP, and BC.",
+        "keywords": [
+            "Semantics",
+            "Analytical models",
+            "Syntactics",
+            "Computational modeling",
+            "Image edge detection",
+            "Buildings",
+            "Java"
+        ]
+    },
+    {
+        "title": "A performance comparison of contemporary algorithmic approaches for automated analysis operations on feature models.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100068",
+        "abstract": "The formalization of variability models (e.g. feature models) is a prerequisite for the automated analysis of these models. The efficient execution of the analysis operations depends on the selection of well-suited solver implementations. Regarding feature models, on the one hand, the formalization with Boolean expressions enables the use of SAT or BDD solvers. On the other hand, feature models can be transformed into a Constraint-Satisfaction Problem (CSP) in order to use CSP solvers for validation. This paper presents a performance comparison regarding nine contemporary high-performance solvers, three for each base problem structure (BDD, CSP, and SAT). Four operations on 90 feature models are run on each solver. The results will in turn clear the way for new improvements regarding the automatic verification of software product lines, since the efficient execution of analysis operations is essential to such automatic verification approaches.",
+        "keywords": [
+            "Boolean functions",
+            "Data structures",
+            "Runtime",
+            "Analytical models",
+            "Java",
+            "Computational modeling",
+            "Software"
+        ]
+    },
+    {
+        "title": "Finding relevant answers in software forums.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100069",
+        "abstract": "Online software forums provide a huge amount of valuable content. Developers and users often ask questions and receive answers from such forums. The availability of a vast amount of thread discussions in forums provides ample opportunities for knowledge acquisition and summarization. For a given search query, current search engines use traditional information retrieval approach to extract webpages containing relevant keywords. However, in software forums, often there are many threads containing similar keywords where each thread could contain a lot of posts as many as 1,000 or more. Manually finding relevant answers from these long threads is a painstaking task to the users. Finding relevant answers is particularly hard in software forums as: complexities of software systems cause a huge variety of issues often expressed in similar technical jargons, and software forum users are often expert internet users who often posts answers in multiple venues creating many duplicate posts, often without satisfying answers, in the world wide web. To address this problem, this paper provides a semantic search engine framework to process software threads and recover relevant answers according to user queries. Different from standard information retrieval engine, our framework infer semantic tags of posts in the software forum threads and utilize these tags to recover relevant answer posts. In our case study, we analyze 6,068 posts from three software forums. In terms of accuracy of our inferred tags, we could achieve on average an overall precision, recall and F-measure of 67%, 71%, and 69% respectively. To empirically study the benefit of our overall framework, we also conduct a user-assisted study which shows that as compared to a standard information retrieval approach, our proposed framework could increase mean average precision from 17% to 71% in retrieving relevant answers to various queries and achieve a Normalized Discounted Cumulative Gain (nDCG) @1 score of 91.2% and nDCG@2 score of 71.6%.",
+        "keywords": [
+            "Software",
+            "Engines",
+            "Search engines",
+            "Feature extraction",
+            "Data mining",
+            "Semantics",
+            "Tagging"
+        ]
+    },
+    {
+        "title": "Software process evaluation: A machine learning approach.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100070",
+        "abstract": "Software process evaluation is essential to improve software development and the quality of software products in an organization. Conventional approaches based on manual qualitative evaluations (e.g., artifacts inspection) are deficient in the sense that (i) they are time-consuming, (ii) they suffer from the authority constraints, and (iii) they are often subjective. To overcome these limitations, this paper presents a novel semi-automated approach to software process evaluation using machine learning techniques. In particular, we formulate the problem as a sequence classification task, which is solved by applying machine learning algorithms. Based on the framework, we define a new quantitative indicator to objectively evaluate the quality and performance of a software process. To validate the efficacy of our approach, we apply it to evaluate the defect management process performed in four real industrial software projects. Our empirical results show that our approach is effective and promising in providing an objective and quantitative measurement for software process evaluation.",
+        "keywords": [
+            "Software",
+            "Organizations",
+            "Machine learning",
+            "Data mining",
+            "Machine learning algorithms",
+            "Standards organizations",
+            "Capability maturity model"
+        ]
+    },
+    {
+        "title": "Local vs. global models for effort estimation and defect prediction.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100072",
+        "abstract": "Data miners can infer rules showing how to improve either (a) the effort estimates of a project or (b) the defect predictions of a software module. Such studies often exhibit conclusion instability regarding what is the most effective action for different projects or modules. This instability can be explained by data heterogeneity. We show that effort and defect data contain many local regions with markedly different properties to the global space. In other words, what appears to be useful in a global context is often irrelevant for particular local contexts. This result raises questions about the generality of conclusions from empirical SE. At the very least, SE researchers should test if their supposedly general conclusions are valid within subsets of their data. At the very most, empirical SE should become a search for local regions with similar properties (and conclusions should be constrained to just those regions).",
+        "keywords": [
+            "Estimation",
+            "Software",
+            "Context",
+            "Couplings",
+            "Principal component analysis",
+            "Runtime",
+            "USA Councils"
+        ]
+    },
+    {
+        "title": "Capacity planning for event-based systems using automated performance predictions.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100073",
+        "abstract": "Event-based communication is used in different domains including telecommunications, transportation, and business information systems to build scalable distributed systems. The loose coupling of components in such systems makes it easy to vary the deployment. At the same time, the complexity to estimate the behavior and performance of the whole system is increased, which complicates capacity planning. In this paper, we present an automated performance prediction method supporting capacity planning for event-based systems. The performance prediction is based on an extended version of the Palladio Component Model - a performance meta-model for component-based systems. We apply this method on a real-world case study of a traffic monitoring system. In addition to the application of our performance prediction techniques for capacity planning, we evaluate the prediction results against measurements in the context of the case study. The results demonstrate the practicality and effectiveness of the proposed approach.",
+        "keywords": [
+            "Capacity planning",
+            "Phase change materials",
+            "Adaptation models",
+            "Predictive models",
+            "Middleware",
+            "Monitoring",
+            "Hardware"
+        ]
+    },
+    {
+        "title": "Ecological inference in empirical software engineering.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100074",
+        "abstract": "Software systems are decomposed hierarchically, for example, into modules, packages and files. This hierarchical decomposition has a profound influence on evolvability, maintainability and work assignment. Hierarchical decomposition is thus clearly of central concern for empirical software engineering researchers; but it also poses a quandary. At what level do we study phenomena, such as quality, distribution, collaboration and productivity? At the level of files? packages? or modules? How does the level of study affect the truth, meaning, and relevance of the findings? In other fields it has been found that choosing the wrong level might lead to misleading or fallacious results. Choosing a proper level, for study, is thus vitally important for empirical software engineering research; but this issue hasn't thus far been explicitly investigated. We describe the related idea of ecological inference and ecological fallacy from sociology and epidemiology, and explore its relevance to empirical software engineering; we also present some case studies, using defect and process data from 18 open source projects to illustrate the risks of modeling at an aggregation level in the context of defect prediction, as well as in hypothesis testing.",
+        "keywords": [
+            "Predictive models",
+            "Biological system modeling",
+            "Software engineering",
+            "Measurement",
+            "Object oriented modeling",
+            "Testing",
+            "Data models"
+        ]
+    },
+    {
+        "title": "Detection of feature interactions using feature-aware verification.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100075",
+        "abstract": "A software product line is a set of software products that are distinguished in terms of features (i.e., end-user-visible units of behavior). Feature interactions —situations in which the combination of features leads to emergent and possibly critical behavior— are a major source of failures in software product lines. We explore how feature-aware verification can improve the automatic detection of feature interactions in software product lines. Feature-aware verification uses product-line-verification techniques and supports the specification of feature properties along with the features in separate and composable units. It integrates the technique of variability encoding to verify a product line without generating and checking a possibly exponential number of feature combinations. We developed the tool suite SPLVERIFIER for feature-aware verification, which is based on standard model-checking technology. We applied it to an e-mail system that incorporates domain knowledge of AT&T. We found that feature interactions can be detected automatically based on specifications that have only local knowledge.",
+        "keywords": [
+            "Electronic mail",
+            "Feature extraction",
+            "Cryptography",
+            "Software",
+            "Encoding",
+            "Safety",
+            "Automata"
+        ]
+    },
+    {
+        "title": "Querying source code with natural language.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100076",
+        "abstract": "One common task of developing or maintaining software is searching the source code for information like specific method calls or write accesses to certain fields. This kind of information is required to correctly implement new features and to solve bugs. This paper presents an approach for querying source code with natural language.",
+        "keywords": [
+            "Context",
+            "Natural languages",
+            "Engines",
+            "Training data",
+            "Prototypes",
+            "Software engineering",
+            "Software"
+        ]
+    },
+    {
+        "title": "Coverage rewarded: Test input generation via adaptation-based programming.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100077",
+        "abstract": "This paper introduces a new approach to test input generation, based on reinforcement learning via easy to use adaptation-based programming. In this approach, a test harness can be written with little more effort than is involved in naïve random testing. The harness will simply map choices made by the adaptation-based programming (ABP) library, rather than pseudo-random numbers, into operations and parameters. Realistic experimental evaluation over three important fine-grained coverage measures (path, shape, and predicate coverage) shows that ABP-based testing is typically competitive with, and sometimes superior to, other effective methods for testing container classes, including random testing and shape-based abstraction.",
+        "keywords": [
+            "Testing",
+            "Containers",
+            "Shape",
+            "Context",
+            "Libraries",
+            "Learning",
+            "Java"
+        ]
+    },
+    {
+        "title": "Mendel: Source code recommendation based on a genetic metaphor.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100078",
+        "abstract": "When evolving software systems, developers spend a considerable amount of time understanding existing source code. To successfully implement new or alter existing behavior, developers need to answer questions such as: “Which types and methods can I use to solve this task?” or “Should my implementation follow particular naming or structural conventions?”. In this paper we present Mendel, a source code recommendation tool that aids developers in answering such questions. Based on the entity the developer currently browses, the tool employs a genetics-inspired metaphor to analyze source-code entities related to the current working context and provides its user with a number of recommended properties (naming conventions, used types, invoked messages, etc.) that the source code entity currently being worked on should exhibit. An initial validation of Mendel seems to confirm the potential of our approach.",
+        "keywords": [
+            "Protocols",
+            "USA Councils",
+            "Concrete",
+            "Genetics",
+            "Software systems",
+            "Data mining"
+        ]
+    },
+    {
+        "title": "Optimizing the automatic test generation by SAT and SMT solving for Boolean expressions.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100079",
+        "abstract": "Recent advances in propositional satisfiability (SAT) and Satisfiability Modulo Theories (SMT) solvers are increasingly rendering SAT and SMT-based automatic test generation an attractive alternative to traditional algorithmic test generation methods. The use of SAT/SMT solvers is particularly appealing when testing Boolean expressions: These tools are able to deal with constraints over the models, generate compact test suites, and they support fault-based test generation methods. However, these solvers normally require more time and greater amount of memory than classical test generation algorithms, limiting their applicability. In this paper we propose several ways to optimize the process of test generation and we compare several SAT/SMT solvers and propositional transformation rules. These optimizations promise to make SAT/SMT-based techniques as efficient as standard methods for testing purposes, especially when dealing with Boolean expressions, as proved by our experiments.",
+        "keywords": [
+            "Optimization",
+            "Context",
+            "Limiting",
+            "Software testing",
+            "Context modeling",
+            "Libraries"
+        ]
+    },
+    {
+        "title": "Code-based automated program fixing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100080",
+        "abstract": "Initial research in automated program fixing has generally limited itself to specific areas, such as data structure classes with carefully designed interfaces, and relied on simple approaches. To provide high-quality fix suggestions in a broad area of applicability, the present work relies on the presence of contracts in the code, and on the availability of static and dynamic analyses to gather evidence on the values taken by expressions derived from the code. The ideas have been built into the AutoFix-E2 automatic fix generator. Applications of AutoFix-E2 to general-purpose software, such as a library to manipulate documents, show that the approach provides an improvement over previous techniques, in particular purely model-based approaches.",
+        "keywords": [
+            "Libraries",
+            "Indexes",
+            "Contracts",
+            "Object oriented modeling",
+            "Software",
+            "Arrays"
+        ]
+    },
+    {
+        "title": "Taming changes With 1.x-Way architecture-implementation mapping.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100081",
+        "abstract": "A new approach is presented to maintain the conformance between software architecture and code in the presence of changes to both artifacts. Its novel features include suppression of mistaken changes of architecture-prescribed code, explicit recording of architecture changes, and automatic mapping of specific kinds of architecture changes to code in specific ways. In particular, a new code separation mechanism is presented to decouple architecture-prescribed code from user-defined details. It is supported by three important technologies developed in this study to manage architecture changes, including an architecture change model, architecture-based code regeneration, and architecture change notification. The approach is implemented and integrated in ArchStudio, an Eclipse-based architecture development environment.",
+        "keywords": [
+            "Computer architecture",
+            "Software architecture",
+            "Programming",
+            "Software",
+            "Manuals",
+            "Java"
+        ]
+    },
+    {
+        "title": "Evaluating test selection strategies for end-user specified flow-based applications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100083",
+        "abstract": "An emerging class of end-user programming is the assembly of flow-based applications from a set of reusable components. Testing has become a major challenge, as a very large number of flows can be assembled from a set of components with the expectation of functioning correctly. Faults in assembled flows can create dissatisfaction among users and thereby potentially undermine this end-user programming paradigm We approach this problem as a flow-selection problem, and are interested in ways of testing a subset of flows that provide a high likelihood of revealing faults. We describe a number of flow-selection strategies, which run in the context of a flow pattern, a specification mechanism that constrains the space of assemble-able flows. We evaluate the different strategies on real-world flow patterns in terms of efficiency, i.e., the reduction of flows to test, and effectiveness, measuring of how well the strategies can catch faults.",
+        "keywords": [
+            "Testing",
+            "Vectors",
+            "Programming",
+            "Software",
+            "Concrete",
+            "Topology",
+            "Indexes"
+        ]
+    },
+    {
+        "title": "Towards dynamic backward slicing of model transformations.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100084",
+        "abstract": "Model transformations are frequently used means for automating software development in various domains to improve quality and reduce production costs. Debugging of model transformations often necessitates identifying parts of the transformation program and the transformed models that have causal dependence on a selected statement. In traditional programming environments, program slicing techniques are widely used to calculate control and data dependencies between the statements of the program. Here we introduce program slicing for model transformations where the main challenge is to simultaneously assess data and control dependencies over the transformation program and the underlying models of the transformation. In this paper, we present a dynamic backward slicing approach for both model transformation programs and their transformed models based on automatically generated execution trace models of transformations.",
+        "keywords": [
+            "Unified modeling language",
+            "Computational modeling",
+            "Servers",
+            "Fires",
+            "Data models",
+            "Adaptation models"
+        ]
+    },
+    {
+        "title": "Mining test oracles of web search engines.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100085",
+        "abstract": "Web search engines have major impact in people's everyday life. It is of great importance to test the retrieval effectiveness of search engines. However, it is labor-intensive to judge the relevance of search results for a large number of queries, and these relevance judgments may not be reusable since the Web data change all the time. In this work, we propose to mine test oracles of Web search engines from existing search results. The main idea is to mine implicit relationships between queries and search results, e.g., some queries may have fixed top 1 result while some may not, and some Web domains may appear together in top 10 results. We define a set of items of queries and search results, and mine frequent association rules between these items as test oracles. Experiments on major search engines show that our approach mines many high-confidence rules that help understand search engines and detect suspicious search results.",
+        "keywords": [
+            "Search engines",
+            "Itemsets",
+            "Association rules",
+            "Google",
+            "Engines"
+        ]
+    },
+    {
+        "title": "AutoODC: Automated generation of Orthogonal Defect Classifications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100086",
+        "abstract": "Orthogonal Defect Classification (ODC), the most influential framework for software defect classification and analysis, provides valuable in-process feedback to system development and maintenance. Conducting ODC classification on existing organizational defect reports is human intensive and requires experts' knowledge of both ODC and system domains. This paper presents AutoODC, an approach and tool for automating ODC classification by casting it as a supervised text classification problem. Rather than merely apply the standard machine learning framework to this task, we seek to acquire a better ODC classification system by integrating experts' ODC experience and domain knowledge into the learning process via proposing a novel Relevance Annotation Framework. We evaluated AutoODC on an industrial defect report from the social network domain. AutoODC is a promising approach: not only does it leverage minimal human effort beyond the human annotations typically required by standard machine learning approaches, but it achieves an overall accuracy of 80.2% when using manual classifications as a basis of comparison.",
+        "keywords": [
+            "Training",
+            "Accuracy",
+            "Support vector machines",
+            "Humans",
+            "Text categorization",
+            "Machine learning",
+            "Manuals"
+        ]
+    },
+    {
+        "title": "Observations on the connectedness between requirements-to-code traces and calling relationships for trace validation.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100087",
+        "abstract": "Traces between requirements and code reveal where requirements are implemented. Such traces are essential for code understanding and change management. Unfortunately, the handling of traces is highly error prone, in part due to the informal nature of requirements. This paper discusses observations on the connectedness between requirements-to-code traces and calling relationships within the source code. These observations are based on the empirical evaluation of four case study systems covering 150 KLOC and 59 sample requirements. We found that certain patterns of connectedness have high or low likelihoods of occurring. These patterns can thus be used to confirm or reject existing traceability - hence they are useful for validating requirements-to-code traces.",
+        "keywords": [
+            "Software engineering",
+            "Java",
+            "Software",
+            "Manuals",
+            "Information retrieval",
+            "Gold",
+            "Conferences"
+        ]
+    },
+    {
+        "title": "Proximity based weighting of test cases to improve spectrum based fault localization.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100088",
+        "abstract": "Spectrum based fault localization techniques such as Tarantula and Ochiai calculate the suspiciousness score of a program statement using the number of failing and passing test cases that execute the statement. These techniques implicitly assume that all test cases are equally important. However, research on test case generation and selection techniques has shown that using certain test cases can lead to more effective fault localization than others. In this paper, we present an approach to improve the effectiveness of spectrum based fault localization by incorporating the relative importance of different test cases in the calculation of suspiciousness scores.",
+        "keywords": [
+            "Benchmark testing",
+            "Mathematical model",
+            "Equations",
+            "Context",
+            "Software engineering",
+            "Computational modeling",
+            "Schedules"
+        ]
+    },
+    {
+        "title": "Slicing feature models.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100089",
+        "abstract": "Feature models (FMs) are a popular formalism for describing the commonality and variability of software product lines (SPLs) in terms of features. As SPL development increasingly involves numerous large FMs, scalable modular techniques are required to manage their complexity. In this paper, we present a novel slicing technique that produces a projection of an FM, including constraints. The slicing allows SPL practitioners to find semantically meaningful decompositions of FMs and has been integrated into the FAMILIAR language.",
+        "keywords": [
+            "Frequency modulation",
+            "Software",
+            "Semantics",
+            "Data structures",
+            "Boolean functions",
+            "Complexity theory",
+            "Feature extraction"
+        ]
+    },
+    {
+        "title": "Using model checking to analyze static properties of declarative models.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100090",
+        "abstract": "We show how static properties of declarative models can be efficiently analyzed in a symbolic model checker; in particular, we use Cadence SMV to analyze Alloy models by translating Alloy to SMV. The computational paths of the SMV models represent interpretations of the Alloy models. The produced SMV model satisfies its LTL specifications if and only if the original Alloy model is inconsistent with respect to its finite scopes; counterexamples produced by the model checker are valid instances of the Alloy model. Our experiments show that the translation of many frequently used constructs of Alloy to SMV results in optimized models such that their analysis in SMV is much faster than in the Alloy Analyzer. Model checking is faster than SAT solving for static problems when an interpretation can be eliminated by early decisions in the model checking search.",
+        "keywords": [
+            "Computational modeling",
+            "Metals",
+            "Analytical models",
+            "Optimization",
+            "Computer science",
+            "Educational institutions",
+            "Semantics"
+        ]
+    },
+    {
+        "title": "Finding the merits and drawbacks of software resources from comments.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100091",
+        "abstract": "In order to reuse software resources efficiently, developers need necessary quality guarantee on software resources. However, our investigation proved that most software resources on the Internet did not provide enough quality descriptions. In this paper, we propose an approach to help developers judge a software resource's quality based on comments. In our approach, the software resources' comments on the Internet are automatically collected, the sentiment polarity (positive or negative) of a comment is identified and the quality aspects which the comment talks about are extracted. As a result, the merits and drawbacks of software resources are drew out which could help developers judge a software resource's quality in the process of software resource selection and reuse. To evaluate our approach, we applied our method to a group of open source software and the results showed that our method achieved satisfying precision in merits and drawbacks finding.",
+        "keywords": [
+            "Internet",
+            "Feature extraction",
+            "Support vector machines",
+            "Open source software",
+            "Web search",
+            "Data mining"
+        ]
+    },
+    {
+        "title": "Combining search-based and constraint-based testing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100092",
+        "abstract": "Many modern automated test generators are based on either meta-heuristic search techniques or use constraint solvers. Both approaches have their advantages, but they also have specific drawbacks: Search-based methods get stuck in local optima and degrade when the search landscape offers no guidance; constraint-based approaches, on the other hand, can only handle certain domains efficiently. In this paper we describe a method that integrates both techniques and delivers the best of both worlds. On a high-level view, our method uses a genetic algorithm to generate tests, but the twist is that during evolution a constraint solver is used to ensure that mutated offspring efficiently explores different control flow. Experiments on 20 case study examples show that on average the combination improves branch coverage by 28% over search-based techniques and by 13% over constraint-based techniques.",
+        "keywords": [
+            "Search problems",
+            "Genetic algorithms",
+            "USA Councils",
+            "IEEE Computer Society",
+            "Software testing",
+            "Java"
+        ]
+    },
+    {
+        "title": "Stateful testing: Finding more errors in code and contracts.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100094",
+        "abstract": "Automated random testing has shown to be an effective approach to finding faults but still faces a major unsolved issue: how to generate test inputs diverse enough to find many faults and find them quickly. Stateful testing, the automated testing technique introduced in this article, generates new test cases that improve an existing test suite. The generated test cases are designed to violate the dynamically inferred contracts (invariants) characterizing the existing test suite. As a consequence, they are in a good position to detect new faults, and also to improve the accuracy of the inferred contracts by discovering those that are unsound. Experiments on 13 data structure classes totalling over 28,000 lines of code demonstrate the effectiveness of stateful testing in improving over the results of long sessions of random testing: stateful testing found 68.4% new faults and improved the accuracy of automatically inferred contracts to over 99%, with just a 7% time overhead.",
+        "keywords": [
+            "Testing",
+            "Contracts",
+            "Databases",
+            "Search problems",
+            "Arrays",
+            "Data mining"
+        ]
+    },
+    {
+        "title": "Do software engineers benefit from source code navigation with traceability? - An experiment in software change management.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100095",
+        "abstract": "For decades now, mainstream development environments provide the same basic automations for navigating source code: mainly searching and the tree exploration of files and folders. This may imply that other automations have little additional value or too steep a learning curve for mainstream adoption. This paper investigates whether source code navigation enriched with traceability benefit basic maintenance tasks such as changing features and fixing bugs in code. To test this, we conducted a controlled experiment with 52 subjects performing real maintenance tasks on two third-party development projects: all with the same navigation tool but half of the tasks with and the other half without traceability navigation. We found that the existence of traceability profoundly affected the quality of the change tasks and fundamentally changed how software engineers navigated through source code. We show that software engineers benefit instantly from traceability, without training, which is to show that the current automations available to software engineers are by no means sufficient or the only easy ones to use.",
+        "keywords": [
+            "Navigation",
+            "Automation",
+            "Maintenance engineering",
+            "Industries",
+            "Software maintenance",
+            "Unified modeling language"
+        ]
+    },
+    {
+        "title": "Automating analysis of qualitative preferences in goal-oriented requirements engineering.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100096",
+        "abstract": "In goal-oriented requirements engineering, a goal model graphically represents relationships between the required goals (functional requirements), tasks (realizations of goals), and optional goals (non-functional properties) involved in designing a system. It may, however, be impossible to find a design that fulfills all required goals and all optional goals. In such cases, it is useful to find designs that provide the required functionality while satisfying the most preferred set of optional goals under the goal model's constraints. We present an approach that considers expressive qualitative preferences over optional goals, as these can model interacting and/or mutually exclusive subgoals. Our framework employs a model checking-based method for reasoning with qualitative preferences to identify the most preferred alternative(s). We evaluate our approach using existing goal models from the literature.",
+        "keywords": [
+            "Documentation",
+            "Robustness",
+            "Analytical models",
+            "Computational modeling",
+            "Algorithm design and analysis",
+            "Computer science",
+            "Testing"
+        ]
+    },
+    {
+        "title": "History slicing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100097",
+        "abstract": "To perform a number of tasks such as inferring design rationale from past code changes or assessing developer expertise for a software feature or bug, the evolution of a set of lines of code can be assessed by mining software histories. However, determining the evolution of a set of lines of code is a manual and time consuming process. This paper presents a model of this process and an approach for automating it. We call this process History Slicing. We describe the process and options for generating a graph that links every line of code with its corresponding previous revision through the history of the software project. We then explain the method and options for utilizing this graph to determine the exact revisions that contain changes for the lines of interest and their exact position in each revision. Finally, we present some preliminary results which show initial evidence that our automated technique can be several orders of magnitude faster than the manual approach and require that developers examine up to two orders of magnitude less code in extracting such histories.",
+        "keywords": [
+            "History",
+            "Software",
+            "Manuals",
+            "USA Councils",
+            "Conferences",
+            "Software engineering",
+            "Data mining"
+        ]
+    },
+    {
+        "title": "Analyzing temporal API usage patterns.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100098",
+        "abstract": "Software reuse through Application Programming Interfaces (APIs) is an integral part of software development. As developers write client programs, their understanding and usage of APIs change over time. Can we learn from long-term changes in how developers work with APIs in the lifetime of a client program? We propose Temporal API Usage Mining to detect significant changes in API usage. We describe a framework to extract detailed models representing addition and removal of calls to API methods over the change history of a client program. We apply machine learning technique to these models to semi-automatically infer temporal API usage patterns, i.e., coherent addition of API calls at different phases in the life-cycle of the client program.",
+        "keywords": [
+            "History",
+            "Data mining",
+            "Principal component analysis",
+            "Programming",
+            "Software",
+            "Documentation",
+            "Machine learning"
+        ]
+    },
+    {
+        "title": "Isomorphism in model tools and editors.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100099",
+        "abstract": "Domain-specific languages (DSLs) are modeling languages that are customized for a specific context or project. DSLs allow for fast and precise modeling because the language features and constructs can be precisely tailored based on the needs of the modeling effort. There exist highly customizable model-editing tools that can be easily configured to support DSLs defined by end-users (e.g., system architects, engineers, and analysts). However, to leverage models created using these tools for automated analysis, simulation, and code generation, end-users must build custom analysis tools and code generators. In contrast to model editors, the implementation and maintenance of these analysis and code generation tools can be tedious and hampers the utility of DSLs. In this paper, we posit that analysis and code generation tools for DSLs are, in fact, isomorphic to model editing tools. The implication of this insight is that model editors, analysis tools, and code generators can be treated as analogs conceptually and architecturally, and highly customizable analysis and code generation tools for DSLs can be built using the same approach that has already proven successful for the construction of DSL model editors.",
+        "keywords": [
+            "Semantics",
+            "Analytical models",
+            "Unified modeling language",
+            "DSL",
+            "Object oriented modeling",
+            "Generators",
+            "Metamodeling"
+        ]
+    },
+    {
+        "title": "A case for alloy annotations for efficient incremental analysis via domain specific solvers.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100100",
+        "abstract": "Alloy is a declarative modelling language based on first-order logic with sets and relations. Alloy formulas are checked for satisfiability by the fully automatic Alloy Analyzer. The analyzer, given an Alloy formula and a scope, i.e. a bound on the universe of discourse, searches for an instance i.e. a valuation to the sets and relations in the formula, such that it evaluates to true. The analyzer translates the Alloy problem to a propositional formula for which it searches a satisfying assignment via an off-the-shelf propositional satisfiability (SAT) solver. The SAT solver performs an exhaustive search and increasing the scope leads to the combinatorial explosion problem. We envision annotations, a meta-data facility used in imperative languages, as a means of augmenting Alloy models to enable more efficient analysis by specifying the priority, i.e. order of solving, of a given constraint and the slover to be used. This additional information would enable using the solutions to a particular constraint as partial solutions to the next in case constraint priority is specified and using a specific solver for reasoning about a given constraint in case a constraint solver is specified.",
+        "keywords": [
+            "Metals",
+            "Binary search trees",
+            "Analytical models",
+            "Software",
+            "Software engineering",
+            "Educational institutions",
+            "Data models"
+        ]
+    },
+    {
+        "title": "Exploring caching for efficient collection operations.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100101",
+        "abstract": "Many useful programs operate on collection types. Extensive libraries are available in many programming languages, such as the C++ Standard Template Library, which make programming with collections convenient. Extending programming languages to provide collection queries as first class constructs in the language would not only allow programmers to write queries explicitly in their programs but it would also allow compilers to leverage the wealth of experience available from the database domain to optimize such queries. This paper describes an approach to reducing the run time of programs involving explicit collection queries by leveraging a cache to store previously computed results. We propose caching the results of join (sub)queries which allows queries that miss the cache entirely to be answered partially from the cache thereby improving the query execution time. We also describe an effective cache policy to determine which join (sub)queries to cache. The cache is maintained incrementally, when the underlying collections change, and use of the cache space is optimized by a cache replacement policy.",
+        "keywords": [
+            "Query processing",
+            "Histograms",
+            "Maintenance engineering",
+            "Frequency estimation",
+            "Conferences",
+            "Programming"
+        ]
+    },
+    {
+        "title": "Tracing requirements to tests with high precision and recall.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100102",
+        "abstract": "Requirements traceability is linking requirements to software artifacts, such as source code, test-cases and configuration files. For stakeholders of software, it is important to understand which requirements were tested, whether sufficiently, if at all. Hence tracing requirements in test-cases is an important problem. In this paper, we build on existing research and use features, realization of functional requirements in software [15], to automatically create requirements traceability links between requirements and test-cases. We evaluate our approach on a chat system, Apache Pool [21] and Apache Log4j [11]. We obtain precision/recall levels of more than 90%, an improvement upon currently existing Information Retrieval approaches when tested on the same case studies.",
+        "keywords": [
+            "Large scale integration",
+            "Documentation",
+            "Software engineering",
+            "Programming",
+            "Testing",
+            "Software systems"
+        ]
+    },
+    {
+        "title": "Extracting structured data from natural language documents with island parsing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100103",
+        "abstract": "The design and evolution of a software system leave traces in various kinds of artifacts. In software, produced by humans for humans, many artifacts are written in natural language by people involved in the project. Such entities contain structured information which constitute a valuable source of knowledge for analyzing and comprehending a system's design and evolution. However, the ambiguous and informal nature of narrative is a serious challenge in gathering such information, which is scattered throughout natural language text. We present an approach-based on island parsing-to recognize and enable the parsing of structured information that occur in natural language artifacts. We evaluate our approach by applying it to mailing lists pertaining to three software systems. We show that this approach allows us to extract structured data from emails with high precision and recall.",
+        "keywords": [
+            "Electronic mail",
+            "Grammar",
+            "Production",
+            "Data mining",
+            "Java",
+            "History",
+            "Natural languages"
+        ]
+    },
+    {
+        "title": "GRoundTram: An integrated framework for developing well-behaved bidirectional model transformations.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100104",
+        "abstract": "Bidirectional model transformation is useful for maintaining consistency between two models, and has many potential applications in software development including model synchronization, round-trip engineering, and software evolution. Despite these attractive uses, the lack of a practical tool support for systematic development of well-behaved and efficient bidirectional model transformation prevents it from being widely used. In this paper, we solve this problem by proposing an integrated framework called GRoundTram, which is carefully designed and implemented for compositional development of well-behaved and efficient bidirectional model transformations. GRoundTram is built upon a well-founded bidirectional framework, and is equipped with a user-friendly language for coding bidirectional model transformation, a new tool for validating both models and bidirectional model transformations, an optimization mechanism for improving efficiency, and a powerful debugging environment for testing bidirectional behavior. GRoundTram has been used by people of other groups and their results show its usefulness in practice.",
+        "keywords": [
+            "Unified modeling language",
+            "Computational modeling",
+            "US Department of Transportation",
+            "Programming",
+            "Software engineering",
+            "Testing",
+            "Debugging"
+        ]
+    },
+    {
+        "title": "Run-time systems failure prediction via proactive monitoring.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100105",
+        "abstract": "In run-time evolving systems, components may evolve while the system is being operated. Unsafe run-time changes may compromise the correct execution of the entire system. Traditional design-time verification techniques difficultly cope with run-time changes, and run-time monitoring may detect disfunctions only too late, when the failure arises. The desire would be to define advanced monitors with the ability to predict and prevent the potential errors happening in the future. In this direction, this paper proposes CASSANDRA, a new approach that by combining design-time and run-time analysis techniques, can “look ahead” in the near execution future, and predict potential failures. During run-time we on-the-fly construct a model of the future k-step global state space according to design-time specifications and the current execution state. Consequently, we can run-time check whether possible failures might happen in the future.",
+        "keywords": [
+            "Monitoring",
+            "Automata",
+            "Software",
+            "Weaving",
+            "Educational institutions",
+            "Component architectures",
+            "Synchronization"
+        ]
+    },
+    {
+        "title": "Towards an approach and framework for test-execution plan derivation.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100106",
+        "abstract": "In industrial test and maintenance projects, test execution plans are important for performing test cycle in a time constrained manner with the objective, of delivering the expected quality by effective utilization of resources. To take advantage of the inherent parallelism in test suites, multiple resources are often deployed to test an application. The resource allocation is however driven more by costs and risks and does not exploit the parallelism. Test execution plans are often static in nature and are not well equipped to handle dynamically occurring events like abends, and changes in resource availability and test requirements. Derivation of test plans is a cumbersome activity, as it also needs to take into account test execution order, violation of which may result in unexpected failures. In this paper, we describe an approach to derive a test execution plan to facilitate parallel execution, given resource availability and test case dependencies. The execution plan provides workload distribution and scheduling of the test cases in a test suite. The case studies on test projects have shown that the derived test plans can contribute significantly towards improving the test execution cycles of the test suites.",
+        "keywords": [
+            "Testing",
+            "Optimal scheduling",
+            "Processor scheduling",
+            "Databases",
+            "Job shop scheduling",
+            "USA Councils"
+        ]
+    },
+    {
+        "title": "Statistical debugging with elastic predicates.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100107",
+        "abstract": "Traditional debugging and fault localization methods have addressed localization of sources of software failures. While these methods are effective in general, they are not tailored to an important class of software, including simulations and computational models, which employ floating-point computations and continuous stochastic distributions to represent, or support evaluation of, an underlying model. To address this shortcoming, we introduce elastic predicates, a novel approach to predicate-based statistical debugging. Elastic predicates introduce profiling of values assigned to variables within a failing program. These elastic predicates are better predictors of software failure than the static and uniform predicates used in existing techniques such as Cooperative Bug Isolation (CBI). We present experimental results for established fault localization benchmarks and widely used simulations that show improved effectiveness.",
+        "keywords": [
+            "Computational modeling",
+            "Software",
+            "Benchmark testing",
+            "Presses",
+            "Optimized production technology",
+            "Stochastic processes",
+            "Debugging"
+        ]
+    },
+    {
+        "title": "Diagnosis of software failures using computational geometry.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100108",
+        "abstract": "Complex software systems have become commonplace in modern organizations and are considered critical to their daily operations. They are expected to run on a diverse set of platforms while interoperating with a wide variety of other applications. Although there have been advances in the discipline of software engineering, software faults, and malicious attacks still regularly cause system downtime [1]. Downtime of critical applications can create additional work, cause delays, and lead to financial loss [2]. This paper presents a computational geometry technique to tackle the problem of timely failure diagnosis during the execution of a software application. Our approach to failure diagnosis involves collecting a set of software metrics and building a geometric enclosures corresponding to known classes of faults. The geometric enclosures are then used to partition the state space defined by the metrics.",
+        "keywords": [
+            "Measurement",
+            "Servers",
+            "Software systems",
+            "Training",
+            "Monitoring",
+            "Training data"
+        ]
+    },
+    {
+        "title": "GitBAC: Flexible access control for non-modular concerns.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100109",
+        "abstract": "Today's techniques for controlling access to software artifacts are limited to restricting access to whole files and directories. But when a company's access control policy does not match a project's existing physical modularization, these techniques require either an all-or-nothing approach or re-modularization of the files and directories. The increased maintenance overhead this brings to project administration can lead to unimplemented or insufficient developer access control and an increased risk of insider security incidents (e.g., theft of intellectual property). We have created a tool (GitBAC) to provide access control of software artifacts using a crosscutting concern instead of artifact modularization. Our method provides fine-grained access control of artifacts and accommodates flexible access control policies.",
+        "keywords": [
+            "Access control",
+            "Software",
+            "Servers",
+            "Programming",
+            "Conferences",
+            "Monitoring"
+        ]
+    },
+    {
+        "title": "Client-side web application slicing.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100110",
+        "abstract": "Highly interactive web applications that offer user experience and responsiveness of standard desktop applications are becoming prevalent in the web application domain. However, with these benefits come certain drawbacks. For example, the event-based architectural style, and poor support for code organization, often lead to a situation where code responsible for a certain behavior is intermixed with irrelevant code. This makes development, debugging and reuse difficult. One way of locating code implementing a certain behavior is program slicing, a method that, given a subset of a program's behavior, reduces the program to a minimal form that still produces that behavior. In this paper we present a semi-automatic client-side web application slicing method, describe the web page dependency graph, and show how it can be used to extract only the code implementing a certain behavior.",
+        "keywords": [
+            "HTML",
+            "Libraries",
+            "Web pages",
+            "Browsers",
+            "Debugging",
+            "Fires",
+            "Cascading style sheets"
+        ]
+    },
+    {
+        "title": "Supporting activity based computing paradigm in global software development.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100111",
+        "abstract": "Global software development (GSD) teams have to use multiple tools to perform both complex and even simple tasks involving many context switches that can be frustrating. To lessen these issues, researchers are looking at providing new plug-ins whereas commercial vendors are flooding the market with comprehensive solutions often in the form of platforms. The current file- and application- oriented desktop metaphor can hardly support the collaborative and distributed nature of GSD teams. We assert that the Activity-Based Computing (ABC) paradigm has the potential for addressing the tool support related challenges of GSD. We have been incrementally designing and developing a flexible middleware (ABC4GSD) for supporting ABC in GSD. In this paper we present the theoretical foundations underpinning our approach and the architectural overview of a middleware for supporting ABC in GSD. Moreover, we briefly present a prototype leveraging the features provided by the middleware as a proof of concept.",
+        "keywords": [
+            "Middleware",
+            "Programming",
+            "Collaboration",
+            "Servers",
+            "Peer to peer computing"
+        ]
+    },
+    {
+        "title": "Inferred dependence coverage to support fault contextualization.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100112",
+        "abstract": "This paper provides techniques for aiding developers' task of familiarizing themselves with the context of a fault. Many fault-localization techniques present the software developer with a subset of the program to inspect in order to aid in the search for faults that cause failures. However, typically, these techniques do not describe how the components of the subset relate to each other in a way that enables the developer to understand how these components interact to cause failures. These techniques also do not describe how the subset relates to the rest of the program in a way that enables the developer to understand the context of the subset. In this paper, we present techniques for providing static and dynamic relations among program elements that can be used as the basis for the exploration of a program when attempting to understand the nature of faults.",
+        "keywords": [
+            "Context",
+            "USA Councils",
+            "Software",
+            "Context modeling",
+            "Software engineering",
+            "Instruments",
+            "Conferences"
+        ]
+    },
+    {
+        "title": "Using model-based assurance to strengthen diagnostic procedures.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100113",
+        "abstract": "In previous work we described Diagnostic Tree for Verification (DTV), a partially automated software engineering technique by which diagnostic trees generated from system models are used to help check out diagnostic procedures. Diagnostic procedures are instructions used to isolate failures during operations. Assuring such procedures manually is time-consuming and costly. This paper reports our recent experience in applying DTV to diagnostic procedures for lighting failures in NASA's Habitat Demonstration Unit (HDU), a prototype for astronauts' living quarters. DTV identified missing and inconsistent instructions, as well as more-efficient sequences of diagnostic steps. Unexpectedly, the most significant benefit was finding assumptions that will not remain true as the system evolves. We describe both the challenges faced in applying DTV and how its independent perspective helped in assuring the procedures' adequacy and quality. Finally, the paper discusses more generally how software systems that are model-based, rapidly evolving and safety-critical appear most likely to benefit from this approach.",
+        "keywords": [
+            "Digital TV",
+            "Lighting",
+            "NASA",
+            "Analytical models",
+            "Software",
+            "Adaptation models",
+            "Computational modeling"
+        ]
+    },
+    {
+        "title": "Fault-localization using dynamic slicing and change impact analysis.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100114",
+        "abstract": "Spectrum-based fault-localization tools, such as Tarantula, have been developed to help guide developers towards faulty statements in a system under test. These tools report statements ranked in order of suspiciousness. Unfortunately, the reported statements can often be unrelated to the error. This paper evaluates the impact of several approaches to ignoring such unrelated statements in order to improve the effectiveness of fault-localization tools.",
+        "keywords": [
+            "Inspection",
+            "Computational efficiency",
+            "Schedules",
+            "Measurement",
+            "Testing",
+            "Filtering",
+            "USA Councils"
+        ]
+    },
+    {
+        "title": "Improving source code search with natural language phrasal representations of method signatures.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100115",
+        "abstract": "As software continues to grow, locating code for maintenance tasks becomes increasingly difficult. Software search tools help developers find source code relevant to their maintenance tasks. One major challenge to successful search tools is locating relevant code when the user's query contains words with multiple meanings or words that occur frequently throughout the program. Traditional search techniques, which treat each word individually, are unable to distinguish relevant and irrelevant methods under these conditions. In this paper, we present a novel search technique that uses information such as the position of the query word and its semantic role to calculate relevance. Our evaluation shows that this approach is more consistently effective than three other state of the art search techniques.",
+        "keywords": [
+            "Semantics",
+            "Software",
+            "Mathematical model",
+            "Equations",
+            "Information retrieval",
+            "Head",
+            "Natural languages"
+        ]
+    },
+    {
+        "title": "Deviation management during process execution.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100116",
+        "abstract": "Software development companies have been putting a lot of effort in adopting process models, however two main issues remain. On the one hand, process models are inherently incomplete, since companies can not capture all possible situations in a single model. On the other hand, managers can not force process participants (agents) to strictly follow these models. The effect of both issues is that companies need to be able to handle deviations during process enactment. In order to make sure that process agents follow the process model and that their deviations get detected and handled, they adopt the so-called Process-centered Software Engineering Environments (PSEEs). Unfortunately, the options proposed by these tools, when it comes to handling a deviation, are rather limited to basically ignoring or forbidding it. In the present work, we face this limitation by presenting an approach for detecting, managing and tolerating agent deviations. Besides, in this paper we present the formal specification for this approach in the Linear Temporal Logic (LTL). It has been used as a the basis of our PSEE prototype.",
+        "keywords": [
+            "Unified modeling language",
+            "Software",
+            "Companies",
+            "Computational modeling",
+            "Process control",
+            "Prototypes"
+        ]
+    },
+    {
+        "title": "PRECIS: Inferring invariants using program path guided clustering.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100117",
+        "abstract": "We propose PRECIS, a methodology for automatically generating invariants at function and loop boundaries through program path guided clustering. We instrument function inputs and outputs together with predicates for branch conditions and record their values during each execution. Program runs that share the same path are grouped together based on predicate words. For each group with sufficient data we use linear regression to express the output as a function of the inputs. Groups with insufficient data are examined as candidates for clustering with neighboring groups. Candidates that share the same output function are merged into a cluster. For each cluster, we write an invariant that summarizes the behavior of the corresponding set of paths. We evaluate our technique using Siemens benchmarks. When compared to Daikon, we find that our method has significant advantages.",
+        "keywords": [
+            "Benchmark testing",
+            "Instruments",
+            "Linear regression",
+            "Data mining",
+            "Context",
+            "Indexes"
+        ]
+    },
+    {
+        "title": "Automated planning for feature model configuration based on stakeholders' business concerns.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100118",
+        "abstract": "In Software Product Line Engineering, concrete products of a family can be generated through a configuration process over a feature model. The configuration process selects features from the feature model according to the stakeholders' requirements. Selecting the right set of features for one product from all the available features in the feature model is a cumbersome task because 1) the stakeholders may have diverse business concerns and limited resources that they can spend on a product and 2) features may have negative and positive contributions on different business concern. Many configurations techniques have been proposed to facilitate software developers' tasks through automated product derivation. However, most of the current proposals for automatic configuration are not devised to cope with business oriented requirements and stakeholders' resource limitations. We propose a framework, which employs an artificial intelligence planning technique to automatically select suitable features that satisfy the stakeholders' business concerns and resource limitations. We also provide tooling support to facilitate the use of our framework.",
+        "keywords": [
+            "Planning",
+            "Business",
+            "Software",
+            "Educational institutions",
+            "Cognition",
+            "USA Councils",
+            "Muscles"
+        ]
+    },
+    {
+        "title": "An adaptive approach to impact analysis from change requests to source code.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100120",
+        "abstract": "The paper presents an adaptive approach to perform impact analysis from a given change request (e.g., a bug report) to source code. Given a textual change request, a single snapshot (release) of source code, indexed using Latent Semantic Indexing, is used to estimate the impact set. Additionally, the approach configures the best-fit combination of information retrieval, dynamic analysis, and data mining of past source code commits to produce an improved impact set. The tandem operation of the three techniques sets it apart from other related solutions.",
+        "keywords": [
+            "Software",
+            "Couplings",
+            "Maintenance engineering",
+            "History",
+            "Association rules",
+            "Indexing"
+        ]
+    },
+    {
+        "title": "Domain and value checking of web application invocation arguments.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100121",
+        "abstract": "Invocations are widely used by many web applications, but have been found to be a common source of errors. This paper presents a new technique that can statically verify that an invocation's set of argument names, types, and request method match the constraints of a target interface. An empirical evaluation of the technique shows that it is successful at identifying previously unknown errors in web applications.",
+        "keywords": [
+            "HTML",
+            "Equations",
+            "Java",
+            "Web pages",
+            "Software engineering",
+            "Approximation methods",
+            "Crawlers"
+        ]
+    },
+    {
+        "title": "Mixed constraints for test input generation - An initial exploration.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100122",
+        "abstract": "The use of specifications provides an effective technique to automate testing. A form of specification that automates generation of test inputs is logical constraints that define properties of desired inputs. Recent advances in constraint solving technology have made the use of constraints particularly attractive. However, manually writing constraints to define complex inputs to real-world programs can pose a significant burden on the user and restrict their wider use. We envision a novel approach to facilitate the use of constraints: to provide a mixed notation for writing the properties. Our key insight is that different properties can lend to easier formulation using different programming paradigms. Thus, a notation that supports more than one paradigm, e.g., declarative and imperative paradigms, can enable achieving a sweet-spot in minimizing the manual effort required in constraint formulation. Moreover, solving such constraints is also likely to be more efficient as different properties may require different paradigms for more direct and accurate representation. This paper presents our vision and gives an illustration to make a case for the usefulness of such a notation.",
+        "keywords": [
+            "Metals",
+            "Java",
+            "Writing",
+            "Vegetation",
+            "Testing",
+            "Programming",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Enhancing architectural recovery using concerns.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100123",
+        "abstract": "Architectures of implemented software systems tend to drift and erode as they are maintained and evolved. To properly understand such systems, their architectures must be recovered from implementation-level artifacts. Many techniques for architectural recovery have been proposed, but their degrees of automation and accuracy remain unsatisfactory. To alleviate these shortcomings, we present a machine learning-based technique for recovering an architectural view containing a system's components and connectors. Our approach differs from other architectural recovery work in that we rely on recovered software concerns to help identify components and connectors. A concern is a software system's role, responsibility, concept, or purpose. We posit that, by recovering concerns, we can improve the correctness of recovered components, increase the automation of connector recovery, and provide more comprehensible representations of architectures.",
+        "keywords": [
+            "Software",
+            "Computer architecture",
+            "Libraries",
+            "Supervised learning",
+            "Meteorology",
+            "Sockets"
+        ]
+    },
+    {
+        "title": "Search-based fault localization.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100124",
+        "abstract": "Many spectrum-based fault localization measures have been proposed in the literature. However, no single fault localization measure completely outperforms others: a measure which is more accurate in localizing some bugs in some programs is less accurate in localizing other bugs in other programs. This paper proposes to compose existing spectrum-based fault localization measures into an improved measure. We model the composition of various measures as an optimization problem and present a search-based approach to explore the space of many possible compositions and output a heuristically near optimal composite measure. We employ two search-based strategies including genetic algorithm and simulated annealing to look for optimal solutions and compare the effectiveness of the resulting composite measures on benchmark software systems. Compared to individual spectrum-based fault localization techniques, our composite measures perform statistically significantly better.",
+        "keywords": [
+            "Computer bugs",
+            "Training",
+            "Biological cells",
+            "Genetic algorithms",
+            "Accuracy",
+            "Search problems",
+            "Simulated annealing"
+        ]
+    },
+    {
+        "title": "Towards requirements aware systems: Run-time resolution of design-time assumptions.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100125",
+        "abstract": "In earlier work we proposed the idea of requirements-aware systems that could introspect about the extent to which their goals were being satisfied at runtime. When combined with requirements monitoring and self adaptive capabilities, requirements awareness should help optimize goal satisfaction even in the presence of changing run-time context. In this paper we describe initial progress towards the realization of requirements-aware systems with REAssuRE. REAssuRE focuses on explicit representation of assumptions made at design time. When such assumptions are shown not to hold, REAssuRE can trigger system adaptations to alternative goal realization strategies.",
+        "keywords": [
+            "Adaptation models",
+            "Adaptive systems",
+            "Cognition",
+            "Context",
+            "Computational modeling",
+            "Uncertainty",
+            "Conferences"
+        ]
+    },
+    {
+        "title": "Generating essential user interface prototypes to validate requirements.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100126",
+        "abstract": "Requirements need to be validated at an early stage of analysis to address inconsistency and incompleteness issues. Capturing requirements usually involves natural language analysis, which is often imprecise and error prone, or translation into formal models, which are difficult for non-technical stakeholders to understand and use. Users often best understand proposed software systems from the likely user interface they will present. To this end we describe novel automated tool support for capturing requirements as Essential Use Cases and translating these into “Essential User Interface” low-fidelity rapid prototypes. We describe our automated tool supporting requirements capture, lo-fi user interface prototype generation and consistency management.",
+        "keywords": [
+            "Prototypes",
+            "User interfaces",
+            "Unified modeling language",
+            "Concrete",
+            "Natural languages",
+            "Software engineering",
+            "Libraries"
+        ]
+    },
+    {
+        "title": "Automatically exploring how uncertainty impacts behavior of dynamically adaptive systems.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100127",
+        "abstract": "A dynamically adaptive system (DAS) monitors itself and its execution environment to evaluate requirements satisfaction at run time. Unanticipated environmental conditions may produce sensory inputs that alter the self-assessment capabilities of a DAS in unpredictable and undesirable ways. Moreover, it is impossible for a human to know or enumerate all possible combinations of system and environmental conditions that a DAS may encounter throughout its lifetime. This paper introduces Loki, an approach for automatically discovering combinations of environmental conditions that produce requirements violations and latent behaviors in a DAS. By anticipating adverse environmental conditions that might arise at run time, Loki facilitates the identification of goals with inadequate obstacle mitigations or insufficient constraints to prevent such unwanted behaviors. We apply Loki to an autonomous vehicle system and describe several undesirable behaviors discovered.",
+        "keywords": [
+            "Monitoring",
+            "Unified modeling language",
+            "Evolutionary computation",
+            "Adaptation models",
+            "Noise",
+            "Adaptive systems",
+            "Noise measurement"
+        ]
+    },
+    {
+        "title": "iDiff: Interaction-based program differencing tool.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100128",
+        "abstract": "When a software system evolves, its program entities such as classes/methods are also changed. System comprehension, maintenance, and other tasks require the detection of the changed entities between two versions. However, existing differencing tools are file-based and cannot handle well the common cases in which the methods/classes are reordered/moved or even renamed/modified. Moreover, many tools show the program changes at the text line level. In this demo, we present iDiff, a program differencing tool that is able to display the changes to classes/methods between two versions and to track the corresponding classes/methods even they were reordered/moved/renamed and/or modified. The key idea is that during software evolution, an entity could change its location, name, order, and even its internal implementation. However, its interaction with other entities would be more stable. iDiff represents a system at a version as an attributed graph, in which the nodes represent program entities, the edges represent the interactions between the nodes. Entities between two versions are matched via an incremental matching algorithm, which takes into account the similarity of interactions for matching. The differences of two versions of the entire system including its program entities are detected based on the matched entities.",
+        "keywords": [
+            "Software",
+            "Algorithm design and analysis",
+            "Semantics",
+            "Tracking",
+            "Collaboration",
+            "Computers",
+            "Syntactics"
+        ]
+    },
+    {
+        "title": "CloneDifferentiator: Analyzing clones by differentiation.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100129",
+        "abstract": "Clone detection provides a scalable and efficient way to detect similar code fragments. But it offers limited explanation of differences of functions performed by clones and variations of control and data flows of clones. We refer to such differences as semantic differences of clones. Understanding these semantic differences is essential to correctly interpret cloning information and perform maintenance tasks on clones. Manual analysis of semantic differences of clones is complicated and error-prone. In the paper, we present our clone analysis tool, called Clone-Differentiator. Our tool automatically characterizes clones returned by a clone detector by differentiating Program Dependence Graphs (PDGs) of clones. CloneDifferentiator is able to provide a precise characterization of semantic differences of clones. It can provide an effective means of analyzing clones in a task oriented manner.",
+        "keywords": [
+            "Cloning",
+            "Semantics",
+            "Matched filters",
+            "Software",
+            "Libraries",
+            "Java",
+            "Maintenance engineering"
+        ]
+    },
+    {
+        "title": "Implementing efficient model validation in EMF tools.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100130",
+        "abstract": "Model-driven development tools built on industry standard platforms, such as the Eclipse Modeling Framework (EMF), heavily use model queries in various use cases, such as model transformation, well-formedness constraint validation and domain-specific model execution. As these queries are executed rather frequently in interactive modeling applications, they have a significant impact on the runtime performance of the tool, and also on the end user experience. However, due to their complexity, they can be time consuming to implement and optimize on a case-by-case basis. To address these shortcomings, we developed the EMF-INCQUERY framework for defining declarative queries over EMF models and executing them effectively using a caching mechanism. In the current paper, we demonstrate how our framework can be easily integrated with other EMF tools. We describe a case study in which EMF-INCQUERY is integrated into the open source Papyrus UML environment to provide on-the-fly validation of well-formedness criteria in UML models.",
+        "keywords": [
+            "Unified modeling language",
+            "Pattern matching",
+            "Adaptation models",
+            "Computational modeling",
+            "Runtime",
+            "Query processing",
+            "Monitoring"
+        ]
+    },
+    {
+        "title": "JPF-AWT: Model checking GUI applications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100131",
+        "abstract": "Verification of Graphical User Interface (GUI) applications presents many challenges. GUI applications are open systems that are driven by user events. Verification of such applications by means of model checking therefore requires a user model in order to close the state space.",
+        "keywords": [
+            "Graphical user interfaces",
+            "Robots",
+            "Java",
+            "Testing",
+            "Libraries",
+            "Software",
+            "Data acquisition"
+        ]
+    },
+    {
+        "title": "The CORE system: Animation and functional correctness of pointer programs.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100132",
+        "abstract": "Pointers are a powerful and widely used programming mechanism, but developing and maintaining correct pointer programs is notoriously hard. Here we describe the CORE\n<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">1</sup>\n system, which supports the development of provably correct pointer programs. The CORE system combines data structure animation with functional correctness. While the animation component allows a programmer to explore and debug their algorithms, the functional correctness component provides a stronger guarantee via formal proof. CORE builds upon two external reasoning tools, i.e. the Smallfoot family of static analysers and the IsaPlanner proof planner. At the heart of the CORE functional correctness capability lies an integration of planning and term synthesis. The planning subsystem bridges the gap between shape analysis, provided by Smallfoot, and functional correctness. Key to this process is the generation of functional invariants, i.e. both loop and frame invariants. We use term synthesis, coupled with IsaPlanner's capability for reasoning about inductively defined structures, to automate the generation of functional invariants. The formal guarantees constructed by the CORE system take the form of proof tactics.",
+        "keywords": [
+            "Shape",
+            "Cognition",
+            "Data structures",
+            "Educational institutions",
+            "Animation",
+            "Planning",
+            "Computer science"
+        ]
+    },
+    {
+        "title": "APIExample: An effective web search based usage example recommendation system for java APIs.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100133",
+        "abstract": "Programmers often learn how to use an API by studying its usage examples. There are many usage examples scattered in web pages on the Internet. However, it often takes programmers much effort to find out the desired examples from a large number of web pages by web search. This paper proposes a tool named APIExample that can extract usage examples for java APIs from web pages on the Internet and recommend them to programmers. Given a java API, the tool collects its related web pages from the Internet, extracts java code snippets and their surrounding descriptive texts embedded in the pages, then assembles them into usage examples for programmers. Furthermore, in order to help programmers capture more kinds of usages of the target API by browsing fewer examples, our tool clusters and ranks the listed examples based on the target API's usage. Besides, as a practical tool, APIExample provides multiple aspects of frequently-used information about using the target API in a concise user interface with friendly user experience. Two kinds of user-interaction style, a web search portal and an Eclipse plug-in, are now both publicly available.",
+        "keywords": [
+            "Web pages",
+            "Java",
+            "Web search",
+            "Programming",
+            "Internet",
+            "Data mining",
+            "Portals"
+        ]
+    },
+    {
+        "title": "BEST: A symbolic testing tool for predicting multi-threaded program failures.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100134",
+        "abstract": "We present a tool BEST (Binary instrumentation-based Error-directed Symbolic Testing) for predicting concurrency violations.\n<sup xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">1</sup>\n We automatically infer potential concurrency violations such as atomicity violations from an observed run of a multi-threaded program, and use precise modeling and constraint-based symbolic (non-enumerative) search to find feasible violating schedules in a generalization of the observed run. We specifically focus on tool scalability by devising POR-based simplification steps to reduce the formula and the search space by several orders-of-magnitude. We have successfully applied the tool to several publicly available C/C++/Java programs and found several previously known/unknown concurrency related bugs. The tool also has extensive visual support for debugging.",
+        "keywords": [
+            "Schedules",
+            "Context",
+            "Synchronization",
+            "Concurrent computing",
+            "Computer bugs",
+            "Instruments",
+            "Runtime"
+        ]
+    },
+    {
+        "title": "Decomposing feature models: language, environment, and applications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100135",
+        "abstract": "Variability in software product lines is often expressed through feature models (FMs). To handle the complexity of increasingly larger FMs, we propose semantically meaningful decomposition support through a slicing operator. We describe how the slicing operator is integrated into the FAMILIAR environment and how it can be combined with other operators to support complex tasks over FMs in different case studies.",
+        "keywords": [
+            "Frequency modulation",
+            "Software",
+            "Cognition",
+            "Context",
+            "Reverse engineering",
+            "Semantics",
+            "Feature extraction"
+        ]
+    },
+    {
+        "title": "SAUML: A tool for symbolic analysis of UML-RT models.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100136",
+        "abstract": "Model Driven Development (MDD) is an approach to software development built around the notion of models. One of its implementation is the IBM RSA RTE, which uses the UML-RT modeling language. In this paper we introduce the tool SAUML (Symbolic Analysis of UML-RT Models) that enhances the current practice of MDD with the analyses of UML-RT models. The implemented technique is based on symbolic execution, features modularity and supports the reuse of analysis results. The paper gives an overview of this technique and its implementation in the IBM RSA RTE tool.",
+        "keywords": [
+            "Unified modeling language",
+            "Analytical models",
+            "Software",
+            "Computational modeling",
+            "Heuristic algorithms",
+            "Educational institutions",
+            "Java"
+        ]
+    },
+    {
+        "title": "TestEra: A tool for testing Java programs using alloy specifications.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100137",
+        "abstract": "This tool paper presents an embodiment of TestEra - a framework developed in previous work for specification-based testing of Java programs. To test a Java method, TestEra uses the method's pre-condition specification to generate test inputs and the post-condition to check correctness of outputs. TestEra supports specifications written in Alloy - a first-order, declarative language based on relations - and uses the SAT-based back-end of the Alloy tool-set for systematic generation of test suites. Each test case is a JUnit test method, which performs three key steps: (1) initialization of pre-state, i.e., creation of inputs to the method under test; (2) invocation of the method; and (3) checking the correctness of post-state, i.e., checking the method output. The tool supports visualization of inputs and outputs as object graphs for graphical illustration of method behavior. TestEra is available for download to be used as a library or as an Eclipse plug-in.",
+        "keywords": [
+            "Metals",
+            "Java",
+            "Testing",
+            "Software engineering",
+            "Receivers",
+            "Systematics",
+            "Libraries"
+        ]
+    },
+    {
+        "title": "MAJOR: An efficient and extensible tool for mutation analysis in a Java compiler.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100138",
+        "abstract": "Mutation analysis is an effective, yet often time-consuming and difficult-to-use method for the evaluation of testing strategies. In response to these and other challenges, this paper presents MAJOR, a fault seeding and mutation analysis tool that is integrated into the Java Standard Edition compiler as a non-invasive enhancement for use in any Java-based development environment. MAJOR reduces the mutant generation time and enables efficient mutation analysis. It has already been successfully applied to large applications with up to 373,000 lines of code and 406,000 mutants. Moreover, MAJOR's domain specific language for specifying and adapting mutation operators also makes it extensible. Due to its ease-of-use, efficiency, and extensibility, MAJOR is an ideal platform for the study and application of mutation analysis.",
+        "keywords": [
+            "Runtime",
+            "Java",
+            "Testing",
+            "Memory management",
+            "Educational institutions",
+            "Automation"
+        ]
+    },
+    {
+        "title": "jCT: A Java Code Tomograph.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100139",
+        "abstract": "We are concerned with analyzing software, in particular, with its nature and how developer decisions and behavior impact the quality of the product they produce. This is the domain of empirical software engineering where measurement seeks to capture attributes affecting the product, process, and resources of software development. A well-established means to study software attributes is metrics data mining. But, even though a variety of frameworks have emerged that can distill desired measures from software systems (e.g., JHawk or SonarJ), a systematic approach to collecting measures from large data sets has still eluded us. For this reason, we have developed the Java Code Tomograph (jCT), a novel framework for metrics extraction and processing. jCT offers an extensible measurement infrastructure with built-in support for the curated repositories Qualitas Corpus and Helix. With jCT, large-scale empirical studies of code within the same software system or across different software systems become feasible. In this paper, we provide an overview of jCT's main design features and discuss its operation in relation to the effectiveness of the framework.",
+        "keywords": [
+            "Java",
+            "Software systems",
+            "Data mining",
+            "Software measurement",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Generating realistic test models for model processing tools.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100140",
+        "abstract": "Test models are needed to evaluate and benchmark algorithms and tools in model driven development. Most model generators randomly apply graph operations on graph representations of models. This approach leads to test models of poor quality. Some approaches do not guarantee the basic syntactic correctness of the created models. Even if so, it is almost impossible to guarantee, or even control, the creation of complex structures, e.g. a subgraph which implements an association between two classes. Such a subgraph consists of an association node, two association end nodes, and several edges, and is normally created by one user command. This paper presents the SiDiff Model Generator, which can generate models, or sets of models, which are syntactically correct, contain complex structures, and exhibit defined statistical characteristics.",
+        "keywords": [
+            "Biological system modeling",
+            "Unified modeling language",
+            "Generators",
+            "Context modeling",
+            "Context",
+            "Adaptation models",
+            "Computational modeling"
+        ]
+    },
+    {
+        "title": "Guided test visualization: Making sense of errors in concurrent programs.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100141",
+        "abstract": "This paper describes a tool to help debug error traces found by the Java Pathfinder model checker in concurrent Java programs. It does this by abstracting out thread interactions and program locations that are not obviously pertinent to the error through control flow or data dependence. The tool then iteratively refines the abstraction by adding thread interactions at critical locations until the error is reachable. The tool visualizes the entire process and enables the user to systematically analyze each abstraction and execution. Such an approach explicitly identifies specific context switch locations and thread interactions needed to debug a concurrent error trace in small to moderate programs that can be managed by the Java Pathfinder Tool.",
+        "keywords": [
+            "Concrete",
+            "Context",
+            "Concurrent computing",
+            "Java",
+            "Switches",
+            "Visualization",
+            "Data visualization"
+        ]
+    },
+    {
+        "title": "The Capture Calculus Toolset.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100142",
+        "abstract": "Distributed embedded systems, such as multi-player smartphone games, training instrumentation systems, and “smart” homes, naturally have complex requirements. These are difficult to elicit, represent, validate, and verify. For high confidence, one demands that the represented requirements reflect realistic uses of the system; however, such uses, often representing human actions in complex environments, can have hundreds to thousands of steps and be impractical to elicit and manage using only declarative or intensional (computed) representations. Non-functional requirements like scalability increase this complexity further. In this paper, I show how one can bootstrap requirements using data captured from initial prototypes deployed in small scale real world tests. Using such captures as seeds, I show how a calculus of transformations on captures, from captures to scenarios, among scenarios, and from scenarios back to captures can be used in several requirements engineering tasks. I describe a novel ecosystem of tools and transformations that implement this capture calculus and illustrate its use on data obtained from the domain of multi-player outdoor smartphone games.",
+        "keywords": [
+            "Games",
+            "Calculus",
+            "Computational modeling",
+            "Animation",
+            "Prototypes",
+            "Humans",
+            "Clocks"
+        ]
+    },
+    {
+        "title": "A model checking framework for hierarchical systems.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100143",
+        "abstract": "BDD-based symbolic model checking is capable of verifying systems with a large number of states. In this work, we report an extensible framework to facilitate symbolic encoding and checking of hierarchical systems. Firstly, a novel library of symbolic encoding functions for compositional operators (e.g., parallel composition, sequential composition, choice operator, etc.) are developed so that users can apply symbolic model checking techniques to hierarchical systems with little knowledge of symbolic encoding techniques (like BDD or CUDD). Secondly, as the library is language-independent, we build an extensible framework with various symbolic model checking algorithms so that the library can be easily applied to encode and verify different modeling languages. Lastly, the applicability and scalability of our framework are demonstrated by applying the framework in the development of symbolic model checkers for three modeling languages as well as a comparison with the NuSMV model checker.",
+        "keywords": [
+            "Data structures",
+            "Boolean functions",
+            "Encoding",
+            "Libraries",
+            "Hierarchical systems",
+            "Synchronization",
+            "Computational modeling"
+        ]
+    },
+    {
+        "title": "Automatically detecting the quality of the query and its implications in IR-based concept location.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100144",
+        "abstract": "Concept location is an essential task during software maintenance and in particular program comprehension activities. One of the approaches to this task is based on leveraging the lexical information found in the source code by means of Information Retrieval techniques. All IR-based approaches to concept location are highly dependent on the queries written by the users. An IR approach, even though good on average, might fail when the input query is poor. Currently there is no way to tell when a query leads to poor results for IR-based concept location, unless a considerable effort is put into analyzing the results after the fact. We propose an approach based on recent advances in the field of IR research, which aims at automatically determining the difficulty a query poses to an IR-based concept location technique. We plan to evaluate several models and relate them to IR performance metrics.",
+        "keywords": [
+            "Prediction algorithms",
+            "Correlation",
+            "Estimation",
+            "Conferences",
+            "Measurement",
+            "Search engines"
+        ]
+    },
+    {
+        "title": "Using Formal Concept Analysis to support change analysis.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100146",
+        "abstract": "Software needs to be maintained and changed to cope with new requirement, existing faults and change requests as software evolves. One particular issue in software maintenance is how to deal with a change proposal before change implementation? Changes to software often cause unexpected ripple effects. To avoid this and alleviate the risk of performing undesirable changes, some predictive measurement should be conducted and a change scheme of the change proposal should be presented. This research intends to provide a unified framework for change analysis, which includes dependencies extraction, change impact analysis, changeability assessment, etc. We expect that our change analysis framework will contribute directly to the improvement of the accuracy of these predictive measures before change implementation, and thus provide more accurate change analysis results for software maintainers, improve quality of software evolution and reduce the software maintenance effort and cost.",
+        "keywords": [
+            "Proposals",
+            "Software maintenance",
+            "Measurement",
+            "Software engineering",
+            "Lattices",
+            "Maintenance engineering"
+        ]
+    },
+    {
+        "title": "A framework for managing uncertainty in self-adaptive software systems.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100147",
+        "abstract": "Self-adaptation endows a software system with the ability to satisfy certain objectives by automatically modifying its behavior. While many promising approaches for the construction of self-adaptive software systems have been developed, the majority of them ignore the uncertainty underlying the adaptation decisions. This has been one of the key inhibitors to widespread adoption of self-adaption techniques in risk-averse real-world settings. In this research abstract I outline my ongoing effort in the development of a framework for managing uncertainty in self-adaptation. This framework employs state-of-the-art mathematical approaches to model and assess uncertainty in adaptation decisions. Preliminary results show that knowledge about uncertainty allows self-adaptive software systems to make better decisions.",
+        "keywords": [
+            "Uncertainty",
+            "Software systems",
+            "Robots",
+            "Analytical models",
+            "Runtime"
+        ]
+    },
+    {
+        "title": "Toward consistency checking of natural language temporal requirements.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100148",
+        "abstract": "We discuss the problem of identifying inconsistencies in temporal requirements expressed as natural language text. We propose a partially automated approach that aims to minimize analysts' workload and improve accuracy. As one of the ingredients of the approach, we introduce a formal language to represent temporal requirements precisely and unambiguously. We call this language Temporal Action Language (TAL).",
+        "keywords": [
+            "Natural languages",
+            "Servers",
+            "Software",
+            "Syntactics",
+            "Unified modeling language",
+            "Semantics",
+            "Cognition"
+        ]
+    },
+    {
+        "title": "Analyzing temporal properties of abstract models.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100149",
+        "abstract": "Models are created and changed throughout the development process of software systems. The cost of repairing the errors that are due to mistakes in models is very high. In this research, we address this problem by developing model checking techniques that can be applied to abstract models that guide designers throughout the evolution of models and systems. Abstract models are declarative, expressed as a set of constraints, and this declarative aspect is the main challenge in model checking them. Our main idea for solving this problem is to express the model checking problem as a constraint solving problem. This approach enables designers to use current state-of-the-art constraint solvers for analysis. We have implemented this idea for Alloy models and we are further extending it for automatic model repairing. To achieve scalability, we have developed BDD-based methods for analysis of declarative models and we are studying model checking methods that are based on satisfiability modulo theories. We plan to extend these methods to infinite state space models.",
+        "keywords": [
+            "Analytical models",
+            "Computational modeling",
+            "Metals",
+            "Mathematical model",
+            "Semantics",
+            "Software",
+            "Data structures"
+        ]
+    },
+    {
+        "title": "Improving spectrum-based fault localization using proximity-based weighting of test cases.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100150",
+        "abstract": "Spectrum based fault localization techniques such as Tarantula and Ochiai calculate the suspiciousness score of a program statement using the number of failing and passing test cases that execute the statement. These techniques implicitly assume that all test cases are equally important. However, research on test case generation and selection techniques has shown that using certain test cases can lead to more effective fault localization than others. The proposed research aims to improve the effectiveness of spectrum based fault localization by incorporating the relative importance of different test cases in the calculation of suspiciousness scores.",
+        "keywords": [
+            "Benchmark testing",
+            "Mathematical model",
+            "Equations",
+            "Context",
+            "Weight measurement",
+            "Software engineering",
+            "Debugging"
+        ]
+    },
+    {
+        "title": "Automatic assessment of software documentation quality.",
+        "venue_name": "ase",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2011.6100151",
+        "abstract": "In this paper I describe the concept of my dissertation, which aims at adapting the Continuous Quality Monitoring Method (CQMM) for the automated quality assessment of software documentation using a developed document quality analysis framework and software document quality rules which represent best practices for software documentation.",
+        "keywords": [
+            "Documentation",
+            "Software",
+            "Inspection",
+            "Software engineering",
+            "Best practices",
+            "Adaptation models",
+            "ISO standards"
+        ]
+    }
+]

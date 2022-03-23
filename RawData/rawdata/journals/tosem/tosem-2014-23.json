@@ -1,0 +1,490 @@
+[
+    {
+        "title": "Assessing the Effect of Screen Mockups on the Comprehension of Functional Requirements.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2629457",
+        "volume": "24"
+    },
+    {
+        "title": "A Continuous ASM Modelling Approach to Pacemaker Sensing.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2610375",
+        "volume": "24"
+    },
+    {
+        "title": "Directed Incremental Symbolic Execution.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2629536",
+        "volume": "24"
+    },
+    {
+        "title": "Mining Unit Tests for Discovery and Migration of Math APIs.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2629506",
+        "volume": "24"
+    },
+    {
+        "title": "Combining Centralised and Distributed Testing.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2661296",
+        "volume": "24"
+    },
+    {
+        "title": "Code-Smell Detection as a Bilevel Problem.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2675067",
+        "volume": "24"
+    },
+    {
+        "title": "Residual Investigation: Predictive and Precise Bug Detection.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2656201",
+        "volume": "24"
+    },
+    {
+        "title": "A Large-Scale Evaluation of Automated Unit Test Generation Using EvoSuite.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2685612",
+        "volume": "24"
+    },
+    {
+        "title": "Conditional Commitments: Reasoning and Model Checking.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2685613",
+        "volume": "24"
+    },
+    {
+        "title": "A Unified Test Case Prioritization Approach.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2685614",
+        "volume": "24"
+    },
+    {
+        "title": "Formal Verification of Software Countermeasures against Side-Channel Attacks.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2685616",
+        "volume": "24"
+    },
+    {
+        "title": "When and How to Use Multilevel Modelling.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2685615",
+        "volume": "24"
+    },
+    {
+        "title": "aToucan: An Automated Framework to Derive UML Analysis Models from Use Case Models.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2699697",
+        "volume": "24"
+    },
+    {
+        "title": "Documenting Design-Pattern Instances: A Family of Experiments on Source-Code Comprehensibility.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2699696",
+        "volume": "24"
+    },
+    {
+        "title": "Deciding Type-Based Partial-Order Constraints for Path-Sensitive Analysis.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2755971",
+        "volume": "24"
+    },
+    {
+        "title": "Automatic Workarounds: Exploiting the Intrinsic Redundancy of Web Applications.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2755970",
+        "volume": "24"
+    },
+    {
+        "title": "Many-Objective Software Remodularization Using NSGA-III.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2729974",
+        "volume": "24"
+    },
+    {
+        "title": "Software Change Contracts.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2729973",
+        "volume": "24"
+    },
+    {
+        "title": "Platys: An Active Learning Framework for Place-Aware Application Development and Its Evaluation.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2729976",
+        "volume": "24"
+    },
+    {
+        "title": "A Baseline Model for Software Effort Estimation.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2738037",
+        "volume": "24"
+    },
+    {
+        "title": "Introduction to the Special Issue on ISSTA 2013.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2809789",
+        "volume": "24"
+    },
+    {
+        "title": "Guidelines for Coverage-Based Comparisons of Non-Adequate Test Suites.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2660767",
+        "volume": "24"
+    },
+    {
+        "title": "Does Automated Unit Test Generation Really Help Software Testers? A Controlled Empirical Study.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2699688",
+        "volume": "24"
+    },
+    {
+        "title": "Effective Techniques for Static Race Detection in Java Parallel Loops.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2729975",
+        "volume": "24"
+    },
+    {
+        "title": "Data Model Property Inference, Verification, and Repair for Web Applications.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2699691",
+        "volume": "24"
+    },
+    {
+        "title": "Automated Support for Reproducing and Debugging Field Failures.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2774218",
+        "volume": "24"
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559939",
+        "volume": "23"
+    },
+    {
+        "title": "Architecture-centric support for adaptive service collaborations.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559937",
+        "volume": "23"
+    },
+    {
+        "title": "Automated cookie collection testing.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559936",
+        "volume": "23"
+    },
+    {
+        "title": "Improving software modularization via automated analysis of latent topics and dependencies.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559935",
+        "volume": "23"
+    },
+    {
+        "title": "Do we need to handle every temporal violation in scientific workflow systems?",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559938",
+        "volume": "23"
+    },
+    {
+        "title": "Model-based synthesis of control software from system-level formal specifications.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559934",
+        "volume": "23"
+    },
+    {
+        "title": "Join point interfaces for safe and flexible decoupling of aspects.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559933",
+        "volume": "23"
+    },
+    {
+        "title": "Prevalence of coincidental correctness and mitigation of its impact on fault localization.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559932",
+        "volume": "23"
+    },
+    {
+        "title": "Traceability and SysML design slices to support safety inspections: A controlled experiment.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2559978",
+        "volume": "23"
+    },
+    {
+        "title": "An in-depth study of the potentially confounding effect of class size in fault prediction.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2556777",
+        "volume": "23"
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2581373",
+        "volume": "23"
+    },
+    {
+        "title": "Guided test generation for database applications via synthesized database interactions.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491529",
+        "volume": "23"
+    },
+    {
+        "title": "On the impact of UML analysis models on source-code comprehensibility and modifiability.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491912",
+        "volume": "23"
+    },
+    {
+        "title": "Degree-of-knowledge: Modeling a developer's knowledge of code.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2512207",
+        "volume": "23"
+    },
+    {
+        "title": "Required behavior of sequence diagrams: Semantics and conformance.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2523108",
+        "volume": "23"
+    },
+    {
+        "title": "A taxonomy for requirements engineering and software test alignment.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2523088",
+        "volume": "23"
+    },
+    {
+        "title": "ADAM: External dependency-driven architecture discovery and analysis of quality attributes.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2529998",
+        "volume": "23"
+    },
+    {
+        "title": "Key factors for adopting inner source.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2533685",
+        "volume": "23"
+    },
+    {
+        "title": "Exact scalable sensitivity analysis for the next release problem.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2537853",
+        "volume": "23"
+    },
+    {
+        "title": "Dynamite: A tool for the verification of alloy models based on PVS.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2544136",
+        "volume": "23"
+    },
+    {
+        "title": "Generating Test Cases for Programs that Are Coded against Interfaces and Annotations.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2544135",
+        "volume": "23"
+    },
+    {
+        "title": "A Methodology for Exposing Risk in Achieving Emergent System Properties.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2560048",
+        "volume": "23"
+    },
+    {
+        "title": "Scalable Runtime Bloat Detection Using Abstract Dynamic Slicing.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2560047",
+        "volume": "23"
+    },
+    {
+        "title": "GreASE: A Tool for Efficient \"Nonequivalence\" Checking.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2560563",
+        "volume": "23"
+    },
+    {
+        "title": "Architecture-Level Configuration of Large-Scale Embedded Software Systems.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2581376",
+        "volume": "23"
+    },
+    {
+        "title": "Solving the Search for Source Code.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2581377",
+        "volume": "23"
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2656368",
+        "volume": "23"
+    },
+    {
+        "title": "Introduction to the Special Issue International Conference on Software Engineering (ICSE 2012).",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2658849",
+        "volume": "23"
+    },
+    {
+        "title": "Automated Detection of Client-State Manipulation Vulnerabilities.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2531921",
+        "volume": "23"
+    },
+    {
+        "title": "DIG: A Dynamic Invariant Generator for Polynomial and Array Invariants.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2556782",
+        "volume": "23"
+    },
+    {
+        "title": "On the Comprehension of Program Comprehension.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2622669",
+        "volume": "23"
+    },
+    {
+        "title": "Amplifying Tests to Validate Exception Handling Code: An Extended Study in the Mobile Application Domain.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2652483",
+        "volume": "23"
+    },
+    {
+        "title": "Some Code Smells Have a Significant but Small Effect on Faults.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2629648",
+        "volume": "23"
+    },
+    {
+        "title": "Scaling Up Symbolic Analysis by Removing Z-Equivalent States.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2652484",
+        "volume": "23"
+    },
+    {
+        "title": "Peer Review on Open-Source Software Projects: Parameters, Statistical Models, and Theory.",
+        "venue_name": "tosem",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2594458",
+        "volume": "23"
+    }
+]

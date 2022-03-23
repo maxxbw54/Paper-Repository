@@ -1,0 +1,1081 @@
+[
+    {
+        "title": "Need for Sleep: The Impact of a Night of Sleep Deprivation on Novice Developers' Performance.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2834900",
+        "volume": "46",
+        "abstract": "We present a quasi-experiment to investigate whether, and to what extent, sleep deprivation impacts the performance of novice software developers using the agile practice of test-first development (TFD). We recruited 45 undergraduates, and asked them to tackle a programming task. Among the participants, 23 agreed to stay awake the night before carrying out the task, while 22 slept normally. We analyzed the quality (i.e., the functional correctness) of the implementations delivered by the participants in both groups, their engagement in writing source code (i.e., the amount of activities performed in the IDE while tackling the programming task) and ability to apply TFD (i.e., the extent to which a participant is able to apply this practice). By comparing the two groups of participants, we found that a single night of sleep deprivation leads to a reduction of 50 percent in the quality of the implementations. There is notable evidence that the developers' engagement and their prowess to apply TFD are negatively impacted. Our results also show that sleep-deprived developers make more fixes to syntactic mistakes in the source code. We conclude that sleep deprivation has possibly disruptive effects on software development activities. The results open opportunities for improving developers' performance by integrating the study of sleep with other psycho-physiological factors in which the software engineering research community has recently taken an interest in.",
+        "keywords": [
+            "Sleep",
+            "Software",
+            "Task analysis",
+            "Biomedical monitoring",
+            "Software engineering",
+            "Programming",
+            "Functional magnetic resonance imaging"
+        ]
+    },
+    {
+        "title": "Automatically Categorizing Software Technologies.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2836450",
+        "volume": "46",
+        "abstract": "Informal language and the absence of a standard taxonomy for software technologies make it difficult to reliably analyze technology trends on discussion forums and other on-line venues. We propose an automated approach called Witt for the categorization of software technologies (an expanded version of the hypernym discovery problem). Witt takes as input a phrase describing a software technology or concept and returns a general category that describes it (e.g., integrated development environment), along with attributes that further qualify it (commercial, php, etc.). By extension, the approach enables the dynamic creation of lists of all technologies of a given type (e.g., web application frameworks). Our approach relies on Stack Overflow and Wikipedia, and involves numerous original domain adaptations and a new solution to the problem of normalizing automatically-detected hypernyms. We compared Witt with six independent taxonomy tools and found that, when applied to software terms, Witt demonstrated better coverage than all evaluated alternative solutions, without a corresponding degradation in false positive rate.",
+        "keywords": [
+            "Software",
+            "Encyclopedias",
+            "Electronic publishing",
+            "Internet",
+            "Taxonomy",
+            "Tools"
+        ]
+    },
+    {
+        "title": "Use and Misuse of Continuous Integration Features: An Empirical Study of Projects That (Mis)Use Travis CI.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2838131",
+        "volume": "46",
+        "abstract": "Continuous Integration (CI) is a popular practice where software systems are automatically compiled and tested as changes appear in the version control system of a project. Like other software artifacts, CI specifications require maintenance effort. Although there are several service providers like TRAVIS CI offering various CI features, it is unclear which features are being (mis)used. In this paper, we present a study of feature use and misuse in 9,312 open source systems that use TRAVIS CI. Analysis of the features that are adopted by projects reveals that explicit deployment code is rare-48.16 percent of the studied TRAVIS CI specification code is instead associated with configuring job processing nodes. To analyze feature misuse, we propose HANSEL-an anti-pattern detection tool for TRAVIS CI specifications. We define four anti-patterns and HANSEL detects anti-patterns in the TRAVIS CI specifications of 894 projects in the corpus (9.60 percent), and achieves a recall of 82.76 percent in a sample of 100 projects. Furthermore, we propose GRETEL-an anti-pattern removal tool for TRAVIS CI specifications, which can remove 69.60 percent of the most frequently occurring antipattern automatically. Using GRETEL, we have produced 36 accepted pull requests that remove TRAVIS CI anti-patterns automatically.",
+        "keywords": [
+            "Object oriented programming",
+            "Software development management",
+            "Software maintenance",
+            "Software quality",
+            "Software performance"
+        ]
+    },
+    {
+        "title": "Incentivizing Deep Fixes in Software Economies.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2842188",
+        "volume": "46",
+        "abstract": "An important question in a software economy is how to incentivize deep rather than shallow fixes. A deep fix corrects the root cause of a bug instead of suppressing the symptoms. This paper initiates the study of the problem of incentive design for open workflows in fixing code. We model the dynamics of the software ecosystem and introduce subsumption mechanisms. These mechanisms only make use of externally observable information in determining payments and promote competition between workers. We use a mean field equilibrium methodology to evaluate the performance of these mechanisms, demonstrating in simulation that subsumption mechanisms perform robustly across various environment configurations and satisfy important criteria for market design.",
+        "keywords": [
+            "Computer bugs",
+            "Task analysis",
+            "Ecosystems",
+            "Open source software",
+            "Testing",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "A Multi-Study Investigation into Dead Code.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2842781",
+        "volume": "46",
+        "abstract": "Dead code is a bad smell and it appears to be widespread in open-source and commercial software systems. Surprisingly, dead code has received very little empirical attention from the software engineering research community. In this paper, we present a multi-study investigation with an overarching goal to study, from the perspective of researchers and developers, when and why developers introduce dead code, howthey perceive and cope with it, and whether dead code is harmful. To this end, we conducted semi-structured interviews with software professionals and four experiments at the University of Basilicata and the College of William & Mary. The results suggest that it is worth studying dead code not only in the maintenance and evolution phases, where our results suggest that dead code is harmful, but also in the design and implementation phases. Our results motivate future work to develop techniques for detecting and removing dead code and suggest that developers should avoid this smell.",
+        "keywords": [
+            "Software systems",
+            "Maintenance engineering",
+            "Software engineering",
+            "Interviews",
+            "Tools",
+            "Open source software"
+        ]
+    },
+    {
+        "title": "On the Understandability of Temporal Properties Formalized in Linear Temporal Logic, Property Specification Patterns and Event Processing Language.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2859926",
+        "volume": "46",
+        "abstract": "Temporal properties are important in a wide variety of domains for different purposes. For example, they can be used to avoid architectural drift in software engineering orto support the regulatory compliance of business processes. In this work, we study the understandability of three majortemporal property representations: (1) LinearTemporal Logic (LTL) is a formal and well-established logic that offers temporal operators to describe temporal properties; (2) Property Specification Patterns (PSP) are a collection of recurring temporal properties that abstract underlying formal and technical representations; (3) Event Processing Language (EPL) can be used for runtime monitoring of event streams using Complex Event Processing. We conducted two controlled experiments with 216 participants in total to study the understandability of those approaches using a completely randomized design with one alternative per experimental unit. We hypothesized that PSP, as a highly abstracting pattern language, is easier to understand than LTL and EPL, and that EPL, due to separation of concerns (as one or more queries can be used to explicitly define the truth value change that an observed event pattern causes), is easier to understand than LTL. We found evidence supporting our hypotheses which was statistically significant and reproducible.",
+        "keywords": [
+            "Software",
+            "Computer science",
+            "Guidelines",
+            "Industries",
+            "Software architecture",
+            "Cognition"
+        ]
+    },
+    {
+        "title": "Corrections to \"Detecting Bugs by Discovering Expectations and Their Violations\".",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2019.2958750",
+        "volume": "46",
+        "abstract": "In the above named work (ibid., vol. 45, no. 10, pp. 984???1001, Oct. 2019), the corresponding author should have been listed as Bin Liang. The footnote information is corrected here.",
+        "keywords": [
+            "Computer bugs",
+            "Computer science",
+            "Software",
+            "Libraries"
+        ]
+    },
+    {
+        "title": "Motivation and Satisfaction of Software Engineers.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2842201",
+        "volume": "46",
+        "abstract": "Context: The proper management of people can help software organisations to achieve higher levels of success. However, the limited attention paid to the appropriate use of theories to underpin the research in this area leaves it unclear how to deal with human aspects of software engineers, such as motivation and satisfaction. Objectives: This article aims to expose what drives the motivation and satisfaction of software engineers at work. Methods: A multiple case study was conducted at four software organisations in Brazil. For 11 months, data was collected using semi-structured interviews, diary studies, and document analyses. Results: The Theory of Motivation and Satisfaction of Software Engineers (TMS-SE), presented in this article, combines elements from well established theories with new findings, and translates them into the software engineering context. Conclusion: The TMS-SE advances the understanding of people management in the software engineering field and presents a strong conceptual framework for future investigations in this area.",
+        "keywords": [
+            "Software development management",
+            "Software engineering",
+            "Productivity",
+            "Organizational aspects",
+            "Human resource management",
+            "Human factors"
+        ]
+    },
+    {
+        "title": "Identifying Failure-Causing Schemas in the Presence of Multiple Faults.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2844259",
+        "volume": "46",
+        "abstract": "Combinatorial testing (CT) has been proven effective in revealing the failures caused by the interaction of factors that affect the behavior of a system. The theory of Minimal Failure-Causing Schema (MFS) has been proposed to isolate the cause of a failure after CT. Most algorithms that aim to identify MFS focus on handling a single fault in the System Under Test (SUT). However, we argue that multiple faults are more common in practice, under which masking effects may be triggered so that some failures cannot be observed. The traditional MFS theory lacks a mechanism to handle such effects; hence, they may incorrectly isolate the MFS. To address this problem, we propose a new MFS model that takes into account multiple faults. We first formally analyze the impact of the multiple faults on existing MFS identifying algorithms, especially in situations where masking effects are triggered by multiple faults. We then develop an approach that can assist traditional algorithms to better handle multiple faults. Empirical studies were conducted using several kinds of open-source software, which showed that multiple faults with masking effects do negatively affect traditional MFS identifying approaches and that our approach can help to alleviate these effects.",
+        "keywords": [
+            "Testing",
+            "Bars",
+            "Fault diagnosis",
+            "Computer bugs",
+            "Software algorithms",
+            "Open source software"
+        ]
+    },
+    {
+        "title": "An Integrated Approach for Effective Injection Vulnerability Analysis of Web Applications Through Security Slicing and Hybrid Constraint Solving.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2844343",
+        "volume": "46",
+        "abstract": "Malicious users can attack Web applications by exploiting injection vulnerabilities in the source code. This work addresses the challenge of detecting injection vulnerabilities in the server-side code of Java Web applications in a scalable and effective way. We propose an integrated approach that seamlessly combines security slicing with hybrid constraint solving; the latter orchestrates automata-based solving with meta-heuristic search. We use static analysis to extract minimal program slices relevant to security from Web programs and to generate attack conditions. We then apply hybrid constraint solving to determine the satisfiability of attack conditions and thus detect vulnerabilities. The experimental results, using a benchmark comprising a set of diverse and representative Web applications/services as well as security benchmark applications, show that our approach (implemented in the JOACO tool) is significantly more effective at detecting injection vulnerabilities than state-of-the-art approaches, achieving 98 percent recall, without producing any false alarm. We also compared the constraint solving module of our approach with state-of-the-art constraint solvers, using six different benchmark suites; our approach correctly solved the highest number of constraints (665 out of 672), without producing any incorrect result, and was the one with the least number of time-out/failing cases. In both scenarios, the execution time was practically acceptable, given the offline nature of vulnerability detection.",
+        "keywords": [
+            "Security",
+            "Benchmark testing",
+            "Tools",
+            "Explosions",
+            "Java",
+            "Static analysis",
+            "Reliability"
+        ]
+    },
+    {
+        "title": "Machine Learning-Based Prototyping of Graphical User Interfaces for Mobile Apps.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2844788",
+        "volume": "46",
+        "abstract": "It is common practice for developers of user-facing software to transform a mock-up of a graphical user interface (GUI) into code. This process takes place both at an application's inception and in an evolutionary context as GUI changes keep pace with evolving features. Unfortunately, this practice is challenging and time-consuming. In this paper, we present an approach that automates this process by enabling accurate prototyping of GUIs via three tasks: detection, classification, and assembly. First, logical components of a GUI are detected from a mock-up artifact using either computer vision techniques or mock-up metadata. Then, software repository mining, automated dynamic analysis, and deep convolutional neural networks are utilized to accurately classify GUI-components into domain-specific types (e.g., toggle-button). Finally, a data-driven, K-nearest-neighbors algorithm generates a suitable hierarchical GUI structure from which a prototype application can be automatically assembled. We implemented this approach for Android in a system called ReDraw. Our evaluation illustrates that ReDraw achieves an average GUI-component classification accuracy of 91 percent and assembles prototype applications that closely mirror target mock-ups in terms of visual affinity while exhibiting reasonable code structure. Interviews with industrial practitioners illustrate ReDraw's potential to improve real development workflows.",
+        "keywords": [
+            "Graphical user interfaces",
+            "Software",
+            "Task analysis",
+            "Prototypes",
+            "Metadata",
+            "Androids",
+            "Humanoid robots"
+        ]
+    },
+    {
+        "title": "Safety Practices in Requirements Engineering: The Uni-REPM Safety Module.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2846576",
+        "volume": "46",
+        "abstract": "Context: Software is an important part in safety-critical system (SCS) development since it is becoming a major source of hazards. Requirements-related hazards have been associated with many accidents and safety incidents. Requirements issues tend to be mitigated in companies with high processes maturity levels since they do their business in a systematic, consistent and proactive approach. However, requirements engineers need systematic guidance to consider safety concerns early in the development process. Goal: the paper investigates which safety practices are suitable to be used in the Requirements Engineering (RE) process for SCS and how to design a safety maturity model for this area. Method: we followed the design science methodology to propose Uni-REPM SCS, a safety module for Unified Requirements Engineering Process Maturity Model (Uni-REPM). We also conducted a static validation with two practitioners and nine academic experts to evaluate its coverage, correctness, usefulness, and applicability. Results: The module has seven main processes, fourteen sub-processes and 148 practices that form the basis of safety processes maturity. Moreover, we describe its usage through a tool. Conclusions: The validation indicates a good coverage of practices and well receptivity by the experts. Finally, the module can help companies in evaluating their current practices.",
+        "keywords": [
+            "Safety",
+            "Companies",
+            "Software",
+            "Capability maturity model",
+            "Requirements engineering",
+            "Systematics",
+            "Standards"
+        ]
+    },
+    {
+        "title": "Automated Selection of Optimal Model Transformation Chains via Shortest-Path Algorithms.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2846223",
+        "volume": "46",
+        "abstract": "Conventional wisdom on model transformations in Model-Driven Engineering (MDE) suggests that they are crucial components in modeling environments to achieve superior automation, whether it be refactoring, simulation, or code generation. While their relevance is well-accepted, model transformations are challenging to design, implement, and verify because of the inherent complexity that they must encode. Thus, defining transformations by chaining existing ones is key to success for enhancing their reusability. This paper proposes an approach, based on well-established algorithms, to support modellers when multiple transformation chains are available to bridge a source metamodel with a target one. The all-important goal of selecting the optimal chain has been based on the quality criteria of coverage and information loss. The feasibility of the approach has been demonstrated by means of experiments operated on chains obtained from transformations borrowed from a publicly available repository.",
+        "keywords": [
+            "Unified modeling language",
+            "Adaptation models",
+            "Bridges",
+            "Analytical models",
+            "Model driven engineering",
+            "Ecosystems"
+        ]
+    },
+    {
+        "title": "Analyzing the Effects of Bugs on Software Interfaces.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2850755",
+        "volume": "46",
+        "abstract": "Critical systems that integrate software components (e.g., from third-parties) need to address the risk of residual software defects in these components. Software fault injection is an experimental solution to gauge such risk. Many error models have been proposed for emulating faulty components, such as by injecting error codes and exceptions, or by corrupting data with bit-flips, boundary values, and random values. Even if these error models have been able to find breaches in fragile systems, it is unclear whether these errors are in fact representative of software faults. To pursue this open question, we propose a methodology to analyze how software faults in C/C++ software components turn into errors at components' interfaces (interface error propagation), and present an experimental analysis on what, where, and when to inject interface errors. The results point out that the traditional error models, as used so far, do not accurately emulate software faults, but that richer interface errors need to be injected, by: injecting both fail-stop behaviors and data corruptions; targeting larger amounts of corrupted data structures; emulating silent data corruptions not signaled by the component; combining bit-flips, boundary values, and data perturbations.",
+        "keywords": [
+            "Software",
+            "Unified modeling language",
+            "Computer bugs",
+            "Perturbation methods",
+            "Testing",
+            "Fault tolerance"
+        ]
+    },
+    {
+        "title": "An Empirical Comparison of Combinatorial Testing, Random Testing and Adaptive Random Testing.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2852744",
+        "volume": "46",
+        "abstract": "We present an empirical comparison of three test generation techniques, namely, Combinatorial Testing (CT), Random Testing (RT) and Adaptive Random Testing (ART), under different test scenarios. This is the first study in the literature to account for the (more realistic) testing setting in which the tester may not have complete information about the parameters and constraints that pertain to the system, and to account for the challenge posed by faults (in terms of failure rate). Our study was conducted on nine real-world programs under a total of 1683 test scenarios (combinations of available parameter and constraint information and failure rate). The results show significant differences in the techniques' fault detection ability when faults are hard to detect (failure rates are relatively low). CT performs best overall; no worse than any other in 98 percent of scenarios studied. ART enhances RT, and is comparable to CT in 96 percent of scenarios, but its computational cost can be up to 3.5 times higher than CT when the program is highly constrained. Additionally, when constraint information is unavailable for a highly-constrained program, a large random test suite is as effective as CT or ART, yet its computational cost of test generation is significantly lower than that of other techniques.",
+        "keywords": [
+            "Testing",
+            "Subspace constraints",
+            "Computational efficiency",
+            "Fault detection",
+            "Analytical models",
+            "Software systems"
+        ]
+    },
+    {
+        "title": "A Framework for Quantitative Modeling and Analysis of Highly (Re)configurable Systems.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2853726",
+        "volume": "46",
+        "abstract": "This paper presents our approach to the quantitative modeling and analysis of highly (re)configurable systems, such as software product lines. Different combinations of the optional features of such a system give rise to combinatorially many individual system variants. We use a formal modeling language that allows us to model systems with probabilistic behavior, possibly subject to quantitative feature constraints, and able to dynamically install, remove or replace features. More precisely, our models are defined in the probabilistic feature-oriented language QFLan, a rich domain specific language (DSL) for systems with variability defined in terms of features. QFLan specifications are automatically encoded in terms of a process algebra whose operational behavior interacts with a store of constraints, and hence allows to separate system configuration from system behavior. The resulting probabilistic configurations and behavior converge seamlessly in a semantics based on discrete-time Markov chains, thus enabling quantitative analysis. Our analysis is based on statistical model checking techniques, which allow us to scale to larger models with respect to precise probabilistic analysis techniques. The analyses we can conduct range from the likelihood of specific behavior to the expected average cost, in terms of feature attributes, of specific system variants. Our approach is supported by a novel Eclipse-based tool which includes state-of-the-art DSL utilities for QFLan based on the Xtext framework as well as analysis plug-ins to seamlessly run statistical model checking analyses. We provide a number of case studies that have driven and validated the development of our framework.",
+        "keywords": [
+            "Probabilistic logic",
+            "Model checking",
+            "Tools",
+            "Analytical models",
+            "Runtime",
+            "Computational modeling",
+            "DSL"
+        ]
+    },
+    {
+        "title": "Requirements Engineering for Safety-Critical Systems: An Interview Study with Industry Practitioners.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2854716",
+        "volume": "46",
+        "abstract": "We have conducted in-depth interviews with experienced practitioners in the Safety-Critical Systems (SCS) domain in order to investigate several aspects related to requirements specification and safety analysis for SCS. We interviewed 19 practitioners from eleven SCS companies in different domains with the intention of verifying which approaches they use day-to-day, and what their perceptions are in relation to the approaches used to elicit, analyze, specify and validate safety requirements. The aim of this study is to obtain an in-depth understanding of how requirements engineering is carried out in companies that develop SCS.",
+        "keywords": [
+            "Safety",
+            "Companies",
+            "Requirements engineering",
+            "Software",
+            "Certification",
+            "Interviews",
+            "Unified modeling language"
+        ]
+    },
+    {
+        "title": "A Framework for Temporal Verification Support in Domain-Specific Modelling.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2859946",
+        "volume": "46",
+        "abstract": "In Domain-Specific Modelling (DSM) the general goal is to provide Domain-Specific Modelling Languages (DSMLs) for domain users to model systems using concepts and notations they are familiar with, in their problem domain. Verifying whether a model satisfies a set of requirements is considered to be an important challenge in DSM, but is nevertheless mostly neglected. We present a solution in the form of ProMoBox, a framework that integrates the definition and verification of temporal properties in discrete-time behavioural DSMLs, whose semantics can be described as a schedule of graph rewrite rules. Thanks to the expressiveness of graph rewriting, this covers a very large class of problems. With ProMoBox, the domain user models not only the system with a DSML, but also its properties, input model, run-time state and output trace. A DSML is thus comprised of five sublanguages, which share domain-specific syntax, and are generated from a single metamodel. Generic transformations to and from a verification backbone ensure that both the language engineer and the domain user are shielded from underlying notations and techniques. We explicitly model the ProMoBox framework's process in the paper. Furthermore, we evaluate ProMoBox to assert that it supports the specification and verification of properties in a highly flexible and automated way.",
+        "keywords": [
+            "Syntactics",
+            "Semantics",
+            "Formal specifications",
+            "Formal verification",
+            "Model driven engineering",
+            "Model checking"
+        ]
+    },
+    {
+        "title": "ConTesa: Directed Test Suite Augmentation for Concurrent Software.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2861392",
+        "volume": "46",
+        "abstract": "As software evolves, test suite augmentation techniques may be used to identify which part of the program needs to be tested due to code changes and how to generate these new test cases for regression testing. However, existing techniques focus exclusively on sequential software, without considering concurrent software in which multiple threads may interleave with each other during the execution and thus lead to a combinatorial explosion. To fill the gap, we propose ConTesa, the first test suite augmentation tool for concurrent software. The goal is to generate new test cases capable of exercising both code changes and the thread interleavings affected by these code changes. At the center of ConTesa is a two-pronged approach. First, it judiciously reuses the current test inputs while amplifying their interleaving coverage using random thread schedules. Then, it leverages an incremental symbolic execution technique to generate more test inputs and interleavings, to cover the new concurrency-related program behaviors. We have implemented ConTesa and evaluated it on a set of real-world multithreaded Linux applications. Our results show that it can achieve a significantly high interleaving coverage and reveal more bugs than state-of-the-art testing techniques.",
+        "keywords": [
+            "Testing",
+            "Schedules",
+            "Instruction sets",
+            "Concurrent computing",
+            "Tools",
+            "Context"
+        ]
+    },
+    {
+        "title": "Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2861735",
+        "volume": "46",
+        "abstract": "As new requirements are introduced and implemented in a software system, developers must identify the set of source code classes which need to be changed. Therefore, past effort has focused on predicting the set of classes impacted by a requirement. In this paper, we introduce and evaluate a new type of information based on the intuition that the set of requirements which are associated with historical changes to a specific class are likely to exhibit semantic similarity to new requirements which impact that class. This new Requirements to Requirements Set (R2RS) family of metrics captures the semantic similarity between a new requirement and the set of existing requirements previously associated with a class. The aim of this paper is to present and evaluate the usefulness of R2RS metrics in predicting the set of classes impacted by a requirement. We consider 18 different R2RS metrics by combining six natural language processing techniques to measure the semantic similarity among texts (e.g., VSM) and three distribution scores to compute overall similarity (e.g., average among similarity scores). We evaluate if R2RS is useful for predicting impacted classes in combination and against four other families of metrics that are based upon temporal locality of changes, direct similarity to code, complexity metrics, and code smells. Our evaluation features five classifiers and 78 releases belonging to four large open-source projects, which result in over 700,000 candidate impacted classes. Experimental results show that leveraging R2RS information increases the accuracy of predicting impacted classes practically by an average of more than 60 percent across the various classifiers and projects.",
+        "keywords": [
+            "Measurement",
+            "Semantics",
+            "Natural language processing",
+            "Complexity theory",
+            "Open source software",
+            "Task analysis"
+        ]
+    },
+    {
+        "title": "A Look into Programmers' Heads.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2863303",
+        "volume": "46",
+        "abstract": "Program comprehension is an important, but hard to measure cognitive process. This makes it difficult to provide suitable programming languages, tools, or coding conventions to support developers in their everyday work. Here, we explore whether functional magnetic resonance imaging (fMRI) is feasible for soundly measuring program comprehension. To this end, we observed 17 participants inside an fMRI scanner while they were comprehending source code. The results show a clear, distinct activation of five brain regions, which are related to working memory, attention, and language processing, which all fit well to our understanding of program comprehension. Furthermore, we found reduced activity in the default mode network, indicating the cognitive effort necessary for program comprehension. We also observed that familiarity with Java as underlying programming language reduced cognitive effort during program comprehension. To gain confidence in the results and the method, we replicated the study with 11 new participants and largely confirmed our findings. Our results encourage us and, hopefully, others to use fMRI to observe programmers and, in the long run, answer questions, such as: How should we train programmers? Can we train someone to become an excellent programmer? How effective are new languages and tools for program comprehension?",
+        "keywords": [
+            "Functional magnetic resonance imaging",
+            "Task analysis",
+            "Cognition",
+            "Brain",
+            "Programming",
+            "Blood"
+        ]
+    },
+    {
+        "title": "Extending Abstract Interpretation to Dependency Analysis of Database Applications.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2861707",
+        "volume": "46",
+        "abstract": "Dependency information (data- and/or control-dependencies) among program variables and program statements is playing crucial roles in a wide range of software-engineering activities, e.g., program slicing, information flow security analysis, debugging, code-optimization, code-reuse, code-understanding. Most existing dependency analyzers focus on mainstream languages and they do not support database applications embedding queries and data-manipulation commands. The first extension to the languages for relational database management systems, proposed by Willmor et al. in 2004, suffers from the lack of precision in the analysis primarily due to its syntax-based computation and flow insensitivity. Since then no significant contribution is found in this research direction. This paper extends the Abstract Interpretation framework for static dependency analysis of database applications, providing a semantics-based computation tunable with respect to precision. More specifically, we instantiate dependency computation by using various relational and non-relational abstract domains, yielding to a detailed comparative analysis with respect to precision and efficiency. Finally, we present a prototype \n<inline-formula><tex-math notation=\"LaTeX\">$\\sf{ semDDA}$</tex-math></inline-formula>\n, a \n<b>sem</b>\nantics-based \n<b>D</b>\natabase \n<b>D</b>\nependency \n<b>A</b>\nnalyzer integrated with various abstract domains, and we present experimental evaluation results to establish the effectiveness of our approach. We show an improvement of the precision on an average of 6 percent in the interval, 11 percent in the octagon, 21 percent in the polyhedra and 7 percent in the powerset of intervals abstract domains, as compared to their syntax-based counterpart, for the chosen set of Java Server Page (JSP)-based open-source database-driven web applications as part of the GotoCode project.",
+        "keywords": [
+            "Databases",
+            "Semantics",
+            "Static analysis",
+            "Security",
+            "Syntactics",
+            "Open source software",
+            "Debugging"
+        ]
+    },
+    {
+        "title": "Chaff from the Wheat: Characterizing and Determining Valid Bug Reports.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2864217",
+        "volume": "46",
+        "abstract": "Developers use bug reports to triage and fix bugs. When triaging a bug report, developers must decide whether the bug report is valid (i.e., a real bug). A large amount of bug reports are submitted every day, with many of them end up being invalid reports. Manually determining valid bug report is a difficult and tedious task. Thus, an approach that can automatically analyze the validity of a bug report and determine whether a report is valid can help developers prioritize their triaging tasks and avoid wasting time and effort on invalid bug reports. In this study, motivated by the above needs, we propose an approach which can determine whether a newly submitted bug report is valid. Our approach first extracts 33 features from bug reports. The extracted features are grouped along 5 dimensions, i.e., reporter experience, collaboration network, completeness, readability and text. Based on these features, we use a random forest classifier to identify valid bug reports. To evaluate the effectiveness of our approach, we experiment on large-scale datasets containing a total of 560,697 bug reports from five open source projects (i.e., Eclipse, Netbeans, Mozilla, Firefox and Thunderbird). On average, across the five datasets, our approach achieves an F1-score for valid bug reports and F1-score for invalid ones of 0.74 and 0.67, respectively. Moreover, our approach achieves an average AUC of 0.81. In terms of AUC and F1-scores for valid and invalid bug reports, our approach statistically significantly outperforms two baselines using features that are proposed by Zanetti et al. [104] . We also study the most important features that distinguish valid bug reports from invalid ones. We find that the textual features of a bug report and reporter's experience are the most important factors to distinguish valid bug reports from invalid ones.",
+        "keywords": [
+            "Computer bugs",
+            "Feature extraction",
+            "Collaboration",
+            "Forestry",
+            "Support vector machines",
+            "Task analysis",
+            "Software"
+        ]
+    },
+    {
+        "title": "Observation-Enhanced QoS Analysis of Component-Based Systems.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2864159",
+        "volume": "46",
+        "abstract": "We present a new method for the accurate analysis of the quality-of-service (QoS) properties of component-based systems. Our method takes as input a QoS property of interest and a high-level continuous-time Markov chain (CTMC) model of the analysed system, and refines this CTMC based on observations of the execution times of the system components. The refined CTMC can then be analysed with existing probabilistic model checkers to accurately predict the value of the QoS property. The paper describes the theoretical foundation underlying this model refinement, the tool we developed to automate it, and two case studies that apply our QoS analysis method to a service-based system implemented using public web services and to an IT support system at a large university, respectively. Our experiments show that traditional CTMC-based QoS analysis can produce highly inaccurate results and may lead to invalid engineering and business decisions. In contrast, our new method reduced QoS analysis errors by 84.4-89.6 percent for the service-based system and by 94.7-97 percent for the IT support system, significantly lowering the risk of such invalid decisions.",
+        "keywords": [
+            "Quality of service",
+            "Unified modeling language",
+            "Analytical models",
+            "Markov processes",
+            "Probabilistic logic",
+            "Component architectures"
+        ]
+    },
+    {
+        "title": "On Scheduling Constraint Abstraction for Multi-Threaded Program Verification.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2864122",
+        "volume": "46",
+        "abstract": "Bounded model checking is among the most efficient techniques for the automated verification of concurrent programs. However, due to the nondeterministic thread interleavings, a large and complex formula is usually required to give an exact encoding of all possible behaviors, which significantly limits the scalability. Observing that the large formula is usually dominated by the exact encoding of the scheduling constraint, this paper proposes a novel scheduling constraint based abstraction refinement method for multi-threaded C program verification. Our method is both efficient in practice and complete in theory, which is challenging for existing techniques. To achieve this, we first proposed an effective and powerful technique which works well for nearly all benchmarks we evaluated. We have proposed the notion of Event Order Graph (EOG), and have devised two graph-based algorithms over EOG for counterexample validation and refinement generation, which can often obtain a small yet effective refinement constraint. Then, to ensure completeness, our method was enhanced with two constraint-based algorithms for counterexample validation and refinement generation. Experimental results on SV-COMP 2017 benchmarks and two real-world server systems indicate that our method is promising and significantly outperforms the state-of-the-art tools.",
+        "keywords": [
+            "Instruction sets",
+            "Electrooculography",
+            "Encoding",
+            "Concurrent computing",
+            "Programming",
+            "Model checking",
+            "Tools"
+        ]
+    },
+    {
+        "title": "Analyzing Families of Experiments in SE: A Systematic Mapping Study.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2864633",
+        "volume": "46",
+        "abstract": "Context: Families of experiments (i.e., groups of experiments with the same goal) are on the rise in Software Engineering (SE). Selecting unsuitable aggregation techniques to analyze families may undermine their potential to provide in-depth insights from experiments' results. Objectives: Identifying the techniques used to aggregate experiments' results within families in SE. Raising awareness of the importance of applying suitable aggregation techniques to reach reliable conclusions within families. Method: We conduct a systematic mapping study (SMS) to identify the aggregation techniques used to analyze families of experiments in SE. We outline the advantages and disadvantages of each aggregation technique according to mature experimental disciplines such as medicine and pharmacology. We provide preliminary recommendations to analyze and report families of experiments in view of families' common limitations with regard to joint data analysis. Results: Several aggregation techniques have been used to analyze SE families of experiments, including Narrative synthesis, Aggregated Data (AD), Individual Participant Data (IPD) mega-trial or stratified, and Aggregation of p-values. The rationale used to select aggregation techniques is rarely discussed within families. Families of experiments are commonly analyzed with unsuitable aggregation techniques according to the literature of mature experimental disciplines. Conclusion: Data analysis' reporting practices should be improved to increase the reliability and transparency of joint results. AD and IPD stratified appear to be suitable to analyze SE families of experiments.",
+        "keywords": [
+            "Systematics",
+            "Data aggregation",
+            "Reliability",
+            "Data analysis"
+        ]
+    },
+    {
+        "title": "An Interleaving Approach to Combinatorial Testing and Failure-Inducing Interaction Identification.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2865772",
+        "volume": "46",
+        "abstract": "Combinatorial testing (CT) seeks to detect potential faults caused by various interactions of factors that can influence the software systems. When applying CT, it is a common practice to first generate a set of test cases to cover each possible interaction and then to identify the failure-inducing interaction after a failure is detected. Although this conventional procedure is simple and forthright, we conjecture that it is not the ideal choice in practice. This is because 1) testers desire to identify the root cause of failures before all the needed test cases are generated and executed 2) the early identified failure-inducing interactions can guide the remaining test case generation so that many unnecessary and invalid test cases can be avoided. For these reasons, we propose a novel CT framework that allows both generation and identification process to interact with each other. As a result, both generation and identification stages will be done more effectively and efficiently. We conducted a series of empirical studies on several open-source software, the results of which show that our framework can identify the failure-inducing interactions more quickly than traditional approaches while requiring fewer test cases.",
+        "keywords": [
+            "Testing",
+            "Software systems",
+            "Computer science",
+            "Fault diagnosis",
+            "Open source software",
+            "Indexes"
+        ]
+    },
+    {
+        "title": "A Combinatorial Testing-Based Approach to Fault Localization.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2865935",
+        "volume": "46",
+        "abstract": "Combinatorial testing has been shown to be a very effective strategy for software testing. After a failure is detected, the next task is to identify one or more faulty statements in the source code that have caused the failure. In this paper, we present a fault localization approach, called BEN, which produces a ranking of statements in terms of their likelihood of being faulty by leveraging the result of combinatorial testing. BEN consists of two major phases. In the first phase, BEN identifies a combination that is very likely to be failure-inducing. A combination is failure-inducing if it causes any test in which it appears to fail. In the second phase, BEN takes as input a failure-inducing combination identified in the first phase and produces a ranking of statements in terms of their likelihood to be faulty. We conducted an experiment in which our approach was applied to the Siemens suite and four real-world programs, flex, grep, gzip and sed, from Software Infrastructure Repository (SIR). The experimental results show that our approach can effectively and efficiently localize the faulty statements in these programs.",
+        "keywords": [
+            "Testing",
+            "Fault diagnosis",
+            "Flexible printed circuits",
+            "Software",
+            "Task analysis",
+            "Debugging",
+            "Computer science"
+        ]
+    },
+    {
+        "title": "Software Configuration Engineering in Practice Interviews, Survey, and Systematic Literature Review.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2867847",
+        "volume": "46",
+        "abstract": "Modern software applications are adapted to different situations (e.g., memory limits, enabling/disabling features, database credentials) by changing the values of configuration options, without any source code modifications. According to several studies, this flexibility is expensive as configuration failures represent one of the most common types of software failures. They are also hard to debug and resolve as they require a lot of effort to detect which options are misconfigured among a large number of configuration options and values, while comprehension of the code also is hampered by sprinkling conditional checks of the values of configuration options. Although researchers have proposed various approaches to help debug or prevent configuration failures, especially from the end users' perspective, this paper takes a step back to understand the process required by practitioners to engineer the run-time configuration options in their source code, the challenges they experience as well as best practices that they have or could adopt. By interviewing 14 software engineering experts, followed by a large survey on 229 Java software engineers, we identified 9 major activities related to configuration engineering, 22 challenges faced by developers, and 24 expert recommendations to improve software configuration quality. We complemented this study by a systematic literature review to enrich the experts' recommendations, and to identify possible solutions discussed and evaluated by the research community for the developers' problems and challenges. We find that developers face a variety of challenges for all nine configuration engineering activities, starting from the creation of options, which generally is not planned beforehand and increases the complexity of a software system, to the non-trivial comprehension and debugging of configurations, and ending with the risky maintenance of configuration options, since developers avoid touching and changing configuration options in a mature system. We also find that researchers thus far focus primarily on testing and debugging configuration failures, leaving a large range of opportunities for future work.",
+        "keywords": [
+            "Software systems",
+            "Interviews",
+            "Systematics",
+            "Facebook",
+            "Bibliographies",
+            "Software algorithms"
+        ]
+    },
+    {
+        "title": "A Test Case Prioritization Genetic Algorithm Guided by the Hypervolume Indicator.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2868082",
+        "volume": "46",
+        "abstract": "Regression testing is performed during maintenance activities to assess whether the unchanged parts of a software behave as intended. To reduce its cost, test case prioritization techniques can be used to schedule the execution of the available test cases to increase their ability to reveal regression faults earlier. Optimal test ordering can be determined using various techniques, such as greedy algorithms and meta-heuristics, and optimizing multiple fitness functions, such as the average percentage of statement and branch coverage. These fitness functions condense the cumulative coverage scores achieved when incrementally running test cases in a given ordering using Area Under Curve (AUC) metrics. In this paper, we notice that AUC metrics represent a bi-dimensional (simplified) version of the hypervolume metric, which is widely used in many-objective optimization. Thus, we propose a Hypervolume-based Genetic Algorithm, namely HGA, to solve the Test Case Prioritization problem when using multiple test coverage criteria. An empirical study conducted with respect to five state-of-the-art techniques shows that (i) HGA is more cost-effective, (ii) HGA improves the efficiency of Test Case Prioritization, (iii) HGA has a stronger selective pressure when dealing with more than three criteria.",
+        "keywords": [
+            "Measurement",
+            "Greedy algorithms",
+            "Genetic algorithms",
+            "Testing",
+            "Software systems",
+            "Fault detection"
+        ]
+    },
+    {
+        "title": "Debugging Static Analysis.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2868349",
+        "volume": "46",
+        "abstract": "Static analysis is increasingly used by companies and individual code developers to detect and fix bugs and security vulnerabilities. As programs grow more complex, the analyses have to support new code concepts, frameworks and libraries. However, static-analysis code itself is also prone to bugs. While more complex analyses are written and used in production systems every day, the cost of debugging and fixing them also increases tremendously. To understand the difficulties of debugging static analysis, we surveyed 115 static-analysis writers. From their responses, we determined the core requirements to build a debugger for static analyses, which revolve around two main issues: abstracting from both the analysis code and the code it analyses at the same time, and tracking the analysis internal state throughout both code bases. Most tools used by our survey participants lack the capabilities to address both issues. Focusing on those requirements, we introduce Visuflow, a debugging environment for static data-flow analysis. Visuflow features graph visualizations and custom breakpoints that enable users to view the state of an analysis at any time. In a user study on 20 static-analysis writers, Visuflow helped identify 25 and fix 50 percent more errors in the analysis code compared to the standard Eclipse debugging environment.",
+        "keywords": [
+            "Debugging",
+            "Static analysis",
+            "Tools",
+            "Computer bugs",
+            "Standards",
+            "Writing",
+            "Encoding"
+        ]
+    },
+    {
+        "title": "Does Reviewer Recommendation Help Developers?",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2868367",
+        "volume": "46",
+        "abstract": "Selecting reviewers for code changes is a critical step for an efficient code review process. Recent studies propose automated reviewer recommendation algorithms to support developers in this task. However, the evaluation of recommendation algorithms, when done apart from their target systems and users (i.e., code review tools and change authors), leaves out important aspects: perception of recommendations, influence of recommendations on human choices, and their effect on user experience. This study is the first to evaluate a reviewer recommender in vivo. We compare historical reviewers and recommendations for over 21,000 code reviews performed with a deployed recommender in a company environment and set out to measure the influence of recommendations on users' choices, along with other performance metrics. Having found no evidence of influence, we turn to the users of the recommender. Through interviews and a survey we find that, though perceived as relevant, reviewer recommendations rarely provide additional value for the respondents. We confirm this finding with a larger study at another company. The confirmation of this finding brings up a case for more user-centric approaches to designing and evaluating the recommenders. Finally, we investigate information needs of developers during reviewer selection and discuss promising directions for the next generation of reviewer recommendation tools. Preprint: https://doi.org/10.5281/zenodo.1404814.",
+        "keywords": [
+            "Tools",
+            "Recommender systems",
+            "Companies",
+            "Measurement",
+            "Software",
+            "In vivo",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Automatic and Accurate Expansion of Abbreviations in Parameters.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2868762",
+        "volume": "46",
+        "abstract": "Abbreviations are widely used in identifiers. However, they have severe negative impact on program comprehension and IR-based software maintenance activities, e.g., concept location, software clustering, and recovery of traceability links. Consequently, a number of efficient approaches have been proposed successfully to expand abbreviations in identifiers. Most of such approaches rely heavily on dictionaries, and rarely exploit the specific and fine-grained context of identifiers. As a result, such approaches are less accurate in expanding abbreviations (especially short ones) that may match multiple dictionary words. To this end, in this paper we propose an automatic approach to improve the accuracy of abbreviation expansion by exploiting the specific and fine-grained context. It focuses on a special but common category of abbreviations (abbreviations in parameter names), and thus it can exploit the specific and fine-grained context, i.e., the type of the enclosing parameter as well the corresponding formal (or actual) parameter name. The recent empirical study on parameters suggest that actual parameters are often lexically similar to their corresponding formal parameters. Consequently, it is likely that an abbreviation in a formal parameter can find its full terms in the corresponding actual parameter, and vice versa. Based on this assumption, a series of heuristics are proposed to look for full terms from the corresponding actual (or formal) parameter names. To the best of our knowledge, we are the first to expand abbreviations by exploiting the lexical similarity between actual and formal parameters. We also search for full terms in the data type of the enclosing parameter. Only if all such heuristics fail, the approach turns to the traditional abbreviation dictionaries. We evaluate the proposed approach on seven well known open-source projects. Evaluation results suggest that when only parameter abbreviations are involved, the proposed approach can improve the precision from 26 to 95 percent and recall from 26 to 65 percent compared against the state-of-the-art general purpose approach. Consequently, the proposed approach could be employed as a useful supplement to existing approaches to expand parameter abbreviations.",
+        "keywords": [
+            "Dictionaries",
+            "Open source software",
+            "Syntactics",
+            "Approximation algorithms",
+            "Software maintenance",
+            "Indexes"
+        ]
+    },
+    {
+        "title": "Ensuring the Observability of Structural Test Obligations.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2869146",
+        "volume": "46",
+        "abstract": "Test adequacy criteria are widely used to guide test creation. However, many of these criteria are sensitive to statement structure or the choice of test oracle. This is because such criteria ensure that execution reaches the element of interest, but impose no constraints on the execution path after this point. We are not guaranteed to observe a failure just because a fault is triggered. To address this issue, we have proposed the concept of observability-an extension to coverage criteria based on Boolean expressions that combines the obligations of a host criterion with an additional path condition that increases the likelihood that a fault encountered will propagate to a monitored variable. Our study, conducted over five industrial systems and an additional forty open-source systems, has revealed that adding observability tends to improve efficacy over satisfaction of the traditional criteria, with average improvements of 125.98 percent in mutation detection with the common output-only test oracle and per-model improvements of up to 1760.52 percent. Ultimately, there is merit to our hypothesis-observability reduces sensitivity to the choice of oracle and to the program structure.",
+        "keywords": [
+            "Observability",
+            "Test pattern generators",
+            "Monitoring",
+            "Sensitivity",
+            "Software",
+            "Complexity theory"
+        ]
+    },
+    {
+        "title": "Studying Bad Updates of Top Free-to-Download Apps in the Google Play Store.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2869395",
+        "volume": "46",
+        "abstract": "Developers always focus on delivering high-quality updates to improve, or maintain the rating of their apps. Prior work has studied user reviews by analyzing all reviews of an app. However, this app-level analysis misses the point that users post reviews to provide their feedback on a certain update. For example, two bad updates of an app with a history of good updates would not be spotted using app-level analysis. In this paper, we examine reviews at the update-level to better understand how users perceive bad updates. We focus our study on the top 250 bad updates (i.e., updates with the highest increase in the percentage of negative reviews relative to the prior updates of the app) from 26,726 updates of 2,526 top free-to-download apps in the Google Play Store. We find that feature removal and UI issues have the highest increase in the percentage of negative reviews. Bad updates with crashes and functional issues are the most likely to be fixed by a later update. However, developers often do not mention these fixes in the release notes. Our work demonstrates the necessity of an update-level analysis of reviews to capture the feelings of an app's user-base about a particular update.",
+        "keywords": [
+            "Google",
+            "Computer bugs",
+            "Feature extraction",
+            "Global Positioning System",
+            "User interfaces",
+            "History"
+        ]
+    },
+    {
+        "title": "Finding Faster Configurations Using FLASH.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2870895",
+        "volume": "46",
+        "abstract": "Finding good configurations of a software system is often challenging since the number of configuration options can be large. Software engineers often make poor choices about configuration or, even worse, they usually use a sub-optimal configuration in production, which leads to inadequate performance. To assist engineers in finding the better configuration, this article introduces Flash, a sequential model-based method that sequentially explores the configuration space by reflecting on the configurations evaluated so far to determine the next best configuration to explore. Flash scales up to software systems that defeat the prior state-of-the-art model-based methods in this area. Flash runs much faster than existing methods and can solve both single-objective and multi-objective optimization problems. The central insight of this article is to use the prior knowledge of the configuration space (gained from prior runs) to choose the next promising configuration. This strategy reduces the effort (i.e., number of measurements) required to find the better configuration. We evaluate Flash using 30 scenarios based on 7 software systems to demonstrate that Flash saves effort in 100 and 80 percent of cases in single-objective and multi-objective problems respectively by up to several orders of magnitude compared to state-of-the-art techniques.",
+        "keywords": [
+            "Software systems",
+            "Optimization",
+            "Throughput",
+            "Storms",
+            "Task analysis",
+            "Cloud computing"
+        ]
+    },
+    {
+        "title": "Value-Flow-Based Demand-Driven Pointer Analysis for C and C++.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2869336",
+        "volume": "46",
+        "abstract": "We present Supa, a value-flow-based demand-driven flow- and context-sensitive pointer analysis with strong updates for C and C++ programs. Supa enables computing points-to information via value-flow refinement, in environments with small time and memory budgets. We formulate Supa by solving a graph-reachability problem on an inter-procedural value-flow graph representing a program's def-use chains, which are pre-computed efficiently but over-approximately. To answer a client query (a request for a variable's points-to set), Supa reasons about the flow of values along the pre-computed def-use chains sparsely (rather than across all program points), by performing only the work necessary for the query (rather than analyzing the whole program). In particular, strong updates are performed to filter out spurious def-use chains through value-flow refinement as long as the total budget is not exhausted. We have implemented Supa on top of LLVM (4.0.0) together with a comprehensive micro-benchmark suite after a years-long effort (consisting of around 400 test cases, including hand-written ones and the ones extracted from real programs). We have evaluated Supa by choosing uninitialized pointer detection and C++ virtual table resolution as two major clients, using 24 real-world programs including 18 open-source C programs and 6 large CPU2000/2006 C++ benchmarks. For uninitialized pointer client, Supa achieves improved precision as the analysis budget increases, with its flow-sensitive (context-insensitive) analysis reaching 97.4 percent of that achieved by whole-program Sparse Flow-Sensitive analysis (SFS) by consuming about 0.18 seconds and 65 KB of memory per query, on average (with a budget of at most 10,000 value-flow edges per query). With context-sensitivity also considered, Supa becomes more precise for some programs but also incurs more analysis times. To further demonstrate the effectiveness of Supa, we have also evaluated Supa in resolving C++ virtual tables by querying the function pointers at every virtual callsite. Compared to analysis without strong updates for heap objects, Supa's demand-driven context-sensitive strong update analysis reduces 7.35 percent spurious virtual table targets with only 0.4 secs per query, on average.",
+        "keywords": [
+            "C++ languages",
+            "Resource management",
+            "Open source software",
+            "Sensitivity",
+            "Reachability analysis",
+            "Instruction sets",
+            "Registers"
+        ]
+    },
+    {
+        "title": "How Practitioners Perceive Automated Bug Report Management Techniques.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2870414",
+        "volume": "46",
+        "abstract": "Bug reports play an important role in the process of debugging and fixing bugs. To reduce the burden of bug report managers and facilitate the process of bug fixing, a great amount of software engineering research has been invested toward automated bug report management techniques. However, the verdict is still open whether such techniques are actually required and applicable outside the domain of theoretical research. To fill this gap, we conducted a survey among 327 practitioners to gain their insights into various categories of automated bug report management techniques. Specifically, we asked the respondents to rate the importance of such techniques and provide the rationale. To get deeper insights into practitioners' perspective, we conducted follow-up interviews with 25 interviewees selected from the survey respondents. Through the survey and the interviews, we gained a better understanding of the perceived usefulness (or its lack) of different categories of automated bug report management techniques. Based on our findings, we summarized some potential research directions in developing techniques to help developers better manage bug reports.",
+        "keywords": [
+            "Computer bugs",
+            "Software",
+            "Software engineering",
+            "Bibliographies",
+            "Conferences",
+            "Interviews",
+            "Maintenance engineering"
+        ]
+    },
+    {
+        "title": "The Adoption of JavaScript Linters in Practice: A Case Study on ESLint.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2871058",
+        "volume": "46",
+        "abstract": "A linter is a static analysis tool that warns software developers about possible code errors or violations to coding standards. By using such a tool, errors can be surfaced early in the development process when they are cheaper to fix. For a linter to be successful, it is important to understand the needs and challenges of developers when using a linter. In this paper, we examine developers' perceptions on JavaScript linters. We study why and how developers use linters along with the challenges they face while using such tools. For this purpose we perform a case study on ESLint, the most popular JavaScript linter. We collect data with three different methods where we interviewed 15 developers from well-known open source projects, analyzed over 9,500 ESLint configuration files, and surveyed 337 developers from the JavaScript community. Our results provide practitioners with reasons for using linters in their JavaScript projects as well as several configuration strategies and their advantages. We also provide a list of linter rules that are often enabled and disabled, which can be interpreted as the most important rules to reason about when configuring linters. Finally, we propose several feature suggestions for tool makers and future work for researchers.",
+        "keywords": [
+            "Tools",
+            "Static analysis",
+            "Interviews",
+            "Encoding",
+            "Standards",
+            "Software",
+            "Face"
+        ]
+    },
+    {
+        "title": "On the Nature of Merge Conflicts: A Study of 2, 731 Open Source Java Projects Hosted by GitHub.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2871083",
+        "volume": "46",
+        "abstract": "When multiple developers change a software system in parallel, these concurrent changes need to be merged to all appear in the software being developed. Numerous merge techniques have been proposed to support this task, but none of them can fully automate the merge process. Indeed, it has been reported that as much as 10 to 20 percent of all merge attempts result in a merge conflict, meaning that a developer has to manually complete the merge. To date, we have little insight into the nature of these merge conflicts. What do they look like, in detail? How do developers resolve them? Do any patterns exist that might suggest new merge techniques that could reduce the manual effort? This paper contributes an in-depth study of the merge conflicts found in the histories of 2,731 open source Java projects. Seeded by the manual analysis of the histories of five projects, our automated analysis of all 2,731 projects: (1) characterizes the merge conflicts in terms of number of chunks, size, and programming language constructs involved, (2) classifies the manual resolution strategies that developers use to address these merge conflicts, and (3) analyzes the relationships between various characteristics of the merge conflicts and the chosen resolution strategies. Our results give rise to three primary recommendations for future merge techniques, that - when implemented - could on one hand help in automatically resolving certain types of conflicts and on the other hand provide the developer with tool-based assistance to more easily resolve other types of conflicts that cannot be automatically resolved.",
+        "keywords": [
+            "Tools",
+            "History",
+            "Electronic mail",
+            "Java",
+            "Software",
+            "Task analysis"
+        ]
+    },
+    {
+        "title": "Tell You a Definite Answer: Whether Your Data is Tainted During Thread Scheduling.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2871666",
+        "volume": "46",
+        "abstract": "With the advent of multicore processors, there is a great need to write parallel programs to take advantage of parallel computing resources. However, due to the nondeterminism of parallel execution, the malware behaviors sensitive to thread scheduling are extremely difficult to detect. Dynamic taint analysis is widely used in security problems. By serializing a multithreaded execution and then propagating taint tags along the serialized schedule, existing dynamic taint analysis techniques lead to under-tainting with respect to other possible interleavings under the same input. In this paper, we propose an approach called DSTAM that integrates symbolic analysis and guided execution to systematically detect tainted instances on all possible executions under a given input. Symbolic analysis infers alternative interleavings of an executed trace that cover new tainted instances, and computes thread schedules that guide future executions. Guided execution explores new execution traces that drive future symbolic analysis. We have implemented a prototype as part of an educational tool that teaches secure C programming, where accuracy is more critical than efficiency. To the best of our knowledge, DSTAM is the first algorithm that addresses the challenge of taint analysis for multithreaded program under fixed inputs.",
+        "keywords": [
+            "Instruction sets",
+            "Security",
+            "Tools",
+            "Monitoring",
+            "Schedules",
+            "Prototypes"
+        ]
+    },
+    {
+        "title": "An Interactive and Dynamic Search-Based Approach to Software Refactoring Recommendations.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2872711",
+        "volume": "46",
+        "abstract": "Successful software products evolve through a process of continual change. However, this process may weaken the design of the software and make it unnecessarily complex, leading to significantly reduced productivity and increased fault-proneness. Refactoring improves the software design while preserving overall functionality and behavior, and is an important technique in managing the growing complexity of software systems. Most of the existing work on software refactoring uses either an entirely manual or a fully automated approach. Manual refactoring is time-consuming, error-prone and unsuitable for large-scale, radical refactoring. On the other hand, fully automated refactoring yields a static list of refactorings which, when applied, leads to a new and often hard to comprehend design. Furthermore, it is difficult to merge these refactorings with other changes performed in parallel by developers. In this paper, we propose a refactoring recommendation approach that dynamically adapts and interactively suggests refactorings to developers and takes their feedback into consideration. Our approach uses NSGA-II to find a set of good refactoring solutions that improve software quality while minimizing the deviation from the initial design. These refactoring solutions are then analyzed to extract interesting common features between them such as the frequently occurring refactorings in the best non-dominated solutions. Based on this analysis, the refactorings are ranked and suggested to the developer in an interactive fashion as a sequence of transformations. The developer can approve, modify or reject each of the recommended refactorings, and this feedback is then used to update the proposed rankings of recommended refactorings. After a number of introduced code changes and interactions with the developer, the interactive NSGA-II algorithm is executed again on the new modified system to repair the set of refactoring solutions based on the new changes and the feedback received from the developer. We evaluated our approach on a set of eight open source systems and two industrial projects provided by an industrial partner. Statistical analysis of our experiments shows that our dynamic interactive refactoring approach performed significantly better than four existing search-based refactoring techniques and one fully-automated refactoring tool not based on heuristic search.",
+        "keywords": [
+            "Manuals",
+            "Tools",
+            "Software quality",
+            "Maintenance engineering",
+            "Optimization"
+        ]
+    },
+    {
+        "title": "Uncovering the Periphery: A Qualitative Survey of Episodic Volunteering in Free/Libre and Open Source Software Communities.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2872713",
+        "volume": "46",
+        "abstract": "Free/Libre and Open Source Software (FLOSS) communities are composed, in part, of volunteers, many of whom contribute infrequently. However, these infrequent volunteers contribute to the sustainability of FLOSS projects, and should ideally be encouraged to continue participating, even if they cannot be persuaded to contribute regularly. Infrequent contributions are part of a trend which has been widely observed in other sectors of volunteering, where it has been termed “episodic volunteering” (EV). Previous FLOSS research has focused on the Onion model, differentiating core and peripheral developers, with the latter considered as a homogeneous group. We argue this is too simplistic, given the size of the periphery group and the myriad of valuable activities they perform beyond coding. Our exploratory qualitative survey of 13 FLOSS communities investigated what episodic volunteering looks like in a FLOSS context. EV is widespread in FLOSS communities, although not specifically managed. We suggest several recommendations for managing EV based on a framework drawn from the volunteering literature. Also, episodic volunteers make a wide range of value-added contributions other than code, and they should neither be expected nor coerced into becoming habitual volunteers.",
+        "keywords": [
+            "Companies",
+            "Lenses",
+            "Open source software",
+            "Sustainable development",
+            "Task analysis"
+        ]
+    },
+    {
+        "title": "Large-Scale Third-Party Library Detection in Android Markets.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2872958",
+        "volume": "46",
+        "abstract": "With the thriving of mobile app markets, third-party libraries are pervasively used in Android applications. The libraries provide functionalities such as advertising, location, and social networking services, making app development much more productive. However, the spread of vulnerable and harmful third-party libraries can also hurt the mobile ecosystem, leading to various security problems. Therefore, third-party library identification has emerged as an important problem, being the basis of many security applications such as repackaging detection, vulnerability identification, and malware analysis. Previously, we proposed a novel approach to identifying third-party Android libraries at a massive scale. Our method uses the internal code dependencies of an app to recognize library candidates and further classify them. With a fine-grained feature hashing strategy, we can better handle code whose package and method names are obfuscated than historical work. We have developed a prototypical tool called LibD and evaluated it with an up-to-date dataset containing 1,427,395 Android apps. Our experiment results show that LibD outperforms existing tools in detecting multi-package third-party libraries with the presence of name-based obfuscation, leading to significantly improved precision without the loss of scalability. In this paper, we extend our early work by investigating the possibility of employing effective and scalable library detection to boost the performance of large-scale app analyses in the real world. We show that the technique of LibD can be used to accelerate whole-app Android vulnerability detection and quickly identify variants of vulnerable third-party libraries. This extension paper sheds light on the practical value of our previous research.",
+        "keywords": [
+            "Libraries",
+            "Androids",
+            "Humanoid robots",
+            "Tools",
+            "Security",
+            "Java",
+            "Feature extraction"
+        ]
+    },
+    {
+        "title": "Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2872971",
+        "volume": "46",
+        "abstract": "Application Programming Interfaces (APIs) represent key tools for software developers to build complex software systems. However, several studies have revealed that even major API providers tend to have incomplete or inconsistent API documentation. This can severely hamper the API comprehension and, as a consequence, the quality of the software built on them. In this paper, we propose DRONE (Detect and Repair of dOcumentatioN dEfects), a framework to automatically detect and repair defects from API documents by leveraging techniques from program analysis, natural language processing, and constraint solving. Specifically, we target at the directives of API documents, which are related to parameter constraints and exception handling declarations. Furthermore, in presence of defects, we also provide a prototypical repair recommendation system. We evaluate our approach on parts of the well-documented APIs of JDK 1.8 APIs (including javaFX) and Android 7.0 (level 24). Across the two empirical studies, our approach can detect API defects with an average F-measure of 79.9, 71.7, and 81.4 percent, respectively. The API repairing capability has also been evaluated on the generated recommendations in a further experiment. User judgments indicate that the constraint information is addressed correctly and concisely in the rendered directives.",
+        "keywords": [
+            "Documentation",
+            "Maintenance engineering",
+            "Software",
+            "Drones",
+            "Androids",
+            "Humanoid robots",
+            "Facebook"
+        ]
+    },
+    {
+        "title": "How Do Users Revise Answers on Technical Q&A Websites? A Case Study on Stack Overflow.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2874470",
+        "volume": "46",
+        "abstract": "To ensure the quality of its shared knowledge, Stack Overflow encourages users to revise answers through a badge system, which is based on quantitative measures (e.g., a badge is awarded after revising more than 500 answers). Prior studies show that badges can positively steer the user behavior on Stack Overflow (e.g., increasing user participation). However, little is known whether revision-related badges have a negative impact on the quality of revisions since some studies show that certain users may game incentive systems to gain rewards. In this study, we analyze 3,871,966 revision records that are collected from 2,377,692 Stack Overflow answers. We find that: 1) Users performed a much larger than usual revisions on the badge-awarding days compared to normal days; 25% of the users did not make any more revisions once they received their first revision-related badge. 2) Performing more revisions than usual in a single day increased the likelihood of such revisions being rolled back (e.g., due to undesired or incorrect revisions). 3) Users were more likely to perform text and small revisions if they performed many revisions in a single day. Our findings are concurred by the Stack Overflow community, and they highlight the need for changes to the current badge system in order to provide a better balance between the quality and quantity of revisions.",
+        "keywords": [
+            "Atmospheric measurements",
+            "Particle measurements",
+            "Games",
+            "Indexes",
+            "Knowledge engineering",
+            "Software",
+            "Computer science"
+        ]
+    },
+    {
+        "title": "Corrections to \"Automatic and Accurate Expansion of Abbreviations in Parameters\".",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2020.3015699",
+        "volume": "46",
+        "abstract": "Presents corrections to author information in the above named paper.",
+        "keywords": [
+            "Computer science",
+            "Software"
+        ]
+    },
+    {
+        "title": "ARJA: Automated Repair of Java Programs via Multi-Objective Genetic Programming.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2874648",
+        "volume": "46",
+        "abstract": "Automated program repair is the problem of automatically fixing bugs in programs in order to significantly reduce the debugging costs and improve the software quality. To address this problem, test-suite based repair techniques regard a given test suite as an oracle and modify the input buggy program to make the entire test suite pass. GenProg is well recognized as a prominent repair approach of this kind, which uses genetic programming (GP) to rearrange the statements already extant in the buggy program. However, recent empirical studies show that the performance of GenProg is not fully satisfactory, particularly for Java. In this paper, we propose ARJA, a new GP based repair approach for automated repair of Java programs. To be specific, we present a novel lower-granularity patch representation that properly decouples the search subspaces of likely-buggy locations, operation types and potential fix ingredients, enabling GP to explore the search space more effectively. Based on this new representation, we formulate automated program repair as a multi-objective search problem and use NSGA-II to look for simpler repairs. To reduce the computational effort and search space, we introduce a test filtering procedure that can speed up the fitness evaluation of GP and three types of rules that can be applied to avoid unnecessary manipulations of the code. Moreover, we also propose a type matching strategy that can create new potential fix ingredients by exploiting the syntactic patterns of existing statements. We conduct a large-scale empirical evaluation of ARJA along with its variants on both seeded bugs and real-world bugs in comparison with several state-of-the-art repair approaches. Our results verify the effectiveness and efficiency of the search mechanisms employed in ARJA and also show its superiority over the other approaches. In particular, compared to jGenProg (an implementation of GenProg for Java), an ARJA version fully following the redundancy assumption can generate a test-suite adequate patch for more than twice the number of bugs (from 27 to 59), and a correct patch for nearly four times of the number (from 5 to 18), on 224 real-world bugs considered in Defects4J. Furthermore, ARJA is able to correctly fix several real multi-location bugs that are hard to be repaired by most of the existing repair approaches.",
+        "keywords": [
+            "Maintenance engineering",
+            "Computer bugs",
+            "Java",
+            "Genetic programming",
+            "Search problems",
+            "Sociology",
+            "Statistics"
+        ]
+    },
+    {
+        "title": "Changeset-Based Topic Modeling of Software Repositories.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2874960",
+        "volume": "46",
+        "abstract": "The standard approach to applying text retrieval models to code repositories is to train models on documents representing program elements. However, code changes lead to model obsolescence and to the need to retrain the model from the latest snapshot. To address this, we previously introduced an approach that trains a model on documents representing changesets from a repository and demonstrated its feasibility for feature location. In this paper, we expand our work by investigating: a second task (developer identification), the effects of including different changeset parts in the model, the repository characteristics that affect the accuracy of our approach, and the effects of the time invariance assumption on evaluation results. Our results demonstrate that our approach is as accurate as the standard approach for projects with most changes localized to a subset of the code, but less accurate when changes are highly distributed throughout the code. Moreover, our results demonstrate that context and messages are key to the accuracy of changeset-based models and that the time invariance assumption has a statistically significant effect on evaluation results, providing overly-optimistic results. Our findings indicate that our approach is a suitable alternative to the standard approach, providing comparable accuracy while eliminating retraining costs.",
+        "keywords": [
+            "Task analysis",
+            "Standards",
+            "Feature extraction",
+            "Resource management",
+            "Software maintenance",
+            "Maintenance engineering"
+        ]
+    },
+    {
+        "title": "Bridging Semantic Gaps between Natural Languages and APIs with Word Embedding.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876006",
+        "volume": "46",
+        "abstract": "Developers increasingly rely on text matching tools to analyze the relation between natural language words and APIs. However, semantic gaps, namely textual mismatches between words and APIs, negatively affect these tools. Previous studies have transformed words or APIs into low-dimensional vectors for matching; however, inaccurate results were obtained due to the failure of modeling words and APIs simultaneously. To resolve this problem, two main challenges are to be addressed: the acquisition of massive words and APIs for mining and the alignment of words and APIs for modeling. Therefore, this study proposes Word2API to effectively estimate relatedness of words and APIs. Word2API collects millions of commonly used words and APIs from code repositories to address the acquisition challenge. Then, a shuffling strategy is used to transform related words and APIs into tuples to address the alignment challenge. Using these tuples, Word2API models words and APIs simultaneously. Word2API outperforms baselines by 10-49.6 percent of relatedness estimation in terms of precision and NDCG. Word2API is also effective on solving typical software tasks, e.g., query expansion and API documents linking. A simple system with Word2API-expanded queries recommends up to 21.4 percent more related APIs for developers. Meanwhile, Word2API improves comparison algorithms by 7.9-17.4 percent in linking questions in Question&Answer communities to API documents.",
+        "keywords": [
+            "Tools",
+            "Natural languages",
+            "Training",
+            "Software",
+            "Task analysis",
+            "Semantics",
+            "Estimation"
+        ]
+    },
+    {
+        "title": "Automating Intention Mining.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876340",
+        "volume": "46",
+        "abstract": "Developers frequently discuss aspects of the systems they are developing online. The comments they post to discussions form a rich information source about the system. Intention mining, a process introduced by Di Sorbo et al., classifies sentences in developer discussions to enable further analysis. As one example of use, intention mining has been used to help build various recommenders for software developers. The technique introduced by Di Sorbo et al. to categorize sentences is based on linguistic patterns derived from two projects. The limited number of data sources used in this earlier work introduces questions about the comprehensiveness of intention categories and whether the linguistic patterns used to identify the categories are generalizable to developer discussion recorded in other kinds of software artifacts (e.g., issue reports). To assess the comprehensiveness of the previously identified intention categories and the generalizability of the linguistic patterns for category identification, we manually created a new dataset, categorizing 5,408 sentences from issue reports of four projects in GitHub. Based on this manual effort, we refined the previous categories. We assess Di Sorbo et al.'s patterns on this dataset, finding that the accuracy rate achieved is low (0.31). To address the deficiencies of Di Sorbo et al.'s patterns, we propose and investigate a convolution neural network (CNN)-based approach to automatically classify sentences into different categories of intentions. Our approach optimizes CNN by integrating batch normalization to accelerate the training speed, and an automatic hyperparameter tuning approach to tune appropriate hyperparameters of CNN. Our approach achieves an accuracy of 0.84 on the new dataset, improving Di Sorbo et al.'s approach by 171 percent. We also apply our approach to improve an automated software engineering task, in which we use our proposed approach to rectify misclassified issue reports, thus reducing the bias introduced by such data to other studies. A case study on four open source projects with 2,076 issue reports shows that our approach achieves an average AUC score of 0.687, which improves other baselines by at least 16 percent.",
+        "keywords": [
+            "Taxonomy",
+            "Linguistics",
+            "Data mining",
+            "Tuning",
+            "Computer bugs",
+            "Software",
+            "Training"
+        ]
+    },
+    {
+        "title": "Metamorphic Relations for Enhancing System Understanding and Use.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876433",
+        "volume": "46",
+        "abstract": "Modern information technology paradigms, such as online services and off-the-shelf products, often involve a wide variety of users with different or even conflicting objectives. Every software output may satisfy some users, but may also fail to satisfy others. Furthermore, users often do not know the internal working mechanisms of the systems. This situation is quite different from bespoke software, where developers and users typically know each other. This paper proposes an approach to help users to better understand the software that they use, and thereby more easily achieve their objectives-even when they do not fully understand how the system is implemented. Our approach borrows the concept of metamorphic relations from the field of metamorphic testing (MT), using it in an innovative way that extends beyond MT. We also propose a “symmetry” metamorphic relation pattern and a “change direction” metamorphic relation input pattern that can be used to derive multiple concrete metamorphic relations. Empirical studies reveal previously unknown failures in some of the most popular applications in the world, and show how our approach can help users to better understand and better use the systems. The empirical results provide strong evidence of the simplicity, applicability, and effectiveness of our methodology.",
+        "keywords": [
+            "Software testing",
+            "Information technology",
+            "Electronic mail",
+            "Software systems",
+            "Software maintenance"
+        ]
+    },
+    {
+        "title": "How Well Do Change Sequences Predict Defects? Sequence Learning from Software Changes.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876256",
+        "volume": "46",
+        "abstract": "Software defect prediction, which aims to identify defective modules, can assist developers in finding bugs and prioritizing limited quality assurance resources. Various features to build defect prediction models have been proposed and evaluated. Among them, process metrics are one important category. Yet, existing process metrics are mainly encoded manually from change histories and ignore the sequential information arising from the changes during software evolution. Are the change sequences derived from such information useful to characterize buggy program modules? How can we leverage such sequences to build good defect prediction models? Unlike traditional process metrics used for existing defect prediction models, change sequences are mostly vectors of variable length. This makes it difficult to apply such sequences directly in prediction models that are driven by conventional classifiers. To resolve this challenge, we utilize Recurrent Neural Network (RNN), which is a deep learning technique, to encode features from sequence data automatically. In this paper, we propose a novel approach called Fences, which extracts six types of change sequences covering different aspects of software changes via fine-grained change analysis. It approaches defects prediction by mapping it to a sequence labeling problem solvable by RNN. Our evaluations on 10 open source projects show that Fences can predict defects with high performance. In particular, our approach achieves an average F-measure of 0.657, which improves the prediction models built on traditional metrics significantly. The improvements vary from 31.6 to 46.8 percent on average. In terms of AUC, Fences achieves an average value of 0.892, and the improvements over baselines vary from 4.2 to 16.1 percent. Fences also outperforms the state-of-the-art technique which learns semantic features automatically from static code via deep learning.",
+        "keywords": [
+            "Measurement",
+            "Software",
+            "Predictive models",
+            "Semantics",
+            "History",
+            "Machine learning",
+            "Feature extraction"
+        ]
+    },
+    {
+        "title": "Understanding and Detecting Fragmentation-Induced Compatibility Issues for Android Apps.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876439",
+        "volume": "46",
+        "abstract": "Android ecosystem is heavily fragmented. The numerous combinations of different device models and operating system versions make it impossible for Android app developers to exhaustively test their apps, and thus various compatibility issues arise. Unfortunately, little is known on the characteristics of such fragmentation-induced compatibility issues. No mature tools exist to help developers quickly diagnose and fix these issues. To bridge the gap, we conducted an empirical study on 220 real-world compatibility issues collected from five popular open-source Android apps. We further interviewed Android practitioners and conducted an online survey to gain insights from real practices. Via the studies, we characterized compatibility issues, investigated common practices to handle compatibility issues, and disclosed that these issues exhibit common patterns. With these findings, we propose a technique, FicFinder, to automatically detect compatibility issues in Android apps. FicFinder performs static code analysis based on a model that captures Android APIs as well as their associated context by which compatibility issues can be triggered. FicFinder reports actionable debugging information to developers when it detects potential issues. We evaluated FicFinder with 53 large-scale open-source Android apps. The results show that FicFinder can precisely detect compatibility issues in these apps and uncover previously-unknown issues.",
+        "keywords": [
+            "Androids",
+            "Humanoid robots",
+            "Biological system modeling",
+            "Smart phones",
+            "Hardware",
+            "Testing",
+            "Ecosystems"
+        ]
+    },
+    {
+        "title": "The Impact of Class Rebalancing Techniques on the Performance and Interpretation of Defect Prediction Models.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876537",
+        "volume": "46",
+        "abstract": "Defect models that are trained on class imbalanced datasets (i.e., the proportion of defective and clean modules is not equally represented) are highly susceptible to produce inaccurate prediction models. Prior research compares the impact of class rebalancing techniques on the performance of defect models but arrives at contradictory conclusions due to the use of different choice of datasets, classification techniques, and performance measures. Such contradictory conclusions make it hard to derive practical guidelines for whether class rebalancing techniques should be applied in the context of defect models. In this paper, we investigate the impact of class rebalancing techniques on the performance measures and interpretation of defect models. We also investigate the experimental settings in which class rebalancing techniques are beneficial for defect models. Through a case study of 101 datasets that span across proprietary and open-source systems, we conclude that the impact of class rebalancing techniques on the performance of defect prediction models depends on the used performance measure and the used classification techniques. We observe that the optimized SMOTE technique and the under-sampling technique are beneficial when quality assurance teams wish to increase AUC and Recall, respectively, but they should be avoided when deriving knowledge and understandings from defect models.",
+        "keywords": [
+            "Predictive models",
+            "Training",
+            "Analytical models",
+            "Guidelines",
+            "Context modeling",
+            "Open source software"
+        ]
+    },
+    {
+        "title": "Dynamic Update of Discrete Event Controllers.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2876843",
+        "volume": "46",
+        "abstract": "Discrete event controllers are at the heart of many software systems that require continuous operation. Changing these controllers at runtime to cope with changes in its execution environment or system requirements change is a challenging open problem. In this paper we address the problem of dynamic update of controllers in reactive systems. We present a general approach to specifying correctness criteria for dynamic update and a technique for automatically computing a controller that handles the transition from the old to the new specification, assuring that the system will reach a state in which such a transition can correctly occur and in which the underlying system architecture can reconfigure. Our solution uses discrete event controller synthesis to automatically build a controller that guarantees both progress towards update and safe update.",
+        "keywords": [
+            "Tools",
+            "Runtime",
+            "Paints",
+            "Control systems",
+            "Business",
+            "Safety"
+        ]
+    },
+    {
+        "title": "Perceptions, Expectations, and Challenges in Defect Prediction.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2877678",
+        "volume": "46",
+        "abstract": "Defect prediction has been an active research area for over four decades. Despite numerous studies on defect prediction, the potential value of defect prediction in practice remains unclear. To address this issue, we performed a mixed qualitative and quantitative study to investigate what practitioners think, behave and expect in contrast to research findings when it comes to defect prediction. We collected hypotheses from open-ended interviews and a literature review of defect prediction papers that were published at ICSE, ESEC/FSE, ASE, TSE and TOSEM in the last 6 years (2012-2017). We then conducted a validation survey where the hypotheses became statements or options of our survey questions. We received 395 responses from practitioners from over 33 countries across five continents. Some of our key findings include: 1) Over 90 percent of respondents are willing to adopt defect prediction techniques. 2) There exists a disconnect between practitioners' perceptions and well supported research evidence regarding defect density distribution and the relationship between file size and defectiveness. 3) 7.2 percent of the respondents reveal an inconsistency between their behavior and perception regarding defect prediction. 4) Defect prediction at the feature level is the most preferred level of granularity by practitioners. 5) During bug fixing, more than 40 percent of the respondents acknowledged that they would make a “work-around” fix rather than correct the actual error-causing code. Through a qualitative analysis of free-form text responses, we identified reasons why practitioners are reluctant to adopt defect prediction tools. We also noted features that practitioners expect defect prediction tools to deliver. Based on our findings, we highlight future research directions and provide recommendations for practitioners.",
+        "keywords": [
+            "Interviews",
+            "Tools",
+            "Software",
+            "Bibliographies",
+            "Computer bugs",
+            "Companies",
+            "Continents"
+        ]
+    },
+    {
+        "title": "Deep Semantic Feature Learning for Software Defect Prediction.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2877612",
+        "volume": "46",
+        "abstract": "Software defect prediction, which predicts defective code regions, can assist developers in finding bugs and prioritizing their testing efforts. Traditional defect prediction features often fail to capture the semantic differences between different programs. This degrades the performance of the prediction models built on these traditional features. Thus, the capability to capture the semantics in programs is required to build accurate prediction models. To bridge the gap between semantics and defect prediction features, we propose leveraging a powerful representation-learning algorithm, deep learning, to learn the semantic representations of programs automatically from source code files and code changes. Specifically, we leverage a deep belief network (DBN) to automatically learn semantic features using token vectors extracted from the programs' abstract syntax trees (AST) (for file-level defect prediction models) and source code changes (for change-level defect prediction models). We examine the effectiveness of our approach on two file-level defect prediction tasks (i.e., file-level within-project defect prediction and file-level cross-project defect prediction) and two change-level defect prediction tasks (i.e., change-level within-project defect prediction and change-level cross-project defect prediction). Our experimental results indicate that the DBN-based semantic features can significantly improve the examined defect prediction tasks. Specifically, the improvements of semantic features against existing traditional features (in F1) range from 2.1 to 41.9 percentage points for file-level within-project defect prediction, from 1.5 to 13.4 percentage points for file-level cross-project defect prediction, from 1.0 to 8.6 percentage points for change-level within-project defect prediction, and from 0.6 to 9.9 percentage points for change-level cross-project defect prediction.",
+        "keywords": [
+            "Semantics",
+            "Predictive models",
+            "Feature extraction",
+            "Quality assurance",
+            "Computer bugs",
+            "Data models",
+            "Prediction models"
+        ]
+    },
+    {
+        "title": "Search-Based Crash Reproduction and Its Impact on Debugging.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2877664",
+        "volume": "46",
+        "abstract": "Software systems fail. These failures are often reported to issue tracking systems, where they are prioritized and assigned to responsible developers to be investigated. When developers debug software, they need to reproduce the reported failure in order to verify whether their fix actually prevents the failure from happening again. Since manually reproducing each failure could be a complex task, several automated techniques have been proposed to tackle this problem. Despite showing advancements in this area, the proposed techniques showed various types of limitations. In this paper, we present EvoCrash, a new approach to automated crash reproduction based on a novel evolutionary algorithm, called Guided Genetic Algorithm (GGA). We report on our empirical study on using EvoCrash to reproduce 54 real-world crashes, as well as the results of a controlled experiment, involving human participants, to assess the impact of EvoCrash tests in debugging. Based on our results, EvoCrash outperforms state-of-the-art techniques in crash reproduction and uncovers failures that are undetected by classical coverage-based unit test generation tools. In addition, we observed that using EvoCrash helps developers provide fixes more often and take less time when debugging, compared to developers debugging and fixing code without using EvoCrash tests.",
+        "keywords": [
+            "Debugging",
+            "Genetic algorithms",
+            "Software testing",
+            "Software engineering",
+            "Computer bugs"
+        ]
+    },
+    {
+        "title": "Cognitive Biases in Software Engineering: A Systematic Mapping Study.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2877759",
+        "volume": "46",
+        "abstract": "One source of software project challenges and failures is the systematic errors introduced by human cognitive biases. Although extensively explored in cognitive psychology, investigations concerning cognitive biases have only recently gained popularity in software engineering research. This paper therefore systematically maps, aggregates and synthesizes the literature on cognitive biases in software engineering to generate a comprehensive body of knowledge, understand state-of-the-art research and provide guidelines for future research and practise. Focusing on bias antecedents, effects and mitigation techniques, we identified 65 articles (published between 1990 and 2016), which investigate 37 cognitive biases. Despite strong and increasing interest, the results reveal a scarcity of research on mitigation techniques and poor theoretical foundations in understanding and interpreting cognitive biases. Although bias-related research has generated many new insights in the software engineering community, specific bias mitigation techniques are still needed for software professionals to overcome the deleterious effects of cognitive biases on their work.",
+        "keywords": [
+            "Cognition",
+            "Software engineering",
+            "Software project management"
+        ]
+    },
+    {
+        "title": "Key Stakeholders' Value Propositions for Feature Selection in Software-Intensive Products: An Industrial Case Study.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2878031",
+        "volume": "46",
+        "abstract": "Numerous software companies are adopting value-based decision making. However, what does value mean for key stakeholders making decisions? How do different stakeholder groups understand value? Without an explicit understanding of what value means, decisions are subject to ambiguity and vagueness, which are likely to bias them. This case study provides an in-depth analysis of key stakeholders' value propositions when selecting features for a large telecommunications company's software-intensive product. Stakeholders' value propositions were elicited via interviews, which were analyzed using Grounded Theory coding techniques (open and selective coding). Thirty-six value propositions were identified and classified into six dimensions: customer value, market competitiveness, economic value/profitability, cost efficiency, technology & architecture, and company strategy. Our results show that although propositions in the customer value dimension were those mentioned the most, the concept of value for feature selection encompasses a wide range of value propositions. Moreover, stakeholder groups focused on different and complementary value dimensions, calling to the importance of involving all key stakeholders in the decision making process. Although our results are particularly relevant to companies similar to the one described herein, they aim to generate a learning process on value-based feature selection for practitioners and researchers in general.",
+        "keywords": [
+            "Stakeholders",
+            "Software engineering",
+            "Feature extraction",
+            "Decision making",
+            "Economics"
+        ]
+    },
+    {
+        "title": "Platform-Independent Dynamic Taint Analysis for JavaScript.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2878020",
+        "volume": "46",
+        "abstract": "Previous approaches to dynamic taint analysis for JavaScript are implemented directly in a browser or JavaScript engine, limiting their applicability to a single platform and requiring ongoing maintenance as platforms evolve, or they require nontrivial program transformations. We present an approach that relies on instrumentation to encode taint propagation as instructions for an abstract machine. Our approach has two key advantages: it is platform-independent and can be used with any existing JavaScript engine, and it can track taint on primitive values without requiring the introduction of wrapper objects. Furthermore, our technique enables multiple deployment scenarios by varying when and where the generated instructions are executed and it supports indirect taint sources, i.e., situations where taint enters an application via arguments passed to dynamically registered event-listener functions. We implemented the technique for the ECMAScript 5 language in a tool called Ichnaea, and evaluated it on 22 NPM modules containing several types of injection vulnerabilities, including 4 modules containing vulnerabilities that were not previously discovered and reported. On these modules, run-time overheads range from 3.17x to 38.42x, which is significantly better than a previous transformation-based technique. We also report on a case study that shows how Ichnaea can be used to detect privacy leaks in a Tizen web application for the Samsung Gear S2 smart watch.",
+        "keywords": [
+            "Java",
+            "Instruments",
+            "Browsers",
+            "Software engineering",
+            "Privacy",
+            "Data privacy"
+        ]
+    },
+    {
+        "title": "A Model-Integrated Approach to Designing Self-Protecting Systems.",
+        "venue_name": "tse",
+        "year": 2020,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2018.2880218",
+        "volume": "46",
+        "abstract": "One of the major trends in research on Self-Protecting Systems is to use a model of the system to be protected to predict its evolution. However, very often, devising the model requires special knowledge of mathematical frameworks, that prevents the adoption of this technique outside of the academic environment. Furthermore, some of the proposed approaches suffer from the curse of dimensionality, as their complexity is exponential in the size of the protected system. In this paper, we introduce a model-integrated approach for the design of Self-Protecting Systems, which automatically generates and solves Markov Decision Processes (MDPs) to obtain optimal defense strategies for systems under attack. MDPs are created in such a way that the size of the state space does not depend on the size of the system, but on the scope of the attack, which allows us to apply it to systems of arbitrary size.",
+        "keywords": [
+            "Computational modeling",
+            "Servers",
+            "Microwave integrated circuits",
+            "Predictive models",
+            "Security",
+            "Mathematical model"
+        ]
+    }
+]
