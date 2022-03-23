@@ -1,0 +1,422 @@
+[
+    {
+        "title": "Testing mined specifications.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393598"
+    },
+    {
+        "title": "Detecting and analyzing insecure component usage.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393599"
+    },
+    {
+        "title": "Retargeting Android applications to Java bytecode.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393600"
+    },
+    {
+        "title": "SelfMotion: a declarative language for adaptive service-oriented mobile apps.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393602"
+    },
+    {
+        "title": "REPERTOIRE: a cross-system porting analysis tool for forked software projects.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393603"
+    },
+    {
+        "title": "Automating adaptive maintenance changes with SrcML and LINQ.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393604"
+    },
+    {
+        "title": "Searching connected API subgraph via text phrases.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393606"
+    },
+    {
+        "title": "AUSUM: approach for unsupervised bug report summarization.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393607"
+    },
+    {
+        "title": "Automated extraction of security policies from natural-language software documents.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393608"
+    },
+    {
+        "title": "Practical change impact analysis based on static program slicing for industrial software systems.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393610"
+    },
+    {
+        "title": "MayPar: a may-happen-in-parallel analyzer for concurrent objects.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393611"
+    },
+    {
+        "title": "Sando: an extensible local code search framework.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393612"
+    },
+    {
+        "title": "Automating presentation changes in dynamic web applications via collaborative hybrid analysis.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393614"
+    },
+    {
+        "title": "(Withdrawn)",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393615"
+    },
+    {
+        "title": "Mining the execution history of a software system to infer the best time for its adaptation.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393616"
+    },
+    {
+        "title": "SecuriTAS: a tool for engineering adaptive security.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393618"
+    },
+    {
+        "title": "Dione: an integrated measurement and defect prediction solution.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393619"
+    },
+    {
+        "title": "Dealing with uncertainty in early software architecture.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393621"
+    },
+    {
+        "title": "Software change contracts.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393622"
+    },
+    {
+        "title": "Semantic fault diagnosis: automatic natural-language fault descriptions.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393623"
+    },
+    {
+        "title": "Toward measuring program comprehension with functional magnetic resonance imaging.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393624"
+    },
+    {
+        "title": "Toward semantic search via SMT solver.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393625"
+    },
+    {
+        "title": "Inference and checking of context-sensitive pluggable types.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393626"
+    },
+    {
+        "title": "Scalable malware clustering through coarse-grained behavior modeling.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393627"
+    },
+    {
+        "title": "Has this bug been reported?",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393628"
+    },
+    {
+        "title": "Concept-based failure clustering.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393629"
+    },
+    {
+        "title": "Seeing the forest and the trees: focusing team interaction on value and effort drivers.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393630"
+    },
+    {
+        "title": "From pixels to bytes: evolutionary scenario based design with video.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393631"
+    },
+    {
+        "title": "Service selection for happy users: making user-intuitive quality abstractions.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393632"
+    },
+    {
+        "title": "Understanding myths and realities of test-suite evolution.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393634"
+    },
+    {
+        "title": "Test input generation using dynamic programming.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393635"
+    },
+    {
+        "title": "CarFast: achieving higher statement coverage faster.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393636"
+    },
+    {
+        "title": "Scalable test data generation from multidimensional models.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393637"
+    },
+    {
+        "title": "UMLtoCSP (UOST): a tool for efficient verification of UML/OCL class diagrams through model slicing.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393639"
+    },
+    {
+        "title": "ReImInfer: method purity inference for Java.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393640"
+    },
+    {
+        "title": "TouchDevelop: app development on mobile devices.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393641"
+    },
+    {
+        "title": "FaultTracer: a change impact and regression fault analysis tool for evolving Java programs.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393642"
+    },
+    {
+        "title": "Efficiently scripting change-resilient tests.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393643"
+    },
+    {
+        "title": "Improving software developers' fluency by recommending development environment commands.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393645"
+    },
+    {
+        "title": "History slicing: assisting code-evolution tasks.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393646"
+    },
+    {
+        "title": "Who is going to mentor newcomers in open source projects?",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393647"
+    },
+    {
+        "title": "Assessing the value of branches with what-if analysis.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393648"
+    },
+    {
+        "title": "DTAM: dynamic taint analysis of multi-threaded programs for relevancy.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393650"
+    },
+    {
+        "title": "Predicting null-pointer dereferences in concurrent programs.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393651"
+    },
+    {
+        "title": "Asynchronous programs with prioritized task-buffers.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393652"
+    },
+    {
+        "title": "Do crosscutting concerns cause modularity problems?",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393654"
+    },
+    {
+        "title": "A field study of refactoring challenges and benefits.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393655"
+    },
+    {
+        "title": "How do software engineers understand code changes?: an exploratory study in industry.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393656"
+    },
+    {
+        "title": "Variability points and design pattern usage in architectural tactics.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393657"
+    },
+    {
+        "title": "A case study of cross-system porting in forked projects.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393659"
+    },
+    {
+        "title": "How do developers use parallel libraries?",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393660"
+    },
+    {
+        "title": "Seeking the ground truth: a retroactive study on the evolution and migration of software libraries.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393661"
+    },
+    {
+        "title": "How do developers react to API deprecation?: the case of a smalltalk ecosystem.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393662"
+    },
+    {
+        "title": "Conditional model checking: a technique to pass information between verifiers.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393664"
+    },
+    {
+        "title": "Green: reducing, reusing and recycling constraints in program analysis.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393665"
+    },
+    {
+        "title": "Automated concolic testing of smartphone apps.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393666"
+    },
+    {
+        "title": "Rubicon: bounded verification of web applications.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393667"
+    },
+    {
+        "title": "Recalling the \"imprecision\" of cross-project defect prediction.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393669"
+    },
+    {
+        "title": "An industrial study on the risk of software changes.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393670"
+    },
+    {
+        "title": "Multi-layered approach for recovering links between bug reports and fixes.",
+        "venue_name": "fse",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393671"
+    }
+]

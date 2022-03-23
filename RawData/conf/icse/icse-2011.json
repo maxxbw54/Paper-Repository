@@ -1,0 +1,1332 @@
+[
+    {
+        "title": "A practical guide for using statistical tests to assess randomized algorithms in software engineering.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985795"
+    },
+    {
+        "title": "aComment: mining annotations from comments and code to detect interrupt related concurrency bugs.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985796"
+    },
+    {
+        "title": "Camouflage: automated anonymization of field data.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985797"
+    },
+    {
+        "title": "A lightweight code analysis and its role in evaluation of a dependability case.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985799"
+    },
+    {
+        "title": "Towards quantitative software reliability assessment in incremental development processes.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985800"
+    },
+    {
+        "title": "The impact of fault models on software robustness evaluations.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985801"
+    },
+    {
+        "title": "Transformation for class immutability.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985803"
+    },
+    {
+        "title": "Refactoring Java programs for flexible locking.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985804"
+    },
+    {
+        "title": "Refactoring pipe-like mashups for end-user programmers.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985805"
+    },
+    {
+        "title": "Mining message sequence graphs.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985807"
+    },
+    {
+        "title": "Automatically detecting and describing high level actions within methods.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985808"
+    },
+    {
+        "title": "Portfolio: finding relevant functions and their usage.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985809"
+    },
+    {
+        "title": "Angelic debugging.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985811"
+    },
+    {
+        "title": "Static extraction of program configuration options.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985812"
+    },
+    {
+        "title": "An empirical study of build maintenance effort.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985813"
+    },
+    {
+        "title": "An empirical investigation into the role of API-level refactorings during software evolution.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985815"
+    },
+    {
+        "title": "Factors leading to integration failures in global feature-oriented development: an empirical analysis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985816"
+    },
+    {
+        "title": "Assessing programming language impact on development and maintenance: a study on c and c++.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985817"
+    },
+    {
+        "title": "On-demand feature recommendations derived from mining public product descriptions.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985819"
+    },
+    {
+        "title": "Inferring better contracts.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985820"
+    },
+    {
+        "title": "LIME: a framework for debugging load imbalance in multi-threaded execution.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985822"
+    },
+    {
+        "title": "Synthesis of live behaviour models for fallible domains.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985823"
+    },
+    {
+        "title": "Coverage guided systematic concurrency testing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985824"
+    },
+    {
+        "title": "Inference of field initialization.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985826"
+    },
+    {
+        "title": "Taming reflection: Aiding static analysis in the presence of reflection and custom class loaders.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985827"
+    },
+    {
+        "title": "Patching vulnerabilities with sanitization synthesis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985828"
+    },
+    {
+        "title": "Configuring global software teams: a multi-company analysis of project productivity, quality, and profits.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985830"
+    },
+    {
+        "title": "Does the initial environment impact the future of developers.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985831"
+    },
+    {
+        "title": "Socio-technical developer networks: should we trust our measurements?",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985832"
+    },
+    {
+        "title": "Model projection: simplifying models in response to restricting the environment.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985834"
+    },
+    {
+        "title": "MeCC: memory comparison-based clone detector.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985835"
+    },
+    {
+        "title": "Frequency and risks of changes to clones.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985836"
+    },
+    {
+        "title": "Symbolic model checking of software product lines.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985838"
+    },
+    {
+        "title": "Verifying multi-threaded software using smt-based context-bounded model checking.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985839"
+    },
+    {
+        "title": "Run-time efficient probabilistic model checking.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985840"
+    },
+    {
+        "title": "Non-essential changes in version histories.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985842"
+    },
+    {
+        "title": "Aspect recommendation for evolving software.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985843"
+    },
+    {
+        "title": "Identifying program, test, and environmental changes that affect behaviour.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985844"
+    },
+    {
+        "title": "Program abstractions for behaviour validation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985846"
+    },
+    {
+        "title": "Programs, tests, and oracles: the foundations of testing revisited.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985847"
+    },
+    {
+        "title": "RACEZ: a lightweight and non-invasive race detection tool for production applications.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985848"
+    },
+    {
+        "title": "Detecting software modularity violations.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985850"
+    },
+    {
+        "title": "Feature cohesion in software product lines: an exploratory study.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985851"
+    },
+    {
+        "title": "Leveraging software architectures to guide and verify the development of sense/compute/control applications.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985852"
+    },
+    {
+        "title": "Refactoring to role objects.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985854"
+    },
+    {
+        "title": "Supporting professional spreadsheet users by generating leveled dataflow diagrams.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985855"
+    },
+    {
+        "title": "Reverse engineering feature models.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985856"
+    },
+    {
+        "title": "Empirical assessment of MDE in industry.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985858"
+    },
+    {
+        "title": "Dealing with noise in defect prediction.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985859"
+    },
+    {
+        "title": "Ownership, experience and defects: a fine-grained study of authorship.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985860"
+    },
+    {
+        "title": "Interface decomposition for service compositions.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985862"
+    },
+    {
+        "title": "Unifying execution of imperative and declarative code.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985863"
+    },
+    {
+        "title": "Always-available static and dynamic feedback.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985864"
+    },
+    {
+        "title": "Improving requirements quality using essential use case interaction patterns.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985866"
+    },
+    {
+        "title": "Understanding broadcast based peer review on open source software projects.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985867"
+    },
+    {
+        "title": "Software systems as cities: a controlled experiment.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985868"
+    },
+    {
+        "title": "Automated cross-browser compatibility testing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985870"
+    },
+    {
+        "title": "A framework for automated testing of javascript web applications.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985871"
+    },
+    {
+        "title": "Coalescing executions for fast uncertainty analysis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985872"
+    },
+    {
+        "title": "Mining parametric specifications.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985874"
+    },
+    {
+        "title": "Estimating footprints of model operations.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985875"
+    },
+    {
+        "title": "Precise identification of problems for structural test generation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985876"
+    },
+    {
+        "title": "Interactivity, continuity, sketching, and experience: (keynote abstract).",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985878"
+    },
+    {
+        "title": "Exciting new trends in design thinking.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985879"
+    },
+    {
+        "title": "A case study of measuring process risk for early insights into software safety.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985881"
+    },
+    {
+        "title": "Model-driven engineering practices in industry.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985882"
+    },
+    {
+        "title": "SORASCS: a case study in soa-based platform design for socio-cultural analysis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985883"
+    },
+    {
+        "title": "A method for selecting SOA pilot projects including a pilot metrics framework.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985885"
+    },
+    {
+        "title": "Architecture evaluation without an architecture: experience with the smart grid.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985886"
+    },
+    {
+        "title": "Bringing domain-specific languages to digital forensics.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985887"
+    },
+    {
+        "title": "Building and using pluggable type-checkers.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985889"
+    },
+    {
+        "title": "Deploying CogTool: integrating quantitative usability assessment into real-world software development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985890"
+    },
+    {
+        "title": "Experiences with text mining large collections of unstructured systems development artifacts at jpl.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985891"
+    },
+    {
+        "title": "An evaluation of the internal quality of business applications: does size matter?",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985893"
+    },
+    {
+        "title": "Characterizing the differences between pre- and post- release versions of software.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985894"
+    },
+    {
+        "title": "Why software quality improvement fails: (and how to succeed nevertheless).",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985895"
+    },
+    {
+        "title": "Code coverage analysis in practice for large systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985897"
+    },
+    {
+        "title": "Practical change impact analysis based on static program slicing for industrial software systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985898"
+    },
+    {
+        "title": "Value-based program characterization and its application to software plagiarism detection.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985899"
+    },
+    {
+        "title": "A comparison of model-based and judgment-based release planning in incremental software projects.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985901"
+    },
+    {
+        "title": "An industrial case study on quality impact prediction for evolving service-oriented software.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985902"
+    },
+    {
+        "title": "Enabling the runtime assertion checking of concurrent contracts for the Java modeling language.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985903"
+    },
+    {
+        "title": "Perspectives of delegation in team-based distributed software development over the GENI infrastructure.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985905"
+    },
+    {
+        "title": "The hidden experts in software-engineering communication.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985906"
+    },
+    {
+        "title": "How do programmers ask and answer questions on the web?.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985907"
+    },
+    {
+        "title": "Sketching tools for ideation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985909"
+    },
+    {
+        "title": "Digitally annexing desk space for software development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985910"
+    },
+    {
+        "title": "Information foraging as a foundation for code navigation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985911"
+    },
+    {
+        "title": "Identifying method friendships to remove the feature envy bad smell.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985913"
+    },
+    {
+        "title": "The code orb: supporting contextualized coding via at-a-glance views.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985914"
+    },
+    {
+        "title": "Permission-based programming languages.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985915"
+    },
+    {
+        "title": "Toward a better understanding of tool usage.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985917"
+    },
+    {
+        "title": "Characterizing process variation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985918"
+    },
+    {
+        "title": "Blending freeform and managed information in tables.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985919"
+    },
+    {
+        "title": "Design and implementation of a data analytics infrastructure in support of crisis informatics research.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985920"
+    },
+    {
+        "title": "A domain specific requirements model for scientific computing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985922"
+    },
+    {
+        "title": "CREWW: collaborative requirements engineering with wii-remotes.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985923"
+    },
+    {
+        "title": "Learning to adapt requirements specifications of evolving systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985924"
+    },
+    {
+        "title": "Towards overcoming human analyst fallibility in the requirements tracing process.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985925"
+    },
+    {
+        "title": "Positive effects of utilizing relationships between inconsistencies for more effective inconsistency resolution.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985927"
+    },
+    {
+        "title": "Matching logic: a new program verification approach.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985928"
+    },
+    {
+        "title": "Model-based performance testing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985930"
+    },
+    {
+        "title": "Tuple density: a new metric for combinatorial test suites.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985931"
+    },
+    {
+        "title": "Search-enhanced testing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985932"
+    },
+    {
+        "title": "Fuzzy set-based automatic bug triaging.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985934"
+    },
+    {
+        "title": "Exploiting hardware advances for software testing and debugging.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985935"
+    },
+    {
+        "title": "Better testing through oracle selection.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985936"
+    },
+    {
+        "title": "Tracking data structures for postmortem analysis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985938"
+    },
+    {
+        "title": "Iterative context-aware feature location.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985939"
+    },
+    {
+        "title": "A study of ripple effects in software ecosystems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985940"
+    },
+    {
+        "title": "Tracing architectural concerns in high assurance systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985942"
+    },
+    {
+        "title": "A combination approach for enhancing automated traceability.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985943"
+    },
+    {
+        "title": "Capturing tacit architectural knowledge using the repertory grid technique.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985944"
+    },
+    {
+        "title": "Flexible generators for software reuse and evolution.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985946"
+    },
+    {
+        "title": "The lazy initialization multilayered modeling framework.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985947"
+    },
+    {
+        "title": "Towards architectural information in implementation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985948"
+    },
+    {
+        "title": "Topic-based defect prediction.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985950"
+    },
+    {
+        "title": "Automated usability evaluation of parallel programming constructs.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985951"
+    },
+    {
+        "title": "Data analytics for game development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985952"
+    },
+    {
+        "title": "Mining service abstractions.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985954"
+    },
+    {
+        "title": "A software behaviour analysis framework based on the human perception systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985955"
+    },
+    {
+        "title": "Dynamic shape analysis of program heap using graph spectra.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985956"
+    },
+    {
+        "title": "Program analysis: from qualitative analysis to quantitative analysis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985957"
+    },
+    {
+        "title": "Diagnosing new faults using mutants and prior faults.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985959"
+    },
+    {
+        "title": "Empirical results on the study of software vulnerabilities.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985960"
+    },
+    {
+        "title": "Multifractal aspects of software development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985962"
+    },
+    {
+        "title": "The American law institute's principles on software contracts and their ramifications for software engineering research.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985963"
+    },
+    {
+        "title": "Toward sustainable software engineering.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985964"
+    },
+    {
+        "title": "MT-Scribe: an end-user approach to automate software model evolution.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985966"
+    },
+    {
+        "title": "Inconsistent path detection for XML IDEs.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985967"
+    },
+    {
+        "title": "Automated security hardening for evolving UML models.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985968"
+    },
+    {
+        "title": "JavAdaptor: unrestricted dynamic software updates for Java.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985970"
+    },
+    {
+        "title": "DyTa: dynamic symbolic execution guided with static verification results.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985971"
+    },
+    {
+        "title": "Identifying opaque behavioural changes.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985972"
+    },
+    {
+        "title": "FireDetective: understanding ajax client/server interactions.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985973"
+    },
+    {
+        "title": "BQL: capturing and reusing debugging knowledge.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985975"
+    },
+    {
+        "title": "Covana: precise identification of problems in pex.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985976"
+    },
+    {
+        "title": "The quamoco tool chain for quality modeling and assessment.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985977"
+    },
+    {
+        "title": "ReAssert: a tool for repairing broken unit tests.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985978"
+    },
+    {
+        "title": "AutoBlackTest: a tool for automatic black-box testing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985979"
+    },
+    {
+        "title": "Using MATCON to generate CASE tools that guide deployment of pre-packaged applications.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985981"
+    },
+    {
+        "title": "SEREBRO: facilitating student project team collaboration.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985982"
+    },
+    {
+        "title": "StakeSource2.0: using social networks of stakeholders to identify and prioritise requirements.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985983"
+    },
+    {
+        "title": "Miler: a toolset for exploring email data.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985984"
+    },
+    {
+        "title": "A demonstration of a distributed software design sketching tool.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985985"
+    },
+    {
+        "title": "View infinity: a zoomable interface for feature-oriented software development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985987"
+    },
+    {
+        "title": "CodeTopics: which topic am I coding now?",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985988"
+    },
+    {
+        "title": "JDeodorant: identification and application of extract class refactorings.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985989"
+    },
+    {
+        "title": "Evolve: tool support for architecture evolution.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985990"
+    },
+    {
+        "title": "Portfolio: a search engine for finding functions and their usages.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985991"
+    },
+    {
+        "title": "Impact of process simulation on software practice: an initial report.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985993"
+    },
+    {
+        "title": "Impact of software resource estimation research on practice: a preliminary report on achievements, synergies, and challenges.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985994"
+    },
+    {
+        "title": "Symbolic execution for software testing in practice: preliminary assessment.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985995"
+    },
+    {
+        "title": "Exploring, exposing, and exploiting emails to include human factors in software engineering.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1985999"
+    },
+    {
+        "title": "GATE: game-based testing environment.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986000"
+    },
+    {
+        "title": "Reuse vs. maintainability: revealing the impact of composition code properties.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986001"
+    },
+    {
+        "title": "Specification mining in concurrent and distributed systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986002"
+    },
+    {
+        "title": "Detecting architecturally-relevant code smells in evolving software systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986003"
+    },
+    {
+        "title": "Pragmatic reuse in web application development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986004"
+    },
+    {
+        "title": "Inconsistency management framework for model-based development.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986005"
+    },
+    {
+        "title": "Mental models and parallel program maintenance.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986006"
+    },
+    {
+        "title": "Pragmatic prioritization of software quality assurance efforts.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986007"
+    },
+    {
+        "title": "Directed test suite augmentation.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986008"
+    },
+    {
+        "title": "Reengineering legacy software products into software product line based on automatic variability analysis.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986009"
+    },
+    {
+        "title": "1.x-Way architecture-implementation mapping.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986010"
+    },
+    {
+        "title": "Using software evolution history to facilitate development and maintenance.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986012"
+    },
+    {
+        "title": "Searching, selecting, and synthesizing source code.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986013"
+    },
+    {
+        "title": "Tracing architecturally significant requirements: a decision-centric approach.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986014"
+    },
+    {
+        "title": "Predictable dynamic deployment of components in embedded systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986015"
+    },
+    {
+        "title": "A declarative approach to enable flexible and dynamic service compositions.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986016"
+    },
+    {
+        "title": "A framework for the integration of user centered design and agile software development processes.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986017"
+    },
+    {
+        "title": "Improving open source software patch contribution process: methods and tools.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986018"
+    },
+    {
+        "title": "Systematizing security test case planning using functional requirements phrases.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986019"
+    },
+    {
+        "title": "Mining software repositories using topic models.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986020"
+    },
+    {
+        "title": "Test blueprint: an effective visual support for test coverage.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986022"
+    },
+    {
+        "title": "A formal approach to software synthesis for architectural platforms.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986023"
+    },
+    {
+        "title": "Detecting cross-browser issues in web applications.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986024"
+    },
+    {
+        "title": "Measuring subversions: security and legal risk in reused software artifacts.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986025"
+    },
+    {
+        "title": "Building domain specific software architectures from software architectural design patterns.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986026"
+    },
+    {
+        "title": "Using impact analysis in industry.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986027"
+    },
+    {
+        "title": "A decision support system for the classification of software coding faults: a research abstract.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986028"
+    },
+    {
+        "title": "Specification mining in concurrent and distributed systems.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986029"
+    },
+    {
+        "title": "A case study on refactoring in Haskell programs.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986030"
+    },
+    {
+        "title": "Build system maintenance.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986031"
+    },
+    {
+        "title": "Finding relevant functions in millions of lines of code.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986032"
+    },
+    {
+        "title": "Requirements tracing: discovering related documents through artificial pheromones and term proximity.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986033"
+    },
+    {
+        "title": "An end-user demonstration approach to support aspect-oriented modeling.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986034"
+    },
+    {
+        "title": "Problem identification for structural test generation: first step towards cooperative developer testing.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986035"
+    },
+    {
+        "title": "Palus: a hybrid automated test generation tool for java.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986036"
+    },
+    {
+        "title": "Scalable automatic linearizability checking.",
+        "venue_name": "icse",
+        "year": 2011,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1985793.1986037"
+    }
+]

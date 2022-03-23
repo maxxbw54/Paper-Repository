@@ -1,0 +1,611 @@
+[
+    {
+        "title": "Keynote address: toward compositional software engineering.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1858997"
+    },
+    {
+        "title": "Analyzing security architectures.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859001"
+    },
+    {
+        "title": "VikiBuilder: end-user specification and generation of visual wikis.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859002"
+    },
+    {
+        "title": "Software design sketching with calico.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859003"
+    },
+    {
+        "title": "Automatically documenting program changes.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859005"
+    },
+    {
+        "title": "Towards automatically generating summary comments for Java methods.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859006"
+    },
+    {
+        "title": "Automatic detection of nocuous coordination ambiguities in natural language requirements.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859007"
+    },
+    {
+        "title": "Flexible and scalable consistency checking on product line variability models.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859009"
+    },
+    {
+        "title": "Variability modeling in the real: a perspective from the operating systems domain.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859010"
+    },
+    {
+        "title": "RESISTing reliability degradation through proactive reconfiguration.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859011"
+    },
+    {
+        "title": "Automatic construction of an effective training set for prioritizing static analysis warnings.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859013"
+    },
+    {
+        "title": "An automated approach for finding variable-constant pairing bugs.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859014"
+    },
+    {
+        "title": "Deviance from perfection is a better criterion than closeness to evil when identifying risky code.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859015"
+    },
+    {
+        "title": "Seamlessly integrated, but loosely coupled: building user interfaces from heterogeneous components.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859017"
+    },
+    {
+        "title": "Tool support for quality-driven development of software architectures.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859018"
+    },
+    {
+        "title": "MiTV: multiple-implementation testing of user-input validators for web applications.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859019"
+    },
+    {
+        "title": "Model comparison with GenericDiff.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859020"
+    },
+    {
+        "title": "Eliminating products to test in a software product line.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859021"
+    },
+    {
+        "title": "A visual interactive debugger based on symbolic execution.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859022"
+    },
+    {
+        "title": "Model-driven reverse engineering of legacy graphical user interfaces.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859023"
+    },
+    {
+        "title": "A two-step technique for extract class refactoring.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859024"
+    },
+    {
+        "title": "Detecting user-visible failures in AJAX web applications by analyzing users' interaction behaviors.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859025"
+    },
+    {
+        "title": "Architectural style as an independent variable.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859026"
+    },
+    {
+        "title": "Text mining in supporting software systems risk assurance.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859027"
+    },
+    {
+        "title": "JCCD: a flexible and extensible API for implementing custom code clone detectors.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859029"
+    },
+    {
+        "title": "PeerUnit: a framework for testing peer-to-peer systems.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859030"
+    },
+    {
+        "title": "Reconfigurable run-time support for distributed service component architectures.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859031"
+    },
+    {
+        "title": "MoDisco: a generic and extensible framework for model driven reverse engineering.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859032"
+    },
+    {
+        "title": "Tool support for continuous maintenance of state machine models in program code.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859033"
+    },
+    {
+        "title": "Reac2o: a runtime for enterprise system models.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859034"
+    },
+    {
+        "title": "Symbolic PathFinder: symbolic execution of Java bytecode.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859035"
+    },
+    {
+        "title": "Enumeration refactoring: a tool for automatically converting Java constants to enumerated types.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859036"
+    },
+    {
+        "title": "Keynote address: the actual implementation will be derived from the formal specification -- KBSA, 1983.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1858998"
+    },
+    {
+        "title": "Verification-driven slicing of UML/OCL models.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859038"
+    },
+    {
+        "title": "Automated support for repairing input-model faults.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859039"
+    },
+    {
+        "title": "Security-driven model-based dynamic adaptation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859040"
+    },
+    {
+        "title": "JRF-E: using model checking to give advice on eliminating memory model-related bugs.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859042"
+    },
+    {
+        "title": "A bounded statistical approach for model checking of unbounded until properties.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859043"
+    },
+    {
+        "title": "Eliminating navigation errors in web applications via model checking and runtime enforcement of navigation state machines.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859044"
+    },
+    {
+        "title": "Towards mining replacement queries for hard-to-retrieve traces.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859046"
+    },
+    {
+        "title": "Tool support for essential use cases to better capture software requirements.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859047"
+    },
+    {
+        "title": "Timesheet assistant: mining and reporting developer effort.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859049"
+    },
+    {
+        "title": "An experience report on scaling tools for mining software repositories using MapReduce.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859050"
+    },
+    {
+        "title": "iMashup: assisting end-user programming for the service-oriented web.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859052"
+    },
+    {
+        "title": "MODA: automated test generation for database applications via mock objects.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859053"
+    },
+    {
+        "title": "Random unit-test generation with MUT-aware sequence recommendation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859054"
+    },
+    {
+        "title": "End-user oriented critic specification for domain-specific visual language tools.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859055"
+    },
+    {
+        "title": "Checking roundoff errors using counterexample-guided narrowing.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859056"
+    },
+    {
+        "title": "Realizing architecture frameworks through megamodelling techniques.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859057"
+    },
+    {
+        "title": "Recovering inter-project dependencies in software ecosystems.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859058"
+    },
+    {
+        "title": "Automated program repair through the evolution of assembly code.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859059"
+    },
+    {
+        "title": "Integrating model verification and self-adaptation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859060"
+    },
+    {
+        "title": "When to use data from other projects for effort estimation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859061"
+    },
+    {
+        "title": "Kadre: domain-specific architectural recovery for scientific software systems.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859062"
+    },
+    {
+        "title": "Automated SQL query generation for systematic testing of database engines.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859063"
+    },
+    {
+        "title": "Tag and prune: a pragmatic approach to software product line implementation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859064"
+    },
+    {
+        "title": "Reducing estimation uncertainty with continuous assessment: tracking the \"cone of uncertainty\".",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859065"
+    },
+    {
+        "title": "Using transitive changesets to support feature location.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859066"
+    },
+    {
+        "title": "RuMoR: monitoring and recovery for BPEL applications.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859068"
+    },
+    {
+        "title": "Model/analyzer: a tool for detecting, visualizing and fixing design errors in UML.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859069"
+    },
+    {
+        "title": "CoGenTe: a tool for code generator testing.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859070"
+    },
+    {
+        "title": "Impendulo: debugging the programmer.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859071"
+    },
+    {
+        "title": "SpecDiff: debugging formal specifications.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859072"
+    },
+    {
+        "title": "Deriving behavior of multi-user processes from interactive requirements validation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859073"
+    },
+    {
+        "title": "Tool support for code generation from a UMLsec property.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859074"
+    },
+    {
+        "title": "PlayGo: towards a comprehensive tool for scenario based programming.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859075"
+    },
+    {
+        "title": "REMES tool-chain: a set of integrated tools for behavioral modeling and analysis of embedded systems.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859076"
+    },
+    {
+        "title": "C2O: a tool for guided decision-making.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859077"
+    },
+    {
+        "title": "Keynote address: model engineering for model-driven engineering.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1858999"
+    },
+    {
+        "title": "Search-carrying code.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859079"
+    },
+    {
+        "title": "Solving string constraints lazily.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859080"
+    },
+    {
+        "title": "Scenario-based and value-based specification mining: better together.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859081"
+    },
+    {
+        "title": "Test generation to expose changes in evolving programs.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859083"
+    },
+    {
+        "title": "How did you specify your test suite.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859084"
+    },
+    {
+        "title": "Dynamic and transparent analysis of commodity production systems.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859085"
+    },
+    {
+        "title": "Apt-pbo: solving the software dependency problem using pseudo-boolean optimization.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859087"
+    },
+    {
+        "title": "A sentence-matching method for automatic license identification of source code files.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859088"
+    },
+    {
+        "title": "Detection of recurring software vulnerabilities.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859089"
+    },
+    {
+        "title": "Matching dependence-related queries in the system dependence graph.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859091"
+    },
+    {
+        "title": "PLASMA: a plan-based layered architecture for software model-driven adaptation.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859092"
+    },
+    {
+        "title": "A program differencing algorithm for verilog HDL.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859093"
+    },
+    {
+        "title": "Error-avoiding adaptors for black-box software components.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859095"
+    },
+    {
+        "title": "Automated model grouping.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859096"
+    },
+    {
+        "title": "Automatic inference of abstract type behavior.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859097"
+    },
+    {
+        "title": "Extraction and visualization of traceability relationships between documents and source code.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859098"
+    },
+    {
+        "title": "Model checking graph representation of precise boolean inter-procedural flow analysis.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859099"
+    },
+    {
+        "title": "The influence of multiple artifacts on the effectiveness of software testing.",
+        "venue_name": "ase",
+        "year": 2010,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/1858996.1859100"
+    }
+]

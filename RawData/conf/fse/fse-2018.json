@@ -1,0 +1,870 @@
+[
+    {
+        "title": "Behind every great deep learning framework is an even greater programming languages concept (keynote).",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3280855"
+    },
+    {
+        "title": "Ten years of hunting for similar code for fun and profit (keynote).",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3280856"
+    },
+    {
+        "title": "CloudRaid: hunting concurrency bugs in the cloud via log-mining.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236071"
+    },
+    {
+        "title": "Testing multithreaded programs via thread speed control.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236077"
+    },
+    {
+        "title": "Data race detection on compressed traces.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236025"
+    },
+    {
+        "title": "Practical AJAX race detection for JavaScript web applications.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236038"
+    },
+    {
+        "title": "Using finite-state models for log differencing.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236069"
+    },
+    {
+        "title": "Identifying impactful service system problems via log analysis.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236083"
+    },
+    {
+        "title": "Learning to sample: exploiting similarities across environments to learn performance models for configurable systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236074"
+    },
+    {
+        "title": "Performance comprehension at WiredTiger.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236081"
+    },
+    {
+        "title": "MemFix: static analysis-based repair of memory deallocation errors for C.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236079"
+    },
+    {
+        "title": "RefiNym: using names to refine types.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236042"
+    },
+    {
+        "title": "Darwinian data structure selection.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236043"
+    },
+    {
+        "title": "Scalability-first pointer analysis with self-tuning context-sensitivity.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236041"
+    },
+    {
+        "title": "DeepSim: deep learning code functional similarity.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236068"
+    },
+    {
+        "title": "Deep learning type inference.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236051"
+    },
+    {
+        "title": "Code vectors: understanding programs through embedded abstracted symbolic traces.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236085"
+    },
+    {
+        "title": "MODE: automated neural network model debugging via state differential analysis and input selection.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236082"
+    },
+    {
+        "title": "Towards a theory of software development expertise.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236061"
+    },
+    {
+        "title": "What makes a code change easier to review: an empirical investigation on code change reviewability.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236080"
+    },
+    {
+        "title": "Singularity: pattern fuzzing for worst case complexity.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236039"
+    },
+    {
+        "title": "Bug synthesis: challenging bug-finding tools with deep faults.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236084"
+    },
+    {
+        "title": "Modify, enhance, select: co-evolution of combinatorial models and test plans.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236067"
+    },
+    {
+        "title": "The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236027"
+    },
+    {
+        "title": "FraudDroid: automated ad fraud detection for Android apps.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236045"
+    },
+    {
+        "title": "AppFlow: using machine learning to synthesize robust, reusable UI tests.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236055"
+    },
+    {
+        "title": "Winning the app production rally.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236044"
+    },
+    {
+        "title": "One size does not fit all: an empirical study of containerized continuous deployment workflows.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236033"
+    },
+    {
+        "title": "Be careful of when: an empirical study on time-related misuse of issue tracking data.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236054"
+    },
+    {
+        "title": "Do the dependency conflicts in my project matter?",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236056"
+    },
+    {
+        "title": "Do Android taint analysis tools keep their promises?",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236029"
+    },
+    {
+        "title": "Neural-augmented static analysis of Android communication.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236066"
+    },
+    {
+        "title": "Oreo: detection of clones in the twilight zone.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236026"
+    },
+    {
+        "title": "Concurrency verification with maximal path causality.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236048"
+    },
+    {
+        "title": "Adversarial symbolic execution for detecting concurrency-related cache timing leaks.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236028"
+    },
+    {
+        "title": "Symbolic execution with existential second-order constraints.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236049"
+    },
+    {
+        "title": "Parameterized model counting for string and numeric constraints.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236064"
+    },
+    {
+        "title": "NAR-miner: discovering negative association rules from code for bug detection.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236032"
+    },
+    {
+        "title": "Path-based function embedding and its application to error-handling specification mining.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236059"
+    },
+    {
+        "title": "Putback-based bidirectional model transformations.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236070"
+    },
+    {
+        "title": "Model transformation languages under a magnifying glass: a controlled experiment with Xtend, ATL, and QVT.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236046"
+    },
+    {
+        "title": "Applications of psychological science for actionable analytics.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236050"
+    },
+    {
+        "title": "A novel automated approach for software effort estimation based on data augmentation.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236052"
+    },
+    {
+        "title": "Predicting Node failure in cloud service systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236060"
+    },
+    {
+        "title": "Detecting speech act types in developer question/answer conversations during bug repair.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236031"
+    },
+    {
+        "title": "Visual web test repair.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236063"
+    },
+    {
+        "title": "Syntax-guided synthesis of Datalog programs.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236034"
+    },
+    {
+        "title": "Large-scale study of substitutability in the presence of effects.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236075"
+    },
+    {
+        "title": "An empirical study on crash recovery bugs in large-scale distributed systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236030"
+    },
+    {
+        "title": "Complementing global and local contexts in representing API descriptions to improve API retrieval tasks.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236036"
+    },
+    {
+        "title": "Phys: probabilistic physical unit assignment and inconsistency detection.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236035"
+    },
+    {
+        "title": "Testing probabilistic programming systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236057"
+    },
+    {
+        "title": "Verifying the long-run behavior of probabilistic system models in the presence of uncertainty.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236078"
+    },
+    {
+        "title": "Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236047"
+    },
+    {
+        "title": "Feedback-directed differential testing of interactive debuggers.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236037"
+    },
+    {
+        "title": "Improving IR-based bug localization with context-aware query reformulation.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236065"
+    },
+    {
+        "title": "How should compilers explain problems to developers?",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236040"
+    },
+    {
+        "title": "Ecosystem-level determinants of sustained activity in open-source projects: a case study of the PyPI ecosystem.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236062"
+    },
+    {
+        "title": "Optimizing test prioritization via test distribution analysis.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236053"
+    },
+    {
+        "title": "How well are regular expressions tested in the wild?",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236072"
+    },
+    {
+        "title": "Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236058"
+    },
+    {
+        "title": "Detection of energy inefficiencies in Android wear watch faces.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236073"
+    },
+    {
+        "title": "Stochastic energy optimization for mobile GPS applications.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3236076"
+    },
+    {
+        "title": "Gamifying static analysis.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264830"
+    },
+    {
+        "title": "The case for experiment-oriented computing.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264831"
+    },
+    {
+        "title": "On the naturalness of proofs.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264832"
+    },
+    {
+        "title": "Does ACM's code of ethics change ethical decision making in software development?",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264833"
+    },
+    {
+        "title": "How are spreadsheet templates used in practice: a case study on Enron.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264834"
+    },
+    {
+        "title": "DLFuzz: differential fuzzing testing of deep learning systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264835"
+    },
+    {
+        "title": "Towards data-driven vulnerability prediction for requirements.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264836"
+    },
+    {
+        "title": "Beyond testing configurable systems: applying variational execution to automatic program repair and higher order mutation testing.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264837"
+    },
+    {
+        "title": "Software fairness.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264838"
+    },
+    {
+        "title": "Software engineering collaboratories (SEClabs) and collaboratories as a service (CaaS).",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264839"
+    },
+    {
+        "title": "Towards counterexample-guided k-induction for fast bug detection.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264840"
+    },
+    {
+        "title": "Salient-class location: help developers understand code change in code review.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264841"
+    },
+    {
+        "title": "Towards quantifying the development value of code contributions.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264842"
+    },
+    {
+        "title": "Operationalizing human values in software: a research roadmap.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264843"
+    },
+    {
+        "title": "Modeling and testing a family of surgical robots: an experience report.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275534"
+    },
+    {
+        "title": "Efficient static checking of library updates.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275535"
+    },
+    {
+        "title": "Are mobile banking apps secure? what can be improved?",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275523"
+    },
+    {
+        "title": "VulSeeker-pro: enhanced semantic learning based binary vulnerability seeker with emulation.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275524"
+    },
+    {
+        "title": "PAFL: extend fuzzing optimizations of single mode to industrial parallel mode.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275525"
+    },
+    {
+        "title": "Software development challenges with air-gap isolation.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275526"
+    },
+    {
+        "title": "Design and validation of precooked developer dashboards.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275530"
+    },
+    {
+        "title": "Testing and validating end user programmed calculated fields.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275531"
+    },
+    {
+        "title": "Automated refactoring of nested-IF formulae in spreadsheets.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275532"
+    },
+    {
+        "title": "FACTS: automated black-box testing of FinTech systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275533"
+    },
+    {
+        "title": "Regression test selection for TizenRT.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275527"
+    },
+    {
+        "title": "Building lean continuous integration and delivery pipelines by applying DevOps principles: a case study at Varidesk.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275528"
+    },
+    {
+        "title": "The impact of failing, flaky, and high failure tests on the number of crash reports associated with Firefox builds.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275529"
+    },
+    {
+        "title": "BigSift: automated debugging of big data analytics in data-intensive scalable computing.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264586"
+    },
+    {
+        "title": "FOT: a versatile, configurable, extensible fuzzing framework.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264593"
+    },
+    {
+        "title": "Themis: automatically testing software for discrimination.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264590"
+    },
+    {
+        "title": "Vista: web test repair using computer vision.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264592"
+    },
+    {
+        "title": "Augmenting stack overflow with API usage patterns mined from GitHub.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264585"
+    },
+    {
+        "title": "PowerStation: automatically detecting and fixing inefficiencies of database-backed web applications in IDE.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264589"
+    },
+    {
+        "title": "SketchFix: a tool for automated program repair approach using lazy candidate generation.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264600"
+    },
+    {
+        "title": "WarningsGuru: integrating statistical bug models with static analysis to provide timely and specific bug warnings.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264599"
+    },
+    {
+        "title": "DSM: a specification mining tool using recurrent neural network based language model.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264597"
+    },
+    {
+        "title": "EClone: detect semantic clones in Ethereum via symbolic transaction sketch.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264596"
+    },
+    {
+        "title": "INFAR: insight extraction from app reviews.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264595"
+    },
+    {
+        "title": "PyDriller: Python framework for mining software repositories.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264598"
+    },
+    {
+        "title": "A formal verification tool for Ethereum VM bytecode.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264591"
+    },
+    {
+        "title": "ASketch: a sketching framework for Alloy.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264594"
+    },
+    {
+        "title": "AlloyInEcore: embedding of first-order relational logic into meta-object facility for automated model reasoning.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264588"
+    },
+    {
+        "title": "VT-revolution: interactive programming tutorials made possible.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3264587"
+    },
+    {
+        "title": "Practices and tools for better software testing.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275424"
+    },
+    {
+        "title": "Automated support for mobile application testing and maintenance.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275425"
+    },
+    {
+        "title": "Moving towards objective measures of program comprehension.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275426"
+    },
+    {
+        "title": "Semantic inference from natural language privacy policies and Android code.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275427"
+    },
+    {
+        "title": "Intelligent bug fixing with software bug knowledge graph.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275428"
+    },
+    {
+        "title": "Quality assurance automation in autonomous systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275429"
+    },
+    {
+        "title": "How do developers resolve merge conflicts? an investigation into the processes, tools, and improvements.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275430"
+    },
+    {
+        "title": "Automated scenario-based integration testing of distributed systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275431"
+    },
+    {
+        "title": "Towards learning-augmented languages.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275432"
+    },
+    {
+        "title": "On the adoption of neural networks in modeling software reliability.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275433"
+    },
+    {
+        "title": "Type migration in large-scale code bases.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275434"
+    },
+    {
+        "title": "Reshaping distributed agile and adaptive development environment.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275435"
+    },
+    {
+        "title": "How Dance(Sport) can help to produce better software.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275436"
+    },
+    {
+        "title": "Feature-interaction aware configuration prioritization.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275437"
+    },
+    {
+        "title": "Dara: hybrid model checking of distributed systems.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275438"
+    },
+    {
+        "title": "Bugs in the wild: examining the effectiveness of static analyzers at finding real-world bugs.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275439"
+    },
+    {
+        "title": "Mining error-handling specifications for systems software.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275440"
+    },
+    {
+        "title": "Diversity and decorum in open source communities.",
+        "venue_name": "fse",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3236024.3275441"
+    }
+]

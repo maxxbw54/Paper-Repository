@@ -1,0 +1,702 @@
+[
+    {
+        "title": "Learning to Rank for Question-Oriented Software Text Retrieval (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.24"
+    },
+    {
+        "title": "Development Emails Content Analyzer: Intention Mining in Developer Discussions (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.12"
+    },
+    {
+        "title": "CodeExchange: Supporting Reformulation of Internet-Scale Code Queries in Context (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.51"
+    },
+    {
+        "title": "How do Developers Document Database Usages in Source Code? (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.67"
+    },
+    {
+        "title": "Efficient Data Model Verification with Many-Sorted Logic (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.48"
+    },
+    {
+        "title": "Synthesising Interprocedural Bit-Precise Termination Proofs (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.10"
+    },
+    {
+        "title": "Interpolation Guided Compositional Verification (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.33"
+    },
+    {
+        "title": "Crust: A Bounded Verifier for Rust (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.77"
+    },
+    {
+        "title": "General LTL Specification Mining (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.71"
+    },
+    {
+        "title": "Have We Seen Enough Traces? (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.62"
+    },
+    {
+        "title": "Extracting Visual Contracts from Java Programs (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.63"
+    },
+    {
+        "title": "Synergizing Specification Miners through Model Fissions and Fusions (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.83"
+    },
+    {
+        "title": "Evolutionary Robustness Testing of Data Processing Systems Using Models and Data Mutation (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.13"
+    },
+    {
+        "title": "Dynamically Testing GUIs Using Ant Colony Optimization (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.70"
+    },
+    {
+        "title": "Test Analysis: Searching for Faults in Tests (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.37"
+    },
+    {
+        "title": "Array Shadow State Compression for Precise Dynamic Race Detection (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.19"
+    },
+    {
+        "title": "Fast and Precise Symbolic Analysis of Concurrency Bugs in Device Drivers (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.30"
+    },
+    {
+        "title": "JaConTeBe: A Benchmark Suite of Real-World Java Concurrency Bugs (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.87"
+    },
+    {
+        "title": "Generating Fixtures for JavaScript Unit Testing (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.26"
+    },
+    {
+        "title": "Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.86"
+    },
+    {
+        "title": "GRT: Program-Analysis-Guided Random Testing (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.49"
+    },
+    {
+        "title": "Study and Refactoring of Android Asynchronous Programming (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.50"
+    },
+    {
+        "title": "Tracking the Software Quality of Android Applications Along Their Evolution (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.46"
+    },
+    {
+        "title": "Reverse Engineering Mobile Application User Interfaces with REMAUI (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.32"
+    },
+    {
+        "title": "CodeHow: Effective Code Search Based on API Understanding and Extended Boolean Model (E).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.42"
+    },
+    {
+        "title": "SpyREST: Automated RESTful API Documentation Using an HTTP Proxy Server (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.52"
+    },
+    {
+        "title": "Tracking and Analyzing Cross-Cutting Activities in Developers' Daily Work (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.43"
+    },
+    {
+        "title": "An Automated Framework for Recommending Program Elements to Novices (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.54"
+    },
+    {
+        "title": "Automated Tagging of Software Projects Using Bytecode and Dependencies (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.38"
+    },
+    {
+        "title": "Repairing Programs with Semantic Code Search (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.60"
+    },
+    {
+        "title": "Fixing Recurring Crash Bugs via Analyzing Q&A Sites (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.81"
+    },
+    {
+        "title": "Search-Based Synthesis of Probabilistic Models for Quality-of-Service Software Engineering (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.22"
+    },
+    {
+        "title": "Synthesizing Web Element Locators (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.23"
+    },
+    {
+        "title": "Cost-Efficient Sampling for Performance Prediction of Configurable Systems (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.45"
+    },
+    {
+        "title": "Predicting Delays in Software Projects Using Networked Classification (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.55"
+    },
+    {
+        "title": "Performance Prediction of Configurable Software Systems by Fourier Learning (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.15"
+    },
+    {
+        "title": "Model-Driven Allocation Engineering (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.18"
+    },
+    {
+        "title": "Configuration-Aware Change Impact Analysis (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.58"
+    },
+    {
+        "title": "Automating the Extraction of Model-Based Software Product Lines from Model Variants (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.44"
+    },
+    {
+        "title": "Scaling Size and Parameter Spaces in Variability-Aware Software Performance Models (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.16"
+    },
+    {
+        "title": "Executing Model-Based Tests on Platform-Specific Implementations (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.64"
+    },
+    {
+        "title": "Automated Test Input Generation for Android: Are We There Yet? (E).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.89"
+    },
+    {
+        "title": "Testing Cross-Platform Mobile App Development Frameworks (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.21"
+    },
+    {
+        "title": "CLAMI: Defect Prediction on Unlabeled Datasets (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.56"
+    },
+    {
+        "title": "Mutation-Based Fault Localization for Real-World Multilingual Programs (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.14"
+    },
+    {
+        "title": "Combining Deep Learning with Information Retrieval to Localize Buggy Files for Bug Reports (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.73"
+    },
+    {
+        "title": "Fuzzing the Rust Typechecker Using CLP (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.65"
+    },
+    {
+        "title": "TCA: An Efficient Two-Mode Meta-Heuristic Algorithm for Combinatorial Test Generation (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.61"
+    },
+    {
+        "title": "Automatically Generating Test Templates from Test Names (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.68"
+    },
+    {
+        "title": "Region and Effect Inference for Safe Parallelism (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.59"
+    },
+    {
+        "title": "Optimistic Shared Memory Dependence Tracing (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.11"
+    },
+    {
+        "title": "Model Checking Task Parallel Programs Using Gradual Permissions (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.75"
+    },
+    {
+        "title": "Practically Tunable Static Analysis Framework for Large-Scale JavaScript Applications (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.28"
+    },
+    {
+        "title": "Static Analysis of JavaScript Web Applications in the Wild via Practical DOM Modeling (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.27"
+    },
+    {
+        "title": "Variable Feature Usage Patterns in PHP (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.72"
+    },
+    {
+        "title": "Learning to Generate Pseudo-Code from Source Code Using Statistical Machine Translation (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.36"
+    },
+    {
+        "title": "Divide-and-Conquer Approach for Multi-phase Statistical Migration for Source Code (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.74"
+    },
+    {
+        "title": "Experiences from Designing and Validating a Software Modernization Transformation (E).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.84"
+    },
+    {
+        "title": "Exploiting Domain and Program Structure to Synthesize Efficient and Precise Data Flow Analyses (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.41"
+    },
+    {
+        "title": "Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.9"
+    },
+    {
+        "title": "Copy and Paste Redeemed (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.39"
+    },
+    {
+        "title": "Detecting Broken Pointcuts Using Structural Commonality and Degree of Interest (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.80"
+    },
+    {
+        "title": "Covert Communication in Mobile Applications (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.66"
+    },
+    {
+        "title": "Static Window Transition Graphs for Android (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.76"
+    },
+    {
+        "title": "Static Analysis of Implicit Control Flow: Resolving Java Reflection and Android Intents (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.69"
+    },
+    {
+        "title": "String Analysis of Android Applications (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.20"
+    },
+    {
+        "title": "Semantic Slicing of Software Version Histories (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.47"
+    },
+    {
+        "title": "Development History Granularity Transformations (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.53"
+    },
+    {
+        "title": "Quantification of Software Changes through Probabilistic Symbolic Execution (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.78"
+    },
+    {
+        "title": "Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.31"
+    },
+    {
+        "title": "Developing a DSL-Based Approach for Event-Based Monitoring of Systems of Systems: Experiences and Lessons Learned (E).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.25"
+    },
+    {
+        "title": "Generating Qualifiable Avionics Software: An Experience Report (E).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.35"
+    },
+    {
+        "title": "How Verified is My Code? Falsification-Driven Verification (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.40"
+    },
+    {
+        "title": "Mining User Opinions in Mobile App Reviews: A Keyword-Based Approach (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.85"
+    },
+    {
+        "title": "\"What Parts of Your Apps are Loved by Users?\" (T).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.57"
+    },
+    {
+        "title": "Ensemble Methods for App Review Classification: An Approach for Software Evolution (N).",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.88"
+    },
+    {
+        "title": "The ReMinds Tool Suite for Runtime Monitoring of Systems of Systems.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.91"
+    },
+    {
+        "title": "DRIVER - A Platform for Collaborative Framework Understanding.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.105"
+    },
+    {
+        "title": "Tool Support for Analyzing Mobile App Reviews.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.101"
+    },
+    {
+        "title": "Recommending API Usages for Mobile Apps with Hidden Markov Model.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.109"
+    },
+    {
+        "title": "FLYAQ: Enabling Non-expert Users to Specify and Generate Missions of Autonomous Multicopters.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.104"
+    },
+    {
+        "title": "Lazy-CSeq: A Context-Bounded Model Checking Tool for Multi-threaded C-Programs.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.108"
+    },
+    {
+        "title": "SpyREST in Action: An Automated RESTful API Documentation Tool.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.92"
+    },
+    {
+        "title": "Clone Merge - An Eclipse Plugin to Abstract Near-Clone C++ Methods.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.103"
+    },
+    {
+        "title": "Pseudogen: A Tool to Automatically Generate Pseudo-Code from Source Code.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.107"
+    },
+    {
+        "title": "CIVL: Formal Verification of Parallel Programs.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.99"
+    },
+    {
+        "title": "Refactorings for Android Asynchronous Programming.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.100"
+    },
+    {
+        "title": "GRT: An Automated Test Generator Using Orchestrated Program Analysis.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.102"
+    },
+    {
+        "title": "LED: Tool for Synthesizing Web Element Locators.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.110"
+    },
+    {
+        "title": "SiPL - A Delta-Based Modeling Framework for Software Product Line Engineering.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.106"
+    },
+    {
+        "title": "Model-Based Testing of Stateful APIs with Modbat.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.95"
+    },
+    {
+        "title": "ActivitySpace: A Remembrance Framework to Support Interapplication Information Needs.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.90"
+    },
+    {
+        "title": "Investigating Program Behavior Using the Texada LTL Specifications Miner.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.94"
+    },
+    {
+        "title": "The iMPAcT Tool: Testing UI Patterns on Mobile Applications.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.96"
+    },
+    {
+        "title": "Measuring Object-Oriented Design Principles.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.17"
+    },
+    {
+        "title": "Stability of Self-Adaptive Software Architectures.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.93"
+    },
+    {
+        "title": "MetaMod: A Modeling Formalism with Modularity at Its Core.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.29"
+    },
+    {
+        "title": "A Generic Framework for Concept-Based Exploration of Semi-Structured Software Engineering Data.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.34"
+    },
+    {
+        "title": "Understanding, Refactoring, and Fixing Concurrency in C#.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.82"
+    },
+    {
+        "title": "A Message-Passing Architecture without Public Ids Using Send-to-Behavior.",
+        "venue_name": "ase",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ASE.2015.79"
+    }
+]

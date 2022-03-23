@@ -4,1682 +4,1070 @@
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180233",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180233"
     },
     {
         "title": "Towards practical program repair with on-demand candidate generation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180245",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180245"
     },
     {
         "title": "A correlation study between automated program repair and test-suite metrics.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182517",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182517"
     },
     {
         "title": "Do automated program repair techniques repair hard and important bugs?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182533",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182533"
     },
     {
         "title": "Software protection on the go: a large-scale empirical study on mobile app obfuscation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180169",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180169"
     },
     {
         "title": "GUILeak: tracing privacy policy claims on user input data for Android applications.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180196",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180196"
     },
     {
         "title": "Online app review analysis for identifying emerging issues.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180218",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180218"
     },
     {
         "title": "EARMO: an energy-aware refactoring approach for mobile apps.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182524",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182524"
     },
     {
         "title": "Neuro-symbolic program corrector for introductory programming assignments.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180219",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180219"
     },
     {
         "title": "Automated localization for unreproducible builds.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180224",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180224"
     },
     {
         "title": "Enlightened debugging.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180242",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180242"
     },
     {
         "title": "Experiences and challenges in building a data intensive system for data migration.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182534",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182534"
     },
     {
         "title": "Sentiment analysis for software engineering: how far can we go?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180195",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180195"
     },
     {
         "title": "Identifying features in forks.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180205",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180205"
     },
     {
         "title": "Roles and impacts of hands-on software architects in five industrial case studies.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180234",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180234"
     },
     {
         "title": "Sentiment polarity detection for software development.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182519",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182519"
     },
     {
         "title": "Semantic program repair using a reference implementation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180247",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180247"
     },
     {
         "title": "Automated repair of mobile friendly problems in web pages.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180262",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180262"
     },
     {
         "title": "Static automated program repair for heap properties.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180250",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180250"
     },
     {
         "title": "Overfitting in semantics-based automated program repair.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182536",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182536"
     },
     {
         "title": "Studying the dialogue between users and developers of free apps in the google play store.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182523",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182523"
     },
     {
         "title": "Automated reporting of GUI design violations for mobile apps.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180246",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180246"
     },
     {
         "title": "Leveraging program analysis to reduce user-perceived latency in mobile applications.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180249",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180249"
     },
     {
         "title": "Repairing crashes in Android apps.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180243",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180243"
     },
     {
         "title": "Hybrid regression test selection.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180198",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180198"
     },
     {
         "title": "Fine-grained test minimization.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180203",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180203"
     },
     {
         "title": "FAST approaches to scalable similarity-based test case prioritization.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180210",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180210"
     },
     {
         "title": "Towards refactoring-aware regression test selection.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180254",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180254"
     },
     {
         "title": "Inheritance usage patterns in open-source systems.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180168",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180168"
     },
     {
         "title": "Almost there: a study on quasi-contributors in open source software projects.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180208",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180208"
     },
     {
         "title": "Analyzing a decade of Linux system calls.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182518",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182518"
     },
     {
         "title": "To distribute or not to distribute?: why licensing bugs matter.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180221",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180221"
     },
     {
         "title": "Augusto: exploiting popular functionalities for the generation of semantic GUI tests with Oracles.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180162",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180162"
     },
     {
         "title": "Towards optimal concolic testing.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180177",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180177"
     },
     {
         "title": "DeepTest: automated testing of deep-neural-network-driven autonomous cars.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180220",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180220"
     },
     {
         "title": "Precise concolic unit testing of C programs using extended units and symbolic alarm filtering.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180253",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180253"
     },
     {
         "title": "Spatio-temporal context reduction: a pointer-analysis-based static approach for detecting use-after-free vulnerabilities.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180178",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180178"
     },
     {
         "title": "Program splicing.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180190",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180190"
     },
     {
         "title": "Chopped symbolic execution.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180251",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180251"
     },
     {
         "title": "Perses: syntax-guided program reduction.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180236",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180236"
     },
     {
         "title": "Secure coding practices in Java: challenges and vulnerabilities.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180201",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180201"
     },
     {
         "title": "EnMobile: entity-based characterization and analysis of mobile malware.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180223",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180223"
     },
     {
         "title": "Model comprehension for security risk assessment: an empirical comparison of tabular vs. graphical representations.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182511",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182511"
     },
     {
         "title": "Privacy by designers: software developers' privacy mindset.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182531",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182531"
     },
     {
         "title": "Does the propagation of artifact changes across tasks reflect work dependencies?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180185",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180185"
     },
     {
         "title": "Large-scale analysis of framework-specific exceptions in Android apps.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180222",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180222"
     },
     {
         "title": "Effect sizes and their variance for AB/BA crossover design studies.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182556",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182556"
     },
     {
         "title": "A large-scale empirical study on the effects of code obfuscations on Android apps and anti-malware products.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180228",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180228"
     },
     {
         "title": "An empirical study on the interplay between semantic coupling and co-change of software classes.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3190833",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3190833"
     },
     {
         "title": "DeFlaker: automatically detecting flaky tests.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180164",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180164"
     },
     {
         "title": "DetReduce: minimizing Android GUI test suites for regression testing.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180173",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180173"
     },
     {
         "title": "Time to clean your test objectives.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180191",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180191"
     },
     {
         "title": "Prioritizing browser environments for web application test execution.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180244",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180244"
     },
     {
         "title": "An empirical study of early access games on the steam platform.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182512",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182512"
     },
     {
         "title": "Correctness attraction: a study of stability of software behavior under runtime perturbation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182548",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182548"
     },
     {
         "title": "On the diffuseness and the impact on maintainability of code smells: a large scale empirical investigation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182532",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182532"
     },
     {
         "title": "Accurate and efficient refactoring detection in commit history.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180206",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180206"
     },
     {
         "title": "ENTRUST: engineering trustworthy self-adaptive software with dynamic assurance cases.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182540",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182540"
     },
     {
         "title": "The good, the bad and the ugly: a study of security decisions in a cyber-physical systems game.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182549",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182549"
     },
     {
         "title": "Lightweight, obfuscation-resilient detection and family identification of Android malware.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182551",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182551"
     },
     {
         "title": "Are vulnerabilities discovered and resolved like other defects?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182553",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182553"
     },
     {
         "title": "How modern news aggregators help development communities shape and share knowledge.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180180",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180180"
     },
     {
         "title": "Adding sparkle to social coding: an empirical study of repository badges in the npm ecosystem.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180209",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180209"
     },
     {
         "title": "\"Was my contribution fairly reviewed?\": a framework to study the perception of fairness in modern code reviews.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180217",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180217"
     },
     {
         "title": "Collaborative model-driven software engineering: a classification framework and a research map.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182543",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182543"
     },
     {
         "title": "ChangeLocator: locate crash-inducing changes based on crash reports.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182516",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182516"
     },
     {
         "title": "Are mutation scores correlated with real fault detection?: a large scale empirical study on the relationship between mutants and real faults.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180183",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180183"
     },
     {
         "title": "Efficient sampling of SAT solutions for testing.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180248",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180248"
     },
     {
         "title": "Are fix-inducing changes a moving target?: a longitudinal case study of just-in-time defect prediction.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182514",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182514"
     },
     {
         "title": "Understanding developers' needs on deprecation as a language feature.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180170",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180170"
     },
     {
         "title": "On the dichotomy of debugging behavior among programmers.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180175",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180175"
     },
     {
         "title": "Measuring program comprehension: a large-scale field study with professionals.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182538",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182538"
     },
     {
         "title": "Data scientists in software teams: state of the art and challenges.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182515",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182515"
     },
     {
         "title": "Dataflow tunneling: mining inter-request data dependencies for request-based applications.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180171",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180171"
     },
     {
         "title": "Launch-mode-aware context-sensitive activity transition analysis.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180188",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180188"
     },
     {
         "title": "UFO: predictive concurrency use-after-free detection.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180225",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180225"
     },
     {
         "title": "Collective program analysis.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180252",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180252"
     },
     {
         "title": "Statistical learning of API fully qualified names in code snippets of online forums.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180230",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180230"
     },
     {
         "title": "When not to comment: questions and tradeoffs with API documentation for C++ projects.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180176",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180176"
     },
     {
         "title": "Deuce: a lightweight user interface for structured editing.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180165",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180165"
     },
     {
         "title": "From UI design image to GUI skeleton: a neural machine translator to bootstrap mobile GUI implementation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180240",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180240"
     },
     {
         "title": "When testing meets code review: why and how developers review tests.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180192",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180192"
     },
     {
         "title": "Redefining prioritization: continuous prioritization for continuous integration.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180213",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180213"
     },
     {
         "title": "MAHAKIL: diversity based oversampling approach to alleviate the class imbalance issue in software defect prediction.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182520",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182520"
     },
     {
         "title": "On the use of hidden Markov model to predict the time to fix bugs.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182522",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182522"
     },
     {
         "title": "What makes a great manager of software engineers?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182525",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182525"
     },
     {
         "title": "Older adults and hackathons: a qualitative study.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182547",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182547"
     },
     {
         "title": "Does syntax highlighting help programming novices?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182554",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182554"
     },
     {
         "title": "Do programmers work at night or during the weekend?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180193",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180193"
     },
     {
         "title": "Multi-granular conflict and dependency analysis in software engineering based on graph transformation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180258",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180258"
     },
     {
         "title": "Self-hiding behavior in Android apps: detection and characterization.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180214",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180214"
     },
     {
         "title": "The scent of a smell: an extensive comparison between textual and structural smells.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182530",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182530"
     },
     {
         "title": "ConflictJS: finding and understanding conflicts between JavaScript libraries.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180184",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180184"
     },
     {
         "title": "Debugging data flows in reactive programs.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180156",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180156"
     },
     {
         "title": "Do you remember this source code?",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180215",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180215"
     },
     {
         "title": "Inferring hierarchical motifs from execution traces.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180216",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180216"
     },
     {
         "title": "A comparison of program comprehension strategies by blind and sighted programmers.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182544",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182544"
     },
     {
         "title": "Identifying patch correctness in test-based program repair.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180182",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180182"
     },
     {
         "title": "How not to structure your database-backed web applications: a study of performance bugs in the wild.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180194",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180194"
     },
     {
         "title": "Speedoo: prioritizing performance optimization opportunities.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180229",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180229"
     },
     {
         "title": "Empirical study on the discrepancy between performance testing results from virtual and physical environments.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182527",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182527"
     },
     {
         "title": "The evolution of requirements practices in software startups.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180158",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180158"
     },
     {
         "title": "Traceability in the wild: automatically augmenting incomplete trace links.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180207",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180207"
     },
     {
         "title": "A temporal permission analysis and enforcement framework for Android.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180172",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180172"
     },
     {
         "title": "Global-aware recommendations for repairing violations in exception handling.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182539",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182539"
     },
     {
         "title": "RFC-directed differential testing of certificate validation in SSL/TLS implementations.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180226",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180226"
     },
     {
         "title": "Symbolic verification of regular properties.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180227",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180227"
     },
     {
         "title": "Metamorphic testing of RESTful web APIs.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182528",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182528"
     },
     {
         "title": "Integrating technical debt management and software quality management processes: a framework and field tests.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182529",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182529"
     },
     {
         "title": "Understanding the factors for fast answers in technical Q&A websites: an empirical study of four stack exchange websites.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182521",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182521"
     },
     {
         "title": "Towards reusing hints from past fixes: an exploratory study on thousands of real samples.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182550",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182550"
     },
     {
         "title": "Are code examples on an online Q&A forum reliable?: a study of API misuse on stack overflow.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180260",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180260"
     },
     {
         "title": "Inference of development activities from interaction with uninstrumented applications.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182537",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182537"
     },
     {
         "title": "Propagating configuration decisions with modal implication graphs.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180159",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180159"
     },
     {
         "title": "A combinatorial approach for exposing off-nominal behaviors.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180204",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180204"
     },
     {
         "title": "Identifying design problems in the source code: a grounded theory.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180239",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180239"
     },
     {
         "title": "Predicting future developer behavior in the IDE using topic models.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182541",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182541"
     },
     {
         "title": "Deep code search.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180167",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180167"
     },
     {
         "title": "Augmenting and structuring user queries to support efficient free-form code search.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182513",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182513"
     },
     {
         "title": "FaCoY: a code-to-code search engine.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180187",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180187"
     },
     {
         "title": "Generalized data structure synthesis.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180211",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180211"
     },
     {
         "title": "A graph solver for the automated generation of consistent domain-specific models.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180186",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180186"
     },
     {
         "title": "Automatically finding bugs in a commercial cyber-physical system development tool chain with SLforge.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180231",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180231"
     },
     {
         "title": "Context-aware conversational developer assistants.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180238",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180238"
     },
     {
         "title": "Open source barriers to entry, revisited: a sociotechnical perspective.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180241",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180241"
     },
     {
         "title": "Testing vision-based control systems using learnable evolutionary algorithms.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180160",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180160"
     },
     {
         "title": "To preserve or not to preserve invalid solutions in search-based software engineering: a case study in software product lines.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180163",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180163"
     },
     {
         "title": "Nemo: multi-criteria test-suite minimization with integer nonlinear programming.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180174",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180174"
     },
     {
         "title": "Is \"better data\" better than \"better data miners\"?: on the benefits of tuning SMOTE for defect prediction.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180197",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180197"
     },
     {
         "title": "Analyzing the effects of test driven development in GitHub.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182535",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182535"
     },
     {
         "title": "A comparative study to benchmark cross-project defect prediction approaches.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182542",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182542"
     },
     {
         "title": "MSeer: an advanced technique for locating multiple bugs in parallel.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182552",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182552"
     },
     {
         "title": "Journal first presentation of an experience report on applying software testing academic results in industry: we need usable automated test generation.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182555",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182555"
     },
     {
         "title": "CCAligner: a token based large-gap clone detector.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180179",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180179"
     },
     {
         "title": "HireBuild: an automatic approach to history-driven repair of build scripts.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180181",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180181"
     },
     {
         "title": "The road to live programming: insights from the practice.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180200",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180200"
     },
     {
         "title": "Assessing the threat of untracked changes in software evolution.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180212",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180212"
     },
     {
         "title": "Programming not only by example.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180189",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180189"
     },
     {
         "title": "Goal-conflict likelihood assessment based on model counting.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180261",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180261"
     },
     {
         "title": "A posteriori typing for model-driven engineering: concepts, analysis, and applications.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182545",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182545"
     },
     {
         "title": "A static verification framework for message passing in Go using behavioural types.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180157",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180157"
     },
     {
         "title": "Inferring and asserting distributed system invariants.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180199",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180199"
     },
     {
         "title": "DroidStar: callback typestates for Android classes.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180232",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180232"
     },
     {
         "title": "Debugging with intelligence via probabilistic inference.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180237",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180237"
     },
     {
         "title": "Reducer-based construction of conditional verifiers.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180259",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180259"
     },
     {
         "title": "Challenges and pitfalls on surveying evidence in the software engineering technical literature: an exploratory study with novices.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182557",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182557"
     },
     {
         "title": "Statistical errors in software engineering experiments: a preliminary literature review.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180161",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180161"
     },
     {
         "title": "Synthesizing qualitative research in software engineering: a critical review.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180235",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180235"
     },
     {
         "title": "Automatic software repair: a survey.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182526",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182526"
     },
     {
         "title": "Search-based test data generation for SQL queries.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180202",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180202"
     },
     {
         "title": "Multi-objective integer programming approaches for solving optimal feature selection problem: a new perspective on multi-objective optimization problems in SBSE.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180257",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180257"
     },
     {
         "title": "Automated refactoring of OCL constraints with search.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3182546",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3182546"
     },
     {
         "title": "Automatically generating search heuristics for concolic testing.",
         "venue_name": "icse",
         "year": 2018,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3180155.3180166",
-        "abstract": "CRAWLER-ERROR",
-        "keywords": [
-            "CRAWLER-ERROR"
-        ]
+        "url": "https://doi.org/10.1145/3180155.3180166"
     }
 ]

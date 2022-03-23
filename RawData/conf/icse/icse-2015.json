@@ -1,0 +1,1899 @@
+[
+    {
+        "title": "Software Engineering in Ferrari F1.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.22"
+    },
+    {
+        "title": "Mining the Metadata - and Its Consequences.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.23"
+    },
+    {
+        "title": "Views on Internal and External Validity in Empirical Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.24"
+    },
+    {
+        "title": "Developing and Evaluating Software Engineering Process Theories.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.25"
+    },
+    {
+        "title": "Automated Data Structure Generation: Refuting Common Wisdom.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.26"
+    },
+    {
+        "title": "Automated Modularization of GUI Test Cases.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.27"
+    },
+    {
+        "title": "Making System User Interactive Tests Repeatable: When and What Should We Control?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.28"
+    },
+    {
+        "title": "ZoomIn: Discovering Failures by Detecting Wrong Assertions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.29"
+    },
+    {
+        "title": "Composite Constant Propagation: Application to Android Inter-Component Communication Analysis.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.30"
+    },
+    {
+        "title": "Static Control-Flow Analysis of User-Driven Callbacks in Android Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.31"
+    },
+    {
+        "title": "Truth in Advertising: The Hidden Cost of Mobile Ads for Software Developers.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.32"
+    },
+    {
+        "title": "Interactive Code Review for Systematic Changes.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.33"
+    },
+    {
+        "title": "Automated Decomposition of Build Targets.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.34"
+    },
+    {
+        "title": "Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.35"
+    },
+    {
+        "title": "Data-Delineation in Software Binaries and its Application to Buffer-Overrun Discovery.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.36"
+    },
+    {
+        "title": "Measuring Software Redundancy.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.37"
+    },
+    {
+        "title": "Gray Computing: An Analysis of Computing with Background JavaScript Tasks.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.38"
+    },
+    {
+        "title": "Presence-Condition Simplification in Highly Configurable Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.39"
+    },
+    {
+        "title": "Symbolic Model Checking of Product-Line Requirements Using SAT-Based Methods.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.40"
+    },
+    {
+        "title": "Lightweight Adaptive Filtering for Efficient Learning and Updating of Probabilistic Models.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.41"
+    },
+    {
+        "title": "Tempura: Temporal Dimension for IDEs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.42"
+    },
+    {
+        "title": "Supporting Selective Undo in a Code Editor.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.43"
+    },
+    {
+        "title": "Cascade: A Universal Programmer-Assisted Type Qualifier Inference Tool.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.44"
+    },
+    {
+        "title": "RECONTEST: Effective Regression Testing of Concurrent Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.45"
+    },
+    {
+        "title": "A Synergistic Analysis Method for Explaining Failed Regression Tests.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.46"
+    },
+    {
+        "title": "An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.47"
+    },
+    {
+        "title": "IccTA: Detecting Inter-Component Privacy Leaks in Android Apps.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.48"
+    },
+    {
+        "title": "Do Security Patterns Really Help Designers?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.49"
+    },
+    {
+        "title": "AppContext: Differentiating Malicious and Benign Mobile App Behaviors Using Context.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.50"
+    },
+    {
+        "title": "TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.51"
+    },
+    {
+        "title": "Detecting Inconsistencies in JavaScript MVC Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.52"
+    },
+    {
+        "title": "AutoCSP: Automatically Retrofitting CSP to Web Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.53"
+    },
+    {
+        "title": "How Much Up-Front? A Grounded theory of Agile Architecture.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.54"
+    },
+    {
+        "title": "Work Practices and Challenges in Pull-Based Development: The Integrator's Perspective.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.55"
+    },
+    {
+        "title": "Build It Yourself! Homegrown Tools in a Large Software Company.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.56"
+    },
+    {
+        "title": "Morpheus: Variability-Aware Refactoring in the Wild.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.57"
+    },
+    {
+        "title": "Does Automated Refactoring Obviate Systematic Editing?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.58"
+    },
+    {
+        "title": "When and Why Your Code Starts to Smell Bad.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.59"
+    },
+    {
+        "title": "Learning to Log: Helping Developers Make Informed Logging Decisions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.60"
+    },
+    {
+        "title": "Mining Apps for Abnormal Usage of Sensitive Data.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.61"
+    },
+    {
+        "title": "Tracking Static Analysis Violations over Time to Capture Developer Characteristics.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.62"
+    },
+    {
+        "title": "DirectFix: Looking for Simple Program Repairs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.63"
+    },
+    {
+        "title": "Safe Memory-Leak Fixing for C Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.64"
+    },
+    {
+        "title": "relifix: Automated Repair of Software Regressions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.65"
+    },
+    {
+        "title": "The Art of Testing Less without Sacrificing Quality.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.66"
+    },
+    {
+        "title": "No PAIN, No Gain? The Utility of PArallel Fault INjections.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.67"
+    },
+    {
+        "title": "A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.68"
+    },
+    {
+        "title": "Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.69"
+    },
+    {
+        "title": "A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.70"
+    },
+    {
+        "title": "Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.71"
+    },
+    {
+        "title": "Borrowing from the Crowd: A Study of Recombination in Software Design Competitions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.72"
+    },
+    {
+        "title": "From Developer Networks to Verified Communities: A Fine-Grained Approach.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.73"
+    },
+    {
+        "title": "Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.74"
+    },
+    {
+        "title": "Database-Backed Program Analysis for Scalable Error Propagation.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.75"
+    },
+    {
+        "title": "Tricorder: Building a Program Analysis Ecosystem.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.76"
+    },
+    {
+        "title": "Alloy*: A General-Purpose Higher-Order Relational Constraint Solver.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.77"
+    },
+    {
+        "title": "DASE: Document-Assisted Symbolic Execution for Improving Automated Software Testing.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.78"
+    },
+    {
+        "title": "Compositional Symbolic Execution with Memoized Replay.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.79"
+    },
+    {
+        "title": "Regular Property Guided Dynamic Symbolic Execution.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.80"
+    },
+    {
+        "title": "Combining Symbolic Execution and Model Checking for Data Flow Testing.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.81"
+    },
+    {
+        "title": "Are Students Representatives of Professionals in Software Engineering Experiments?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.82"
+    },
+    {
+        "title": "Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.83"
+    },
+    {
+        "title": "Stuck and Frustrated or in Flow and Happy: Sensing Developers' Emotions and Progress.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.334"
+    },
+    {
+        "title": "What Makes a Great Software Engineer?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.335"
+    },
+    {
+        "title": "Efficient Scalable Verification of LTL Specifications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.84"
+    },
+    {
+        "title": "Empirical Study Towards a Leading Indicator for Cost of Formal Software Verification.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.85"
+    },
+    {
+        "title": "Specifying Event-Based Systems with a Counting Fluent Temporal Logic.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.86"
+    },
+    {
+        "title": "Coexecutability for Efficient Verification of Data Model Updates.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.87"
+    },
+    {
+        "title": "Assert Use in GitHub Projects.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.88"
+    },
+    {
+        "title": "A Programming Model for Sustainable Software.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.89"
+    },
+    {
+        "title": "A Comparative Study of Programming Languages in Rosetta Code.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.90"
+    },
+    {
+        "title": "Revisiting the Impact of Classification Techniques on the Performance of Defect Prediction Models.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.91"
+    },
+    {
+        "title": "LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.92"
+    },
+    {
+        "title": "The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.93"
+    },
+    {
+        "title": "ReCBuLC: Reproducing Concurrency Bugs Using Local Clocks.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.94"
+    },
+    {
+        "title": "Dynamic Generation of Likely Invariants for Multithreaded Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.95"
+    },
+    {
+        "title": "GPredict: Generic Predictive Concurrency Analysis.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.96"
+    },
+    {
+        "title": "Graph-Based Statistical Language Model for Code.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.336"
+    },
+    {
+        "title": "Discovering Information Explaining API Types Using Text Classification.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.97"
+    },
+    {
+        "title": "How Can I Use This Method?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.98"
+    },
+    {
+        "title": "Hercules: Reproducing Crashes in Real-World Application Binaries.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.99"
+    },
+    {
+        "title": "CARAMEL: Detecting and Fixing Performance Problems That Have Non-Intrusive Fixes.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.100"
+    },
+    {
+        "title": "An Empirical Study on Real Bug Fixes.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.101"
+    },
+    {
+        "title": "Does the Failing Test Execute a Single or Multiple Faults? An Approach to Classifying Failing Tests.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.102"
+    },
+    {
+        "title": "Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple, Fast and Effective Equivalent Mutant Detection Technique.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.103"
+    },
+    {
+        "title": "Dynamic Data Flow Testing of Object Oriented Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.104"
+    },
+    {
+        "title": "The Future of Software Engineering (SEIP Keynote).",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.128"
+    },
+    {
+        "title": "Enron's Spreadsheets and Related Emails: A Dataset and Analysis.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.129"
+    },
+    {
+        "title": "An Empirical Study on Quality Issues of Production Big Data Platform.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.130"
+    },
+    {
+        "title": "Code Reviews Do Not Find Bugs. How the Current Code Review Best Practice Slows Us Down.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.131"
+    },
+    {
+        "title": "Systematic Testing of Reactive Software with Non-Deterministic Events: A Case Study on LG Electric Oven.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.132"
+    },
+    {
+        "title": "Empirically Detecting False Test Alarms Using Association Rules.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.133"
+    },
+    {
+        "title": "Striving for Failure: An Industrial Case Study about Test Failure Prediction.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.134"
+    },
+    {
+        "title": "Automatic and Continuous Software Architecture Validation.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.135"
+    },
+    {
+        "title": "Comparing Software Architecture Recovery Techniques Using Accurate Dependencies.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.136"
+    },
+    {
+        "title": "SPF: A Middleware for Social Interaction in Mobile Proximity Environments.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.137"
+    },
+    {
+        "title": "Merits of Organizational Metrics in Defect Prediction: An Industrial Replication.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.138"
+    },
+    {
+        "title": "Online Defect Prediction for Imbalanced Data.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.139"
+    },
+    {
+        "title": "Measuring Dependency Freshness in Software Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.140"
+    },
+    {
+        "title": "A Large-Scale Technology Evaluation Study: Effects of Model-based Analysis and Testing.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.141"
+    },
+    {
+        "title": "Metamorphic Model-Based Testing Applied on NASA DAT - An Experience Report.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.348"
+    },
+    {
+        "title": "Improving Predictability, Efficiency and Trust of Model-Based Proof Activity.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.142"
+    },
+    {
+        "title": "Performance Analysis Using Subsuming Methods: An Industrial Case Study.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.143"
+    },
+    {
+        "title": "An Industrial Case Study on the Automated Detection of Performance Regressions in Heterogeneous Environments.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.144"
+    },
+    {
+        "title": "Industry Practices and Event Logging: Assessment of a Critical Software Development Process.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.145"
+    },
+    {
+        "title": "A Case Study in Locating the Architectural Roots of Technical Debt.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.146"
+    },
+    {
+        "title": "Design and Evaluation of a Customizable Multi-Domain Reference Architecture on Top of Product Lines of Self-Driving Heavy Vehicles - An Industrial Case Study.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.147"
+    },
+    {
+        "title": "Approximating Attack Surfaces with Stack Traces.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.148"
+    },
+    {
+        "title": "Avoiding Security Pitfalls with Functional Programming: A Report on the Development of a Secure XML Validator.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.149"
+    },
+    {
+        "title": "\"Should We Move to Stack Overflow?\" Measuring the Utility of Social Media for Developer Support.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.150"
+    },
+    {
+        "title": "A Field Study on Fostering Structural Navigation with Prodet.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.151"
+    },
+    {
+        "title": "How and When to Transfer Software Engineering Research via Extensions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.152"
+    },
+    {
+        "title": "Evolution of Software Development Strategies.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.153"
+    },
+    {
+        "title": "Drawing Insight from Student Perceptions of Reflective Design Learning.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.154"
+    },
+    {
+        "title": "Effectiveness of Persona with Personality Traits on Conceptual Design.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.155"
+    },
+    {
+        "title": "Industry/University Collaboration in Software Engineering Education: Refreshing and Retuning Our Strategies.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.156"
+    },
+    {
+        "title": "Novice Code Understanding Strategies during a Software Maintenance Assignment.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.341"
+    },
+    {
+        "title": "Learning Global Agile Software Engineering Using Same-Site and Cross-Site Teams.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.157"
+    },
+    {
+        "title": "Code Repurposing as an Assessment Tool.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.158"
+    },
+    {
+        "title": "Remote Development and Distance Delivery of Innovative Courses: Challenges and Opportunities.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.159"
+    },
+    {
+        "title": "Improving Student Group Work with Collaboration Patterns: A Case Study.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.160"
+    },
+    {
+        "title": "Teaching Software Systems Thinking at The Open University.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.161"
+    },
+    {
+        "title": "Masters-Level Software Engineering Education and the Enriched Student Context.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.162"
+    },
+    {
+        "title": "Combining Mastery Learning with Project-Based Learning in a First Programming Course: An Experience Report.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.163"
+    },
+    {
+        "title": "Collaborative and Cooperative-Learning in Software Engineering Courses.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.164"
+    },
+    {
+        "title": "Using GSwE2009 for the Evaluation of a Master Degree in Software Engineering in the Universidad de la República.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.165"
+    },
+    {
+        "title": "System Thinking: Educating T-Shaped Software Engineers.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.166"
+    },
+    {
+        "title": "Transparently Teaching in the Context of Game-based Learning: the Case of SimulES-W.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.167"
+    },
+    {
+        "title": "Educating Software Engineering Managers - Revisited What Software Project Managers Need to Know Today.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.168"
+    },
+    {
+        "title": "Contest Based Learning with Blending Software Engineering and Business Management: For Students' High Motivation and High Practice Ability.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.340"
+    },
+    {
+        "title": "Concurrent Software Engineering and Robotics Education.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.169"
+    },
+    {
+        "title": "The Development of a Dashboard Tool for Visualising Online Teamwork Discussions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.170"
+    },
+    {
+        "title": "Software Design Studio: A Practical Example.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.171"
+    },
+    {
+        "title": "Code Hunt: Experience with Coding Contests at Scale.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.172"
+    },
+    {
+        "title": "Does Outside-In Teaching Improve the Learning of Object-Oriented Programming?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.173"
+    },
+    {
+        "title": "Active and Inductive Learning in Software Engineering Education.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.174"
+    },
+    {
+        "title": "In Search of the Emotional Design Effect in Programming.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.175"
+    },
+    {
+        "title": "Experiences in Developing and Delivering a Programme of Part-Time Education in Software and Systems Security.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.176"
+    },
+    {
+        "title": "Teaching Software Architecture to Undergraduate Students: An Experience Report.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.177"
+    },
+    {
+        "title": "CS/SE Instructors Can Improve Student Writing without Reducing Class Time Devoted to Technical Content: Experimental Results.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.178"
+    },
+    {
+        "title": "Sustainability Design and Software: The Karlskrona Manifesto.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.179"
+    },
+    {
+        "title": "Interdisciplinary Design Patterns for Socially Aware Computing.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.180"
+    },
+    {
+        "title": "The Role of Design Thinking and Physical Prototyping in Social Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.181"
+    },
+    {
+        "title": "On the Role of Value Sensitive Concerns in Software Engineering Practice.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.182"
+    },
+    {
+        "title": "Engineering Sustainability Through Language.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.183"
+    },
+    {
+        "title": "Enabling the Definition and Enforcement of Governance Rules in Open Source Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.184"
+    },
+    {
+        "title": "AppCivist - A Service-Oriented Software Platform for Socially Sustainable Activism.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.185"
+    },
+    {
+        "title": "SOA4DM: Applying an SOA Paradigm to Coordination in Humanitarian Disaster Response.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.186"
+    },
+    {
+        "title": "Managing Emergent Ethical Concerns for Software Engineering in Society.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.187"
+    },
+    {
+        "title": "Dementia and Social Sustainability: Challenges for Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.188"
+    },
+    {
+        "title": "Cognitively Sustainable ICT with Ubiquitous Mobile Services - Challenges and Opportunities.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.189"
+    },
+    {
+        "title": "New Initiative: The Naturalness of Software.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.190"
+    },
+    {
+        "title": "Virtual Reality in Software Engineering: Affordances, Applications, and Challenges.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.191"
+    },
+    {
+        "title": "CodeAware: Sensor-Based Fine-Grained Monitoring and Management of Software Artifacts.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.192"
+    },
+    {
+        "title": "Free Hugs - Praising Developers for Their Actions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.342"
+    },
+    {
+        "title": "How (Much) Do Developers Test?",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.193"
+    },
+    {
+        "title": "A Vision of Crowd Development.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.194"
+    },
+    {
+        "title": "When App Stores Listen to the Crowd to Fight Bugs in the Wild.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.195"
+    },
+    {
+        "title": "Incorporating Human Intention into Self-Adaptive Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.196"
+    },
+    {
+        "title": "An Initiative to Improve Reproducibility and Empirical Evaluation of Software Testing Techniques.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.197"
+    },
+    {
+        "title": "Inferring Behavioral Specifications from Large-scale Repositories by Leveraging Collective Intelligence.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.339"
+    },
+    {
+        "title": "Fast Feedback Cycles in Empirical Software Engineering Research.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.198"
+    },
+    {
+        "title": "Dynamic Safety Cases for Through-Life Safety Assurance.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.199"
+    },
+    {
+        "title": "Correctness and Relative Correctness.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.200"
+    },
+    {
+        "title": "On Architectural Diversity of Dynamic Adaptive Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.201"
+    },
+    {
+        "title": "Information Transformation: An Underpinning Theory for Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.202"
+    },
+    {
+        "title": "A Unified Framework for the Comprehension of Software's Time.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.203"
+    },
+    {
+        "title": "Smart Programming Playgrounds.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.204"
+    },
+    {
+        "title": "Capsule-Oriented Programming.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.205"
+    },
+    {
+        "title": "Evolution-Aware Monitoring-Oriented Programming.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.206"
+    },
+    {
+        "title": "Towards Explicitly Elastic Programming Frameworks.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.207"
+    },
+    {
+        "title": "Optimising Energy Consumption of Design Patterns.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.208"
+    },
+    {
+        "title": "Mining Software Repositories for Social Norms.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.209"
+    },
+    {
+        "title": "Commit Bubbles.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.210"
+    },
+    {
+        "title": "Rapid Multi-Purpose, Multi-Commit Code Analysis.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.211"
+    },
+    {
+        "title": "Leveraging Informal Documentation to Summarize Classes and Methods in Context.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.212"
+    },
+    {
+        "title": "Bixie: Finding and Understanding Inconsistent Code.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.213"
+    },
+    {
+        "title": "TaskNav: Task-Based Navigation of Software Documentation.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.214"
+    },
+    {
+        "title": "ViDI: The Visual Design Inspector.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.215"
+    },
+    {
+        "title": "Bootstrapping Mobile App Development.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.216"
+    },
+    {
+        "title": "Source Code Curation on StackOverflow: The Vesperin System.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.217"
+    },
+    {
+        "title": "The ECCO Tool: Extraction and Composition for Clone-and-Own.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.218"
+    },
+    {
+        "title": "Extract Package Refactoring in ARIES.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.219"
+    },
+    {
+        "title": "scvRipper: Video Scraping Tool for Modeling Developers' Behavior Using Interaction Data.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.220"
+    },
+    {
+        "title": "Chiminey: Reliable Computing and Data Management Platform in the Cloud.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.221"
+    },
+    {
+        "title": "Automated Program Repair in an Integrated Development Environment.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.222"
+    },
+    {
+        "title": "FLEXISKETCH TEAM: Collaborative Sketching and Notation Creation on the Fly.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.223"
+    },
+    {
+        "title": "Interactive Synthesis Using Free-Form Queries.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.224"
+    },
+    {
+        "title": "Varis: IDE Support for Embedded Client Code in PHP Web Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.225"
+    },
+    {
+        "title": "MU-MMINT: An IDE for Model Uncertainty.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.226"
+    },
+    {
+        "title": "StriSynth: Synthesis for Live Programming.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.227"
+    },
+    {
+        "title": "CACHECA: A Cache Language Model Based Code Suggestion Tool.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.228"
+    },
+    {
+        "title": "ChangeScribe: A Tool for Automatically Generating Commit Messages.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.229"
+    },
+    {
+        "title": "Ekstazi: Lightweight Test Selection.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.230"
+    },
+    {
+        "title": "TesMa and CATG: Automated Test Generation Tools for Models of Enterprise Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.231"
+    },
+    {
+        "title": "StressCloud: A Tool for Analysing Performance and Energy Consumption of Cloud Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.232"
+    },
+    {
+        "title": "Analysis of Android Inter-App Security Vulnerabilities Using COVERT.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.233"
+    },
+    {
+        "title": "Ariadne: Topology Aware Adaptive Security for Cyber-Physical Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.234"
+    },
+    {
+        "title": "Security Toolbox for Detecting Novel and Sophisticated Android Malware.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.235"
+    },
+    {
+        "title": "VERMEER: A Tool for Tracing and Explaining Faulty C Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.236"
+    },
+    {
+        "title": "JRebel.Android: Runtime Class- and Resource Reloading for Android.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.337"
+    },
+    {
+        "title": "FormTester: Effective Integration of Model-Based and Manually Specified Test Cases.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.237"
+    },
+    {
+        "title": "Mining Temporal Properties of Data Invariants.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.238"
+    },
+    {
+        "title": "Profiling Kernels Behavior to Improve CPU / GPU Interactions.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.239"
+    },
+    {
+        "title": "Fast and Precise Statistical Code Completion.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.240"
+    },
+    {
+        "title": "A Combined Technique of GUI Ripping and Input Perturbation Testing for Android Apps.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.241"
+    },
+    {
+        "title": "Enabling Testing of Android Apps.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.242"
+    },
+    {
+        "title": "An Approach to Detect Android Antipatterns.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.243"
+    },
+    {
+        "title": "Textual Analysis for Code Smell Detection.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.244"
+    },
+    {
+        "title": "A Large Scale Study of License Usage on GitHub.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.245"
+    },
+    {
+        "title": "Understanding Conflicts Arising from Collaborative Development.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.246"
+    },
+    {
+        "title": "Deep Representations for Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.248"
+    },
+    {
+        "title": "Automatic Categorization of Software Libraries Using Bytecode.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.249"
+    },
+    {
+        "title": "Post-Dominator Analysis for Precisely Handling Implicit Flows.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.250"
+    },
+    {
+        "title": "Casper: Using Ghosts to Debug Null Deferences with Dynamic Causality Traces.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.251"
+    },
+    {
+        "title": "Poster: Static Detection of Configuration-Dependent Bugs in Configurable Software.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.252"
+    },
+    {
+        "title": "Poster: Improving Cloud-Based Continuous Integration Environments.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.253"
+    },
+    {
+        "title": "Poster: Interactive and Collaborative Source Code Annotation.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.254"
+    },
+    {
+        "title": "Poster: Discovering Code Dependencies by Harnessing Developer's Activity.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.255"
+    },
+    {
+        "title": "Poster: Filtering Code Smells Detection Results.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.256"
+    },
+    {
+        "title": "Poster: Enhancing Partition Testing through Output Variation.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.257"
+    },
+    {
+        "title": "Poster: Segmentation Based Online Performance Problem Diagnosis.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.258"
+    },
+    {
+        "title": "Poster: Symbolic Execution of MPI Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.259"
+    },
+    {
+        "title": "Poster: Automatically Fixing Real-World JavaScript Performance Bugs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.260"
+    },
+    {
+        "title": "Poster: Dynamic Analysis Using JavaScript Proxies.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.261"
+    },
+    {
+        "title": "Poster: Is Carmen Better than George? Testing the Exploratory Tester Using HCI Techniques.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.262"
+    },
+    {
+        "title": "Poster: VIBeS, Transition System Mutation Made Easy.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.263"
+    },
+    {
+        "title": "Poster: ProNat: An Agent-Based System Design for Programming in Spoken Natural Language.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.264"
+    },
+    {
+        "title": "Poster: Static Analysis of Concurrent Higher-Order Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.265"
+    },
+    {
+        "title": "Poster: Conquering Uncertainty in Java Programming.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.266"
+    },
+    {
+        "title": "Poster: MAPP: The Berkeley Model and Algorithm Prototyping Platform.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.267"
+    },
+    {
+        "title": "Poster: An Efficient Equivalence Checking Method for Petri Net Based Models of Programs.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.268"
+    },
+    {
+        "title": "Poster: Model-based Run-time Variability Resolution for Robotic Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.269"
+    },
+    {
+        "title": "Poster: Tierless Programming in JavaScript.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.270"
+    },
+    {
+        "title": "Poster: Software Development Risk Management: Using Machine Learning for Generating Risk Prompts.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.271"
+    },
+    {
+        "title": "Poster: Reasoning Based on Imperfect Context Data in Adaptive Security.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.272"
+    },
+    {
+        "title": "Automated Planning for Self-Adaptive Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.273"
+    },
+    {
+        "title": "Understanding the Software Fault Introduction Process.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.274"
+    },
+    {
+        "title": "Scalable Formal Verification of UML Models.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.275"
+    },
+    {
+        "title": "Scalability Studies on Selective Mutation Testing.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.276"
+    },
+    {
+        "title": "Qualitative Analysis of Knowledge Transfer in Pair Programming.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.277"
+    },
+    {
+        "title": "DIETs: Recommender Systems for Mobile API Developers.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.278"
+    },
+    {
+        "title": "Statistical Learning and Software Mining for Agent Based Simulation of Software Evolution.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.279"
+    },
+    {
+        "title": "Towards Model Driven Architecture and Analysis of System of Systems Access Control.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.280"
+    },
+    {
+        "title": "A Unified Approach to Automatic Testing of Architectural Constraints.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.281"
+    },
+    {
+        "title": "Safe Evolution Patterns for Software Product Lines.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.282"
+    },
+    {
+        "title": "Strategies for Prioritizing Test Cases Generated Through Model-Based Testing Approaches.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.338"
+    },
+    {
+        "title": "Towards a Practical Security Analysis Methodology.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.283"
+    },
+    {
+        "title": "Measuring Software Developers' Perceived Difficulty with Biometric Sensors.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.284"
+    },
+    {
+        "title": "Mining Patterns of Sensitive Data Usage.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.285"
+    },
+    {
+        "title": "Search-Based Migration of Model Variants to Software Product Line Architectures.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.286"
+    },
+    {
+        "title": "On the Architecture-Driven Development of Software-Intensive Systems-of-Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.287"
+    },
+    {
+        "title": "Automatic Documentation Generation via Source Code Summarization.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.288"
+    },
+    {
+        "title": "A Declarative Foundation for Comprehensive History Querying.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.289"
+    },
+    {
+        "title": "An Integrated Multi-Agent-Based Simulation Approach to Support Software Project Management.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.290"
+    },
+    {
+        "title": "Towards Generation of Software Development Tasks.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.291"
+    },
+    {
+        "title": "Contributor's Performance, Participation Intentions, Its Influencers and Project Performance.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.292"
+    },
+    {
+        "title": "Supporting Scientific SE Process Improvement.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.293"
+    },
+    {
+        "title": "A Comprehensive Framework for the Development of Dynamic Smart Spaces.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.294"
+    },
+    {
+        "title": "Verification of Android Applications.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.295"
+    },
+    {
+        "title": "A Security Practices Evaluation Framework.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.296"
+    },
+    {
+        "title": "The Green Lab: Experimentation in Software Energy Efficiency.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.297"
+    },
+    {
+        "title": "Software Requirements Patterns - A State of the Art and the Practice.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.298"
+    },
+    {
+        "title": "Agile Project Management: From Self-Managing Teams to Large-Scale Development.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.299"
+    },
+    {
+        "title": "Software Engineering for Privacy in-the-Large.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.300"
+    },
+    {
+        "title": "The Use of Text Retrieval and Natural Language Processing in Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.301"
+    },
+    {
+        "title": "Exploration, Analysis, and Manipulation of Source Code Using srcML.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.302"
+    },
+    {
+        "title": "Reactive Programming: A Walkthrough.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.303"
+    },
+    {
+        "title": "Load Testing Large-Scale Software Systems.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.304"
+    },
+    {
+        "title": "Big(ger) Data in Software Engineering.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.305"
+    },
+    {
+        "title": "The Art and Science of Analyzing Software Data; Quantitative Methods.",
+        "venue_name": "icse",
+        "year": 2015,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1109/ICSE.2015.306"
+    }
+]

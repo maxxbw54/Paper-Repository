@@ -1,0 +1,667 @@
+[
+    {
+        "title": "A logical revolution (keynote).",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2505427"
+    },
+    {
+        "title": "Producing software by integration: challenges and research directions (keynote).",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2505428"
+    },
+    {
+        "title": "Software engineering for mathematics (keynote).",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2505429"
+    },
+    {
+        "title": "Empirical answers to fundamental software engineering problems (panel).",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2505430"
+    },
+    {
+        "title": "A publication culture in software engineering (panel).",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2505431"
+    },
+    {
+        "title": "Artifact evaluation (summary).",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2508114"
+    },
+    {
+        "title": "Efficiency and early fault detection with lower and higher strength combinatorial interaction testing.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491436"
+    },
+    {
+        "title": "Con2colic testing.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491453"
+    },
+    {
+        "title": "Boosting concolic testing via interpolation.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491425"
+    },
+    {
+        "title": "Adequate monitoring of service compositions.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491441"
+    },
+    {
+        "title": "Prediction of atomic web services reliability based on k-means clustering.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491424"
+    },
+    {
+        "title": "Scalable analysis of variable software.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491437"
+    },
+    {
+        "title": "Bayesian inference using data flow analysis.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491423"
+    },
+    {
+        "title": "Second-order constraints in dynamic invariant inference.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491457"
+    },
+    {
+        "title": "Z3-str: a z3-based string solver for web application analysis.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491456"
+    },
+    {
+        "title": "An empirical analysis of the co-evolution of schema and code in database applications.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491431"
+    },
+    {
+        "title": "Automated oracles: an empirical study on cost and effectiveness.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491434"
+    },
+    {
+        "title": "Sample size vs. bias in defect prediction.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491418"
+    },
+    {
+        "title": "Finding incorrect compositions of atomicity.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491435"
+    },
+    {
+        "title": "Tightfit: adaptive parallelization with foresight.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491443"
+    },
+    {
+        "title": "Distributed program tracing.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491451"
+    },
+    {
+        "title": "Will you still compile me tomorrow? static cross-version compiler validation.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491442"
+    },
+    {
+        "title": "Convergent contemporary software peer review practices.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491444"
+    },
+    {
+        "title": "Do all task dependencies require coordination? the role of task properties in identifying critical coordination needs in software projects.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491440"
+    },
+    {
+        "title": "Dynodroid: an input generation system for Android apps.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491450"
+    },
+    {
+        "title": "KATCH: high-coverage testing of software patches.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491438"
+    },
+    {
+        "title": "Termination proofs from tests.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491413"
+    },
+    {
+        "title": "SPLat: lightweight dynamic analysis for reducing combinatorics in testing configurable systems.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491459"
+    },
+    {
+        "title": "Cachetor: detecting cacheable data to remove bloat.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491416"
+    },
+    {
+        "title": "Effective dynamic detection of alias analysis errors.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491439"
+    },
+    {
+        "title": "Feature model extraction from large collections of informal product descriptions.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491455"
+    },
+    {
+        "title": "N-way model merging.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491446"
+    },
+    {
+        "title": "Compiling mockups to flexible UIs.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491427"
+    },
+    {
+        "title": "Making offline analyses continuous.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491460"
+    },
+    {
+        "title": "Regression tests to expose change interaction errors.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491430"
+    },
+    {
+        "title": "Differential assertion checking.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491452"
+    },
+    {
+        "title": "Preventing database deadlocks in applications.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491412"
+    },
+    {
+        "title": "Identifying message flow in distributed event-based systems.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491462"
+    },
+    {
+        "title": "Improving trace accuracy through data-driven configuration and composition of tracing features.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491432"
+    },
+    {
+        "title": "Precision reuse for efficient regression verification.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491429"
+    },
+    {
+        "title": "Cascading verification: an integrated method for domain-specific model checking.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491454"
+    },
+    {
+        "title": "Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491433"
+    },
+    {
+        "title": "Mining behavior models from enterprise web applications.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491426"
+    },
+    {
+        "title": "Incrementally synthesizing controllers from scenario-based product line specifications.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491445"
+    },
+    {
+        "title": "Synthesis of component and connector models from crosscutting structural views.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491414"
+    },
+    {
+        "title": "Searching for better configurations: a rigorous approach to clone evaluation.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491420"
+    },
+    {
+        "title": "Diversity in software engineering research.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491415"
+    },
+    {
+        "title": "API change and fault proneness: a threat to the success of Android apps.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491428"
+    },
+    {
+        "title": "Jalangi: a selective record-replay and dynamic analysis framework for JavaScript.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491447"
+    },
+    {
+        "title": "Practical static analysis of JavaScript applications in the presence of frameworks and libraries.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491417"
+    },
+    {
+        "title": "Server interface descriptions for automated testing of JavaScript web applications.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491421"
+    },
+    {
+        "title": "Explaining inconsistent code.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491448"
+    },
+    {
+        "title": "A statistical semantic language model for source code.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491458"
+    },
+    {
+        "title": "Crossing the gap from imperative to functional programming through refactoring.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491461"
+    },
+    {
+        "title": "Scalable and incremental software bug detection.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2501854"
+    },
+    {
+        "title": "Inferring project-specific bug patterns for detecting sibling bugs.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491422"
+    },
+    {
+        "title": "Mining succinct predicated bug signatures.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2491449"
+    },
+    {
+        "title": "SocialCDE: a social awareness tool for global software teams.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494592"
+    },
+    {
+        "title": "REDACT: preventing database deadlocks from application-based transactions.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494594"
+    },
+    {
+        "title": "aPET: a test case generation tool for concurrent objects.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494590"
+    },
+    {
+        "title": "RUBRIC: a flexible tool for automated checking of conformance to requirement boilerplates.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494591"
+    },
+    {
+        "title": "RiTHM: a tool for enabling time-triggered runtime verification for C programs.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494596"
+    },
+    {
+        "title": "PoMMaDe: pushdown model-checking for malware detection.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494599"
+    },
+    {
+        "title": "RADA: a tool for reasoning about algebraic data types with abstractions.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494597"
+    },
+    {
+        "title": "Jalangi: a tool framework for concolic testing, selective record-replay, and dynamic analysis of JavaScript.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494598"
+    },
+    {
+        "title": "RSA-MBT: a test tool for generating test artifacts based on models.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494593"
+    },
+    {
+        "title": "USMMC: a self-contained model checker for UML state machines.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494595"
+    },
+    {
+        "title": "Extracting URLs from JavaScript via program analysis.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494583"
+    },
+    {
+        "title": "Data debugging with continuous testing.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494580"
+    },
+    {
+        "title": "Iterative test suites refinement for elastic computing systems.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494579"
+    },
+    {
+        "title": "Using fault history to improve mutation reduction.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494586"
+    },
+    {
+        "title": "A cost-effectiveness criterion for applying software defect prediction models.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494581"
+    },
+    {
+        "title": "BugMap: a topographic map of bugs.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494582"
+    },
+    {
+        "title": "Lexical statistical machine translation for language migration.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494584"
+    },
+    {
+        "title": "Code fragment summarization.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494587"
+    },
+    {
+        "title": "Understanding gamification mechanisms for software development.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494589"
+    },
+    {
+        "title": "Toward understanding the causes of unanswered questions in software information sites: a case study of stack overflow.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494585"
+    },
+    {
+        "title": "Where is the business logic?",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494588"
+    },
+    {
+        "title": "Towards emotional awareness in software development teams.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494578"
+    },
+    {
+        "title": "Precise range analysis on large industry code.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494569"
+    },
+    {
+        "title": "Agreements for software reuse in corporations.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494576"
+    },
+    {
+        "title": "Good technology makes the difficult task easy.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494571"
+    },
+    {
+        "title": "ShAir: extensible middleware for mobile peer-to-peer resource sharing.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494573"
+    },
+    {
+        "title": "Risky files: an approach to focus quality improvement effort.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494572"
+    },
+    {
+        "title": "System reliability calculation based on the run-time analysis of ladder program.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494570"
+    },
+    {
+        "title": "h-ubu: an industrial-strength service-oriented component framework for JavaScript applications.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494577"
+    },
+    {
+        "title": "Design and optimization of multi-clocked embedded systems using formal technique.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494575"
+    },
+    {
+        "title": "The economics of static analysis tools.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2494574"
+    },
+    {
+        "title": "Automatically describing software faults.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492401"
+    },
+    {
+        "title": "Fuzzy service matching in on-the-fly computing.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492405"
+    },
+    {
+        "title": "PHRT: a model and programmable tool for hardware reengineering automation.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492406"
+    },
+    {
+        "title": "Using topic models to understand the evolution of a software ecosystem.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492402"
+    },
+    {
+        "title": "Automotive architecture description and its quality.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492403"
+    },
+    {
+        "title": "Towards open architecture system.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492407"
+    },
+    {
+        "title": "A framework for defining the dynamic semantics of DSLs.",
+        "venue_name": "fse",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2491411.2492404"
+    }
+]
