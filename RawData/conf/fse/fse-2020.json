@@ -4,1182 +4,1689 @@
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409753"
+        "url": "https://doi.org/10.1145/3368089.3409753",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "ARDiff: scaling program equivalence checking via iterative abstraction and refinement of common code.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409757"
+        "url": "https://doi.org/10.1145/3368089.3409757",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "C2S: translating natural language comments to formal program specifications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409716"
+        "url": "https://doi.org/10.1145/3368089.3409716",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting and understanding JavaScript global identifier conflicts on the web.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409747"
+        "url": "https://doi.org/10.1145/3368089.3409747",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Domain-independent interprocedural program analysis using block-abstraction memoization.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409718"
+        "url": "https://doi.org/10.1145/3368089.3409718",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Flexeme: untangling commits using lexical flows.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409693"
+        "url": "https://doi.org/10.1145/3368089.3409693",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "HISyn: human learning-inspired natural language programming.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409673"
+        "url": "https://doi.org/10.1145/3368089.3409673",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Inductive program synthesis over noisy data.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409732"
+        "url": "https://doi.org/10.1145/3368089.3409732",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Inherent vacuity for GR(1) specifications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409669"
+        "url": "https://doi.org/10.1145/3368089.3409669",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Interval counterexamples for loop invariant learning.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409752"
+        "url": "https://doi.org/10.1145/3368089.3409752",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Java Ranger: statically summarizing regions for efficient symbolic execution of Java.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409734"
+        "url": "https://doi.org/10.1145/3368089.3409734",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "JShrink: in-depth investigation into debloating modern Java applications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409738"
+        "url": "https://doi.org/10.1145/3368089.3409738",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Making symbolic execution promising by learning aggressive state-pruning strategy.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409755"
+        "url": "https://doi.org/10.1145/3368089.3409755",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Mining assumptions for software components using machine learning.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409737"
+        "url": "https://doi.org/10.1145/3368089.3409737",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Mining input grammars from dynamic control flow.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409679"
+        "url": "https://doi.org/10.1145/3368089.3409679",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Modular collaborative program analysis in OPAL.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409765"
+        "url": "https://doi.org/10.1145/3368089.3409765",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Past-sensitive pointer analysis for symbolic execution.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409698"
+        "url": "https://doi.org/10.1145/3368089.3409698",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "TypeWriter: neural type prediction with search-based validation.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409715"
+        "url": "https://doi.org/10.1145/3368089.3409715",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "UBITect: a precise and scalable method to detect use-before-initialization bugs in Linux kernel.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409686"
+        "url": "https://doi.org/10.1145/3368089.3409686",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Exploring how deprecated Python library APIs are (not) handled.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409735"
+        "url": "https://doi.org/10.1145/3368089.3409735",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Selecting third-party libraries: the practitioners' perspective.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409711"
+        "url": "https://doi.org/10.1145/3368089.3409711",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A principled approach to GraphQL query cost analysis.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409670"
+        "url": "https://doi.org/10.1145/3368089.3409670",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Beware the evolving 'intelligent' web service! an integration architecture tactic to guard AI-first components.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409688"
+        "url": "https://doi.org/10.1145/3368089.3409688",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Block public access: trust safety verification of access control policies.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409728"
+        "url": "https://doi.org/10.1145/3368089.3409728",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Efficient incident identification from multi-dimensional issue reports via meta-heuristic search.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409741"
+        "url": "https://doi.org/10.1145/3368089.3409741",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Identifying linked incidents in large-scale online service systems.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409768"
+        "url": "https://doi.org/10.1145/3368089.3409768",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Real-time incident prediction for online service systems.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409672"
+        "url": "https://doi.org/10.1145/3368089.3409672",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Configuration smells in continuous delivery pipelines: a linter and a six-month study on GitLab.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409709"
+        "url": "https://doi.org/10.1145/3368089.3409709",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Dimensions of software configuration: on the configuration context in modern software development.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409675"
+        "url": "https://doi.org/10.1145/3368089.3409675",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Global cost/quality management across multiple applications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409721"
+        "url": "https://doi.org/10.1145/3368089.3409721",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Understanding and discovering software configuration dependencies in cloud and datacenter systems.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409727"
+        "url": "https://doi.org/10.1145/3368089.3409727",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Docable: evaluating the executability of software tutorials.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409706"
+        "url": "https://doi.org/10.1145/3368089.3409706",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "RulePad: interactive authoring of checkable design rules.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409751"
+        "url": "https://doi.org/10.1145/3368089.3409751",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A first look at good first issues on GitHub.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409746"
+        "url": "https://doi.org/10.1145/3368089.3409746",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A randomized controlled trial on the effects of embedded computer language switching.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409701"
+        "url": "https://doi.org/10.1145/3368089.3409701",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A theory of the engagement in open source projects via summer of code programs.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409724"
+        "url": "https://doi.org/10.1145/3368089.3409724",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An empirical analysis of the costs of clone- and platform-oriented software reuse.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409684"
+        "url": "https://doi.org/10.1145/3368089.3409684",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An empirical study of bots in software development: characteristics and challenges from a practitioner's perspective.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409680"
+        "url": "https://doi.org/10.1145/3368089.3409680",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Biases and differences in code review using medical imaging and eye-tracking: genders, humans, and machines.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409681"
+        "url": "https://doi.org/10.1145/3368089.3409681",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Community expectations for research artifacts and evaluation processes.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409767"
+        "url": "https://doi.org/10.1145/3368089.3409767",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Does stress impact technical interview performance?",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409712"
+        "url": "https://doi.org/10.1145/3368089.3409712",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Exploring the evolution of software practices.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409766"
+        "url": "https://doi.org/10.1145/3368089.3409766",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Heard it through the Gitvine: an empirical study of tool diffusion across the npm ecosystem.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409705"
+        "url": "https://doi.org/10.1145/3368089.3409705",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Interactive, effort-aware library version harmonization.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409689"
+        "url": "https://doi.org/10.1145/3368089.3409689",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "On the naturalness of hardware descriptions.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409692"
+        "url": "https://doi.org/10.1145/3368089.3409692",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "On the relationship between design discussions and design quality: a case study of Apache projects.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409707"
+        "url": "https://doi.org/10.1145/3368089.3409707",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "On the relationship between refactoring actions and bugs: a differentiated replication.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409695"
+        "url": "https://doi.org/10.1145/3368089.3409695",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Questions for data scientists in software engineering: a replication.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409717"
+        "url": "https://doi.org/10.1145/3368089.3409717",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Reducing implicit gender biases in software development: does intergroup contact theory work?",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409762"
+        "url": "https://doi.org/10.1145/3368089.3409762",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Robotics software engineering: a perspective from the service robotics domain.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409743"
+        "url": "https://doi.org/10.1145/3368089.3409743",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Thinking aloud about confusing code: a qualitative investigation of program comprehension and atoms of confusion.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409714"
+        "url": "https://doi.org/10.1145/3368089.3409714",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Understanding build issue resolution in practice: symptoms and fix patterns.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409760"
+        "url": "https://doi.org/10.1145/3368089.3409760",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Understanding type changes in Java.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409725"
+        "url": "https://doi.org/10.1145/3368089.3409725",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Do the machine learning models on a crowd sourced platform exhibit bias? an empirical study on model fairness.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409704"
+        "url": "https://doi.org/10.1145/3368089.3409704",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Fairway: a way to build fair ML software.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409697"
+        "url": "https://doi.org/10.1145/3368089.3409697",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards automated verification of smart contract fairness.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409740"
+        "url": "https://doi.org/10.1145/3368089.3409740",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Boosting fuzzer efficiency: an information theoretic perspective.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409748"
+        "url": "https://doi.org/10.1145/3368089.3409748",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "CrFuzz: fuzzing multi-purpose programs through input validation.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409769"
+        "url": "https://doi.org/10.1145/3368089.3409769",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting critical bugs in SMT solvers using blackbox mutational fuzzing.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409763"
+        "url": "https://doi.org/10.1145/3368089.3409763",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Fuzzing: on the exponential cost of vulnerability discovery.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409729"
+        "url": "https://doi.org/10.1145/3368089.3409729",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Intelligent REST API data fuzzing.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409719"
+        "url": "https://doi.org/10.1145/3368089.3409719",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "MTFuzz: fuzzing with a multi-task neural network.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409723"
+        "url": "https://doi.org/10.1145/3368089.3409723",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A comprehensive study on challenges in deploying deep learning based software.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409759"
+        "url": "https://doi.org/10.1145/3368089.3409759",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "AMS: generating AutoML search spaces from weak specifications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409700"
+        "url": "https://doi.org/10.1145/3368089.3409700",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Correlations between deep neural network model coverage criteria and model quality.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409671"
+        "url": "https://doi.org/10.1145/3368089.3409671",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Deep learning library testing via effective model generation.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409761"
+        "url": "https://doi.org/10.1145/3368089.3409761",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "DeepSearch: a simple and effective blackbox attack for deep neural networks.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409750"
+        "url": "https://doi.org/10.1145/3368089.3409750",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "DENAS: automated rule generation by knowledge extraction from neural networks.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409733"
+        "url": "https://doi.org/10.1145/3368089.3409733",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting numerical bugs in neural network architectures.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409720"
+        "url": "https://doi.org/10.1145/3368089.3409720",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Dynamic slicing for deep neural networks.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409676"
+        "url": "https://doi.org/10.1145/3368089.3409676",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Is neuron coverage a meaningful measure for testing deep neural networks?",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409754"
+        "url": "https://doi.org/10.1145/3368089.3409754",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Machine translation testing via pathological invariance.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409756"
+        "url": "https://doi.org/10.1145/3368089.3409756",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Model-based exploration of the frontier of behaviours for deep learning system testing.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409730"
+        "url": "https://doi.org/10.1145/3368089.3409730",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "On decomposing a deep neural network into modules.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409668"
+        "url": "https://doi.org/10.1145/3368089.3409668",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Operational calibration: debugging confidence errors for DNNs in the field.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409696"
+        "url": "https://doi.org/10.1145/3368089.3409696",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "All your app links are belong to us: understanding the threats of instant apps based attacks.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409702"
+        "url": "https://doi.org/10.1145/3368089.3409702",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automated construction of energy test oracles for Android.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409677"
+        "url": "https://doi.org/10.1145/3368089.3409677",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Borrowing your enemy's arrows: the case of code reuse in Android via direct inter-app code invocation.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409745"
+        "url": "https://doi.org/10.1145/3368089.3409745",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Static asynchronous component misuse detection for Android applications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409699"
+        "url": "https://doi.org/10.1145/3368089.3409699",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatically identifying performance issue reports with heuristic linguistic patterns.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409674"
+        "url": "https://doi.org/10.1145/3368089.3409674",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Calm energy accounting for multithreaded Java applications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409703"
+        "url": "https://doi.org/10.1145/3368089.3409703",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Dynamically reconfiguring software microbenchmarks: reducing execution time without sacrificing result quality.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409683"
+        "url": "https://doi.org/10.1145/3368089.3409683",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Testing self-adaptive software with probabilistic guarantees on performance metrics.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409685"
+        "url": "https://doi.org/10.1145/3368089.3409685",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "API method recommendation via explicit matching of functionality verb phrases.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409731"
+        "url": "https://doi.org/10.1145/3368089.3409731",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Code recommendation for exception handling.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409690"
+        "url": "https://doi.org/10.1145/3368089.3409690",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "eQual: informing early design decisions.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409749"
+        "url": "https://doi.org/10.1145/3368089.3409749",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Recommending stack overflow posts for fixing runtime exceptions using failure scenario matching.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409764"
+        "url": "https://doi.org/10.1145/3368089.3409764",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Understanding the impact of GitHub suggested changes on recommendations between developers.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409722"
+        "url": "https://doi.org/10.1145/3368089.3409722",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An evaluation of methods to port legacy code to SGX enclaves.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409726"
+        "url": "https://doi.org/10.1145/3368089.3409726",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Search-based adversarial testing and improvement of constrained credit scoring systems.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409739"
+        "url": "https://doi.org/10.1145/3368089.3409739",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "SinkFinder: harvesting hundreds of unknown interesting function pairs with just one seed.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409678"
+        "url": "https://doi.org/10.1145/3368089.3409678",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Baital: an adaptive weighted sampling approach for improved t-wise coverage.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409744"
+        "url": "https://doi.org/10.1145/3368089.3409744",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Cost measures matter for mutation testing study validity.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409742"
+        "url": "https://doi.org/10.1145/3368089.3409742",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting optimization bugs in database engines via non-optimizing reference engine construction.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409710"
+        "url": "https://doi.org/10.1145/3368089.3409710",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Efficient binary-level coverage analysis.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409694"
+        "url": "https://doi.org/10.1145/3368089.3409694",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Efficiently finding higher-order mutants.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409713"
+        "url": "https://doi.org/10.1145/3368089.3409713",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Evolutionary improvement of assertion oracles.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409758"
+        "url": "https://doi.org/10.1145/3368089.3409758",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "FrUITeR: a framework for evaluating UI test reuse.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409708"
+        "url": "https://doi.org/10.1145/3368089.3409708",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Object detection for graphical user interface: old fashioned or deep learning or a combination?",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409691"
+        "url": "https://doi.org/10.1145/3368089.3409691",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Understanding and automatically detecting conflicting interactions between smart home IoT applications.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409682"
+        "url": "https://doi.org/10.1145/3368089.3409682",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "When does my program do this? learning circumstances of software behavior.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3409687"
+        "url": "https://doi.org/10.1145/3368089.3409687",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A first look at the integration of machine learning models in complex autonomous driving systems: a case study on Apollo.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417063"
+        "url": "https://doi.org/10.1145/3368089.3417063",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Adapting bug prediction models to predict reverted commits at Wayfair.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417062"
+        "url": "https://doi.org/10.1145/3368089.3417062",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Can microtask programming work in industry?",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417046"
+        "url": "https://doi.org/10.1145/3368089.3417046",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Change impact analysis in Simulink designs of embedded systems.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417060"
+        "url": "https://doi.org/10.1145/3368089.3417060",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Clustering test steps in natural language toward automating test automation.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417067"
+        "url": "https://doi.org/10.1145/3368089.3417067",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Efficient customer incident triage via linking with system incidents.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417061"
+        "url": "https://doi.org/10.1145/3368089.3417061",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Effort-aware just-in-time defect identification in practice: a case study at Alibaba.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417048"
+        "url": "https://doi.org/10.1145/3368089.3417048",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Enhancing the interoperability between deep learning frameworks by model conversion.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417051"
+        "url": "https://doi.org/10.1145/3368089.3417051",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Establishing key performance indicators for measuring software-development processes at a large organization.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417057"
+        "url": "https://doi.org/10.1145/3368089.3417057",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Estimating GPU memory consumption of deep learning models.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417050"
+        "url": "https://doi.org/10.1145/3368089.3417050",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Exempla gratis (E.G.): code examples for free.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417052"
+        "url": "https://doi.org/10.1145/3368089.3417052",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Fireteam: a small-team development practice in industry.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417068"
+        "url": "https://doi.org/10.1145/3368089.3417068",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417047"
+        "url": "https://doi.org/10.1145/3368089.3417047",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Graph-based trace analysis for microservice architecture understanding and problem diagnosis.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417066"
+        "url": "https://doi.org/10.1145/3368089.3417066",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Harvey: a greybox fuzzer for smart contracts.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417064"
+        "url": "https://doi.org/10.1145/3368089.3417064",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "How to mitigate the incident? an effective troubleshooting guide recommendation technique for online service systems.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417054"
+        "url": "https://doi.org/10.1145/3368089.3417054",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Improving cybersecurity hygiene through JIT patching.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417056"
+        "url": "https://doi.org/10.1145/3368089.3417056",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "IntelliCode compose: code generation using transformer.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417058"
+        "url": "https://doi.org/10.1145/3368089.3417058",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Learning to extract transaction function from requirements: an industrial case on financial software.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417053"
+        "url": "https://doi.org/10.1145/3368089.3417053",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Online sports betting through the prism of software engineering.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417049"
+        "url": "https://doi.org/10.1145/3368089.3417049",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Reducing DNN labelling cost using surprise adequacy: an industrial case study for autonomous driving.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417065"
+        "url": "https://doi.org/10.1145/3368089.3417065",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Scaling static taint analysis to industrial SOA applications: a case study at Alibaba.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417059"
+        "url": "https://doi.org/10.1145/3368089.3417059",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards intelligent incident management: why we need it and how we make it.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417055"
+        "url": "https://doi.org/10.1145/3368089.3417055",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "WebRR: self-replay enhanced robust record/replay for web application testing.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417069"
+        "url": "https://doi.org/10.1145/3368089.3417069",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Beyond accuracy: assessing software documentation quality.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417045"
+        "url": "https://doi.org/10.1145/3368089.3417045",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Continuous experimentation on artificial intelligence software: a research agenda.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417039"
+        "url": "https://doi.org/10.1145/3368089.3417039",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Inferring and securing software configurations using automated reasoning.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417041"
+        "url": "https://doi.org/10.1145/3368089.3417041",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Next generation automated software evolution refactoring at scale.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417042"
+        "url": "https://doi.org/10.1145/3368089.3417042",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Revealing the complexity of automotive software.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417038"
+        "url": "https://doi.org/10.1145/3368089.3417038",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Software documentation and augmented reality: love or arranged marriage?",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417044"
+        "url": "https://doi.org/10.1145/3368089.3417044",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Testing machine learning code using polyhedral region.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417043"
+        "url": "https://doi.org/10.1145/3368089.3417043",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards learning visual semantics.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417040"
+        "url": "https://doi.org/10.1145/3368089.3417040",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "AlloyMC: Alloy meets model counting.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417938"
+        "url": "https://doi.org/10.1145/3368089.3417938",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "ARCADE: an extensible workbench for architecture recovery, change, and decay evaluation.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417941"
+        "url": "https://doi.org/10.1145/3368089.3417941",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "BEE: a tool for structuring and analyzing bug reports.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417928"
+        "url": "https://doi.org/10.1145/3368089.3417928",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "BugsInPy: a database of existing bugs in Python programs to enable controlled testing and debugging studies.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417943"
+        "url": "https://doi.org/10.1145/3368089.3417943",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "CRSG: a serious game for teaching code review.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417932"
+        "url": "https://doi.org/10.1145/3368089.3417932",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Dads: dynamic slicing continuously-running distributed programs with budget constraints.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417920"
+        "url": "https://doi.org/10.1145/3368089.3417920",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "DeepCommenter: a deep code comment generation tool with hybrid lexical and syntactical information.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417926"
+        "url": "https://doi.org/10.1145/3368089.3417926",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "DiffTech: a tool for differencing similar technologies from question-and-answer discussions.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417931"
+        "url": "https://doi.org/10.1145/3368089.3417931",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Enhancing developer interactions with programming screencasts through accurate code extraction.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417925"
+        "url": "https://doi.org/10.1145/3368089.3417925",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "JITO: a tool for just-in-time defect identification and localization.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417927"
+        "url": "https://doi.org/10.1145/3368089.3417927",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "LibComp: an IntelliJ plugin for comparing Java libraries.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417922"
+        "url": "https://doi.org/10.1145/3368089.3417922",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "MCBAT: a practical tool for model counting constraints on bounded integer arrays.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417937"
+        "url": "https://doi.org/10.1145/3368089.3417937",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "ModCon: a model-based testing platform for smart contracts.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417939"
+        "url": "https://doi.org/10.1145/3368089.3417939",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Mono2Micro: an AI-based toolchain for evolving monolithic enterprise applications to a microservice architecture.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417933"
+        "url": "https://doi.org/10.1145/3368089.3417933",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "MutAPK 2.0: a tool for reducing mutation testing effort of Android apps.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417942"
+        "url": "https://doi.org/10.1145/3368089.3417942",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PAClab: a program analysis collaboratory.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417936"
+        "url": "https://doi.org/10.1145/3368089.3417936",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PCA: memory leak detection using partial call-path analysis.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417923"
+        "url": "https://doi.org/10.1145/3368089.3417923",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PRF: a framework for building automatic program repair prototypes for JVM-based languages.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417929"
+        "url": "https://doi.org/10.1145/3368089.3417929",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PRODeep: a platform for robustness verification of deep neural networks.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417918"
+        "url": "https://doi.org/10.1145/3368089.3417918",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "SVMRanker: a general termination analysis framework of loop programs via SVM.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417930"
+        "url": "https://doi.org/10.1145/3368089.3417930",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "SWAN: a static analysis framework for swift.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417924"
+        "url": "https://doi.org/10.1145/3368089.3417924",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Threshy: supporting safe usage of intelligent web services.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417919"
+        "url": "https://doi.org/10.1145/3368089.3417919",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "tsDetect: an open source test smells detection tool.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417921"
+        "url": "https://doi.org/10.1145/3368089.3417921",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "UIED: a hybrid tool for GUI element detection.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417940"
+        "url": "https://doi.org/10.1145/3368089.3417940",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "UIScreens: extracting user interface screens from mobile programming video tutorials.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417935"
+        "url": "https://doi.org/10.1145/3368089.3417935",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "WebJShrink: a web service for debloating Java bytecode.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3417934"
+        "url": "https://doi.org/10.1145/3368089.3417934",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Assisting the elite-driven open source development through activity data.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418541"
+        "url": "https://doi.org/10.1145/3368089.3418541",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Enhancing developers' support on pull requests activities with software bots.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418539"
+        "url": "https://doi.org/10.1145/3368089.3418539",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Machine learning based test data generation for safety-critical software.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418538"
+        "url": "https://doi.org/10.1145/3368089.3418538",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Reusing software engineering knowledge from developer communication.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418540"
+        "url": "https://doi.org/10.1145/3368089.3418540",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards transferring lean software startup practices in software engineering education.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418542"
+        "url": "https://doi.org/10.1145/3368089.3418542",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Attention tracking for developers.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418778"
+        "url": "https://doi.org/10.1145/3368089.3418778",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Impact of programming languages on energy consumption for mobile devices.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418777"
+        "url": "https://doi.org/10.1145/3368089.3418777",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Recommender systems: metric suggestion mechanisms applied to adaptable software dashboards.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418779"
+        "url": "https://doi.org/10.1145/3368089.3418779",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Repairing confusion and bias errors for DNN-based image classifiers.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418776"
+        "url": "https://doi.org/10.1145/3368089.3418776",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Synthesizing correct code for machine learning programs.",
         "venue_name": "fse",
         "year": 2020,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/3368089.3418780"
+        "url": "https://doi.org/10.1145/3368089.3418780",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     }
 ]

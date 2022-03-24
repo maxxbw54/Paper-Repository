@@ -5,7 +5,9 @@
         "year": 2010,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2010.21",
-        "volume": "36"
+        "volume": "36",
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Editorial: A New Decade of TSE.",
@@ -13,7 +15,9 @@
         "year": 2010,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2010.20",
-        "volume": "36"
+        "volume": "36",
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Better Debugging via Output Tracing and Callstack-Sensitive Slicing.",
@@ -164,7 +168,9 @@
         "year": 2010,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2010.44",
-        "volume": "36"
+        "volume": "36",
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Guest Editors' Introduction to the Special Section on Exception Handling: From Requirements to Software Maintenance.",
@@ -578,7 +584,9 @@
         "year": 2010,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2010.75",
-        "volume": "36"
+        "volume": "36",
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Introduction: The Best Papers of ISSTA.",
@@ -951,7 +959,9 @@
         "year": 2010,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2010.104",
-        "volume": "36"
+        "volume": "36",
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Search Based Software Engineering: Introduction to the Special Issue of the IEEE Transactions on Software Engineering.",
@@ -959,7 +969,9 @@
         "year": 2010,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2010.106",
-        "volume": "36"
+        "volume": "36",
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A Systematic Review of the Application and Empirical Investigation of Search-Based Test Case Generation.",

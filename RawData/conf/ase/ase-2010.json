@@ -4,608 +4,869 @@
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1858997"
+        "url": "https://doi.org/10.1145/1858996.1858997",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Analyzing security architectures.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859001"
+        "url": "https://doi.org/10.1145/1858996.1859001",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "VikiBuilder: end-user specification and generation of visual wikis.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859002"
+        "url": "https://doi.org/10.1145/1858996.1859002",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Software design sketching with calico.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859003"
+        "url": "https://doi.org/10.1145/1858996.1859003",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatically documenting program changes.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859005"
+        "url": "https://doi.org/10.1145/1858996.1859005",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards automatically generating summary comments for Java methods.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859006"
+        "url": "https://doi.org/10.1145/1858996.1859006",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatic detection of nocuous coordination ambiguities in natural language requirements.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859007"
+        "url": "https://doi.org/10.1145/1858996.1859007",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Flexible and scalable consistency checking on product line variability models.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859009"
+        "url": "https://doi.org/10.1145/1858996.1859009",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Variability modeling in the real: a perspective from the operating systems domain.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859010"
+        "url": "https://doi.org/10.1145/1858996.1859010",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "RESISTing reliability degradation through proactive reconfiguration.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859011"
+        "url": "https://doi.org/10.1145/1858996.1859011",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatic construction of an effective training set for prioritizing static analysis warnings.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859013"
+        "url": "https://doi.org/10.1145/1858996.1859013",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An automated approach for finding variable-constant pairing bugs.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859014"
+        "url": "https://doi.org/10.1145/1858996.1859014",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Deviance from perfection is a better criterion than closeness to evil when identifying risky code.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859015"
+        "url": "https://doi.org/10.1145/1858996.1859015",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Seamlessly integrated, but loosely coupled: building user interfaces from heterogeneous components.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859017"
+        "url": "https://doi.org/10.1145/1858996.1859017",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Tool support for quality-driven development of software architectures.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859018"
+        "url": "https://doi.org/10.1145/1858996.1859018",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "MiTV: multiple-implementation testing of user-input validators for web applications.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859019"
+        "url": "https://doi.org/10.1145/1858996.1859019",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Model comparison with GenericDiff.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859020"
+        "url": "https://doi.org/10.1145/1858996.1859020",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Eliminating products to test in a software product line.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859021"
+        "url": "https://doi.org/10.1145/1858996.1859021",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A visual interactive debugger based on symbolic execution.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859022"
+        "url": "https://doi.org/10.1145/1858996.1859022",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Model-driven reverse engineering of legacy graphical user interfaces.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859023"
+        "url": "https://doi.org/10.1145/1858996.1859023",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A two-step technique for extract class refactoring.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859024"
+        "url": "https://doi.org/10.1145/1858996.1859024",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting user-visible failures in AJAX web applications by analyzing users' interaction behaviors.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859025"
+        "url": "https://doi.org/10.1145/1858996.1859025",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Architectural style as an independent variable.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859026"
+        "url": "https://doi.org/10.1145/1858996.1859026",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Text mining in supporting software systems risk assurance.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859027"
+        "url": "https://doi.org/10.1145/1858996.1859027",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "JCCD: a flexible and extensible API for implementing custom code clone detectors.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859029"
+        "url": "https://doi.org/10.1145/1858996.1859029",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PeerUnit: a framework for testing peer-to-peer systems.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859030"
+        "url": "https://doi.org/10.1145/1858996.1859030",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Reconfigurable run-time support for distributed service component architectures.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859031"
+        "url": "https://doi.org/10.1145/1858996.1859031",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "MoDisco: a generic and extensible framework for model driven reverse engineering.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859032"
+        "url": "https://doi.org/10.1145/1858996.1859032",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Tool support for continuous maintenance of state machine models in program code.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859033"
+        "url": "https://doi.org/10.1145/1858996.1859033",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Reac2o: a runtime for enterprise system models.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859034"
+        "url": "https://doi.org/10.1145/1858996.1859034",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Symbolic PathFinder: symbolic execution of Java bytecode.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859035"
+        "url": "https://doi.org/10.1145/1858996.1859035",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Enumeration refactoring: a tool for automatically converting Java constants to enumerated types.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859036"
+        "url": "https://doi.org/10.1145/1858996.1859036",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Keynote address: the actual implementation will be derived from the formal specification -- KBSA, 1983.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1858998"
+        "url": "https://doi.org/10.1145/1858996.1858998",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Verification-driven slicing of UML/OCL models.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859038"
+        "url": "https://doi.org/10.1145/1858996.1859038",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automated support for repairing input-model faults.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859039"
+        "url": "https://doi.org/10.1145/1858996.1859039",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Security-driven model-based dynamic adaptation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859040"
+        "url": "https://doi.org/10.1145/1858996.1859040",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "JRF-E: using model checking to give advice on eliminating memory model-related bugs.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859042"
+        "url": "https://doi.org/10.1145/1858996.1859042",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A bounded statistical approach for model checking of unbounded until properties.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859043"
+        "url": "https://doi.org/10.1145/1858996.1859043",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Eliminating navigation errors in web applications via model checking and runtime enforcement of navigation state machines.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859044"
+        "url": "https://doi.org/10.1145/1858996.1859044",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards mining replacement queries for hard-to-retrieve traces.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859046"
+        "url": "https://doi.org/10.1145/1858996.1859046",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Tool support for essential use cases to better capture software requirements.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859047"
+        "url": "https://doi.org/10.1145/1858996.1859047",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Timesheet assistant: mining and reporting developer effort.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859049"
+        "url": "https://doi.org/10.1145/1858996.1859049",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An experience report on scaling tools for mining software repositories using MapReduce.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859050"
+        "url": "https://doi.org/10.1145/1858996.1859050",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "iMashup: assisting end-user programming for the service-oriented web.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859052"
+        "url": "https://doi.org/10.1145/1858996.1859052",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "MODA: automated test generation for database applications via mock objects.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859053"
+        "url": "https://doi.org/10.1145/1858996.1859053",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Random unit-test generation with MUT-aware sequence recommendation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859054"
+        "url": "https://doi.org/10.1145/1858996.1859054",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "End-user oriented critic specification for domain-specific visual language tools.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859055"
+        "url": "https://doi.org/10.1145/1858996.1859055",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Checking roundoff errors using counterexample-guided narrowing.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859056"
+        "url": "https://doi.org/10.1145/1858996.1859056",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Realizing architecture frameworks through megamodelling techniques.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859057"
+        "url": "https://doi.org/10.1145/1858996.1859057",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Recovering inter-project dependencies in software ecosystems.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859058"
+        "url": "https://doi.org/10.1145/1858996.1859058",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automated program repair through the evolution of assembly code.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859059"
+        "url": "https://doi.org/10.1145/1858996.1859059",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Integrating model verification and self-adaptation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859060"
+        "url": "https://doi.org/10.1145/1858996.1859060",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "When to use data from other projects for effort estimation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859061"
+        "url": "https://doi.org/10.1145/1858996.1859061",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Kadre: domain-specific architectural recovery for scientific software systems.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859062"
+        "url": "https://doi.org/10.1145/1858996.1859062",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automated SQL query generation for systematic testing of database engines.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859063"
+        "url": "https://doi.org/10.1145/1858996.1859063",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Tag and prune: a pragmatic approach to software product line implementation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859064"
+        "url": "https://doi.org/10.1145/1858996.1859064",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Reducing estimation uncertainty with continuous assessment: tracking the \"cone of uncertainty\".",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859065"
+        "url": "https://doi.org/10.1145/1858996.1859065",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Using transitive changesets to support feature location.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859066"
+        "url": "https://doi.org/10.1145/1858996.1859066",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "RuMoR: monitoring and recovery for BPEL applications.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859068"
+        "url": "https://doi.org/10.1145/1858996.1859068",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Model/analyzer: a tool for detecting, visualizing and fixing design errors in UML.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859069"
+        "url": "https://doi.org/10.1145/1858996.1859069",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "CoGenTe: a tool for code generator testing.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859070"
+        "url": "https://doi.org/10.1145/1858996.1859070",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Impendulo: debugging the programmer.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859071"
+        "url": "https://doi.org/10.1145/1858996.1859071",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "SpecDiff: debugging formal specifications.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859072"
+        "url": "https://doi.org/10.1145/1858996.1859072",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Deriving behavior of multi-user processes from interactive requirements validation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859073"
+        "url": "https://doi.org/10.1145/1858996.1859073",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Tool support for code generation from a UMLsec property.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859074"
+        "url": "https://doi.org/10.1145/1858996.1859074",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PlayGo: towards a comprehensive tool for scenario based programming.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859075"
+        "url": "https://doi.org/10.1145/1858996.1859075",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "REMES tool-chain: a set of integrated tools for behavioral modeling and analysis of embedded systems.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859076"
+        "url": "https://doi.org/10.1145/1858996.1859076",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "C2O: a tool for guided decision-making.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859077"
+        "url": "https://doi.org/10.1145/1858996.1859077",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Keynote address: model engineering for model-driven engineering.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1858999"
+        "url": "https://doi.org/10.1145/1858996.1858999",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Search-carrying code.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859079"
+        "url": "https://doi.org/10.1145/1858996.1859079",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Solving string constraints lazily.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859080"
+        "url": "https://doi.org/10.1145/1858996.1859080",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Scenario-based and value-based specification mining: better together.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859081"
+        "url": "https://doi.org/10.1145/1858996.1859081",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Test generation to expose changes in evolving programs.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859083"
+        "url": "https://doi.org/10.1145/1858996.1859083",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "How did you specify your test suite.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859084"
+        "url": "https://doi.org/10.1145/1858996.1859084",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Dynamic and transparent analysis of commodity production systems.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859085"
+        "url": "https://doi.org/10.1145/1858996.1859085",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Apt-pbo: solving the software dependency problem using pseudo-boolean optimization.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859087"
+        "url": "https://doi.org/10.1145/1858996.1859087",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A sentence-matching method for automatic license identification of source code files.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859088"
+        "url": "https://doi.org/10.1145/1858996.1859088",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detection of recurring software vulnerabilities.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859089"
+        "url": "https://doi.org/10.1145/1858996.1859089",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Matching dependence-related queries in the system dependence graph.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859091"
+        "url": "https://doi.org/10.1145/1858996.1859091",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "PLASMA: a plan-based layered architecture for software model-driven adaptation.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859092"
+        "url": "https://doi.org/10.1145/1858996.1859092",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A program differencing algorithm for verilog HDL.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859093"
+        "url": "https://doi.org/10.1145/1858996.1859093",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Error-avoiding adaptors for black-box software components.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859095"
+        "url": "https://doi.org/10.1145/1858996.1859095",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automated model grouping.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859096"
+        "url": "https://doi.org/10.1145/1858996.1859096",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatic inference of abstract type behavior.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859097"
+        "url": "https://doi.org/10.1145/1858996.1859097",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Extraction and visualization of traceability relationships between documents and source code.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859098"
+        "url": "https://doi.org/10.1145/1858996.1859098",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Model checking graph representation of precise boolean inter-procedural flow analysis.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859099"
+        "url": "https://doi.org/10.1145/1858996.1859099",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "The influence of multiple artifacts on the effectiveness of software testing.",
         "venue_name": "ase",
         "year": 2010,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/1858996.1859100"
+        "url": "https://doi.org/10.1145/1858996.1859100",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     }
 ]

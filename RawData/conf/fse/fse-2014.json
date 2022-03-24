@@ -4,734 +4,1049 @@
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2684426"
+        "url": "https://doi.org/10.1145/2635868.2684426",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "From software engineering to software systems (invited talk).",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2684427"
+        "url": "https://doi.org/10.1145/2635868.2684427",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Ten years with evidence-based software engineering. What is it? Has it had any impact? What's next?",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2684428"
+        "url": "https://doi.org/10.1145/2635868.2684428",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Experiences developing tools for developers (invited talk).",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2684429"
+        "url": "https://doi.org/10.1145/2635868.2684429",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Are you getting traction? tales from the tech transfer trenches (invited talk).",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2684430"
+        "url": "https://doi.org/10.1145/2635868.2684430",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Data hard with a vengeance (invited talk).",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2684431"
+        "url": "https://doi.org/10.1145/2635868.2684431",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Developers' code context models for change tasks.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635905"
+        "url": "https://doi.org/10.1145/2635868.2635905",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Software developers' perceptions of productivity.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635892"
+        "url": "https://doi.org/10.1145/2635868.2635892",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Enablers, inhibitors, and perceptions of testing in novice software teams.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635925"
+        "url": "https://doi.org/10.1145/2635868.2635925",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Feedback generation for performance problems in introductory programming assignments.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635912"
+        "url": "https://doi.org/10.1145/2635868.2635912",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Test case purification for improving fault localization.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635906"
+        "url": "https://doi.org/10.1145/2635868.2635906",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatically generated patches as debugging aids: a human study.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635873"
+        "url": "https://doi.org/10.1145/2635868.2635873",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A foundation for refactoring C with macros.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635908"
+        "url": "https://doi.org/10.1145/2635868.2635908",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Vector abstraction and concretization for scalable detection of refactorings.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635926"
+        "url": "https://doi.org/10.1145/2635868.2635926",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "FlowTwist: efficient context-sensitive inside-out taint analysis for large codebases.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635878"
+        "url": "https://doi.org/10.1145/2635868.2635878",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "ORBS: language-independent program slicing.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635893"
+        "url": "https://doi.org/10.1145/2635868.2635893",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "JSAI: a static analysis platform for JavaScript.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635904"
+        "url": "https://doi.org/10.1145/2635868.2635904",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A path-sensitively sliced control flow graph.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635884"
+        "url": "https://doi.org/10.1145/2635868.2635884",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Let's talk about it: evaluating contributions through discussion in GitHub.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635882"
+        "url": "https://doi.org/10.1145/2635868.2635882",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A large scale study of programming languages and code quality in github.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635922"
+        "url": "https://doi.org/10.1145/2635868.2635922",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Mining preconditions of APIs in large-scale code corpus.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635924"
+        "url": "https://doi.org/10.1145/2635868.2635924",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatic mining of specifications from invocation traces and method invariants.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635890"
+        "url": "https://doi.org/10.1145/2635868.2635890",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Counterexample guided abstraction refinement of product-line behavioural models.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635919"
+        "url": "https://doi.org/10.1145/2635868.2635919",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Powering the static driver verifier using corral.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635894"
+        "url": "https://doi.org/10.1145/2635868.2635894",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Verifying CTL-live properties of infinite state models using an SMT solver.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635911"
+        "url": "https://doi.org/10.1145/2635868.2635911",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Efficient runtime-enforcement techniques for policy weaving.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635907"
+        "url": "https://doi.org/10.1145/2635868.2635907",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Techniques for improving regression testing in continuous integration development environments.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635910"
+        "url": "https://doi.org/10.1145/2635868.2635910",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Balancing trade-offs in test-suite reduction.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635921"
+        "url": "https://doi.org/10.1145/2635868.2635921",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Identifying the characteristics of vulnerable code changes: an empirical study.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635880"
+        "url": "https://doi.org/10.1145/2635868.2635880",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "On the localness of software.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635875"
+        "url": "https://doi.org/10.1145/2635868.2635875",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Learning natural coding conventions.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635883"
+        "url": "https://doi.org/10.1145/2635868.2635883",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "How should we measure functional sameness from program source code? an exploratory study on Java methods.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635886"
+        "url": "https://doi.org/10.1145/2635868.2635886",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "The plastic surgery hypothesis.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635898"
+        "url": "https://doi.org/10.1145/2635868.2635898",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Grail: context-aware fixing of concurrency bugs.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635881"
+        "url": "https://doi.org/10.1145/2635868.2635881",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "AI: a lightweight system for tolerating concurrency bugs.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635885"
+        "url": "https://doi.org/10.1145/2635868.2635885",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Retrofitting concurrency for Android applications through refactoring.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635903"
+        "url": "https://doi.org/10.1145/2635868.2635903",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Sherlock: scalable deadlock detection for concurrent programs.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635918"
+        "url": "https://doi.org/10.1145/2635868.2635918",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Search-based synthesis of equivalent method sequences.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635888"
+        "url": "https://doi.org/10.1145/2635868.2635888",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Beyond the rainbow: self-adaptive failure avoidance in configurable systems.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635915"
+        "url": "https://doi.org/10.1145/2635868.2635915",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Semantics-based obfuscation-resilient binary code similarity comparison with applications to software plagiarism detection.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635900"
+        "url": "https://doi.org/10.1145/2635868.2635900",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Focus-shifting patterns of OSS developers and their congruence with call graphs.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635914"
+        "url": "https://doi.org/10.1145/2635868.2635914",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "How we get there: a context-guided search strategy in concolic testing.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635872"
+        "url": "https://doi.org/10.1145/2635868.2635872",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Solving complex path conditions through heuristic search on induced polytopes.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635889"
+        "url": "https://doi.org/10.1145/2635868.2635889",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Statistical symbolic execution with informed sampling.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635899"
+        "url": "https://doi.org/10.1145/2635868.2635899",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "SymJS: automatic symbolic testing of JavaScript web applications.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635913"
+        "url": "https://doi.org/10.1145/2635868.2635913",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Selection and presentation practices for code example summarization.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635877"
+        "url": "https://doi.org/10.1145/2635868.2635877",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Mining idioms from source code.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635901"
+        "url": "https://doi.org/10.1145/2635868.2635901",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Automatic generation of release notes.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635870"
+        "url": "https://doi.org/10.1145/2635868.2635870",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Discovering refactoring opportunities in cascading style sheets.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635879"
+        "url": "https://doi.org/10.1145/2635868.2635879",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "SAFEWAPI: web API misuse detector for web applications.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635916"
+        "url": "https://doi.org/10.1145/2635868.2635916",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Building call graphs for embedded client-side code in dynamic web applications.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635928"
+        "url": "https://doi.org/10.1145/2635868.2635928",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Sketches and diagrams in practice.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635891"
+        "url": "https://doi.org/10.1145/2635868.2635891",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Architecture challenges for internal software ecosystems: a large-scale industry case study.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635876"
+        "url": "https://doi.org/10.1145/2635868.2635876",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Variable-specific resolutions for feature interactions.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635927"
+        "url": "https://doi.org/10.1145/2635868.2635927",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An empirical study on program comprehension with reactive programming.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635895"
+        "url": "https://doi.org/10.1145/2635868.2635895",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Apposcopy: semantics-based detection of Android malware through static analysis.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635869"
+        "url": "https://doi.org/10.1145/2635868.2635869",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting energy bugs and hotspots in mobile apps.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635871"
+        "url": "https://doi.org/10.1145/2635868.2635871",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "EvoDroid: segmented evolutionary testing of Android apps.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635896"
+        "url": "https://doi.org/10.1145/2635868.2635896",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Prioritizing the devices to test your app on: a case study of Android game apps.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635909"
+        "url": "https://doi.org/10.1145/2635868.2635909",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Improving oracle quality by detecting brittle assertions and unused inputs in tests.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635917"
+        "url": "https://doi.org/10.1145/2635868.2635917",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "On the efficiency of automated testing.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635923"
+        "url": "https://doi.org/10.1145/2635868.2635923",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "An empirical analysis of flaky tests.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635920"
+        "url": "https://doi.org/10.1145/2635868.2635920",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Are mutants a valid substitute for real faults in software testing?",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635929"
+        "url": "https://doi.org/10.1145/2635868.2635929",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "No issue left behind: reducing information overload in issue tracking.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635887"
+        "url": "https://doi.org/10.1145/2635868.2635887",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Panning requirement nuggets in stream of software maintenance tickets.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635897"
+        "url": "https://doi.org/10.1145/2635868.2635897",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Learning to rank relevant files for bug reports using domain knowledge.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635874"
+        "url": "https://doi.org/10.1145/2635868.2635874",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Querying sequential software engineering data.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2635902"
+        "url": "https://doi.org/10.1145/2635868.2635902",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Tsmart-GalsBlock: a toolkit for modeling, validation, and synthesis of multi-clocked embedded systems.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661664"
+        "url": "https://doi.org/10.1145/2635868.2661664",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A tool suite for the model-driven software engineering of cyber-physical systems.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661665"
+        "url": "https://doi.org/10.1145/2635868.2661665",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "XMLMate: evolutionary XML test generation.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661666"
+        "url": "https://doi.org/10.1145/2635868.2661666",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "CHOReOSynt: enforcing choreography realizability in the future internet.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661667"
+        "url": "https://doi.org/10.1145/2635868.2661667",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "RaPiD: a toolkit for reliability analysis of non-deterministic systems.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661668"
+        "url": "https://doi.org/10.1145/2635868.2661668",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Aalta: an LTL satisfiability checker over Infinite/Finite traces.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661669"
+        "url": "https://doi.org/10.1145/2635868.2661669",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Omen+: a precise dynamic deadlock detector for multithreaded Java libraries.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661670"
+        "url": "https://doi.org/10.1145/2635868.2661670",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Archie: a tool for detecting, monitoring, and preserving architecturally significant code.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661671"
+        "url": "https://doi.org/10.1145/2635868.2661671",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Linking sketches and diagrams to source code artifacts.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661672"
+        "url": "https://doi.org/10.1145/2635868.2661672",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "BumbleBee: a refactoring environment for spreadsheet formulas.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661673"
+        "url": "https://doi.org/10.1145/2635868.2661673",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "RefDistiller: a refactoring aware code review tool for inspecting manual refactoring edits.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661674"
+        "url": "https://doi.org/10.1145/2635868.2661674",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Critics: an interactive code review tool for searching and inspecting systematic changes.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661675"
+        "url": "https://doi.org/10.1145/2635868.2661675",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "ConceptCloud: a tagcloud browser for software archives.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661676"
+        "url": "https://doi.org/10.1145/2635868.2661676",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Titan: a toolset that connects software architecture with quality analysis.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661677"
+        "url": "https://doi.org/10.1145/2635868.2661677",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "BugLocalizer: integrated tool support for bug localization.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661678"
+        "url": "https://doi.org/10.1145/2635868.2661678",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Diagnose crashing faults on production software.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666601"
+        "url": "https://doi.org/10.1145/2635868.2666601",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Integrating approaches for feature implementation.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666605"
+        "url": "https://doi.org/10.1145/2635868.2666605",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Numerical program analysis and testing.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666603"
+        "url": "https://doi.org/10.1145/2635868.2666603",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Traceability and model checking to support safety requirement verification.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666606"
+        "url": "https://doi.org/10.1145/2635868.2666606",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Dealing with uncertainty in verification of nondeterministic systems.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666598"
+        "url": "https://doi.org/10.1145/2635868.2666598",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Static analysis driven performance and energy testing.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666602"
+        "url": "https://doi.org/10.1145/2635868.2666602",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Autonomous compliance monitoring of non-functional properties.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666599"
+        "url": "https://doi.org/10.1145/2635868.2666599",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting, isolating, and enforcing dependencies among and within test cases.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666597"
+        "url": "https://doi.org/10.1145/2635868.2666597",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Improving the software testing skills of novices during onboarding through social transparency.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666604"
+        "url": "https://doi.org/10.1145/2635868.2666604",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Minimizing software conflicts through proactive detection of conflicts and task scheduling.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666600"
+        "url": "https://doi.org/10.1145/2635868.2666600",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Detecting and preventing the architectural roots of bugs.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661679"
+        "url": "https://doi.org/10.1145/2635868.2661679",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Estimating the effectiveness of spectrum-based fault localization.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661680"
+        "url": "https://doi.org/10.1145/2635868.2661680",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Managing lots of models: the FaMine approach.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661681"
+        "url": "https://doi.org/10.1145/2635868.2661681",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Social network analysis in open source software peer review.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661682"
+        "url": "https://doi.org/10.1145/2635868.2661682",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Towards a theory of architectural styles.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661683"
+        "url": "https://doi.org/10.1145/2635868.2661683",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Software programmer management: a machine learning and human computer interaction framework for optimal task assignment.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2661684"
+        "url": "https://doi.org/10.1145/2635868.2661684",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Methodology and culture: drivers of mediocrity in software engineering?",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666607"
+        "url": "https://doi.org/10.1145/2635868.2666607",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Known unknowns: testing in the presence of uncertainty.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666608"
+        "url": "https://doi.org/10.1145/2635868.2666608",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Speculative reprogramming.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666609"
+        "url": "https://doi.org/10.1145/2635868.2666609",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "A variability perspective of mutation analysis.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666610"
+        "url": "https://doi.org/10.1145/2635868.2666610",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Mining micro-practices from operational data.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666611"
+        "url": "https://doi.org/10.1145/2635868.2666611",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Achieving lightweight trustworthy traceability.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666612"
+        "url": "https://doi.org/10.1145/2635868.2666612",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     },
     {
         "title": "Software maintenance like maintenance in other engineering disciplines.",
         "venue_name": "fse",
         "year": 2014,
         "venue_type": "conf",
-        "url": "https://doi.org/10.1145/2635868.2666613"
+        "url": "https://doi.org/10.1145/2635868.2666613",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
     }
 ]
