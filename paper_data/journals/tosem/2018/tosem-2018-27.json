@@ -1,0 +1,192 @@
+[
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3205909",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How Far We Have Progressed in the Journey? An Examination of Cross-Project Defect Prediction.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3183339",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Assessing the Refactoring of Brain Methods.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3191314",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An Empirical Study of Meta- and Hyper-Heuristic Search for Multi-Objective Release Planning.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3196831",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inferring Extended Probabilistic Finite-State Automaton Models from Software Executions.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3196883",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FEMOSAA: Feature-Guided and Knee-Driven Multi-Objective Optimization for Self-Adaptive Software.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3204459",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Prove it! Inferring Formal Proof Scripts from CafeOBJ Proof Scores.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3208951",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "STADS: Software Testing as Species Discovery.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3210309",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Maintaining Architecture-Implementation Conformance to Support Architecture Centrality: From Single System to Product Line Development.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3229048",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3264424",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Shadow Symbolic Execution for Testing Software Patches.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3208952",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The ABC of Software Engineering Research.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3241743",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Linear Programming as a Baseline for Software Effort Estimation.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3234940",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Spectrum-Based Fault Localization in Model Transformations.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3241744",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-Objective Optimization of Energy Consumption of GUIs in Android Apps.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3241742",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test-Equivalence Analysis for Automatic Patch Generation.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3241980",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recommending Who to Follow in the Software Engineering Twitter Space.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3266426",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Refactoring Multi-Level Models.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3280985",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Variability-Aware Static Analysis at Scale: An Empirical Study.",
+        "venue_name": "tosem",
+        "year": 2018,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3280986",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    }
+]

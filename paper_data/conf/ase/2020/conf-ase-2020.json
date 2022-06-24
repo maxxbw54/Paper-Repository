@@ -1,0 +1,1582 @@
+[
+    {
+        "title": "Safety and Robustness for Deep Learning with Provable Guarantees.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418901",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Is Software Engineering Research Addressing Software Engineering Problems? (Keynote).",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3417103",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Accelerating All-SAT Computation with Short Blocking Clauses.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416569",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Predictive Analysis for Detecting Deadlock in MPI Programs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416588",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning to Handle Exceptions.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416568",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BUILDFAST: History-Aware Build Outcome Prediction for Fast Feedback and Reduced Cost in Continuous Integration.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416616",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "LEGION: Best-First Concolic Testing.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416629",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Plug the Database & Play With Automatic Testing: Improving System Testing by Exploiting Persistent Data.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416561",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Enhanced Compiler Bug Isolation via Memoized Search.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416570",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "M3: Semantic API Migrations.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416618",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Impact of Generic Data Structures: Decoding the Role of Lists in the Linux Kernel.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416635",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Pending Constraints in Symbolic Execution for Better Exploration and Seeding.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416589",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Broadening Horizons of Multilingual Static Analysis: Semantic Summary Extraction from C Code for JNI Program Analysis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416558",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Assessing and Restoring Reproducibility of Jupyter Notebooks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416585",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verified from Scratch: Program Analysis for Learners' Programs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416554",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Interval Change-Point Detection for Runtime Probabilistic Model Checking.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416565",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "UNCHARTIT: An Interactive Framework for Program Recovery from Charts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416613",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Demystifying Diehard Android Apps.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416637",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "UI Obfuscation and Its Effects on Automated UI Analysis for Android Apps.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416642",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Good Things Come In Threes: Improving Search-based Crash Reproduction With Helper Objectives.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416643",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Subdomain-Based Generality-Aware Debloating.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416644",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Revisiting the Relationship Between Fault Detection, Test Adequacy Criteria, and Test Set Size.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416667",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Synthesis of Infinite-State Systems with Random Behavior.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416586",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Demystifying Loops in Smart Contracts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416626",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Patching as Translation: the Data and the Metaphor.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416587",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepTC-Enhancer: Improving the Readability of Automatically Generated Tests.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416622",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hybrid Deep Neural Networks to Infer State Models of Black-Box Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416559",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Representing and Reasoning about Dynamic Code.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416542",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ER Catcher: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416639",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Deep Multitask Learning Approach for Requirements Discovery and Annotation from Open Forum.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416627",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Retrieve and Refine: Exemplar-based Neural Comment Generation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416578",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Where Shall We Log? Studying and Suggesting Logging Locations in Code Blocks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416636",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How Incidental are the Incidents? Characterizing and Prioritizing Incidents for Large-Scale Online Service Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416624",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Stay Professional and Efficient: Automatically Generate Titles for Your Bug Reports.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416538",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Owl Eyes: Spotting UI Display Issues via Visual Understanding.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416547",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multiple-Boundary Clustering and Prioritization to Promote Neural Network Retraining.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416621",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Marble: Model-based Robustness Analysis of Stateful Deep Learning Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416564",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MockSniffer: Characterizing and Recommending Mocking Decisions for Unit Tests.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416539",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Defect Prediction Guided Search-Based Software Testing.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416612",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "API-Misuse Detection Driven by Fine-Grained API-Constraint Knowledge Graph.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416551",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-task Learning based Pre-trained Language Model for Code Completion.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416591",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Audee: Automated Testing for Deep Learning Frameworks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416571",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Interpreting Recurrent Neural Networks through Probabilistic Abstraction.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416592",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Continuous Compliance.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416593",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SADT: Syntax-Aware Differential Testing of Certificate Validation in SSL/TLS Implementations.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416552",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CoFI: Consistency-Guided Fault Injection for Cloud Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416548",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ChemTest: An Automated Software Testing Framework for an Emerging Paradigm.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416638",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic Extraction of Cause-Effect-Relations from Requirements Artifacts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416549",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BiLO-CPDP: Bi-Level Programming for Automated Model Discovery in Cross-Project Defect Prediction.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416617",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating Just-In-Time Comment Updating.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416581",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Implementation of Windows-related Security-Configuration Guides.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416540",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying Software Performance Changes Across Variants and Versions.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416573",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CP-Detector: Using Configuration-related Performance Properties to Expose Performance Bugs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416531",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Just-In-Time Reactive Synthesis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416557",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "JISET: JavaScript IR-based Semantics Extraction Toolchain.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416632",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FlashRegex: Deducing Anti-ReDoS Regexes from Examples.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416556",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inferring and Applying Def-Use Like Configuration Couplings in Deployment Descriptors.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416577",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mastering Uncertainty in Performance Estimations of Configurable Software Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416620",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Team Discussions and Dynamics During DevOps Tool Adoptions in OSS Projects.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416640",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TestMC: Testing Model Counters using Differential and Metamorphic Testing.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416563",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BigFuzz: Efficient Fuzz Testing for Data Analytics Using Framework Abstraction.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416641",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scaling Client-Specific Equivalence Checking via Impact Boundary Search.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416634",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Code to Comment \"Translation\": Data, Metrics, Baselining & Evaluation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416546",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exploring the Architectural Impact of Possible Dependencies in Python Software.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416619",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416545",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "NEURODIFF: Scalable Differential Verification of Neural Networks using Fine-Grained Approximation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416560",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying and Describing Information Seeking Tasks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416537",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predicting Code Context Models for Software Development Tasks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416544",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SCDetector: Software Functional Clone Detection Based on Semantic Tokens Analysis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416562",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generating Concept based API Element Comparison Using a Knowledge Graph.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416628",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multiplex Symbolic Execution: Exploring Multiple Paths by Solving Once.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416645",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Zeror: Speed Up Fuzzing with Coverage-sensitive Tracing and Scheduling.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416572",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting and Explaining Self-Admitted Technical Debts with Attention-based Neural Networks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416583",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "OCoR: An Overlapping-Aware Code Retriever.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416530",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding Performance Concerns in the API Documentation of Data Science Libraries.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416543",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the Effectiveness of Unified Debugging: An Extensive Study on 16 Program Repair Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416566",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Third-Party Library Detection for Android Applications: Are We There Yet?",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416582",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CCGraph: a PDG-based code clone detector with approximate graph matching.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416541",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Generating Thread-Safe Classes Automatically.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416625",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "No Strings Attached: An Empirical Study of String-related Software Bugs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416576",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Patch Correctness Assessment: How Far are We?",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416590",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluating Representation Learning of Code Changes for Predicting Patch Correctness in Program Repair.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416532",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scalable Multiple-View Analysis of Reactive Systems via Bidirectional Model Transformations.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416579",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Trace-Checking Signal-based Temporal Properties: A Model-Driven Approach.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416631",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Attend and Represent: A Novel View on Algorithm Selection for Software Verification.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416633",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416553",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cats Are Not Fish: Deep Learning Testing Calls for Out-Of-Distribution Awareness.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416609",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Metamorphic Object Insertion for Testing Object Detection Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416584",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Seven Reasons Why: An In-Depth Study of the Limitations of Random Test Input Generation for Android.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416567",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test Automation in Open-Source Android Apps: A Large-Scale Empirical Study.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416623",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Synthesis-Based Resolution of Feature Interactions in Cyber-Physical Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416630",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MoFuzz: A Fuzzer Suite for Testing Model-Driven Software Engineering Tools.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416668",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Prober: Practically Defending Overflows with Page Protection.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416533",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416580",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Summary-Based Symbolic Evaluation for Smart Contracts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3416646",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Applying Learning Techniques to Oracle Synthesis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415287",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Generation of Client-Specific Backends Utilizing Existing Microservices and Architectural Knowledge.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415283",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SAT-Based Arithmetic Support for Alloy.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415285",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Robust Production Machine Learning Systems: Managing Dataset Shift.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415281",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Transparency-Encouraging Partial Software Disclosure to Enable Trust in Data Usage.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415282",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using Defect Prediction to Improve the Bug Detection Capability of Search-Based Software Testing.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415286",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The New Approach to IT Testing : Real Transaction-Based Automated Validation Solution.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3421839",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic Generation of IFTTT Mashup Infrastructures.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3421837",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Building Robust DNN Applications: An Industrial Case Study of Evolutionary Data Augmentation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3421841",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Industry Practice of JavaScript Dynamic Analysis on WeChat Mini-Programs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3421842",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lightweight MBT Testing for National e-Health Portal in Norway.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3421843",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Code-Based Vulnerability Detection in Node.js Applications: How far are we?",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3421838",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Framework for Automated Test Mocking of Mobile Apps.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418927",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Hybrid Analysis to Detect Java Serialisation Vulnerabilities.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418931",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BugPecker: Locating Faulty Methods with Deep Learning on Revision Graphs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418934",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Closer to the Edge: Testing Compilers More Thoroughly by Being Less Conservative About Undefined Behaviour.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418933",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generating Highly-structured Input Data by Combining Search-based Testing and Grammar-based Fuzzing.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418930",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Making Fair ML Software using Trustworthy Explanation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418932",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On Benign Features in Malware Detection.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418926",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Proving Termination by k-Induction.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418929",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SRRTA: Regression Testing Acceleration via State Reuse.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418928",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An Automated Assessment of Android Clipboards.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418905",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Edge4Sys: A Device-Edge Collaborative Framework for MEC based Smart Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418908",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient Multiplex Symbolic Execution with Adaptive Search Strategy.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418902",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Managing App Testing Device Clouds: Issues and Opportunities.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418909",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Styx: A Data-Oriented Mutation Framework to Improve the Robustness of DNN.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418903",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Synthesizing Smart Solving Strategy for Symbolic Execution.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418904",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Symptom, Cause and Repair of Workaround.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418910",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Immersive Comprehension of Software Systems Using Augmented Reality - An Empirical Evaluation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418907",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Programming and Verification for Activity-Oriented Smart Home Systems.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418906",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AirMochi - A Tool for Remotely Controlling iOS Devices.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415304",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Botsing, a Search-based Crash Reproduction Framework for Java.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415299",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Express: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems**This research is in part supported by the National Natural Science Foundation of China Project No. 61972001.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415294",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Edge4Real: A Cost-Effective Edge Computing based Human Behaviour Recognition System for Human-Centric Software Engineering.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415297",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FILO: FIx-LOcus Localization for Backward Incompatibilities Caused by Android Framework Upgrades.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415290",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "GUI2WiRe: Rapid Wireframing with a Mined and Large-Scale GUI Repository using Natural Language Requirements.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415289",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "HomoTR: Online Test Recommendation System Based on Homologous Code Matching.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415296",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ImpAPTr: A Tool For Identifying The Clues To Online Service Anomalies.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415301",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "OSLDetector: Identifying Open-Source Libraries through Binary Analysis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415303",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Sosed: a tool for finding similar software projects.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415291",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "WASim: Understanding WebAssembly Applications through Classification.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415293",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MetPurity: A Learning-Based Tool of Pure Method Identification for Automatic Test Generation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415292",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "STIFA: Crowdsourced Mobile Testing Report Selection Based on Text and Image Fusion Analysis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415300",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "JITBot: An Explainable Just-In-Time Defect Prediction Bot.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415295",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Speeding up GUI Testing by On-Device Test Generation.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415302",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PerfCI: A Toolchain for Automated Performance Testing during Continuous Integration of Python Projects.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415288",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SmartBugs: A Framework to Analyze Solidity Smart Contracts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415298",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "RepoSkillMiner: Identifying software expertise from GitHub repositories using Natural Language Processing.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3415305",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Machine Learning based Approach to Autogenerate Diagnostic Models for CNC machines.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418915",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Program Verification based Approach to Find Data Race Vulnerabilities in Interrupt-driven Program.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418925",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Unified Framework to Learn Program Semantics with Graph Neural Networks.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418924",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Anti-patterns for Java Automated Program Repair Tools.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418919",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CrossPriv: User Privacy Preservation Model for Cross-Silo Federated Software.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418911",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Discovering UI Display Issues with Visual Understanding.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418917",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dynamic Algorithm Selection for SMT.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418922",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FLUX: From SQL to GQL query translation tool.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418916",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding Ethereum Smart Contracts Security Issues by Comparing History Versions.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418923",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Formal Verification of Masking Countermeasures for Arithmetic Programs.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418920",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying Mutation Subsumption Relations.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418921",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scalability and Precision Improvement of Neural Program Synthesis.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418912",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Classification and Propagation of Program Comments.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418913",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Source Code and Binary Level Vulnerability Detection and Hot Patching.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418914",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "When Deep Learning Meets Smart Contracts.",
+        "venue_name": "ase",
+        "year": 2020,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3324884.3418918",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Augmenting Field Data for Testing Systems Subject to Incremental Requirements Changes.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3053430",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Ensuring the Consistency of Adaptation through Inter- and Intra-Component Dependency Analysis.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3063385",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3078841",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Human Competitiveness of Genetic Programming in Spectrum-Based Fault Localisation: Theoretical and Empirical Analysis.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3078840",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Parallel Algorithms for Generating Distinguishing Sequences for Observable Non-deterministic FSMs.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3051121",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3136621",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fixing Faults in C and Java Source Code: Abbreviated vs. Full-Word Identifier Names.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3104029",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Logic-Based Approach for the Verification of UML Timed Models.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3106411",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Early Evaluation of Implementation Alternatives of Composite Data Structures Toward Maintainability.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3132731",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Global and Local Deadlock Freedom in BIP.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3152910",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Variability Bugs in Highly Configurable Systems: A Qualitative Analysis.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3149119",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3162625",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding and Combating Memory Bloat in Managed Data-Intensive Systems.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3162626",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting the Behavior of Design Patterns through Model Checking and Dynamic Analysis.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3176643",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Configuring Software Product Lines by Combining Many-Objective Optimization and SAT Solvers.",
+        "venue_name": "tosem",
+        "year": 2017,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3176644",
+        "volume": "26",
+        "abstract": null,
+        "keywords": null
+    }
+]

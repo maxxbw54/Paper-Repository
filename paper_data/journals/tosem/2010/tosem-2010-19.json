@@ -1,0 +1,322 @@
+[
+    {
+        "title": "Types and modularity for implicit invocation with implicit announcement.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1767751.1767752",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Method and developer characteristics for effective agile method tailoring: A study of XP expert opinion.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1767751.1767753",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Clone region descriptors: Representing and tracking duplication in source code.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1767751.1767754",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Extracting and answering why and why not questions about Java program output.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1824760.1824761",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Modular aspect-oriented design with XPIs.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1824760.1824762",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The small-world effect: The influence of macro-level properties of developer collaboration networks on open-source project success.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1824760.1824763",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Supporting dynamic aspect-oriented features.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1824760.1824764",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PrIMe: A methodology for developing provenance-aware applications.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000791.2000792",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Temporal dependency-based checkpoint selection for dynamic verification of temporal constraints in scientific workflow systems.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000791.2000793",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reducing the effort of bug report triage: Recommenders for development-oriented decisions.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000791.2000794",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A model for spectra-based software diagnosis.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000791.2000795",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FlagRemover: A testability transformation for transforming loop-assigned flags.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000791.2000796",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A revisit of fault class hierarchies in general boolean specifications.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000791.2000797",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Runtime Verification for LTL and TLTL.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000799.2000800",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Minimal Failure-Causing Schema of Combinatorial Testing.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000799.2000801",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Discovering Multidimensional Correlations among Regulatory Requirements to Understand Risk.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000799.2000802",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Gaia-PL: A Product Line Engineering Approach for Efficiently Designing Multiagent Systems.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000799.2000803",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Compiler for Multimodal Scenarios: Transforming LSCs into AspectJ.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000799.2000804",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recommending Adaptive Changes for Framework Evolution.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2000799.2000805",
+        "volume": "20",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "J-Orchestra: Enhancing Java programs with distribution capabilities.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1555392.1555394",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "From business process models to process-oriented software systems.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1555392.1555395",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Unifying aspect- and object-oriented design.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1555392.1555396",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Conceptual data model-based software size estimation for information systems.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1571629.1571630",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Measuring the strength of information flows in programs.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1571629.1571631",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Amoeba: A methodology for modeling and evolving cross-organizational business processes.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1571629.1571632",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1656250.1656251",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Synthesizing hierarchical state machines from expressive scenario descriptions.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1656250.1656252",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Partial constraint checking for context consistency in pervasive computing.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1656250.1656253",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Design and implementation of Sator: A web service aggregator.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1656250.1656254",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analysis and applications of timed service protocols.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1734229.1734230",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic self-assessment of query results in dynamic environments.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1734229.1734231",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A verification system for interval-based specification languages.",
+        "venue_name": "tosem",
+        "year": 2010,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/1734229.1734232",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    }
+]
