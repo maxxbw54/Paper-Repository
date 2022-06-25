@@ -1,7 +1,7 @@
 [
     {
         "title": "On the Monitoring of Decentralized Specifications: Semantics, Properties, Analysis, and Simulation.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3355181",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Many-Objective Test Suite Generation for Software Product Lines.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3361146",
@@ -21,7 +21,7 @@
     },
     {
         "title": "How C++ Templates Are Used for Generic Programming: An Empirical Study on 50 Open Source Systems.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3356579",
@@ -31,7 +31,7 @@
     },
     {
         "title": "Automatically Generating SystemC Code from HCSP Formal Models.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3360002",
@@ -41,7 +41,7 @@
     },
     {
         "title": "Toward Better Evolutionary Program Repair: An Integrated Approach.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3360004",
@@ -51,7 +51,7 @@
     },
     {
         "title": "Is Static Analysis Able to Identify Unnecessary Source Code?",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3368267",
@@ -61,7 +61,7 @@
     },
     {
         "title": "DESEN: Specification of Sociotechnical Systems via Patterns of Regulation and Control.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3365664",
@@ -71,7 +71,7 @@
     },
     {
         "title": "Editorial.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3383775",
@@ -81,7 +81,7 @@
     },
     {
         "title": "Assessing and Improving Malware Detection Sustainability through App Evolution Studies.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3371924",
@@ -91,7 +91,7 @@
     },
     {
         "title": "Visualizing Distributed System Executions.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3375633",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Quality Indicators in Search-based Software Engineering: An Empirical Evaluation.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3375636",
@@ -111,7 +111,7 @@
     },
     {
         "title": "Practical Constraint Solving for Generating System Test Data.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3381032",
@@ -121,7 +121,7 @@
     },
     {
         "title": "A Defect Estimator for Source Code: Linking Defect Reports with Programming Constructs Usage Metrics.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3384517",
@@ -131,7 +131,7 @@
     },
     {
         "title": "Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3385187",
@@ -141,7 +141,7 @@
     },
     {
         "title": "Editorial.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3402931",
@@ -151,7 +151,7 @@
     },
     {
         "title": "KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3385897",
@@ -161,7 +161,7 @@
     },
     {
         "title": "Computing Alignments of Well-Formed Process Models using Local Search.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3394056",
@@ -171,7 +171,7 @@
     },
     {
         "title": "Unveiling Elite Developers' Activities in Open Source Projects.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3387111",
@@ -181,7 +181,7 @@
     },
     {
         "title": "Monotone Precision and Recall Measures for Comparing Executions and Specifications of Dynamic Systems.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3387909",
@@ -191,7 +191,7 @@
     },
     {
         "title": "Testing Relative to Usage Scope: Revisiting Software Coverage Criteria.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3389126",
@@ -201,7 +201,7 @@
     },
     {
         "title": "Wireframe-based UI Design Search through Image Autoencoder.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3391613",
@@ -211,7 +211,7 @@
     },
     {
         "title": "Multi-objective Integer Programming Approaches for Solving the Multi-criteria Test-suite Minimization Problem: Towards Sound and Complete Solutions of a Particular Search-based Software-engineering Problem.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3392031",
@@ -221,7 +221,7 @@
     },
     {
         "title": "psc2code: Denoising Code Extraction from Programming Screencasts.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3392093",
@@ -231,7 +231,7 @@
     },
     {
         "title": "Handling SQL Databases in Automated System Test Generation.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3391533",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Fine-grained Code Coverage Measurement in Automated Black-box Android Testing.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3395042",
@@ -251,7 +251,7 @@
     },
     {
         "title": "iSENSE2.0: Improving Completion-aware Crowdtesting Management with Duplicate Tagger and Sanity Checker.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3394602",
@@ -261,7 +261,7 @@
     },
     {
         "title": "Measuring Task Conflict and Person Conflict in Software Testing.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3395029",
@@ -271,7 +271,7 @@
     },
     {
         "title": "Generating Question Titles for Stack Overflow from Mined Code Snippets.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3401026",
@@ -281,7 +281,7 @@
     },
     {
         "title": "Smart Contract Repair.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3402450",
@@ -291,7 +291,7 @@
     },
     {
         "title": "Using Relative Lines of Code to Guide Automated Test Generation for Python.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3408896",
@@ -301,7 +301,7 @@
     },
     {
         "title": "Why Developers Refactor Source Code: A Mining-based Study.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3408302",
@@ -311,7 +311,7 @@
     },
     {
         "title": "Practical Accuracy Estimation for Efficient Deep Neural Network Testing.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3394112",
@@ -321,7 +321,7 @@
     },
     {
         "title": "Modular Tree Network for Source Code Representation Learning.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2020,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3409331",

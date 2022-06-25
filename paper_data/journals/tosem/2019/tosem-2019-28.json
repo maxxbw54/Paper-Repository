@@ -1,7 +1,7 @@
 [
     {
         "title": "Farewell Editorial from the Outgoing Editor-in-Chief.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3301288",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Editorial from the Incoming Editor-in-Chief.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3301290",
@@ -21,7 +21,7 @@
     },
     {
         "title": "Oracles for Testing Software Timeliness with Uncertainty.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3280987",
@@ -31,7 +31,7 @@
     },
     {
         "title": "The State of Empirical Evaluation in Static Feature Location.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3280988",
@@ -41,7 +41,7 @@
     },
     {
         "title": "RESTful API Automated Test Case Generation with EvoMaster.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3293455",
@@ -51,7 +51,7 @@
     },
     {
         "title": "An Active Learning Approach for Improving the Accuracy of Automated Domain Model Extraction.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3293454",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Software Effort Interval Prediction via Bayesian Inference and Synthetic Bootstrap Resampling.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3295700",
@@ -71,7 +71,7 @@
     },
     {
         "title": "Editorial.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3317953",
@@ -81,7 +81,7 @@
     },
     {
         "title": "Runtime Fault Detection in Programmed Molecular Systems.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3295740",
@@ -91,7 +91,7 @@
     },
     {
         "title": "Understanding and Analyzing Java Reflection.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3295739",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Domain Analysis and Description Principles, Techniques, and Modelling Languages.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3295738",
@@ -111,7 +111,7 @@
     },
     {
         "title": "Status Quo in Requirements Engineering: A Theory and a Global Family of Surveys.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3306607",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Isolation Modeling and Analysis Based on Mobility.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3306606",
@@ -131,7 +131,7 @@
     },
     {
         "title": "How Understandable Are Pattern-based Behavioral Constraints for Novice Software Designers?",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3306608",
@@ -141,7 +141,7 @@
     },
     {
         "title": "Editorial.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3339833",
@@ -151,7 +151,7 @@
     },
     {
         "title": "Automated N-way Program Merging for Facilitating Family-based Analyses of Variant-rich Software.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3313789",
@@ -161,7 +161,7 @@
     },
     {
         "title": "Theoretical and Practical Aspects of Linking Operational and Algebraic Semantics for MDESL.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3295699",
@@ -171,7 +171,7 @@
     },
     {
         "title": "Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3324916",
@@ -181,7 +181,7 @@
     },
     {
         "title": "Verifying and Quantifying Side-channel Resistance of Masked Software Implementations.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3330392",
@@ -191,7 +191,7 @@
     },
     {
         "title": "Developing and Evaluating Objective Termination Criteria for Random Testing.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3339836",
@@ -201,7 +201,7 @@
     },
     {
         "title": "Efficient Verification of Concurrent Systems Using Synchronisation Analysis and SAT/SMT Solving.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3335149",
@@ -211,7 +211,7 @@
     },
     {
         "title": "Editorial.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3363297",
@@ -221,7 +221,7 @@
     },
     {
         "title": "An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3340544",
@@ -231,7 +231,7 @@
     },
     {
         "title": "The Virtual Developer: Integrating Code Generation and Manual Development with Conflict Resolution.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3340545",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Automated Reuse of Model Transformations through Typing Requirements Models.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3340108",
@@ -251,7 +251,7 @@
     },
     {
         "title": "Recommending New Features from Mobile App Descriptions.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3344158",
@@ -261,7 +261,7 @@
     },
     {
         "title": "Precise Learn-to-Rank Fault Localization Using Dynamic and Static Features of Target Programs.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3345628",
@@ -271,7 +271,7 @@
     },
     {
         "title": "Differential Testing of Certificate Validation in SSL/TLS Implementations: An RFC-guided Approach.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2019,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3355048",

@@ -1,7 +1,7 @@
 [
     {
         "title": "State of the Journal.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2778898",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Editorial from the New Editor in Chief.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2778899",
@@ -21,7 +21,7 @@
     },
     {
         "title": "A Developer Centered Bug Prediction Model.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2659747",
@@ -39,7 +39,7 @@
     },
     {
         "title": "Eliminating Path Redundancy via Postconditioned Symbolic Execution.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2659751",
@@ -57,7 +57,7 @@
     },
     {
         "title": "Empirical Evaluation of the Impact of Object-Oriented Code Refactoring on Quality Attributes: A Systematic Literature Review.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2658573",
@@ -74,7 +74,7 @@
     },
     {
         "title": "Test Case Generation for Boolean Expressions by Cell Covering.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2669184",
@@ -92,7 +92,7 @@
     },
     {
         "title": "A Templating System to Generate Provenance.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2659745",
@@ -110,7 +110,7 @@
     },
     {
         "title": "Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2663435",
@@ -128,7 +128,7 @@
     },
     {
         "title": "Measuring the Impact of Code Dependencies on Software Architecture Recovery Techniques.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2671865",
@@ -146,7 +146,7 @@
     },
     {
         "title": "Semantic Slicing of Software Version Histories.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2664824",
@@ -164,7 +164,7 @@
     },
     {
         "title": "Automatic Software Refactoring via Weighted Clustering in Method-Level Networks.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2679752",
@@ -181,7 +181,7 @@
     },
     {
         "title": "Choosing Component Origins for Software Intensive Systems: In-House, COTS, OSS or Outsourcing? - A Case Survey.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2677909",
@@ -198,7 +198,7 @@
     },
     {
         "title": "Complete and Interpretable Conformance Checking of Business Processes.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2668418",
@@ -216,7 +216,7 @@
     },
     {
         "title": "Formulating Criticality-Based Cost-Effective Fault Tolerance Strategies for Multi-Tenant Service-Based Systems.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2681667",
@@ -233,7 +233,7 @@
     },
     {
         "title": "Detecting Trivial Mutant Equivalences via Compiler Optimisations.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2684805",
@@ -250,7 +250,7 @@
     },
     {
         "title": "Hybrid Program Dependence Approximation for Effective Dynamic Impact Prediction.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2692783",
@@ -268,7 +268,7 @@
     },
     {
         "title": "Refactoring Inspection Support for Manual Refactoring Edits.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2679742",
@@ -286,7 +286,7 @@
     },
     {
         "title": "Understanding Diverse Usage Patterns from Large-Scale Appstore-Service Profiles.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2685387",
@@ -304,7 +304,7 @@
     },
     {
         "title": "Are Fix-Inducing Changes a Moving Target? A Longitudinal Case Study of Just-In-Time Defect Prediction.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2693980",
@@ -322,7 +322,7 @@
     },
     {
         "title": "Detecting Overly Strong Preconditions in Refactoring Engines.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2693982",
@@ -340,7 +340,7 @@
     },
     {
         "title": "Discipline Matters: Refactoring of Preprocessor Directives in the #ifdef Hell.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2688333",
@@ -357,7 +357,7 @@
     },
     {
         "title": "EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2689012",
@@ -375,7 +375,7 @@
     },
     {
         "title": "Reviving Sequential Program Birthmarking for Multithreaded Software Plagiarism Detection.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2688383",
@@ -392,7 +392,7 @@
     },
     {
         "title": "A PVS-Simulink Integrated Environment for Model-Based Analysis of Cyber-Physical Systems.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2694423",
@@ -409,7 +409,7 @@
     },
     {
         "title": "MAHAKIL: Diversity Based Oversampling Approach to Alleviate the Class Imbalance Issue in Software Defect Prediction.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2731766",
@@ -426,7 +426,7 @@
     },
     {
         "title": "Predicting Delivery Capability in Iterative Software Development.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2693989",
@@ -444,7 +444,7 @@
     },
     {
         "title": "Specialising Software for Different Downstream Applications Using Genetic Improvement and Code Transplantation.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2702606",
@@ -461,7 +461,7 @@
     },
     {
         "title": "Towards Model Checking Android Applications.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2697848",
@@ -479,7 +479,7 @@
     },
     {
         "title": "Effectively Incorporating Expert Knowledge in Automated Software Remodularisation.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2786222",
@@ -495,7 +495,7 @@
     },
     {
         "title": "Implementing and Evaluating Candidate-Based Invariant Generation.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2718516",
@@ -512,7 +512,7 @@
     },
     {
         "title": "Mining Semantic Loop Idioms.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2018.2832048",
@@ -530,7 +530,7 @@
     },
     {
         "title": "On Accelerating Source Code Analysis at Massive Scale.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2018.2828848",
@@ -548,7 +548,7 @@
     },
     {
         "title": "On the Semantics of Distributed Reactive Programming: The Cost of Consistency.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2018.2833109",
@@ -566,7 +566,7 @@
     },
     {
         "title": "A Comparison of Program Comprehension Strategies by Blind and Sighted Programmers.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2729548",
@@ -583,7 +583,7 @@
     },
     {
         "title": "A Formal Specification and Verification Framework for Timed Security Protocols.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2712621",
@@ -598,7 +598,7 @@
     },
     {
         "title": "A Survey of Recent Trends in Testing Concurrent Software Systems.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2707089",
@@ -616,7 +616,7 @@
     },
     {
         "title": "Control-Theoretical Software Adaptation: A Systematic Literature Review.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2704579",
@@ -634,7 +634,7 @@
     },
     {
         "title": "A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2724538",
@@ -651,7 +651,7 @@
     },
     {
         "title": "Enhancing the Description-to-Behavior Fidelity in Android Apps with Privacy Policy.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2730198",
@@ -669,7 +669,7 @@
     },
     {
         "title": "Global-Aware Recommendations for Repairing Violations in Exception Handling.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2716925",
@@ -685,7 +685,7 @@
     },
     {
         "title": "Heterogeneous Defect Prediction.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2720603",
@@ -700,7 +700,7 @@
     },
     {
         "title": "Towards Prioritizing Documentation Effort.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2716950",
@@ -718,7 +718,7 @@
     },
     {
         "title": "A Theoretical and Empirical Study of Diversity-Aware Mutation Adequacy Criterion.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2732347",
@@ -735,7 +735,7 @@
     },
     {
         "title": "Coordination Challenges in Large-Scale Software Development: A Case Study of Planning Misalignment in Hybrid Settings.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2730870",
@@ -752,7 +752,7 @@
     },
     {
         "title": "Measuring Program Comprehension: A Large-Scale Field Study with Professionals.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2734091",
@@ -770,7 +770,7 @@
     },
     {
         "title": "Two-Phase Assessment Approach to Improve the Efficiency of Refactoring Identification.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2731853",
@@ -787,7 +787,7 @@
     },
     {
         "title": "The Scent of a Smell: An Extensive Comparison Between Textual and Structural Smells.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2752171",
@@ -804,7 +804,7 @@
     },
     {
         "title": "Data Scientists in Software Teams: State of the Art and Challenges.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2754374",
@@ -822,7 +822,7 @@
     },
     {
         "title": "Engineering Trustworthy Self-Adaptive Software with Dynamic Assurance Cases.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2738640",
@@ -839,7 +839,7 @@
     },
     {
         "title": "Expanding Queries for Code Search Using Semantically Related API Class-names.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2750682",
@@ -857,7 +857,7 @@
     },
     {
         "title": "Metamorphic Testing of RESTful Web APIs.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2764464",
@@ -875,7 +875,7 @@
     },
     {
         "title": "Predicting Future Developer Behavior in the IDE Using Topic Models.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2748134",
@@ -893,7 +893,7 @@
     },
     {
         "title": "Using Local Clocks to Reproduce Concurrency Bugs.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2752158",
@@ -911,7 +911,7 @@
     },
     {
         "title": "Authors' Reply to \"Comments on 'Researcher Bias: The Use of Machine Learning in Software Defect Prediction'\".",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2731308",
@@ -929,7 +929,7 @@
     },
     {
         "title": "A Study of Social Interactions in Open Source Component Use.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2756043",
@@ -947,7 +947,7 @@
     },
     {
         "title": "Collaborative Model-Driven Software Engineering: A Classification Framework and a Research Map.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2755039",
@@ -963,7 +963,7 @@
     },
     {
         "title": "EARMO: An Energy-Aware Refactoring Approach for Mobile Apps.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2757486",
@@ -981,7 +981,7 @@
     },
     {
         "title": "Entropy Based Software Reliability Analysis of Multi-Version Open Source Software.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2766070",
@@ -997,7 +997,7 @@
     },
     {
         "title": "On the Use of Hidden Markov Model to Predict the Time to Fix Bugs.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2757480",
@@ -1014,7 +1014,7 @@
     },
     {
         "title": "Revisiting the Performance Evaluation of Automated Approaches for the Retrieval of Duplicate Issue Reports.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2755005",
@@ -1031,7 +1031,7 @@
     },
     {
         "title": "Tracking Load-Time Configuration Options.",
-        "venue_name": "tse",
+        "venue_name": "IEEE Transactions on Software Engineering",
         "year": 2018,
         "venue_type": "journals",
         "url": "https://doi.org/10.1109/TSE.2017.2756048",

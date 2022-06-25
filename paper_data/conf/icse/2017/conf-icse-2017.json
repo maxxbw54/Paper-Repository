@@ -1,7 +1,7 @@
 [
     {
         "title": "Semantically enhanced software traceability using deep learning techniques.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.9",
@@ -19,7 +19,7 @@
     },
     {
         "title": "Can latent topics in source code predict missing architectural tactics?",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.10",
@@ -36,7 +36,7 @@
     },
     {
         "title": "Analyzing APIs documentation and code to detect directive defects.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.11",
@@ -54,7 +54,7 @@
     },
     {
         "title": "An unsupervised approach for discovering relevant tutorial fragments for APIs.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.12",
@@ -72,7 +72,7 @@
     },
     {
         "title": "Detecting user story information in developer-client conversations to generate extractive summaries.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.13",
@@ -90,7 +90,7 @@
     },
     {
         "title": "Clone refactoring with lambda expressions.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.14",
@@ -107,7 +107,7 @@
     },
     {
         "title": "Characterizing and detecting anti-patterns in the logging code.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.15",
@@ -124,7 +124,7 @@
     },
     {
         "title": "Automated refactoring of legacy Java software to default methods.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.16",
@@ -142,7 +142,7 @@
     },
     {
         "title": "Supporting software developers with a holistic recommender system.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.17",
@@ -160,7 +160,7 @@
     },
     {
         "title": "Recommending and localizing change requests for mobile apps based on user reviews.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.18",
@@ -178,7 +178,7 @@
     },
     {
         "title": "Machine learning-based detection of open source license exceptions.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.19",
@@ -190,7 +190,7 @@
     },
     {
         "title": "Software development waste.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.20",
@@ -207,7 +207,7 @@
     },
     {
         "title": "Becoming agile: a grounded theory of agile transitions in practice.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.21",
@@ -224,7 +224,7 @@
     },
     {
         "title": "From diversity by numbers to diversity as process: supporting inclusiveness in software development teams with brainstorming.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.22",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Classifying developers into core and peripheral: an empirical study on count and network metrics.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.23",
@@ -258,7 +258,7 @@
     },
     {
         "title": "Decoding the representation of code in the brain: an fMRI study of code review and expertise.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.24",
@@ -276,7 +276,7 @@
     },
     {
         "title": "Understanding the impressions, motivations, and barriers of one time code contributors to FLOSS projects: a survey.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.25",
@@ -294,7 +294,7 @@
     },
     {
         "title": "Search-driven string constraint solving for vulnerability detection.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.26",
@@ -312,7 +312,7 @@
     },
     {
         "title": "A guided genetic algorithm for automated crash reproduction.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.27",
@@ -329,7 +329,7 @@
     },
     {
         "title": "Stochastic optimization of program obfuscation.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.28",
@@ -347,7 +347,7 @@
     },
     {
         "title": "ZenIDS: introspective intrusion detection for PHP applications.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.29",
@@ -364,7 +364,7 @@
     },
     {
         "title": "Statically checking web API requests in JavaScript.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.30",
@@ -382,7 +382,7 @@
     },
     {
         "title": "On cross-stack configuration errors.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.31",
@@ -398,7 +398,7 @@
     },
     {
         "title": "Efficient detection of thread safety violations via coverage-guided generation of concurrent tests.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.32",
@@ -415,7 +415,7 @@
     },
     {
         "title": "RClassify: classifying race conditions in web applications via deterministic replay.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.33",
@@ -433,7 +433,7 @@
     },
     {
         "title": "Repairing event race errors by controlling nondeterminism.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.34",
@@ -451,7 +451,7 @@
     },
     {
         "title": "Making malory behave maliciously: targeted fuzzing of android execution environments.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.35",
@@ -469,7 +469,7 @@
     },
     {
         "title": "A SEALANT for inter-app security holes in android.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.36",
@@ -487,7 +487,7 @@
     },
     {
         "title": "An efficient, robust, and scalable approach for analyzing interacting android apps.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.37",
@@ -505,7 +505,7 @@
     },
     {
         "title": "LibD: scalable and precise third-party library detection in android markets.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.38",
@@ -523,7 +523,7 @@
     },
     {
         "title": "Analysis and testing of notifications in Android wear applications.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.39",
@@ -541,7 +541,7 @@
     },
     {
         "title": "Adaptive unpacking of Android apps.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.40",
@@ -559,7 +559,7 @@
     },
     {
         "title": "Performance diagnosis for inefficient loops.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.41",
@@ -577,7 +577,7 @@
     },
     {
         "title": "How do developers fix cross-project correlated bugs?: a case study on the GitHub scientific python ecosystem.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.42",
@@ -595,7 +595,7 @@
     },
     {
         "title": "Feedback-based debugging.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.43",
@@ -613,7 +613,7 @@
     },
     {
         "title": "Learning syntactic program transformations from examples.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.44",
@@ -630,7 +630,7 @@
     },
     {
         "title": "Precise condition synthesis for program repair.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.45",
@@ -648,7 +648,7 @@
     },
     {
         "title": "Heuristically matching solution spaces of arithmetic formulas to efficiently reuse solutions.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.46",
@@ -666,7 +666,7 @@
     },
     {
         "title": "Exploring API embedding for API usages and applications.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.47",
@@ -683,7 +683,7 @@
     },
     {
         "title": "Unsupervised software-specific morphological forms inference from informal discussions.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.48",
@@ -700,7 +700,7 @@
     },
     {
         "title": "SPAIN: security patch analysis for binaries towards understanding the pain and pills.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.49",
@@ -718,7 +718,7 @@
     },
     {
         "title": "Travioli: a dynamic analysis for detecting data-structure traversals.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.50",
@@ -735,7 +735,7 @@
     },
     {
         "title": "ProEva: runtime proactive performance evaluation based on continuous-time markov chains.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.51",
@@ -747,7 +747,7 @@
     },
     {
         "title": "Glacier: transitive class immutability for Java.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.52",
@@ -763,7 +763,7 @@
     },
     {
         "title": "Challenges for static analysis of Java reflection: literature review and empirical study.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.53",
@@ -781,7 +781,7 @@
     },
     {
         "title": "Machine-learning-guided selectively unsound static analysis.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.54",
@@ -799,7 +799,7 @@
     },
     {
         "title": "How good is a security policy against real breaches?: a HIPAA case study.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.55",
@@ -817,7 +817,7 @@
     },
     {
         "title": "Adaptive coverage and operational profile-based testing for reliability improvement.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.56",
@@ -833,7 +833,7 @@
     },
     {
         "title": "RADAR: a lightweight tool for requirements and architecture decision analysis.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.57",
@@ -851,7 +851,7 @@
     },
     {
         "title": "PEoPL: projectional editing of product lines.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.58",
@@ -869,7 +869,7 @@
     },
     {
         "title": "Do developers read compiler error messages?",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.59",
@@ -887,7 +887,7 @@
     },
     {
         "title": "A general framework for dynamic stub injection.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.60",
@@ -904,7 +904,7 @@
     },
     {
         "title": "An empirical study on mutation, statement and branch coverage fault revelation that avoids the unreliable clean program assumption.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.61",
@@ -921,7 +921,7 @@
     },
     {
         "title": "Evaluating and improving fault localization.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.62",
@@ -939,7 +939,7 @@
     },
     {
         "title": "Syntactic and semantic differencing for combinatorial models of test designs.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.63",
@@ -957,7 +957,7 @@
     },
     {
         "title": "Balancing soundness and efficiency for practical testing of configurable systems.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.64",
@@ -974,7 +974,7 @@
     },
     {
         "title": "Automatic text input generation for mobile testing.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.65",
@@ -992,7 +992,7 @@
     },
     {
         "title": "A test-suite diagnosability metric for spectrum-based fault localization approaches.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.66",
@@ -1009,7 +1009,7 @@
     },
     {
         "title": "Automated transplantation and differential testing for clones.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.67",
@@ -1027,7 +1027,7 @@
     },
     {
         "title": "Code defenders: crowdsourcing effective tests and subtle mutants with a mutation testing game.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.68",
@@ -1045,7 +1045,7 @@
     },
     {
         "title": "Optimizing test placement for module-level regression testing.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.69",
@@ -1063,7 +1063,7 @@
     },
     {
         "title": "Learning to prioritize test programs for compiler testing.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.70",
@@ -1081,7 +1081,7 @@
     },
     {
         "title": "What causes my test alarm?: automatic cause analysis for test alarms in system and integration testing.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.71",
@@ -1098,7 +1098,7 @@
     },
     {
         "title": "Symbolic model extraction for web application verification.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.72",
@@ -1116,7 +1116,7 @@
     },
     {
         "title": "UML diagram refinement (focusing on class- and use case diagrams).",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.73",
@@ -1134,7 +1134,7 @@
     },
     {
         "title": "Fuzzy fine-grained code-history analysis.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.74",
@@ -1152,7 +1152,7 @@
     },
     {
         "title": "To type or not to type: quantifying detectable bugs in JavaScript.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.75",
@@ -1170,7 +1170,7 @@
     },
     {
         "title": "The evolution of continuous experimentation in software product development: from data to a data-driven organization at scale.",
-        "venue_name": "icse",
+        "venue_name": "International Conference on Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ICSE.2017.76",

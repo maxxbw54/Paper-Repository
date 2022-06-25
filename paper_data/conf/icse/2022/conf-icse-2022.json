@@ -1,1 +1,2255 @@
-[]
+[
+    {
+        "title": "Diversity-Driven Automated Formal Verification.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510138",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "$\\mu AFL$: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510208",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510096",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Grounded Theory Based Approach to Characterize Software Attack Surfaces.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510210",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Grounded Theory of Coordination in Remote-First and Hybrid Software Teams.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510105",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Scalable t-wise Coverage Estimator.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510218",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Universal Data Augmentation Approach for Fault Localization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510136",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510085",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Adaptive Test Selection for Deep Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793868",
+        "volume": null,
+        "abstract": "Deep neural networks (DNN) have achieved tremendous development in the past decade. While many DNN-driven software applications have been deployed to solve various tasks, they could also produce incorrect behaviors and result in massive losses. To reveal the incorrect behaviors and improve the quality of DNN-driven applications, developers often need rich labeled data for the testing and optimization of DNN models. However, in practice, collecting diverse data from application scenarios and labeling them properly is often a highly expensive and time-consuming task. In this paper, we proposed an adaptive test selection method, namely ATS, for deep neural networks to alleviate this problem. ATS leverages the difference between the model outputs to measure the behavior diversity of DNN test data. And it aims at selecting a subset with diverse tests from a massive unlabelled dataset. We experiment ATS with four well-designed DNN models and four widely-used datasets in comparison with various kinds of neuron coverage (NC). The results demonstrate that ATS can significantly outperform all test selection methods in assessing both fault detection and model improvement capability of test suites. It is promising to save the data labeling and model retraining costs for deep neural networks.",
+        "keywords": [
+            "Deep learning",
+            "Adaptation models",
+            "Adaptive systems",
+            "Computational modeling",
+            "Fault detection",
+            "Neural networks",
+            "Data models"
+        ]
+    },
+    {
+        "title": "An Exploratory Study of Deep learning Supply Chain.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793893",
+        "volume": null,
+        "abstract": "Deep learning becomes the driving force behind many contemporary technologies and has been successfully applied in many fields. Through software dependencies, a multi-layer supply chain (SC) with a deep learning framework as the core and substantial down-stream projects as the periphery has gradually formed and is constantly developing. However, basic knowledge about the structure and characteristics of the SC is lacking, which hinders effective support for its sustainable development. Previous studies on software SC usually focus on the packages in different registries without paying attention to the SCs derived from a single project. We present an empirical study on two deep learning SCs: TensorFlow and PyTorch SCs. By constructing and analyzing their SCs, we aim to understand their structure, application domains, and evolutionary factors. We find that both SCs exhibit a short and sparse hierarchy structure. Overall, the relative growth of new projects increases month by month. Projects have a tendency to attract downstream projects shortly after the release of their packages, later the growth becomes faster and tends to stabilize. We propose three criteria to identify vulnerabilities and identify 51 types of packages and 26 types of projects involved in the two SCs. A comparison reveals their similarities and differences, e.g., TensorFlow SC provides a wealth of packages in experiment result analysis, while PyTorch SC contains more specific framework packages. By fitting the GAM model, we find that the number of dependent packages is significantly negatively associated with the number of downstream projects, but the relationship with the number of authors is nonlinear. Our findings can help further open the &#x201C;black box&#x201D; of deep learning SCs and provide insights for their healthy and sustainable development.",
+        "keywords": [
+            "Deep learning",
+            "Industries",
+            "Supply chains",
+            "Force",
+            "Fitting",
+            "Ecosystems",
+            "Software"
+        ]
+    },
+    {
+        "title": "An Exploratory Study of Productivity Perceptions in Software Teams.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793555",
+        "volume": null,
+        "abstract": "Software development is a collaborative process requiring a careful balance of focused individual effort and team coordination. Though questions of individual productivity have been widely examined in past literature, less is known about the interplay between developers&#x0027; perceptions of their own productivity as opposed to their team&#x0027;s. In this paper, we present an analysis of 624 daily surveys and 2899 self-reports from 25 individuals across five software teams in North America and Europe, collected over the course of three months. We found that developers tend to operate in fluid team constructs, which impacts team awareness and complicates gauging team productivity. We also found that perceived individual productivity most strongly predicted perceived team productivity, even more than the amount of team interactions, unplanned work, and time spent in meetings. Future research should explore how fluid team structures impact individual and organizational productivity.",
+        "keywords": [
+            "Productivity",
+            "Fluids",
+            "Collaboration",
+            "Europe",
+            "Software",
+            "North America",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Analyzing User Perspectives on Mobile App Privacy at Scale.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510079",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "APER: Evolution-Aware Runtime Permission Misuse Detection for Android Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510074",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ARCLIN: Automated API Mention Resolution for Unformatted Texts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793898",
+        "volume": null,
+        "abstract": "Online technical forums (e.g., StackOverflow) are popular platforms for developers to discuss technical problems such as how to use a specific Application Programming Interface (API), how to solve the programming tasks, or how to fix bugs in their code. These discussions can often provide auxiliary knowledge of how to use the software that is not covered by the official documents. The automatic extraction of such knowledge may support a set of down-stream tasks like API searching or indexing. However, unlike official documentation written by experts, discussions in open forums are made by regular developers who write in short and informal texts, including spelling errors or abbreviations. There are three major challenges for the accurate APIs recognition and linking mentioned APIs from unstructured natural language documents to an entry in the API repository: (1) distinguishing API mentions from common words; (2) identifying API mentions without a fully qualified name; and (3) disambiguating API mentions with similar method names but in a different library. In this paper, to tackle these challenges, we propose an ARCLIN tool, which can effectively distinguish and link APIs without using human annotations. Specifically, we first design an API recognizer to automatically extract API mentions from natural language sentences by a Conditional Random Field (CRF) on the top of a Bi-directional Long Short-Term Memory (Bi-LSTM) module, then we apply a context-aware scoring mechanism to compute the mention-entry similarity for each entry in an API repository. Compared to previous approaches with heuristic rules, our proposed tool without manual inspection outperforms by 8&#x0025; in a high-quality dataset Py-mention, which contains 558 mentions and 2,830 sentences from five popular Python libraries. To our best knowledge, ARCLIN is the first approach to achieve full automation of API mention resolution from unformatted text without manually collected labels.",
+        "keywords": [
+            "Training",
+            "Text recognition",
+            "Natural languages",
+            "Manuals",
+            "Programming",
+            "Libraries",
+            "Software"
+        ]
+    },
+    {
+        "title": "AST-Trans: Code Summarization with Efficient Tree-Structured Attention.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510224",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Assertion Generation via Information Retrieval and Its Integration with Deep learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793891",
+        "volume": null,
+        "abstract": "Unit testing could be used to validate the correctness of basic units of the software system under test. To reduce manual efforts in conducting unit testing, the research community has contributed with tools that automatically generate unit test cases, including test inputs and test oracles (e.g., assertions). Recently, ATLAS, a deep learning (DL) based approach, was proposed to generate assertions for a unit test based on other already written unit tests. Despite promising, the effectiveness of ATLAS is still limited. To improve the effectiveness, in this work, we make the first attempt to leverage Information Retrieval (IR) in assertion generation and propose an IR-based approach, including the technique of IR-based assertion retrieval and the technique of retrieved-assertion adaptation. In addition, we propose an integration approach to combine our IR-based approach with a DL-based approach (e.g., ATLAS) to further improve the effectiveness. Our experimental results show that our IR-based approach outperforms the state-of-the-art DL-based ap-proach, and integrating our IR-based approach with the DL-based approach can further achieve higher accuracy. Our results convey an important message that information retrieval could be competitive and worthwhile to pursue for software engineering tasks such as assertion generation, and should be seriously considered by the research community given that in recent years deep learning solutions have been over-popularly adopted by the research community for software engineering tasks.",
+        "keywords": [
+            "Deep learning",
+            "Manuals",
+            "Information retrieval",
+            "Software systems",
+            "Task analysis",
+            "Software engineering",
+            "Testing"
+        ]
+    },
+    {
+        "title": "Automated Detection of Password Leakage from Public GitHub Repositories.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510150",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-solution Study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510157",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Patching for Unreproducible Builds.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793866",
+        "volume": null,
+        "abstract": "Software reproducibility plays an essential role in establishing trust between source code and the built artifacts, by comparing compilation outputs acquired from independent users. Although the testing for unreproducible builds could be automated, fixing unreproducible build issues poses a set of challenges within the reproducible builds practice, among which we consider the localization granularity and the historical knowledge utilization as the most significant ones. To tackle these challenges, we propose a novel approach RepFix that combines tracing-based fine-grained localization with history-based patch generation mechanisms. On the one hand, to tackle the localization granularity challenge, we adopt system-level dynamic tracing to capture both the system call traces and user-space function call information. By integrating the kernel probes and user-space probes, we could determine the location of each executed build command more accurately. On the other hand, to tackle the historical knowledge utilization challenge, we design a similarity based relevant patch retrieving mechanism, and generate patches by applying the edit operations of the existing patches. With the abundant patches accumulated by the reproducible builds practice, we could generate patches to fix the unreproducible builds automatically. To evaluate the usefulness of RepFix, extensive experiments are conducted over a dataset with 116 real-world packages. Based on RepFix, we successfully fix the unreproducible build issues for 64 packages. Moreover, we apply RepFix to the Arch Linux packages, and successfully fix four packages. Two patches have been accepted by the repository, and there is one package for which the patch is pushed and accepted by its upstream repository, so that the fixing could be helpful for other downstream repositories.",
+        "keywords": [
+            "Location awareness",
+            "Codes",
+            "Linux",
+            "Computer bugs",
+            "Software",
+            "Reproducibility of results",
+            "Probes"
+        ]
+    },
+    {
+        "title": "Automated Testing of Software that Uses Machine Learning APIs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510068",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510093",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AutoTransform: Automated Code Transformation to Support Modern Code Review Process.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510067",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BEDIVFUZZ: Integrating Behavioral Diversity into Generator-based Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510182",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Big Data = Big Insights? Operationalising Brooks' Law in a Massive GitHub Data Set.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510619",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Bots for Pull Requests: The Good, the Bad, and the Promising.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793907",
+        "volume": null,
+        "abstract": "Software bots automate tasks within Open Source Software (OSS) projects&#x0027; pull requests and save reviewing time and effort (&#x201C;the good&#x201D;). However, their interactions can be disruptive and noisy and lead to information overload (&#x201C;the bad&#x201D;). To identify strategies to overcome such problems, we applied Design Fiction as a participatory method with 32 practitioners. We elicited 22 design strategies for a bot mediator or the pull request user interface (&#x201C;the promising&#x201D;). Participants envisioned a separate place in the pull request interface for bot interactions and a bot mediator that can summarize and customize other bots&#x0027; actions to mitigate noise. We also collected participants&#x0027; perceptions about a prototype implementing the envisioned strategies. Our design strategies can guide the development of future bots and social coding platforms.",
+        "keywords": [
+            "Bot (Internet)",
+            "Prototypes",
+            "User interfaces",
+            "Encoding",
+            "Noise measurement",
+            "Task analysis",
+            "Open source software"
+        ]
+    },
+    {
+        "title": "Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510062",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BugListener: Identifying and Synthesizing Bug Reports from Collaborative Live Chats.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793897",
+        "volume": null,
+        "abstract": "In community-based software development, developers frequently rely on live-chatting to discuss emergent bugs/errors they encounter in daily development tasks. However, it remains a challenging task to accurately record such knowledge due to the noisy nature of interleaved dialogs in live chat data. In this paper, we first formulate the task of identifying and synthesizing bug reports from commu-nity live chats, and propose a novel approach, named BugListener, to address the challenges. Specifically, BugListener automates three sub-tasks: 1) Disentangle the dialogs from massive chat logs by using a Feed-Forward neural network; 2) Identify the bug-report dialogs from separated dialogs by leveraging the Graph neural net-work to learn the contextual information; 3) Synthesize the bug reports by utilizing Transfer Learning techniques to classify the sentences into: observed behaviors (OB), expected behaviors (EB), and steps to reproduce the bug (SR). BugListener is evaluated on six open source projects. The results show that: for bug report identification, BugListener achieves the average Fl of 77.74&#x0025;, im-proving the best baseline by 12.96&#x0025;; and for bug report synthesis task, BugListener could classify the OB, EB, and SR sentences with the F1 of 84.62&#x0025;, 71.46&#x0025;, and 73.13&#x0025;, improving the best baselines by 9.32&#x0025;,12.21&#x0025;,10.91&#x0025;, respectively. A human evaluation study also confirms the effectiveness of Bug Listener in generating relevant and accurate bug reports. These demonstrate the significant potential of applying BugListener in community-based software development, for promoting bug discovery and quality improvement.",
+        "keywords": [
+            "Computer bugs",
+            "Transfer learning",
+            "Neural networks",
+            "Collaboration",
+            "Predictive models",
+            "Software",
+            "Behavioral sciences"
+        ]
+    },
+    {
+        "title": "Buildsheriff: Change-Aware Test Failure Triage for Continuous Integration Builds.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793896",
+        "volume": null,
+        "abstract": "Test failures are one of the most common reasons for broken builds in continuous integration. It is expensive to diagnose all test failures in a build. As test failures are usually caused by a few underlying faults, triaging test failures with respect to their underlying root causes can save test failure diagnosis cost. Existing failure triage methods are mostly developed for triaging crash or bug reports, and hence not ap-plicable in the context of test failure triage in continuous integration. In this paper, we first present a large-scale empirical study on 163,371 broken builds caused by test failures to characterize test failures in real-world Java projects. Then, motivated by our study, we propose a new change-aware approach, BuildSheriff, to triage test failures in each continuous integration build such that test failures with the same root cause are put in the same cluster. Our evaluation on 200 broken builds has demonstrated that BuildSheriff can significantly improve the state-of-the-art methods on the triaging effectiveness.",
+        "keywords": [
+            "Java",
+            "Costs",
+            "Computer bugs",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Causality in Configurable Software Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510200",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Causality-Based Neural Network Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510080",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Change Is the Only Constant: Dynamic Updates for Workflows.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793884",
+        "volume": null,
+        "abstract": "Software systems must be updated regularly to address changing requirements and urgent issues like security-related bugs. Traditionally, updates are performed by shutting down the system to replace certain components. In modern software organizations, updates are increasingly frequentup to multiple times per dayhence, shutting down the entire system is unacceptable. Safe dynamic software updating (DSU) enables component updates while the system is running by determining when the update can occur without causing errors. Safe DSU is crucial, especially for long-running or frequently executed asynchronous transactions (workflows), e.g., user-interactive sessions or order fulfillment processes. Unfortu-nately, previous research is limited to synchronous transaction models and does not address this case. In this work, we propose a unified model for safe DSU in work-flows. We discuss how state-of-the-art DSU solutions fit into this model and show that they incur significant overhead. To improve the performance, we introduce Essential Safety, a novel safe DSU approach that leverages the notion of non-essential changes, i.e., semantics preserving updates. In 106 realistic BPMN workflows, Essential Safety reduces the delay of workflow completions, on average, by 47.8 &#x0025; compared to the state of the art. We show that the distinction of essential and non-essential changes plays a cru-cial role in this reduction and that, as suggested in the literature, non-essential changes are frequent: at least 60 &#x0025; and often more than 90 &#x0025; of systems&#x0027; updates in eight monorepos we analyze.",
+        "keywords": [
+            "Analytical models",
+            "Semantics",
+            "Computer bugs",
+            "Collaboration",
+            "Organizations",
+            "Software systems",
+            "Software"
+        ]
+    },
+    {
+        "title": "Characterizing and Detecting Bugs in WeChat Mini-Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510114",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CLEAR: Contrastive Learning for API Recommendation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510159",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Code Search based on Context-aware Code Translation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510140",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CodeFill: Multi-token Code Completion by Jointly learning from Structure and Naming Sequences.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510172",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510209",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combinatorial Testing of RESTful APIs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510151",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CONFETTI: Amplifying Concolic Guidance for Fuzzers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510628",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510078",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510084",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Controlled Concurrency Testing via Periodical Scheduling.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793865",
+        "volume": null,
+        "abstract": "Controlled concurrency testing (CCT) techniques have been shown promising for concurrency bug detection. Their key insight is to control the order in which threads get executed, and attempt to explore the space of possible interleavings of a concurrent program to detect bugs. However, various challenges remain in current CCT techniques, rendering them ineffective and ad-hoc. In this paper, we propose a novel CCT technique Period. Unlike previous works, Period models the execution of concurrent programs as periodical execution, and systematically explores the space of possible inter-leavings, where the exploration is guided by periodical scheduling and influenced by previously tested interleavings. We have evaluated Period on 10 real-world CVEs and 36 widely-used benchmark programs, and our experimental results show that Period demonstrates superiority over other CCT techniques in both effectiveness and runtime overhead. Moreover, we have discovered 5 previously unknown concurrency bugs in real-world programs.",
+        "keywords": [
+            "Concurrent computing",
+            "Runtime",
+            "Computer bugs",
+            "Programming",
+            "Aerospace electronics",
+            "Model checking",
+            "Benchmark testing"
+        ]
+    },
+    {
+        "title": "Cross-Domain Deep Code Search with Meta Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510125",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Data-Driven Loop Bound Learning for Termination Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510220",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DEAR: A Novel Deep Learning-based Approach for Automated Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793900",
+        "volume": null,
+        "abstract": "The existing deep learning (DL)-based automated program repair (APR) models are limited in fixing general software defects. We present DEAR, a DL-based approach that supports fixing for the general bugs that require dependent changes at once to one or mul-tiple consecutive statements in one or multiple hunks of code. We first design a novel fault localization (FL) technique for multi-hunk, multi-statement fixes that combines traditional spectrum-based (SB) FL with deep learning and data-flow analysis. It takes the buggy statements returned by the SBFL model, detects the buggy hunks to be fixed at once, and expands a buggy statement <tex>$s$</tex> in a hunk to include other suspicious statements around s. We design a two-tier, tree-based LSTM model that incorporates cycle training and uses a divide-and-conquer strategy to learn proper code transformations for fixing multiple statements in the suitable fixing context consisting of surrounding subtrees. We conducted several experiments to evaluate DEAR on three datasets: Defects4J (395 bugs), BigFix (+26k bugs), and CPatMiner (+44k bugs). On Defects4J dataset, DEAR outperforms the baselines from 42&#x0025;-683&#x0025; in terms of the number of auto-fixed bugs with only the top-1 patches. On BigFix dataset, it fixes 31&#x2013;145 more bugs than existing DL-based APR models with the top-1 patches. On CPatMiner dataset, among 667 fixed bugs, there are 169 (25.3&#x0025;) multi-hunk/multi-statement bugs. DEAR fixes 71 and 164 more bugs, including 52 and 61 more multi-hunk/multi-statement bugs, than the state-of-the-art, DL-based APR models.",
+        "keywords": [
+            "Deep learning",
+            "Training",
+            "Location awareness",
+            "Analytical models",
+            "Codes",
+            "Computer bugs",
+            "Maintenance engineering"
+        ]
+    },
+    {
+        "title": "Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793875",
+        "volume": null,
+        "abstract": "Training from scratch is the most common way to build a Convolutional Neural Network (CNN) based model. What if we can build new CNN models by reusing parts from previously built CNN models? What if we can improve a CNN model by replacing (possibly faulty) parts with other parts? In both cases, instead of training, can we identify the part responsible for each output class (module) in the model(s) and reuse or replace only the desired output classes to build a model? Prior work has proposed decomposing dense-based networks into modules (one for each output class) to enable reusability and replace ability in various scenarios. However, this work is limited to the dense layers and is based on the one-to-one relationship between the nodes in consecutive layers. Due to the shared architecture in the CNN model, prior work cannot be adapted directly. In this paper, we propose to decompose a CNN model used for image classification problems into modules for each output class. These modules can further be reused or replaced to build a new model. We have evaluated our approach with CIFAR-10, CIFAR-100, and ImageNet tiny datasets with three variations of ResNet models and found that enabling decomposition comes with a small cost (1.77&#x0025; and 0.85&#x0025; for top-1 and top-5 accuracy, respectively). Also, building a model by reusing or replacing modules can be done with a 2.3&#x0025; and 0.5&#x0025; average loss of accuracy. Furthermore, reusing and replacing these modules reduces CO2e emission by &#x007E;37 times compared to training the model from scratch.",
+        "keywords": [
+            "Training",
+            "Adaptation models",
+            "Costs",
+            "Buildings",
+            "Computer architecture",
+            "Convolutional neural networks",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Decomposing Software Verification into Off-the-Shelf Components: An Application to CEGAR.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793863",
+        "volume": null,
+        "abstract": "Techniques for software verification are typically realized as cohesive units of software with tightly coupled components. This makes it difficult to reuse components, and the potential for workload distribution is limited. Innovations in software verification might find their way into practice faster if provided in smaller, more specialized components. In this paper, we propose to strictly decompose software verification: the verification task is split into independent subtasks, implemented by only loosely coupled components communicating via clearly defined interfaces. We apply this decomposition concept to one of the most frequently employed techniques in software verification: counterexample-guided abstraction refinement (CEGAR). CEGAR is a technique to iteratively compute an abstract model of the system. We develop a decomposition of CEGAR into independent components with clearly defined interfaces that are based on existing, standardized exchange formats. Its realization component-based CEGAR (C-CEGAR) concerns the three core tasks of CEGAR: abstract-model exploration, feasibility check, and precision refinement. We experimentally show that - despite the necessity of exchanging complex data via interfaces - the efficiency thereby only reduces by a small constant factor while the precision in solving verification tasks even increases. We furthermore illustrate the advantages of C-CEGAR by experimenting with different implementations of components, thereby further increasing the overall effectiveness and testing that substitution of components works well.",
+        "keywords": [
+            "Computer science",
+            "Technological innovation",
+            "Computational modeling",
+            "Software",
+            "Complexity theory",
+            "Time factors",
+            "Feeds"
+        ]
+    },
+    {
+        "title": "DeepAnalyze: Learning to Localize Crashes at Scale.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3512759",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510071",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510099",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepStability: A Study of Unstable Numerical Methods and Their Solutions in Deep Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510095",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepState: Selecting Test Suites to Enhance the Robustness of Recurrent Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510231",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepSTL - From English Requirements to Signal Temporal Logic.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510171",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510180",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Default: Mutual Information-based Crash Triage for Massive Crashes.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3512760",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Demystifying Android Non-SDK APls: Measurement and Understanding.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510045",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Demystifying the Dependency Challenge in Kernel Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510126",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510142",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510058",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793908",
+        "volume": null,
+        "abstract": "Automatic static analysis tools (ASATs), such as Findbugs, have a high false alarm rate. The large number of false alarms produced poses a barrier to adoption. Researchers have proposed the use of machine learning to prune false alarms and present only actionable warnings to developers. The state-of-the-art study has identified a set of &#x201C;Golden Features&#x201D; based on metrics computed over the characteristics and history of the file, code, and warning. Recent studies show that machine learning using these features is extremely effective and that they achieve almost perfect performance. We perform a detailed analysis to better understand the strong performance of the &#x201C;Golden Features&#x201D;. We found that several studies used an experimental procedure that results in data leakage and data duplication, which are subtle issues with significant implications. Firstly, the ground-truth labels have leaked into features that measure the proportion of actionable warnings in a given context. Secondly, many warnings in the testing dataset appear in the training dataset. Next, we demonstrate limitations in the warning oracle that determines the ground-truth labels, a heuristic comparing warnings in a given revision to a reference revision in the future. We show the choice of reference revision influences the warning distribution. Moreover, the heuristic produces labels that do not agree with human oracles. Hence, the strong performance of these techniques previously seen is overoptimistic of their true performance if adopted in practice. Our results convey several lessons and provide guidelines for evaluating false alarm detectors.",
+        "keywords": [
+            "Training",
+            "Measurement",
+            "Codes",
+            "Static analysis",
+            "Machine learning",
+            "Detectors",
+            "History"
+        ]
+    },
+    {
+        "title": "\"Did You Miss My Comment or What?\" Understanding Toxicity in Open Source Discussions.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510111",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Difuzer: Uncovering Suspicious Hidden Sensitive Operations in Android Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793902",
+        "volume": null,
+        "abstract": "One prominent tactic used to keep malicious behavior from being detected during dynamic test campaigns is logic bombs, where malicious operations are triggered only when specific conditions are satisfied. Defusing logic bombs remains an unsolved problem in the literature. In this work, we propose to investigate Suspicious Hidden Sensitive Operations (SHSOs) as a step towards triaging logic bombs. To that end, we develop a novel hybrid approach that combines static analysis and anomaly detection techniques to un-cover SHSOs, which we predict as likely implementations of logic bombs. Concretely, Difuzer identifies SHSO entry-points using an instrumentation engine and an inter-procedural data-flow analysis. Then, it extracts trigger-specific features to characterize SHSOs and leverages One-Class SVM to implement an unsupervised learning model for detecting abnormal triggers. We evaluate our prototype and show that it yields a precision of 99.02&#x0025; to detect SHSOs among which 29.7&#x0025; are logic bombs. Difuzer outperforms the state-of-the-art in revealing more logic bombs while yielding less false positives in about one order of magnitude less time. All our artifacts are released to the community.",
+        "keywords": [
+            "Support vector machines",
+            "Weapons",
+            "Instruments",
+            "Prototypes",
+            "Static analysis",
+            "Feature extraction",
+            "Internet"
+        ]
+    },
+    {
+        "title": "Discovering Repetitive Code Changes in Python ML Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510225",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Domain-Specific Analysis of Mobile App Reviews Using Keyword-Assisted Topic Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510201",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DrAsync: Identifying and Visualizing Anti-Patterns in Asynchronous JavaScript.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510097",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dynamic Update for Synthesized GR(1) Controllers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510054",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "EAGLE: Creating Equivalent Graphs to Test Deep Learning Libraries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510165",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient Online Testing for DNN-Enabled Systems using Surrogate-Assisted and Many-Objective Optimization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510188",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Eflect: Porting Energy-Aware Applications to Shared Environments.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793873",
+        "volume": null,
+        "abstract": "Developing energy-aware applications is a well known approach to software-based energy optimization. This promising approach is however faced with a significant hurdle when deployed to the environments shared among multiple applications, where the energy consumption effected by one application may erroneously be observed by another application. We introduce EFLECT, a novel software framework for disentangling the energy consumption of co-running applications. Our key idea, called energy virtualization, enables each energy-aware application to be only aware of the energy consumption effected by its execution. EFLECT is unique in its lightweight design: it is a purely application-level solution that requires no modification to the underlying hardware or system software. Experiments show Eflect incurs low overhead with high precision. Furthermore, it can seamlessly port existing application-level energy frameworks - one for energy-adaptive approximation and the other for energy profiling - to shared environments while retaining their intended effectiveness.",
+        "keywords": [
+            "Ports (computers)",
+            "Energy consumption",
+            "Hardware",
+            "System software",
+            "Virtualization",
+            "Optimization",
+            "Monitoring"
+        ]
+    },
+    {
+        "title": "EREBA: Black-box Energy Testing of Adaptive Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510088",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluating and Improving Neural Program-Smoothing-based Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510089",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ExAIS: Executable AI Semantics.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510112",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Explanation-Guided Fairness Testing through Genetic Algorithm.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510137",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exploiting Input Sanitization for Regex Denial of Service.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510047",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FADATest: Fast and Adaptive Performance Regression Testing of Dynamic Binary Translation Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510169",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fairness-aware Configuration of Machine Learning Libraries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510202",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fairneuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510087",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fast and Precise Application Code Analysis using a Partial Library.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510046",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fast Changeset-based Bug Localization with BERT.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510042",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fault Localization via Efficient Probabilistic Modeling of Program Semantics.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793888",
+        "volume": null,
+        "abstract": "Testing-based fault localization has been a significant topic in software engineering in the past decades. It localizes a faulty program element based on a set of passing and failing test executions. Since whether a fault could be triggered and detected by a test is related to program semantics, it is crucial to model program semantics in fault localization approaches. Existing approaches either consider the full semantics of the program (e.g., mutation-based fault localization and angelic debugging), leading to scalability issues, or ignore the semantics of the program (e.g., spectrum-based fault localization), leading to imprecise localization results. Our key idea is: by modeling only the correctness of program values but not their full semantics, a balance could be reached between effectiveness and scalability. To realize this idea, we introduce a probabilistic approach to model program semantics and utilize information from static analysis and dynamic execution traces in our modeling. Our approach, SmartFL (SeMantics bAsed pRobabilisTic Fault Localization), is evaluated on a real-world dataset, Defects4J. The top-1 statement-level accuracy of our approach is 21 &#x0025;, which is the best among state-of-the-art methods. The average time cost is 210 seconds per fault while existing methods that capture full semantics are often 10x or more slower.",
+        "keywords": [
+            "Location awareness",
+            "Analytical models",
+            "Scalability",
+            "Semantics",
+            "Static analysis",
+            "Debugging",
+            "Probabilistic logic"
+        ]
+    },
+    {
+        "title": "FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793882",
+        "volume": null,
+        "abstract": "Commit messages summarize code changes of each commit in nat-ural language, which help developers understand code changes without digging into detailed implementations and play an essen-tial role in comprehending software evolution. To alleviate human efforts in writing commit messages, researchers have proposed var-ious automated techniques to generate commit messages, including template-based, information retrieval-based, and learning-based techniques. Although promising, previous techniques have limited effectiveness due to their coarse-grained code change representations. This work proposes a novel commit message generation technique, FIRA, which first represents code changes via fine-grained graphs and then learns to generate commit messages automati-cally. Different from previous techniques, FIRA represents the code changes with fine-grained graphs, which explicitly describe the code edit operations between the old version and the new version, and code tokens at different granularities (i.e., sub-tokens and integral tokens). Based on the graph-based representation, FIRA generates commit messages by a generation model, which includes a graph-neural-network-based encoder and a transformer-based decoder. To make both sub-tokens and integral tokens as available ingredients for commit message generation, the decoder is further incorporated with a novel dual copy mechanism. We further per-form an extensive study to evaluate the effectiveness of FIRA. Our quantitative results show that FIRA outperforms state-of-the-art techniques in terms of BLEU, ROUGE-L, and METEOR; and our ablation analysis further shows that major components in our technique both positively contribute to the effectiveness of FIRA. In addition, we further perform a human study to evaluate the quality of generated commit messages from the perspective of developers, and the results consistently show the effectiveness of FIRA over the compared techniques.",
+        "keywords": [
+            "Vocabulary",
+            "Codes",
+            "Writing",
+            "Benchmark testing",
+            "Transformers",
+            "Software",
+            "Graph neural networks"
+        ]
+    },
+    {
+        "title": "FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510194",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510041",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fuzzing Class Specifications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510120",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Garbage Collection Makes Rust Easier to Use: A Randomized Controlled Trial of the Bronze Garbage Collector.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793872",
+        "volume": null,
+        "abstract": "Rust is a general-purpose programming language that is both type-and memory-safe. Rust does not use a garbage collector, but rather achieves these properties through a sophisticated, but complex, type system. Doing so makes Rust very efficient, but makes Rust relatively hard to learn and use. We designed Bronze, an optional, library-based garbage collector for Rust. To see whether Bronze could make Rust more usable, we conducted a randomized con-trolled trial with volunteers from a 633-person class, collecting data from 428 students in total. We found that for a task that required managing complex aliasing, Bronze users were more likely to complete the task in the time available, and those who did so required only about a third as much time (4 hours vs. 12 hours). We found no significant difference in total time, even though Bronze users re-did the task without Bronze afterward. Surveys indicated that ownership, borrowing, and lifetimes were primary causes of the challenges that users faced when using Rust.",
+        "keywords": [
+            "Computer languages",
+            "Education",
+            "Task analysis",
+            "Programming profession",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Generating and Visualizing Trace Link Explanations.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510129",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "GIFdroid: Automated Replay of Visual Bug Reports for Android Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510048",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "GitHub Sponsors: Exploring a New Way to Contribute to Open Source.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510116",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793910",
+        "volume": null,
+        "abstract": "We present the design and implementation of GraphFuzz, a new structure-, coverage- and object lifetime-aware fuzzer capable of automatically testing low-level Library APIs. Unlike other fuzzers, GraphFuzz models sequences of executed functions as a dataflow graph, thus enabling it to perform graph-based mutations both at the data and at the execution trace level. GraphFuzz comes with an automated specification generator to minimize the developer integration effort. We use GraphFuzz to analyze Skia-the rigorously tested Google Chrome graphics library-and benchmark GraphFuzz-generated fuzzing harnesses against hand-optimized, painstakingly written libFuzzer harnesses. We find that GraphFuzz generates test cases that achieve 2-3x more code coverage on average with minimal development effort, and also uncovered previous unknown defects in the process. We demonstrate GraphFuzz&#x0027;s applicability on low-level APIs by analyzing four additional open-source libraries and finding dozens of previously unknown defects. All security relevant findings have already been reported and fixed by the developers. Last, we open-source GraphFuzz under a permissive license and provide code to reproduce all results in this paper.",
+        "keywords": [
+            "Graphics",
+            "Codes",
+            "Fuzzing",
+            "Benchmark testing",
+            "Licenses",
+            "Libraries",
+            "Generators"
+        ]
+    },
+    {
+        "title": "Green AI: Do Deep Learning Frameworks Have Different Costs?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510221",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510101",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hashing It Out: A Survey of Programmers' Cannabis Usage, Perception, and Motivation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510156",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hiding Critical Program Components via Ambiguous Translation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510139",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "History-Driven Test Program Synthesis for JVM Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510059",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "If a Human Can See It, So Should Your System: Reliability Requirements for Machine Vision Components.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510109",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Imperative versus Declarative Collection Processing: An RCT on the Understandability of Traditional Loops versus the Stream API in Java.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3519016",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Improving Fault Localization and Program Repair with Deep Semantic Features and Transferred Knowledge.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510147",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Improving Machine Translation Systems via Isotopic Replacement.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793859",
+        "volume": null,
+        "abstract": "Machine translation plays an essential role in people&#x0027;s daily international communication. However, machine translation systems are far from perfect. To tackle this problem, researchers have proposed several approaches to testing machine translation. A promising trend among these approaches is to use word replacement, where only one word in the original sentence is replaced with another word to form a sentence pair. However, precise control of the impact of word replacement remains an outstanding issue in these approaches. To address this issue, we propose CAT, a novel word-replacement-based approach, whose basic idea is to identify word replacement with controlled impact (referred to as isotopic replacement). To achieve this purpose, we use a neural-based language model to encode the sentence context, and design a neural-network-based algorithm to evaluate context-aware semantic similarity between two words. Furthermore, similar to TransRepair, a state-of-the-art word-replacement-based approach, CAT also provides automatic fixing of revealed bugs without model retraining. Our evaluation on Google Translate and Transformer indicates that CAT achieves significant improvements over TransRepair. In particular, 1) CAT detects seven more types of bugs than TransRe-pair; 2) CAT detects 129&#x0025; more translation bugs than TransRepair; 3) CAT repairs twice more bugs than TransRepair, many of which may bring serious consequences if left unfixed; and 4) CAT has better efficiency than TransRepair in input generation (0.01s v.s. 0.41s) and comparable efficiency with TransRepair in bug repair (1.92s v.s. 1.34s).",
+        "keywords": [
+            "Computer bugs",
+            "Semantics",
+            "Maintenance engineering",
+            "Transformers",
+            "Market research",
+            "Internet",
+            "Machine translation"
+        ]
+    },
+    {
+        "title": "Inference and Test Generation Using Program Invariants in Chemical Reaction Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510176",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inferring and Applying Type Changes.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510115",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Jigsaw: Large Language Models meet Program Synthesis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510203",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3512766",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Knowledge-Based Environment Dependency Inference for Python Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510127",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Large-scale Security Measurements on the Android Firmware Ecosystem.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510072",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning and Programming Challenges of Rust: A Mixed-Methods Study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510164",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning Probabilistic Models for Static Analysis Alarms.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510098",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning to Recommend Method Names with Global Context.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510154",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning to Reduce False Positives in Analytic Bug Detectors.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510153",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Less is More: Supporting Developers in Vulnerability Detection during Code Review.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3511560",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lessons from Eight Years of Operational Data from a Continuous Integration Service: An Exploratory Case Study of CircleCI.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510211",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Linear-time Temporal Logic guided Greybox Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510082",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Log-based Anomaly Detection with Deep Learning: How Far Are We?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510155",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Manas: Mining Software Repositories to Assist AutoML.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510052",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Modeling Review History for Reviewer Recommendation: A Hypergraph Approach.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793876",
+        "volume": null,
+        "abstract": "Modern code review is a critical and indispensable practice in a pull-request development paradigm that prevails in Open Source Software (OSS) development. Finding a suitable reviewer in projects with massive participants thus becomes an increasingly challenging task. Many reviewer recommendation approaches (recommenders) have been developed to support this task which apply a similar strategy, i.e. modeling the review history first then followed by predicting/recommending a reviewer based on the model. Apparently, the better the model reflects the reality in review history, the higher recommender&#x0027;s performance we may expect. However, one typical scenario in a pull-request development paradigm, i.e. one Pull-Request (PR) (such as a revision or addition submitted by a contributor) may have multiple reviewers and they may impact each other through publicly posted comments, has not been modeled well in existing recommenders. We adopted the hypergraph technique to model this high-order relationship (i.e. one PR with multiple reviewers herein) and developed a new recommender, namely HGRec, which is evaluated by 12 OSS projects with more than 87K PRs, 680K comments in terms of accuracy and recommen-dation distribution. The results indicate that HGRec outperforms the state-of-the-art recommenders on recommendation accuracy. Besides, among the top three accurate recommenders, HGRec is more likely to recommend a diversity of reviewers, which can help to relieve the core reviewers&#x0027; workload congestion issue. Moreover, since HGRec is based on hypergraph, which is a natural and interpretable representation to model review history, it is easy to accommodate more types of entities and realistic relationships in modern code review scenarios. As the first attempt, this study reveals the potentials of hypergraph on advancing the pragmatic solutions for code reviewer recommendation.",
+        "keywords": [
+            "Codes",
+            "Heuristic algorithms",
+            "Software algorithms",
+            "Computer architecture",
+            "Predictive models",
+            "History",
+            "Task analysis"
+        ]
+    },
+    {
+        "title": "ModX: Binary Level Partially Imported Third-Party Library Detection via Program Modularization and Semantic Matching.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793894",
+        "volume": null,
+        "abstract": "With the rapid growth of software, using third-party libraries (TPLs) has become increasingly popular. The prosperity of the library us-age has provided the software engineers with a handful of methods to facilitate and boost the program development. Unfortunately, it also poses great challenges as it becomes much more difficult to manage the large volume of libraries. Researches and studies have been proposed to detect and understand the TPLs in the soft-ware. However, most existing approaches rely on syntactic features, which are not robust when these features are changed or deliber-ately hidden by the adversarial parties. Moreover, these approaches typically model each of the imported libraries as a whole, there-fore, cannot be applied to scenarios where the host software only partially uses the library code segments. To detect both fully and partially imported TPLs at the semantic level, we propose Modx, a framework that leverages novel program modularization techniques to decompose the program into fine-grained functionality-based modules. By extracting both syntactic and semantic features, it measures the distance between modules to detect similar library module reuse in the program. Experimental results show that Modx outperforms other modularization tools by distinguishing more coherent program modules with 353&#x0025; higher module quality scores and beats other TPL detection tools with on average 17&#x0025; better in precision and 8&#x0025; better in recall.",
+        "keywords": [
+            "Codes",
+            "Semantics",
+            "Software algorithms",
+            "Reverse engineering",
+            "Syntactics",
+            "Feature extraction",
+            "Libraries"
+        ]
+    },
+    {
+        "title": "Morest: Model-based RESTful API Testing with Execution Feedback.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510133",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510092",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-Intention-Aware Configuration Selection for Performance Tuning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510094",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multilingual training for Software Engineering.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510049",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510219",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Nalin: learning from Runtime Behavior to Find Name-Value Inconsistencies in Jupyter Notebooks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510144",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Natural Attack for Pre-trained Models of Code.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510146",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793885",
+        "volume": null,
+        "abstract": "Previous algorithms for feedback-directed unit test generation iteratively create sequences of API calls by executing partial tests and by adding new API calls at the end of the test. These algorithms are challenged by a popular class of APIs: higher-order functions that receive callback arguments, which often are invoked asyn-chronously. Existing test generators cannot effectively test such APIs because they only sequence API calls, but do not nest one call into the callback function of another. This paper presents Nessie, the first feedback-directed unit test generator that supports nesting of API calls and that tests asynchronous callbacks. Nesting API calls enables a test to use values produced by an API that are available only once a callback has been invoked, and is often necessary to ensure that methods are invoked in a specific order. The core contributions of our approach are a tree-based representation of unit tests with callbacks and a novel algorithm to iteratively generate such tests in a feedback-directed manner. We evaluate our approach on ten popular JavaScript libraries with both asynchronous and synchronous callbacks. The results show that, in a comparison with LambdaTester, a state of the art test generation technique that only considers sequencing of method calls, Nessie finds more behavioral differences and achieves slightly higher coverage. Notably, Nessie needs to generate significantly fewer tests to achieve and exceed the coverage achieved by the state of the art.",
+        "keywords": [
+            "Sequential analysis",
+            "Generators",
+            "Libraries",
+            "Behavioral sciences",
+            "Test pattern generators",
+            "Testing",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Neural Program Repair with Execution-based Backpropagation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793856",
+        "volume": null,
+        "abstract": "Neural machine translation (NMT) architectures have achieved promising results for automatic program repair. Yet, they have the limitation of generating low-quality patches (e.g., not compilable patches). This is because the existing works only optimize a purely syntactic loss function based on characters and tokens without incorporating program-specific information during neural network weight optimization. In this paper, we propose a novel program repair model called RewardRepair. The core novelty of RewardRepair is to improve NMT-based program repair with a loss function based on program compilation and test execution information, rewarding the network to produce patches that compile and that do not overfit. We conduct several experiments to evaluate RewardRepair showing that it is feasible and effective to use compilation and test execution results to optimize the underlying neural repair model. RewardRepair correctly repairs 207 bugs over four benchmarks. we report on repair success for 121 bugs that are fixed for the first time in the literature. Also, RewardRepair produces up to 45.3&#x0025; of compilable patches, an improvement over the 39&#x0025; by the state-of-the-art.",
+        "keywords": [
+            "Backpropagation",
+            "Training",
+            "Computer bugs",
+            "Semantics",
+            "Neural networks",
+            "Maintenance engineering",
+            "Syntactics"
+        ]
+    },
+    {
+        "title": "NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510123",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "NPEX: Repairing Java Null Pointer Exceptions without Tests.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510186",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Nufix: Escape From NuGet Dependency Maze.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793877",
+        "volume": null,
+        "abstract": "Developers usually suffer from dependency maze (DM) issues, i.e., package dependency constraints are violated when a project&#x0027;s platform or dependencies are changed. This problem is especially serious in. NET ecosystem due to its fragmented platforms (e.g.,. NET Framework,. NET Core, and. NET Standard). Fixing DM issues is challenging due to the complexity of dependency constraints: multiple DM issues often occur in one project; solving one DM issue usually causes another DM issue cropping up; the exponential search space of possible dependency combinations is also a barrier. In this paper, we aim to help. NET developers tackle the DM issues. First, we empirically studied a set of real DM issues, learning their common fixing strategies and developers&#x0027; preferences in adopting these strategies. Based on these findings, we propose NuFIX, an automated technique to repair DM issues. NUFIX formulates the repair task as a binary integer linear optimization problem to effectively derive an optimal fix in line with the learnt developers&#x0027; preferences. The experiment results and expert validation show that NUFIX can generate high-quality fixes for all the DM issues with 262 popular. NET projects. Encouragingly, 20 projects (including affected projects such as Dropbox) have approved and merged our generated fixes, and shown great interests in our technique.",
+        "keywords": [
+            "Ecosystems",
+            "Maintenance engineering",
+            "Complexity theory",
+            "Task analysis",
+            "Standards",
+            "Optimization",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "OJXPERF: Featherlight Object Replica Detection for Java Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510083",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On Debugging the Performance of Configurable Software Systems: Developer Needs and Tailored Tool Support.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510043",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the Benefits and Limits of Incremental Build of Software Configurations: An Exploratory Study.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510457.3513035",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the Evaluation of Neural Code Summarization.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510060",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the Importance of Building High-quality Training Datasets for Neural Code Search.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510160",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the Reliability of Coverage-Based Fuzzer Benchmarking.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510230",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "One Fuzzing Strategy to Rule Them All.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510174",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Online Summarizing Alerts through Semantic and Behavior Information.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793860",
+        "volume": null,
+        "abstract": "Alerts, which record details about system failures, are crucial data for monitoring a online service system. Due to the complex correlation between system components, a system failure usually triggers a large number of alerts, making the traditional manual handling of alerts insufficient. Thus, automatically summarizing alerts is a problem demanding prompt solution. This paper tackles this challenge through a novel approach based on supervised learning. The proposed approach, OAS (Online Alert Summarizing), first learns two types of information from alerts, semantic information and behavior information, respectively. Then, OAS adopts a specific deep learning model to aggregate semantic and behavior repre-sentations of alerts and thus determines the correlation between alerts. OAS is able to summarize the newly reported alert online. Extensive experiments, which are conducted on real alert datasets from two large commercial banks, demonstrate the efficiency and the effectiveness of OAS.",
+        "keywords": [
+            "Deep learning",
+            "Correlation",
+            "Aggregates",
+            "Semantics",
+            "Supervised learning",
+            "Manuals",
+            "Maintenance engineering"
+        ]
+    },
+    {
+        "title": "Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510063",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793858",
+        "volume": null,
+        "abstract": "Diagnosing a performance bug triggered in production cloud environments is notoriously challenging. Extracting performance bug signatures can help cloud operators quickly pinpoint the problem and avoid repeating manual efforts for diagnosing similar performance bugs. In this paper, we present PerfSig, a multi-modality performance bug signature extraction tool which can identify principal anomaly patterns and root cause functions for performance bugs. PerfSig performs fine-grained anomaly detection over various machine data such as system metrics, system logs, and function call traces. We then conduct causal analysis across different machine data using information theory method to pinpoint the root cause function of a performance bug. PerfSig generates bug signatures as the combination of the identified anomaly patterns and root cause functions. We have implemented a prototype of PerfSig and conducted evaluation using 20 real world performance bugs in six commonly used cloud systems. Our experimental results show that PerfSig captures various kinds of fine-grained anomaly patterns from different machine data and successfully identifies the root cause functions through multi-modality causal analysis for 19 out of 20 tested performance bugs.",
+        "keywords": [
+            "Measurement",
+            "Computer bugs",
+            "Prototypes",
+            "Production",
+            "Reliability engineering",
+            "Software reliability",
+            "System analysis and design"
+        ]
+    },
+    {
+        "title": "Practical Automated Detection of Malicious npm Packages.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793552",
+        "volume": null,
+        "abstract": "The npm registry is one of the pillars of the JavaScript and Type-Script ecosystems, hosting over 1.7 million packages ranging from simple utility libraries to complex frameworks and entire applications. Each day, developers publish tens of thousands of updates as well as hundreds of new packages. Due to the overwhelming popularity of npm, it has become a prime target for malicious actors, who publish new packages or compromise existing packages to introduce malware that tampers with or exfiltrates sensitive data from users who install either these packages or any package that (transitively) depends on them. Defending against such attacks is essential to maintaining the integrity of the software supply chain, but the sheer volume of package updates makes comprehensive manual review infeasible. We present Amalfi, a machine-learning based approach for automatically detecting potentially malicious packages comprised of three complementary techniques. We start with classifiers trained on known examples of malicious and benign packages. If a package is flagged as malicious by a classifier, we then check whether it includes metadata about its source repository, and if so whether the package can be reproduced from its source code. Packages that are reproducible from source are not usually malicious, so this step allows us to weed out false positives. Finally, we also employ a simple textual clone-detection technique to identify copies of malicious packages that may have been missed by the classifiers, reducing the number of false negatives. Amalfi improves on the state of the art in that it is lightweight, requiring only a few seconds per package to extract features and run the classifiers, and gives good results in practice: running it on 96287 package versions published over the course of one week, we were able to identify 95 previously unknown malware samples, with a manageable number of false positives.",
+        "keywords": [
+            "Training",
+            "Supply chains",
+            "Ecosystems",
+            "Manuals",
+            "Static analysis",
+            "Syntactics",
+            "Feature extraction"
+        ]
+    },
+    {
+        "title": "Practitioners' Expectations on Automated Code Comment Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510152",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PREACH: A Heuristic for Probabilistic Reachability to Identify Hard to Reach Statements.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510227",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Precise Divide-By-Zero Detection with Affirmative Evidence.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510066",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Preempting Flaky Tests via Non-Idempotent-Outcome Tests.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793904",
+        "volume": null,
+        "abstract": "Regression testing can greatly help in software development, but it can be seriously undermined by flaky tests, which can both pass and fail, seemingly nondeterministically, on the same code commit. Flaky tests are an emerging topic in both research and industry. Prior work has identified multiple categories of flaky tests, developed techniques for detecting these flaky tests, and analyzed some detected flaky tests. To proactively detect, i.e., preempt, flaky tests, we propose to detect non-idempotent-outcome (NIO) tests, a novel category related to flaky tests. In particular, we run each test twice in the same test execution environment, e.g., run each Java test twice in the same Java Virtual Machine. A test is NIO if it passes in the first run but fails in the second. Each NIO test has side effects and &#x201C;self-pollutes&#x201D; the state shared among test runs. We perform experiments on both Java and Python open-source projects, detecting 223 NIO Java tests and 138 NIO Python tests. We have inspected all 361 detected tests and opened pull requests that fix 268 tests, with 192 already accepted, only 6 rejected, and the remaining 70 pending.",
+        "keywords": [
+            "Industries",
+            "Java",
+            "Codes",
+            "Virtual machining",
+            "Open source software",
+            "Python",
+            "Testing"
+        ]
+    },
+    {
+        "title": "Prioritizing Mutants to Guide Mutation Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510187",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PROMAL: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510037",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PROPR: Property-Based Automatic Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510620",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510075",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Push-Button Synthesis of Watch Companions for Android Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510056",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Quantifying Permissiveness of Access Control Policies.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510233",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "R2Z2: Detecting Rendering Regressions in Web Browsers through Differential Fuzz Testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510044",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recommending Good First Issues in GitHub OSS Projects.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510196",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "REFTY: Refinement Types for Valid Deep Learning Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510077",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793881",
+        "volume": null,
+        "abstract": "Transfer learning is a popular software reuse technique in the deep learning community that enables developers to build custom mod-els (students) based on sophisticated pretrained models (teachers). However, like vulnerability inheritance in traditional software reuse, some defects in the teacher model may also be inherited by students, such as well-known adversarial vulnerabilities and backdoors. Re-ducing such defects is challenging since the student is unaware of how the teacher is trained and/or attacked. In this paper, we propose ReMoS, a relevant model slicing technique to reduce defect inheri-tance during transfer learning while retaining useful knowledge from the teacher model. Specifically, ReMoS computes a model slice (a subset of model weights) that is relevant to the student task based on the neuron coverage information obtained by profiling the teacher model on the student task. Only the relevant slice is used to fine-tune the student model, while the irrelevant weights are retrained from scratch to minimize the risk of inheriting defects. Our experi-ments on seven DNN defects, four DNN models, and eight datasets demonstrate that ReMoS can reduce inherited defects effectively (by 63&#x0025; to 86&#x0025; for CV tasks and by 40&#x0025; to 61 &#x0025; for NLP tasks) and efficiently with minimal sacrifice of accuracy (3&#x0025; on average).",
+        "keywords": [
+            "Deep learning",
+            "Computational modeling",
+            "Transfer learning",
+            "Neurons",
+            "Task analysis",
+            "Software reusability",
+            "Biological neural networks"
+        ]
+    },
+    {
+        "title": "Repairing Brain-Computer Interfaces with Fault-Based Data Acquisition.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3512764",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Repairing Order-Dependent Flaky Tests via Test Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510173",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Retrieving Data Constraint Implementations Using Fine-Grained Code Patterns.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510167",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "RoPGen: Towards Robust Code Authorship Attribution via Automatic Coding Style Transformation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510181",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Rotten Apples Spoil the Bunch: An Anatomy of Google Play Malware.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510161",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SAPIENTML: Synthesizing Machine Learning Pipelines by Learning from Human-Written Solutions.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510226",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Search-based Diverse Sampling from Real-world Software Product Lines.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510053",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic Image Fuzzing of AI Perception Systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510212",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510131",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SnR: Constraint-Based Type Inference for Incomplete Java Code Snippets.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510061",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Social Science Theories in Software Engineering Research.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510076",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static Inference Meets Deep learning: A Hybrid Type Inference Approach for Python.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510038",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static Stack-Preserving Intra-Procedural Slicing of WebAssembly Binaries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510070",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Striking a Balance: Pruning False-Positives from Static Call Graphs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510166",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SugarC: Scalable Desugaring of Real-World Preprocessor Usage into Pure C.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3512763",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SYMTUNER: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510185",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Testing Time Limits in Screener Questions for Online Surveys with Programmers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510223",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793883",
+        "volume": null,
+        "abstract": "Increasingly larger number of software systems today are including data science components for descriptive, predictive, and prescriptive analytics. The collection of data science stages from acquisition, to cleaning/curation, to modeling, and so on are referred to as data science pipelines. To facilitate research and practice on data science pipelines, it is essential to understand their nature. What are the typical stages of a data science pipeline? How are they connected? Do the pipelines differ in the theoretical representations and that in the practice? Today we do not fully understand these architectural characteristics of data science pipelines. In this work, we present a three-pronged comprehensive study to answer this for the state-of-the-art, data science in-the-small, and data science in-the-large, Our study analyzes three datasets: a collection of 71 proposals for data science pipelines and related concepts in theory, a collection of over 105 implementations of curated data science pipelines from Kaggle competitions to understand data science in-the-small, and a collection of 21 mature data science projects from GitHub to understand data science in-the-large. Our study has led to three representations of data science pipelines that capture the essence of our subjects in theory, in-the-small, and in-the-large.",
+        "keywords": [
+            "Feedback loop",
+            "Art",
+            "Pipelines",
+            "Data science",
+            "Software systems",
+            "Data models",
+            "Proposals"
+        ]
+    },
+    {
+        "title": "The Extent of Orphan Vulnerabilities from Code Reuse in Open Source Software.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510216",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "\"This Is Damn Slick!\" Estimating the Impact of Tweets on Open Source Project Popularity and New Contributors.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510121",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TOGA: A Neural Method for Test Oracle Generation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510141",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Automatically Repairing Compatibility Issues in Published Android Apps.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510128",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Bidirectional Live Programming for Incomplete Programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510195",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Boosting Patch Execution On-the-Fly.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510117",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards language-independent Brown Build Detection.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510122",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Practical Robustness Analysis for DNNs based on PAC-Model Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510143",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards Training Reproducible Deep Learning Models.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510163",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Training Data Debugging for the Fairness of Machine Learning Software.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510091",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Trust Enhancement Issues in Program Repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510040",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Type4Py: Practical Deep Similarity Learning-Based Type Inference for Python.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510124",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Unleashing the Power of Compiler Intermediate Representation to Enhance Neural Program Embeddings.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510217",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Use of Test Doubles in Android Testing: An In-Depth Investigation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510175",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using Deep Learning to Generate Complete Log Statements.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3511561",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using Pre-Trained Models to Boost Code Review Automation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510621",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using Reinforcement Learning for Load Testing of Video Games.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510625",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793889",
+        "volume": null,
+        "abstract": "Traditional public blockchain systems typically had very limited transaction throughput because of the bottleneck of the consensus protocol itself. With recent advances in consensus technology, the performance limit has been greatly lifted, typically to thousands of transactions per second. With this, transaction execution has become a new performance bottleneck. Exploiting parallelism in transaction execution is a clear and direct way to address this and to further increase transaction throughput. Although some recent literature introduced concurrency control mechanisms to execute smart contract transactions in parallel, the reported speedup that they can achieve is far from ideal. The main reason is that the proposed parallel execution mechanisms cannot effectively deal with the conflicts inherent in many blockchain applications. In this work, we thoroughly study the historical transaction exe-cution traces in Ethereum. We observe that application-inherent conflicts are the major factors that limit the exploitable parallelism during execution. We propose to use partitioned counters and spe-cial commutative instructions to break up the application conflict chains in order to maximize the potential speedup. When we eval-uated the maximum parallel speedup achievable, these techniques doubled this limit to an 18x overall speedup compared to serial execution, thus approaching the optimum. We also propose OCC-DA, an optimistic concurrency control scheduler with deterministic aborts, which makes it possible to use OCC scheduling in public blockchain settings.",
+        "keywords": [
+            "Concurrent computing",
+            "Smart contracts",
+            "Parallel processing",
+            "Programming",
+            "Throughput",
+            "Concurrency control",
+            "Consensus protocol"
+        ]
+    },
+    {
+        "title": "VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510162",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verification of ORM-based Controllers by Summary Inference.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510148",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510113",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "VulCNN: An Image-inspired Scalable Vulnerability Detection System.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793871",
+        "volume": null,
+        "abstract": "Since deep learning (DL) can automatically learn features from source code, it has been widely used to detect source code vulnerability. To achieve scalable vulnerability scanning, some prior studies intend to process the source code directly by treating them as text. To achieve accurate vulnerability detection, other approaches consider distilling the program semantics into graph representations and using them to detect vulnerability. In practice, text-based techniques are scalable but not accurate due to the lack of program semantics. Graph-based methods are accurate but not scalable since graph analysis is typically time-consuming. In this paper, we aim to achieve both scalability and accuracy on scanning large-scale source code vulnerabilities. Inspired by existing DL-based image classification which has the ability to analyze millions of images accurately, we prefer to use these techniques to accomplish our purpose. Specifically, we propose a novel idea that can efficiently convert the source code of a function into an image while preserving the program details. We implement Vul-CNN and evaluate it on a dataset of 13,687 vulnerable functions and 26,970 non-vulnerable functions. Experimental results report that VulCNN can achieve better accuracy than eight state-of-the-art vul-nerability detectors (i.e., Checkmarx, FlawFinder, RATS, TokenCNN, VulDeePecker, SySeVR, VulDeeLocator, and Devign). As for scalability, VulCNN is about four times faster than VulDeePecker and SySeVR, about 15 times faster than VulDeeLocator, and about six times faster than Devign. Furthermore, we conduct a case study on more than 25 million lines of code and the result indicates that VulCNN can detect large-scale vulnerability. Through the scanning reports, we finally discover 73 vulnerabilities that are not reported in NVD.",
+        "keywords": [
+            "Deep learning",
+            "Codes",
+            "Scalability",
+            "Semantics",
+            "Detectors",
+            "Transforms",
+            "Rats"
+        ]
+    },
+    {
+        "title": "What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510050",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "What Makes a Good Commit Message?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510205",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "What Makes Effective Leadership in Agile Software Development Teams?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510100",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "What the Fork? Finding Hidden Code Clones in npm.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510168",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Where is Your App Frustrating Users?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://ieeexplore.ieee.org/document/9793551",
+        "volume": null,
+        "abstract": "User reviews of mobile apps provide a communication channel for developers to perceive user satisfaction. Many app features that users have problems with are usually expressed by key phrases such as &#x201C;upload pictures&#x201D;, which could be buried in the review texts. The lack of fine-grained view about problematic features could obscure the developers&#x0027; understanding of where the app is frustrating users, and postpone the improvement of the apps. Existing pattern-based approaches to extract target phrases suffer from low accuracy due to insufficient semantic understanding of the reviews, thus can only summarize the high-level topics/aspects of the reviews. This paper proposes a semantic-aware, fine-grained app review analysis approach (SIRA) to extract, cluster, and visualize the problematic features of apps. The main component of SIRA is a novel BERT+Attr-CRF model for fine-grained problematic feature extraction, which combines textual descriptions and review attributes to better model the semantics of reviews and boost the performance of the traditional BERT-CRF model. SIRA also clusters the extracted phrases based on their semantic relations and presents a visualization of the summaries. Our evaluation on 3,426 reviews from six apps confirms the effectiveness of SIRA in problematic feature extraction and clustering. We further conduct an empirical study with SIRA on 318,534 reviews of 18 popular apps to explore its potential application and examine its usefulness in real-world practice.",
+        "keywords": [
+            "Codes",
+            "Clustering methods",
+            "Semantics",
+            "Communication channels",
+            "Feature extraction",
+            "Mobile applications",
+            "Data mining"
+        ]
+    },
+    {
+        "title": "Windranger: A Directed Greybox Fuzzer driven by Deviation Basic Blocks.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2022,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3510003.3510197",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
         "title": "Augmenting Field Data for Testing Systems Subject to Incremental Requirements Changes.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3053430",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Ensuring the Consistency of Adaptation through Inter- and Intra-Component Dependency Analysis.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3063385",
@@ -21,7 +21,7 @@
     },
     {
         "title": "Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3078841",
@@ -31,7 +31,7 @@
     },
     {
         "title": "Human Competitiveness of Genetic Programming in Spectrum-Based Fault Localisation: Theoretical and Empirical Analysis.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3078840",
@@ -41,7 +41,7 @@
     },
     {
         "title": "Parallel Algorithms for Generating Distinguishing Sequences for Observable Non-deterministic FSMs.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3051121",
@@ -51,7 +51,7 @@
     },
     {
         "title": "Editorial.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3136621",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Fixing Faults in C and Java Source Code: Abbreviated vs. Full-Word Identifier Names.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3104029",
@@ -71,7 +71,7 @@
     },
     {
         "title": "A Logic-Based Approach for the Verification of UML Timed Models.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3106411",
@@ -81,7 +81,7 @@
     },
     {
         "title": "Early Evaluation of Implementation Alternatives of Composite Data Structures Toward Maintainability.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3132731",
@@ -91,7 +91,7 @@
     },
     {
         "title": "Global and Local Deadlock Freedom in BIP.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3152910",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Variability Bugs in Highly Configurable Systems: A Qualitative Analysis.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3149119",
@@ -111,7 +111,7 @@
     },
     {
         "title": "Lightweight, Obfuscation-Resilient Detection and Family Identification of Android Malware.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3162625",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Understanding and Combating Memory Bloat in Managed Data-Intensive Systems.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3162626",
@@ -131,7 +131,7 @@
     },
     {
         "title": "Detecting the Behavior of Design Patterns through Model Checking and Dynamic Analysis.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3176643",
@@ -141,7 +141,7 @@
     },
     {
         "title": "Configuring Software Product Lines by Combining Many-Objective Optimization and SAT Solvers.",
-        "venue_name": "tosem",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
         "year": 2017,
         "venue_type": "journals",
         "url": "https://doi.org/10.1145/3176644",

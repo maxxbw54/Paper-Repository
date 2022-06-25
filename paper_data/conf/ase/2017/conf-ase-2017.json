@@ -1,7 +1,7 @@
 [
     {
         "title": "Cobra - an interactive static code analyzer.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115610",
@@ -19,7 +19,7 @@
     },
     {
         "title": "Mining structures from massive text data: will it help software engineering?",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115611",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Software engineering without borders.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115612",
@@ -55,7 +55,7 @@
     },
     {
         "title": "Systematically testing background services of mobile apps.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115613",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Crowd intelligence enhances automated mobile testing.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115614",
@@ -91,7 +91,7 @@
     },
     {
         "title": "EHBDroid: beyond GUI testing for Android applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115615",
@@ -109,7 +109,7 @@
     },
     {
         "title": "Sketch-guided GUI test generation for mobile applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115616",
@@ -127,7 +127,7 @@
     },
     {
         "title": "Saying 'hi!' is not enough: mining inputs for effective test generation.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115617",
@@ -144,7 +144,7 @@
     },
     {
         "title": "Learn&Fuzz: machine learning for input fuzzing.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115618",
@@ -160,7 +160,7 @@
     },
     {
         "title": "The impact of continuous integration on other software development practices: a large-scale empirical study.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115619",
@@ -176,7 +176,7 @@
     },
     {
         "title": "Perceived language complexity in GitHub issue discussions and their effect on issue resolution.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115620",
@@ -194,7 +194,7 @@
     },
     {
         "title": "Can automated pull requests encourage software developers to upgrade out-of-date dependencies?",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115621",
@@ -211,7 +211,7 @@
     },
     {
         "title": "Are developers aware of the architectural impact of their changes?",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115622",
@@ -229,7 +229,7 @@
     },
     {
         "title": "SentiCR: a customized sentiment analysis tool for code review interactions.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115623",
@@ -247,7 +247,7 @@
     },
     {
         "title": "Detecting fragile comments.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115624",
@@ -264,7 +264,7 @@
     },
     {
         "title": "Improving software text retrieval using conceptual knowledge in source code.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115625",
@@ -281,7 +281,7 @@
     },
     {
         "title": "Automatically generating commit messages from diffs using neural machine translation.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115626",
@@ -299,7 +299,7 @@
     },
     {
         "title": "Improving missing issue-commit link recovery using positive and unlabeled data.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115627",
@@ -315,7 +315,7 @@
     },
     {
         "title": "APIBot: question answering bot for API documentation.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115628",
@@ -333,7 +333,7 @@
     },
     {
         "title": "Automatic summarization of API reviews.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115629",
@@ -350,7 +350,7 @@
     },
     {
         "title": "iCoq: regression proof selection for large-scale verification projects.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115630",
@@ -367,7 +367,7 @@
     },
     {
         "title": "More effective interpolations in software model checking.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115631",
@@ -385,7 +385,7 @@
     },
     {
         "title": "Proof-based coverage metrics for formal verification.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115632",
@@ -403,7 +403,7 @@
     },
     {
         "title": "Model checker execution reports.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115633",
@@ -421,7 +421,7 @@
     },
     {
         "title": "Modular verification of interrupt-driven software.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115634",
@@ -437,7 +437,7 @@
     },
     {
         "title": "BProVe: a formal verification framework for business process models.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115635",
@@ -455,7 +455,7 @@
     },
     {
         "title": "Static detection of asymptotic resource side-channel vulnerabilities in web applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115636",
@@ -472,7 +472,7 @@
     },
     {
         "title": "PAD: programming third-party web advertisement censorship.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115637",
@@ -488,7 +488,7 @@
     },
     {
         "title": "All about activity injection: threats, semantics, and detection.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115638",
@@ -505,7 +505,7 @@
     },
     {
         "title": "Detecting information flow by mutating input data.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115639",
@@ -522,7 +522,7 @@
     },
     {
         "title": "Automatically assessing crashes from heap overflows.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115640",
@@ -540,7 +540,7 @@
     },
     {
         "title": "Learning to share: engineering adaptive decision-support for online social networks.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115641",
@@ -557,7 +557,7 @@
     },
     {
         "title": "UI driven Android application reduction.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115642",
@@ -574,7 +574,7 @@
     },
     {
         "title": "SimplyDroid: efficient event sequence simplification for Android application.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115643",
@@ -592,7 +592,7 @@
     },
     {
         "title": "Automated cross-platform inconsistency detection for mobile apps.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115644",
@@ -609,7 +609,7 @@
     },
     {
         "title": "In-memory fuzzing for binary code similarity analysis.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115645",
@@ -625,7 +625,7 @@
     },
     {
         "title": "DSIbin: identifying dynamic data structures in C/C++ binaries.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115646",
@@ -643,7 +643,7 @@
     },
     {
         "title": "Towards robust instruction-level trace alignment of binary code.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115647",
@@ -661,7 +661,7 @@
     },
     {
         "title": "Testing intermediate representations for binary analysis.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115648",
@@ -679,7 +679,7 @@
     },
     {
         "title": "Comprehensive failure characterization.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115649",
@@ -696,7 +696,7 @@
     },
     {
         "title": "TrEKer: tracing error propagation in operating system kernels.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115650",
@@ -712,7 +712,7 @@
     },
     {
         "title": "RuntimeSearch: Ctrl+F for a running program.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115651",
@@ -729,7 +729,7 @@
     },
     {
         "title": "Mining implicit design templates for actionable code reuse.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115652",
@@ -746,7 +746,7 @@
     },
     {
         "title": "Exploring regular expression comprehension.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115653",
@@ -764,7 +764,7 @@
     },
     {
         "title": "Automatically assessing code understandability: how far are we?",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115654",
@@ -782,7 +782,7 @@
     },
     {
         "title": "Improved query reformulation for concept location using CodeRank and document structures.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115655",
@@ -798,7 +798,7 @@
     },
     {
         "title": "Understanding feature requests by leveraging fuzzy method and linguistic analysis.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115656",
@@ -816,7 +816,7 @@
     },
     {
         "title": "O2O service composition with social collaboration.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115657",
@@ -834,7 +834,7 @@
     },
     {
         "title": "Gremlin-ATL: a scalable model transformation framework.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115658",
@@ -852,7 +852,7 @@
     },
     {
         "title": "Diagnosing assumption problems in safety-critical products.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115659",
@@ -869,7 +869,7 @@
     },
     {
         "title": "Software performance self-adaptation through efficient model predictive control.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115660",
@@ -887,7 +887,7 @@
     },
     {
         "title": "Transfer learning for performance modeling of configurable systems: an exploratory analysis.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115661",
@@ -904,7 +904,7 @@
     },
     {
         "title": "A comprehensive study of real-world numerical bug characteristics.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115662",
@@ -922,7 +922,7 @@
     },
     {
         "title": "A comprehensive study on real world concurrency bugs in Node.js.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115663",
@@ -939,7 +939,7 @@
     },
     {
         "title": "Generating simpler AST edit scripts by considering copy-and-paste.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115664",
@@ -957,7 +957,7 @@
     },
     {
         "title": "Renaming and shifted code in structured merging: looking ahead for precision and performance.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115665",
@@ -973,7 +973,7 @@
     },
     {
         "title": "Semantics-assisted code review: an efficient toolchain and a user study.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115666",
@@ -990,7 +990,7 @@
     },
     {
         "title": "Detecting unknown inconsistencies in web applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115667",
@@ -1007,7 +1007,7 @@
     },
     {
         "title": "Why and how JavaScript developers use linters.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115668",
@@ -1024,7 +1024,7 @@
     },
     {
         "title": "Automatic testing of symbolic execution engines via program generation and differential testing.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115669",
@@ -1042,7 +1042,7 @@
     },
     {
         "title": "Floating-point symbolic execution: a case study in n-version programming.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115670",
@@ -1059,7 +1059,7 @@
     },
     {
         "title": "Rethinking pointer reasoning in symbolic execution.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115671",
@@ -1077,7 +1077,7 @@
     },
     {
         "title": "Leveraging abstract interpretation for efficient dynamic symbolic execution.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115672",
@@ -1093,7 +1093,7 @@
     },
     {
         "title": "Tortoise: interactive system configuration repair.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115673",
@@ -1109,7 +1109,7 @@
     },
     {
         "title": "Contract-based program repair without the contracts.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115674",
@@ -1127,7 +1127,7 @@
     },
     {
         "title": "ELIXIR: effective object oriented program repair.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115675",
@@ -1145,7 +1145,7 @@
     },
     {
         "title": "Leveraging syntax-related code for automated program repair.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115676",
@@ -1163,7 +1163,7 @@
     },
     {
         "title": "Boosting complete-code tool for partial program.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115677",
@@ -1181,7 +1181,7 @@
     },
     {
         "title": "A language model for statements of software code.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115678",
@@ -1199,7 +1199,7 @@
     },
     {
         "title": "Context-aware integrated development environment command recommender systems.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115679",
@@ -1217,7 +1217,7 @@
     },
     {
         "title": "Predicting relevance of change recommendations.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115680",
@@ -1234,7 +1234,7 @@
     },
     {
         "title": "AnswerBot: automated generation of answer summary to developersź technical questions.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115681",
@@ -1251,7 +1251,7 @@
     },
     {
         "title": "Recommending crowdsourced software developers in consideration of skill improvement.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115682",
@@ -1268,7 +1268,7 @@
     },
     {
         "title": "The rise of the (modelling) bots: towards assisted modelling via social networks.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115683",
@@ -1284,7 +1284,7 @@
     },
     {
         "title": "UNDEAD: detecting and preventing deadlocks in production software.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115684",
@@ -1302,7 +1302,7 @@
     },
     {
         "title": "Promoting secondary orders of event pairs in randomized scheduling using a randomized stride.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115685",
@@ -1320,7 +1320,7 @@
     },
     {
         "title": "Parallel bug-finding in concurrent programs via reduced interleaving instances.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115686",
@@ -1337,7 +1337,7 @@
     },
     {
         "title": "Understanding and overcoming parallelism bottlenecks in ForkJoin applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115687",
@@ -1354,7 +1354,7 @@
     },
     {
         "title": "Quick verification of concurrent programs by iteratively relaxed scheduling.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115688",
@@ -1371,7 +1371,7 @@
     },
     {
         "title": "Automatic loop-invariant generation and refinement through selective sampling.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115689",
@@ -1389,7 +1389,7 @@
     },
     {
         "title": "FiB: squeezing loop invariants by interpolation between Forward/Backward predicate transformers.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115690",
@@ -1407,7 +1407,7 @@
     },
     {
         "title": "SymInfer: inferring program invariants using symbolic states.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115691",
@@ -1425,7 +1425,7 @@
     },
     {
         "title": "Parsimony: an IDE for example-guided synthesis of lexers and parsers.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115692",
@@ -1441,7 +1441,7 @@
     },
     {
         "title": "Mining constraints for event-based monitoring in systems of systems.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115693",
@@ -1459,7 +1459,7 @@
     },
     {
         "title": "Programming bots by synthesizing natural language expressions into API invocations.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115694",
@@ -1477,7 +1477,7 @@
     },
     {
         "title": "Test suite parallelization in open-source projects: a study on its usage and impact.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115695",
@@ -1495,7 +1495,7 @@
     },
     {
         "title": "Systematic reduction of GUI test sequences.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115696",
@@ -1512,7 +1512,7 @@
     },
     {
         "title": "Automatically reducing tree-structured test inputs.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115697",
@@ -1528,7 +1528,7 @@
     },
     {
         "title": "Synthetic data generation for statistical testing.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115698",
@@ -1546,7 +1546,7 @@
     },
     {
         "title": "SEALANT: a detection and visualization tool for inter-app security vulnerabilities in Android.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115699",
@@ -1564,7 +1564,7 @@
     },
     {
         "title": "Visualization support for requirements monitoring in systems of systems.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115700",
@@ -1582,7 +1582,7 @@
     },
     {
         "title": "A demonstration of simultaneous execution and editing in a development environment.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115701",
@@ -1600,7 +1600,7 @@
     },
     {
         "title": "TREM: a tool for mining timed regular specifications from system traces.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115702",
@@ -1618,7 +1618,7 @@
     },
     {
         "title": "ModelWriter: text and model-synchronized document engineering platform.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115703",
@@ -1636,7 +1636,7 @@
     },
     {
         "title": "Incrementally slicing editable submodels.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115704",
@@ -1654,7 +1654,7 @@
     },
     {
         "title": "DSSynth: an automated digital controller synthesis tool for physical plants.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115705",
@@ -1671,7 +1671,7 @@
     },
     {
         "title": "A static analysis tool with optimizations for reachability determination.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115706",
@@ -1688,7 +1688,7 @@
     },
     {
         "title": "CogniCrypt: supporting developers in using cryptography.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115707",
@@ -1703,7 +1703,7 @@
     },
     {
         "title": "BProVe: tool support for business process verification.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115708",
@@ -1721,7 +1721,7 @@
     },
     {
         "title": "taco: a tool to generate tensor algebra kernels.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115709",
@@ -1738,7 +1738,7 @@
     },
     {
         "title": "STARTS: STAtic regression test selection.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115710",
@@ -1756,7 +1756,7 @@
     },
     {
         "title": "EventFlowSlicer: a tool for generating realistic goal-driven GUI tests.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115711",
@@ -1773,7 +1773,7 @@
     },
     {
         "title": "ANDROFLEET: testing WiFi peer-to-peer mobile apps in the large.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115712",
@@ -1791,7 +1791,7 @@
     },
     {
         "title": "FEMIR: a tool for recommending framework extension examples.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115713",
@@ -1808,7 +1808,7 @@
     },
     {
         "title": "TiQi: a natural language interface for querying software project data.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115714",
@@ -1826,7 +1826,7 @@
     },
     {
         "title": "Opiner: an opinion search and summarization engine for APIs.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115715",
@@ -1843,7 +1843,7 @@
     },
     {
         "title": "Defaultification refactoring: a tool for automatically converting Java methods to default.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115716",
@@ -1860,7 +1860,7 @@
     },
     {
         "title": "Kobold: web usability as a service.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115717",
@@ -1878,7 +1878,7 @@
     },
     {
         "title": "IntPTI: automatic integer error repair with proper-type inference.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115718",
@@ -1896,7 +1896,7 @@
     },
     {
         "title": "Learning effective changes for software projects.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115719",
@@ -1913,7 +1913,7 @@
     },
     {
         "title": "Characterizing and taming non-deterministic bugs in JavaScript applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115720",
@@ -1931,7 +1931,7 @@
     },
     {
         "title": "Towards API-specific automatic program repair.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115721",
@@ -1949,7 +1949,7 @@
     },
     {
         "title": "Managing software evolution through semantic history slicing.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115722",
@@ -1966,7 +1966,7 @@
     },
     {
         "title": "Towards the automatic classification of traceability links.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115723",
@@ -1983,7 +1983,7 @@
     },
     {
         "title": "Towards a software vulnerability prediction model using traceable code patterns and software metrics.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115724",
@@ -2000,7 +2000,7 @@
     },
     {
         "title": "Towards search-based modelling and analysis of requirements and architecture decisions.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115725",
@@ -2017,7 +2017,7 @@
     },
     {
         "title": "Privacy-aware data-intensive applications.",
-        "venue_name": "ase",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1109/ASE.2017.8115726",

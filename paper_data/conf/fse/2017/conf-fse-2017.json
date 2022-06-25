@@ -1,7 +1,7 @@
 [
     {
         "title": "The rising tide lifts all boats: the advancement of science in cyber security (invited talk).",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121272",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Verifying the forecast: how climate models are developed and tested (invited talk).",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121271",
@@ -21,7 +21,7 @@
     },
     {
         "title": "Software engineering research results in industrial practice: a tale of two projects (invited talk).",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121273",
@@ -31,7 +31,7 @@
     },
     {
         "title": "Reflections on the REST architectural style and \"principled design of the modern web architecture\" (impact paper award).",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121282",
@@ -41,7 +41,7 @@
     },
     {
         "title": "A fast causal profiler for task parallel programs.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106254",
@@ -51,7 +51,7 @@
     },
     {
         "title": "On the scalability of Linux kernel maintainers' work.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106287",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Modeling and verification of evolving cyber-physical spaces.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106299",
@@ -71,7 +71,7 @@
     },
     {
         "title": "Easy over hard: a case study on deep learning.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106256",
@@ -81,7 +81,7 @@
     },
     {
         "title": "Finding near-optimal configurations in product lines by random sampling.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106273",
@@ -91,7 +91,7 @@
     },
     {
         "title": "Revisiting unsupervised learning for defect prediction.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106257",
@@ -101,7 +101,7 @@
     },
     {
         "title": "Loopster: static loop termination analysis.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106260",
@@ -111,7 +111,7 @@
     },
     {
         "title": "CodeCarbonCopy.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106269",
@@ -121,7 +121,7 @@
     },
     {
         "title": "The power of \"why\" and \"why not\": enriching scenario exploration with provenance.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106272",
@@ -131,7 +131,7 @@
     },
     {
         "title": "Where is the bug and how is it fixed? an experiment with practitioners.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106255",
@@ -141,7 +141,7 @@
     },
     {
         "title": "Understanding misunderstandings in source code.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106264",
@@ -151,7 +151,7 @@
     },
     {
         "title": "Measuring neural efficiency of program comprehension.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106268",
@@ -161,7 +161,7 @@
     },
     {
         "title": "Bayesian specification learning for finding API usage errors.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106284",
@@ -171,7 +171,7 @@
     },
     {
         "title": "Synergistic debug-repair of heap manipulations.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106263",
@@ -181,7 +181,7 @@
     },
     {
         "title": "Failure-directed program trimming.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106249",
@@ -191,7 +191,7 @@
     },
     {
         "title": "Why modern open source projects fail.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106246",
@@ -201,7 +201,7 @@
     },
     {
         "title": "Trade-offs in continuous integration: assurance, security, and flexibility.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106270",
@@ -211,7 +211,7 @@
     },
     {
         "title": "µDroid: an energy-aware mutation testing framework for Android.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106244",
@@ -221,7 +221,7 @@
     },
     {
         "title": "PATDroid: permission-aware GUI testing of Android.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106250",
@@ -231,7 +231,7 @@
     },
     {
         "title": "Enabling mutation testing for Android apps.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106275",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Guided, stochastic model-based GUI testing of Android apps.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106298",
@@ -251,7 +251,7 @@
     },
     {
         "title": "Using bad learners to find good configurations.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106238",
@@ -261,7 +261,7 @@
     },
     {
         "title": "Attributed variability models: outside the comfort zone.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106251",
@@ -271,7 +271,7 @@
     },
     {
         "title": "Kmax: finding all configurations of Kbuild makefiles statically.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106283",
@@ -281,7 +281,7 @@
     },
     {
         "title": "Is there a mismatch between real-world feature models and product-line research?",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106252",
@@ -291,7 +291,7 @@
     },
     {
         "title": "Adaptively generating high quality fixes for atomicity violations.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106239",
@@ -301,7 +301,7 @@
     },
     {
         "title": "AtexRace: across thread and execution sampling for in-house race detection.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106242",
@@ -311,7 +311,7 @@
     },
     {
         "title": "Symbolic execution of programmable logic controller code.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106245",
@@ -321,7 +321,7 @@
     },
     {
         "title": "Thread-modular static analysis for relaxed memory models.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106243",
@@ -331,7 +331,7 @@
     },
     {
         "title": "ARTINALI: dynamic invariant detection for cyber-physical system security.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106282",
@@ -341,7 +341,7 @@
     },
     {
         "title": "A symbolic justice violations transition system for unrealizable GR(1) specifications.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106240",
@@ -351,7 +351,7 @@
     },
     {
         "title": "Automated control of multiple software goals using multiple actuators.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106247",
@@ -361,7 +361,7 @@
     },
     {
         "title": "Why do developers use trivial packages? an empirical case study on npm.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106267",
@@ -371,7 +371,7 @@
     },
     {
         "title": "Detecting missing information in bug descriptions.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106285",
@@ -381,7 +381,7 @@
     },
     {
         "title": "Continuous variable-specific resolutions of feature interactions.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106302",
@@ -391,7 +391,7 @@
     },
     {
         "title": "Model-level, platform-independent debugging in the context of the model-driven development of real-time systems.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106278",
@@ -401,7 +401,7 @@
     },
     {
         "title": "Cooperative kernels: GPU multitasking for blocking algorithms.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106265",
@@ -411,7 +411,7 @@
     },
     {
         "title": "Toward full elasticity in distributed static analysis: the case of callgraph analysis.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106261",
@@ -421,7 +421,7 @@
     },
     {
         "title": "Probabilistic model checking of perturbed MDPs with applications to cloud computing.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106301",
@@ -431,7 +431,7 @@
     },
     {
         "title": "Understanding the impact of refactoring on smells: a longitudinal study of 23 software projects.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106259",
@@ -441,7 +441,7 @@
     },
     {
         "title": "Cimplifier: automatically debloating containers.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106271",
@@ -451,7 +451,7 @@
     },
     {
         "title": "Craig vs. Newton in software model checking.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106307",
@@ -461,7 +461,7 @@
     },
     {
         "title": "Fairness testing: testing software for discrimination.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106277",
@@ -471,7 +471,7 @@
     },
     {
         "title": "The care and feeding of wild-caught mutants.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106280",
@@ -481,7 +481,7 @@
     },
     {
         "title": "QTEP: quality-aware test case prioritization.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106258",
@@ -491,7 +491,7 @@
     },
     {
         "title": "Constraint normalization and parameterized caching for quantitative program analysis.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106303",
@@ -501,7 +501,7 @@
     },
     {
         "title": "Generalized observational slicing for tree-represented modelling languages.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106304",
@@ -511,7 +511,7 @@
     },
     {
         "title": "On evidence preservation requirements for forensic-ready systems.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106308",
@@ -521,7 +521,7 @@
     },
     {
         "title": "BDCI: behavioral driven conflict identification.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106296",
@@ -531,7 +531,7 @@
     },
     {
         "title": "NoFAQ: synthesizing command repairs from examples.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106241",
@@ -541,7 +541,7 @@
     },
     {
         "title": "S3: syntax- and semantic-guided repair synthesis via programming by examples.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106309",
@@ -551,7 +551,7 @@
     },
     {
         "title": "Counterexample-guided approach to finding numerical invariants.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106281",
@@ -561,7 +561,7 @@
     },
     {
         "title": "Discovering relational specifications.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106279",
@@ -571,7 +571,7 @@
     },
     {
         "title": "Steelix: program-state based binary fuzzing.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106295",
@@ -581,7 +581,7 @@
     },
     {
         "title": "CodeMatch: obfuscation won't conceal your repackaged app.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106305",
@@ -591,7 +591,7 @@
     },
     {
         "title": "A compiler and verifier for page access oblivious computation.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106248",
@@ -601,7 +601,7 @@
     },
     {
         "title": "Automatic generation of inter-component communication exploits for Android applications.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106286",
@@ -611,7 +611,7 @@
     },
     {
         "title": "OASIS: prioritizing static analysis warnings for Android apps based on app user reviews.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106294",
@@ -621,7 +621,7 @@
     },
     {
         "title": "Recovering clear, natural identifiers from obfuscated JS names.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106289",
@@ -631,7 +631,7 @@
     },
     {
         "title": "DESCRY: reproducing system-level concurrency failures.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106266",
@@ -641,7 +641,7 @@
     },
     {
         "title": "Reproducing concurrency failures from crash stacks.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106292",
@@ -651,7 +651,7 @@
     },
     {
         "title": "Automatically analyzing groups of crashes for finding correlations.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106306",
@@ -661,7 +661,7 @@
     },
     {
         "title": "Automatic inference of code transforms for patch generation.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106253",
@@ -671,7 +671,7 @@
     },
     {
         "title": "A feasibility study of using automated program repair for introductory programming assignments.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106262",
@@ -681,7 +681,7 @@
     },
     {
         "title": "Automatically diagnosing and repairing error handling bugs in C.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106300",
@@ -691,7 +691,7 @@
     },
     {
         "title": "Are deep neural networks the best choice for modeling source code?",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106290",
@@ -701,7 +701,7 @@
     },
     {
         "title": "Understanding the impact of support for iteration on code search.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106293",
@@ -711,7 +711,7 @@
     },
     {
         "title": "LAMP: data provenance for graph based machine learning algorithms through derivative computation.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106291",
@@ -721,7 +721,7 @@
     },
     {
         "title": "More accurate recommendations for method-level changes.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106276",
@@ -731,7 +731,7 @@
     },
     {
         "title": "Regression test selection across JVM boundaries.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106297",
@@ -741,7 +741,7 @@
     },
     {
         "title": "Measuring the cost of regression testing in practice: a study of Java projects using continuous integration.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106288",
@@ -751,7 +751,7 @@
     },
     {
         "title": "Better test cases for better automated program repair.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3106274",
@@ -761,7 +761,7 @@
     },
     {
         "title": "When program analysis meets mobile security: an industrial study of misusing Android internet sockets.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117764",
@@ -771,7 +771,7 @@
     },
     {
         "title": "File-level vs. module-level regression test selection for .NET.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117763",
@@ -781,7 +781,7 @@
     },
     {
         "title": "Record and replay for Android: are we there yet in industrial cases?",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117769",
@@ -791,7 +791,7 @@
     },
     {
         "title": "Model-driven software engineering in practice: privacy-enhanced filtering of network traffic.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117777",
@@ -801,7 +801,7 @@
     },
     {
         "title": "Strong agile metrics: mining log data to determine predictive power of software metrics for continuous delivery teams.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117779",
@@ -811,7 +811,7 @@
     },
     {
         "title": "Screening heuristics for project gating systems.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117766",
@@ -821,7 +821,7 @@
     },
     {
         "title": "Natural language querying in SAP-ERP platform.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117765",
@@ -831,7 +831,7 @@
     },
     {
         "title": "Serverless computing: economic and architectural impact.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117767",
@@ -841,7 +841,7 @@
     },
     {
         "title": "What do software engineers care about? gaps between research and practice.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117778",
@@ -851,7 +851,7 @@
     },
     {
         "title": "Reference architectures and Scrum: friends or foes?",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117773",
@@ -861,7 +861,7 @@
     },
     {
         "title": "Guidelines for adopting frontend architectures and patterns in microservices-based systems.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117775",
@@ -871,7 +871,7 @@
     },
     {
         "title": "Improving understanding of dynamically typed software developed by agile practitioners.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117772",
@@ -881,7 +881,7 @@
     },
     {
         "title": "Automated identification of security issues from commit messages and bug reports.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117771",
@@ -891,7 +891,7 @@
     },
     {
         "title": "LaChouTi: kernel vulnerability responding framework for the fragmented Android devices.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117768",
@@ -901,7 +901,7 @@
     },
     {
         "title": "Applying deep learning based automatic bug triager to industrial projects.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117776",
@@ -911,7 +911,7 @@
     },
     {
         "title": "Static analysis for optimizing big data queries.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117774",
@@ -921,7 +921,7 @@
     },
     {
         "title": "Automated testing of hybrid Simulink/Stateflow controllers: industrial case studies.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3117770",
@@ -931,7 +931,7 @@
     },
     {
         "title": "QEMU-based framework for non-intrusive virtual machine instrumentation and introspection.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122817",
@@ -941,7 +941,7 @@
     },
     {
         "title": "RunDroid: recovering execution call graphs for Android applications.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122821",
@@ -951,7 +951,7 @@
     },
     {
         "title": "RGSE: a regular property guided symbolic executor for Java.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122830",
@@ -961,7 +961,7 @@
     },
     {
         "title": "A tool for automated reasoning about traces based on configurable formal semantics.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122825",
@@ -971,7 +971,7 @@
     },
     {
         "title": "VART: a tool for the automatic detection of regression faults.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122819",
@@ -981,7 +981,7 @@
     },
     {
         "title": "DynAlloy analyzer: a tool for the specification and analysis of alloy models with dynamic behaviour.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122826",
@@ -991,7 +991,7 @@
     },
     {
         "title": "From scenario modeling to scenario programming for reactive systems with dynamic topology.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122827",
@@ -1001,7 +1001,7 @@
     },
     {
         "title": "CLTSA: labelled transition system analyser with counting fluent support.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122828",
@@ -1011,7 +1011,7 @@
     },
     {
         "title": "The MONDO collaboration framework: secure collaborative modeling over existing version control systems.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122829",
@@ -1021,7 +1021,7 @@
     },
     {
         "title": "Model-based privacy and security analysis with CARiSMA.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122823",
@@ -1031,7 +1031,7 @@
     },
     {
         "title": "Cherry-picking of code commits in long-running, multi-release software.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122818",
@@ -1041,7 +1041,7 @@
     },
     {
         "title": "ARCC: assistant for repetitive code comprehension.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122824",
@@ -1051,7 +1051,7 @@
     },
     {
         "title": "JoanAudit: a tool for auditing common injection vulnerabilities.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122822",
@@ -1061,7 +1061,7 @@
     },
     {
         "title": "XSearch: a domain-specific cross-language relevant question retrieval tool.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3122820",
@@ -1071,7 +1071,7 @@
     },
     {
         "title": "Using search-based software engineering to handle the changes with uncertainties for self-adaptive systems.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119871",
@@ -1081,7 +1081,7 @@
     },
     {
         "title": "DRACO: discovering refactorings that improve architecture using fine-grained co-change dependencies.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119872",
@@ -1091,7 +1091,7 @@
     },
     {
         "title": "User- and analysis-driven context aware software development in mobile computing.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119873",
@@ -1101,7 +1101,7 @@
     },
     {
         "title": "Recommender system for model driven software development.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119874",
@@ -1111,7 +1111,7 @@
     },
     {
         "title": "On the similarity of software development documentation.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119875",
@@ -1121,7 +1121,7 @@
     },
     {
         "title": "Application of search-based software engineering methodologies for test suite optimization and evolution in mission critical mobile application development.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119876",
@@ -1131,7 +1131,7 @@
     },
     {
         "title": "Summarizing software engineering communication artifacts from different sources.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119877",
@@ -1141,7 +1141,7 @@
     },
     {
         "title": "Model-based dynamic software project scheduling.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119879",
@@ -1151,7 +1151,7 @@
     },
     {
         "title": "System performance optimization via design and configuration space exploration.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3119880",
@@ -1161,7 +1161,7 @@
     },
     {
         "title": "Suggesting meaningful variable names for decompiled code: a machine translation approach.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121274",
@@ -1171,7 +1171,7 @@
     },
     {
         "title": "Practical symbolic verification of regular properties.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121275",
@@ -1181,7 +1181,7 @@
     },
     {
         "title": "FOSS version differentiation as a benchmark for static analysis security testing tools.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121276",
@@ -1191,7 +1191,7 @@
     },
     {
         "title": "DecisionDroid: a supervised learning-based system to identify cloned Android applications.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121277",
@@ -1201,7 +1201,7 @@
     },
     {
         "title": "Reasons and drawbacks of using trivial npm packages: the developers' perspective.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121278",
@@ -1211,7 +1211,7 @@
     },
     {
         "title": "Detecting wearable app permission mismatches: a case study on Android wear.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121279",
@@ -1221,7 +1221,7 @@
     },
     {
         "title": "Automating traceability link recovery through classification.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121280",
@@ -1231,7 +1231,7 @@
     },
     {
         "title": "Improving performance of automatic program repair using learned heuristics.",
-        "venue_name": "fse",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
         "year": 2017,
         "venue_type": "conf",
         "url": "https://doi.org/10.1145/3106237.3121281",
