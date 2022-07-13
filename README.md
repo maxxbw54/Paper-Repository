@@ -12,6 +12,7 @@
 
 - TSE
 - TOSEM
+- ESE (a.k.a. EMSE)
 
 
 ## Template for `AnalyticalQueriesWithAns` and `SearchQueriesWithAns`
