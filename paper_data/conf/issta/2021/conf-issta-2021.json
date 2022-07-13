@@ -1,0 +1,592 @@
+[
+    {
+        "title": "Automated debugging: past, present, and future (ISSTA impact paper award).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3472397",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying privacy weaknesses from multi-party trigger-action integration platforms.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464838",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "WebEvo: taming web application evolution via detecting semantic structure changes.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464800",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Modular call graph construction for security scanning of Node.js applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464836",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Attack as defense: characterizing adversarial examples using robustness.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464822",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exposing previously undetectable faults in deep neural networks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464801",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepCrime: mutation testing of deep learning systems based on real faults.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464825",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepHyperion: exploring the feature space of deep learning-based systems through illumination search.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464811",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic test suite generation for key-points detection DNNs using many-objective search (experience paper).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464802",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient white-box fairness testing through gradient search.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464820",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DialTest: automated testing for recurrent-neural-network-driven dialogue systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464829",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AdvDoor: adversarial backdoor attack of deep learning system.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464809",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ModelDiff: testing-based DNN similarity comparison for model reuse detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464816",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Parema: an unpacking framework for demystifying VM-based Android packers.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464839",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An infrastructure approach to improving effectiveness of Android UI testing tools.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464828",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic matching of GUI events for test reuse: are we there yet?",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464827",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "GUIDER: GUI structure and vision co-guided test script repair for Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464830",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding and finding system setting-related defects in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464806",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "HomDroid: detecting Android covert malware by social-network homophily analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464833",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Seed selection for successful fuzzing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464795",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Gramatron: effective grammar-aware fuzzing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464814",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "QFuzz: quantitative fuzzing for side channels.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464817",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SAND: a static analysis approach for detecting SQL antipatterns.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464818",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic table structure identification in spreadsheets.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464812",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Runtime detection of memory errors with smart status.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464807",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "UAFSan: an object-identifier-based dynamic approach for detecting use-after-free vulnerabilities.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464835",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fuzzing SMT solvers via two-dimensional input space exploration.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464803",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Boosting symbolic execution via constraint solving time prediction (experience paper).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464813",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Synthesize solving strategy for symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464815",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Type and interval aware array constraint solving for symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464826",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Grammar-agnostic symbolic execution by token symbolization.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464845",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Interval constraint-based mutation testing of numerical specifications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464808",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predoo: precision testing of deep learning operators.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464843",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TERA: optimizing stochastic regression tests in machine learning projects.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464844",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Deep just-in-time defect prediction: how far are we?",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464819",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fixing dependency errors for Python build reproducibility.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464797",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test-case prioritization for configuration testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464810",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The impact of tool configuration spaces on the evaluation of configurable taint analysis for Android.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464823",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Challenges and opportunities: an in-depth empirical study on configuration error injection testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464799",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Empirically evaluating readily available information for regression test optimization in continuous integration.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464834",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Toward optimal mc/dc test case generation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464841",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Log-based slicing for system-level test cases.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464824",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Model-based testing of networked applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464798",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Validating static warnings via testing code fragments.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464832",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Continuous test suite failure prediction.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464840",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Empirical evaluation of smart contract testing: what is the best choice?",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464837",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "iDEV: exploring and exploiting semantic deviations in ARM instruction processing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464842",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "RAProducer: efficiently diagnose and reproduce data race bugs for binaries via trace analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464831",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A lightweight framework for function name reassignment based on large-scale stripped binaries.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464804",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding data compatibility bugs with JSON subschema checking.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464796",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated patch backporting in Linux (experience paper).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464821",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Faster, deeper, easier: crowdsourcing diagnosis of microservice kernel failure from user space.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3464805",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "echidna-parade: a tool for diverse multicore smart contract fuzzing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469076",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ProFuzzBench: a benchmark for stateful protocol fuzzing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469077",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SCStudio: a secure and efficient integrated development environment for smart contracts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469078",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "C4: the C compiler concurrency checker.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469079",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TauMed: test augmentation of deep learning in medical diagnosis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469080",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MoScan: a model-based vulnerability scanner for web single sign-on services.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469081",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "RESTest: automated black-box testing of RESTful web APIs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2021,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3460319.3469082",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

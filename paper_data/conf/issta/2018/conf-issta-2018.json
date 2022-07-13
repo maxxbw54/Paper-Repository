@@ -1,0 +1,382 @@
+[
+    {
+        "title": "Test input generation with Java PathFinder: then and now (invited talk abstract).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3234687",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lightweight verification of array indexing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213849",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Eliminating timing side-channel leaks using program repair.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213851",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Symbolic path cost analysis for side-channel detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213867",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Safe and sound program analysis with Flix.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213847",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test case prioritization for acceptance testing of cyber physical systems: a multi-objective search-based approach.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213852",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Bench4BL: reproducibility study on the performance of IR-based bug localization.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213856",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated test mapping and coverage for network topologies.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213859",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluating test-suite reduction in real software evolution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213875",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Compiler fuzzing through deep learning.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213848",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Deep specification mining.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213876",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying implementation bugs in machine learning based image classifiers using metamorphic testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213858",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study on TensorFlow program bugs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213866",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatically translating bug reports into test cases for mobile apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213869",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CiD: automating the detection of API-related compatibility issues in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213857",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test migration for efficient large-scale assessment of mobile app coding assignments.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213854",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analyzing the analyzers: FlowDroid/IccTA, AmanDroid, and DroidSafe.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213873",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Repositioning of static analysis alarms.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213850",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Shooting from the heap: ultra-scalable static analysis with heap snapshots.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213860",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static analysis of Java dynamic proxies.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213864",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practical detection of concurrency issues at coding time.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213853",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Tests from traces: automated unit test extraction for R.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213863",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Translating code comments to procedure specifications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213872",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PerfFuzz: automatically generating pathological inputs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213874",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Search-based detection of deviation failures in the migration of legacy spreadsheet applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213861",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Making data-driven porting decisions with Tuscan.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213855",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Comparing developer-provided to user-provided tests for fault localization and automated program repair.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213870",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Shaping program repair space with existing patches and similar code.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213871",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213865",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Badger: complexity analysis with fuzzing and symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213868",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exploiting community structure for floating-point precision tuning.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213862",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "piCoq: parallel regression proving for large-scale verification projects.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3213877",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Advances in the ANaConDA framework for dynamic analysis and testing of concurrent C/C++ programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3229505",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "LAND: a user-friendly and customizable test generation tool for Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3229500",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Managing concurrent testing of data race with ComRaDe.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3229502",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "OASIs: oracle assessment and improvement tool.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3229503",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mutode: generic JavaScript and Node.js mutation testing tool.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3229504",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MalViz: an interactive visualization tool for tracing malware.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2018,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/3213846.3229501",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]
