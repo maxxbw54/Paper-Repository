@@ -7,6 +7,7 @@
 - ICSE
 - ASE
 - FSE
+- ISSTA
 
 ### Journals
 
