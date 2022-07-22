@@ -18,7 +18,7 @@
 
 ## Instruction on running the Script [keyword.py](scripts/search/keywords.py) for search purpose (key word mapping on title field)
 
-- Modify the [conditions](scripts/search/keywords.py#L31) based on your need
+- Modify the [conditions](scripts/search/keywords.py#L37) based on your need
 - Run the script
 
 Example Query:
