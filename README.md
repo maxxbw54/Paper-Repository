@@ -16,9 +16,9 @@
 - ESE (a.k.a. EMSE)
 
 
-## Instruction on running the Script for search purpose (key word mapping on title field)
+## Instruction on running the Script [keyword.py](scripts/search/keywords.py) for search purpose (key word mapping on title field)
 
-- Modify the keywords based on your need
+- Modify the [conditions](scripts/search/keywords.py#L31) based on your need
 - Run the script
 
 Example Query:
