@@ -1,9 +1,34 @@
 # Created by Bowen Xu at 8/6/22
 
-from path_config import DATA_DIR
 import os
 import json
-from utils.paper_list_analyzer import stats_for_paper_list
+from os.path import dirname, abspath
+
+DATA_DIR = os.path.join(
+    dirname(dirname(dirname(abspath(__file__)))), 'paper_data')
+
+
+def stats_for_paper_list(paper_list):
+    venue_stats = dict()
+    year_stats = dict()
+    venue_type_stats = dict()
+    for paper in paper_list:
+        if paper['venue_name'] in venue_stats:
+            venue_stats[paper['venue_name']] += 1
+        else:
+            venue_stats[paper['venue_name']] = 1
+
+        if paper['year'] in year_stats:
+            year_stats[paper['year']] += 1
+        else:
+            year_stats[paper['year']] = 1
+
+        if paper['venue_type'] in venue_type_stats:
+            venue_type_stats[paper['venue_type']] += 1
+        else:
+            venue_type_stats[paper['venue_type']] = 1
+
+    return venue_stats, year_stats, venue_type_stats
 
 
 def search(keywords, attribute, yrs_range):
@@ -43,7 +68,8 @@ def main():
     res = search(keywords, attribute, yrs_range)
 
     for idx, paper in enumerate(res):
-        paper = {k: v for k, v in paper.items() if v is not None and k in display_attributes}
+        paper = {k: v for k, v in paper.items(
+        ) if v is not None and k in display_attributes}
         print("Paper #{0}\n{1}\n".format(
             idx, json.dumps(paper, sort_keys=True, indent=4)))
 
