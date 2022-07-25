@@ -1,0 +1,492 @@
+[
+    {
+        "title": "Runtime prevention of concurrency related type-state violations in multithreaded applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610405",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Performance regression testing of concurrent classes.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610393",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verifying atomicity via data independence.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610402",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verification-aided regression testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610387",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hybrid security analysis of web JavaScript code via dynamic partial evaluation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610385",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Virtual DOM coverage for effective testing of dynamic web applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610399",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DOM-based test adequacy criteria for web applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610406",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cross-platform feature matching for web applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610409",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Covrig: a framework for the analysis of code, test, and coverage evolution in real software.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610419",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CoREBench: studying complexity of regression errors.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628058",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ARC++: effective typestate and lifetime dependency analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610395",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A type system for format strings.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610417",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scalable detection of missed cross-function refactorings.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610394",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Tailored source code transformations to synthesize computationally diverse program variants.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610415",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using test case reduction and prioritization to improve symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610392",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FLOWER: optimal test suite reduction as a network maximum flow.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610416",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Coverage and fault detection of the output-uniqueness test selection criteria.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610413",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dodona: automated oracle data set selection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610408",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CrashLocator: locating crashing faults based on crash stacks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610386",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient predicated bug signature mining via hierarchical instrumentation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610400",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic differential repair for input validation and sanitization.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610401",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic repair for multi-threaded programs with Deadlock/Livelock using maximum satisfiability.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610398",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Make it work, make it right, make it fast: building a platform-neutral whole-system dynamic binary analysis platform.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610407",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated testing for SQL injection vulnerabilities: an input mutation approach.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610403",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reducing GUI test suites via program slicing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610391",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SunCat: helping developers understand and predict performance problems in smartphone applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610410",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A variability-based testing approach for synthesizing video sequences.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610411",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Robust test automation using contextual clues.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610390",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient mutation analysis by propagating and partitioning infected execution states.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610388",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lightweight automated detection of unsafe information leakage via exceptions.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610412",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Integrated energy-directed test suite optimization.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610414",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying optimal trade-offs between CPU time usage and temporal constraints using search.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610396",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Feedback-driven dynamic invariant discovery.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610389",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Link: exploiting the web of data to generate test inputs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610397",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Empirically revisiting the test independence assumption.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610404",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study of injected versus actual interface errors.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2610418",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Legend: an agile DSL toolset for web acceptance testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628048",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ProCrawl: mining test models from multi-user web applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628051",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "X-PERT: a web application testing tool for cross-browser inconsistency detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628057",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Extending a search-based test generator with adaptive dynamic symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628049",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Canalyze: a static bug-finding tool for C programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628050",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MuCheck: an extensible tool for mutation testing of haskell programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628052",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The major mutation framework: efficient and scalable mutation analysis for Java.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628053",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Defects4J: a database of existing faults to enable controlled testing studies for Java programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628055",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A format string checker for Java.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628056",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Constructing coding duels in Pex4Fun and code hunt.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2628054",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reusing constraint proofs for scalable program analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2631831",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Effective test generation and adequacy assessment for JavaScript-based web applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2631832",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient statistical debugging via hierarchical instrumentation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2610384.2631833",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

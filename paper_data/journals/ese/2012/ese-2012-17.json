@@ -1,0 +1,272 @@
+[
+    {
+        "title": "Special issue on repeatable results in software engineering prediction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9193-5",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The difficulties of building generic reliability models for software.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9184-6",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Validity and reliability of evaluation procedures in comparative studies of effort prediction models.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9183-7",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A permutation test based on regression error characteristic curves for software cost estimation models.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9177-5",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the dataset shift problem in software engineering prediction models.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9182-8",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the reproducibility of empirical software engineering studies based on data retrieved from development repositories.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9181-9",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A replicated assessment and comparison of adaptation techniques for analogy-based effort estimation.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9176-6",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Location pairs: a test coverage metric for shared-memory concurrent programs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9166-8",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A qualitative human-centric evaluation of flexibility in middleware implementations.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9167-7",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The ability of object-oriented metrics to predict change-proneness: a meta-analysis.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9170-z",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An exploratory study of the impact of antipatterns on class change- and fault-proneness.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9171-y",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Program comprehension of domain-specific and general-purpose languages: comparison using a family of experiments.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9172-x",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Replication of an experiment on linguistic tool support for consolidation of requirements from multiple sources.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9174-8",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Introduction to the special issue on software repository mining in 2009.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9188-2",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Time variance and defect prediction in software projects - Towards an exploitation of periods of stability and change as well as a notion of concept drift in software projects.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9180-x",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the use of calling structure information to improve fault prediction.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9165-9",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analyzing and mining a code search engine usage log.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-010-9144-6",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Refining code ownership with synchronous changes.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-010-9145-5",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Introduction to the Special Issue on Mining Software Repositories in 2010.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9206-z",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Clones: what is that smell?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9195-3",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluating defect prediction approaches: a benchmark and an extensive comparison.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9173-9",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The evolution of Java build systems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9169-5",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Developing a grounded theory to explain the practices of self-organizing Agile teams.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9161-0",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Computer-mediated communication to support distributed requirements elicitations and negotiations tasks.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9179-3",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Strengths and barriers behind the successful agile deployment - insights from the three software intensive companies in Finland.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9185-5",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "What should developers be aware of? An empirical study on the directives of API documentation.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9186-4",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Software development effort prediction of industrial projects applying a general regression neural network.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2012,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-011-9192-6",
+        "volume": "17",
+        "abstract": null,
+        "keywords": null
+    }
+]

@@ -1,6 +1,6 @@
 # Top-tier-SE-Paper-Repository
 
-## Living Coverage/Scope
+## Living Coverage/Scope (from 2012-2022)
 
 ### Conferences
 
@@ -14,7 +14,6 @@
 - TSE
 - TOSEM
 - ESE (a.k.a. EMSE)
-
 
 ## Instruction on running the Script [keyword.py](scripts/search/keywords.py) for search purpose (key word mapping on target attribute)
 

@@ -1,11 +1,62 @@
 # Created by Bowen Xu at 8/6/22
 
+'''
+Current supporting filters with examples (set in main()):
+1. keyword(s)
+keywords = {'ecosystem'}
+
+2. mapping to a target attribute
+attribute = 'title'
+
+3. search within certain venue(s)  # see KEY in the venue_type_dict
+search_scope=['ase', 'icse', 'issta']
+
+4. search within certain year(s)
+yrs_range = [str(i) for i in range(2017, 2023)]
+
+5. result with display attribute(s)
+display_attributes = ['title', 'url', 'venue_name', 'venue_type', 'year']
+'''
+
 import os
-import json
 from os.path import dirname, abspath
+import json
 
 DATA_DIR = os.path.join(
     dirname(dirname(dirname(abspath(__file__)))), 'paper_data')
+
+venue_type_dict = {'icse': {'full_name': 'International Conference on Software Engineering', 'type': 'conf', 'alias_in_dblp': 'icse'},
+                   'fse': {'full_name': 'The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering', 'type': 'conf', 'alias_in_dblp': 'sigsoft'},
+                   'ase': {'full_name': 'IEEE/ACM International Conference on Automated Software Engineering', 'type': 'conf', 'alias_in_dblp': 'kbse'},
+                   'issta': {'full_name': 'International Symposium on Software Testing and Analysis', 'type': 'conf', 'alias_in_dblp': 'issta'},
+                   'tse': {'full_name': 'IEEE Transactions on Software Engineering', 'type': 'journals', 'alias_in_dblp': 'tse'},
+                   'tosem': {'full_name': 'ACM Transactions on Software Engineering and Methodology', 'type': 'journals', 'alias_in_dblp': 'tosem'},
+                   'ese': {'full_name': 'Empirical Software Engineering', 'type': 'journals', 'alias_in_dblp': 'ese'}}
+
+
+def main():
+    # conditions
+    keywords = {'ecosystem'}
+    attribute = 'title'
+    display_attributes = ['title', 'url', 'venue_name', 'venue_type', 'year']
+    search_scope = ['ase', 'icse', 'issta','tse']
+    yrs_range = [str(i) for i in range(2017, 2023)]
+
+    res = search(keywords, search_scope, attribute, yrs_range)
+
+    for idx, paper in enumerate(res):
+        paper = {k: v for k, v in paper.items(
+        ) if v is not None and k in display_attributes}
+        print("Paper #{0}\n{1}\n".format(
+            idx, json.dumps(paper, sort_keys=True, indent=4)))
+
+    # print stats
+    print("counts: {0}".format(len(res)))
+    venue_stats, year_stats, venue_type_stats = stats_for_paper_list(res)
+    print("venue_stats:\n{0}\n\n".format(json.dumps(venue_stats, indent=4)))
+    print("year_stats:\n{0}\n\n".format(json.dumps(year_stats, indent=4)))
+    print("venue_type_stats:\n{0}\n".format(
+        json.dumps(venue_type_stats, indent=4)))
 
 
 def stats_for_paper_list(paper_list):
@@ -30,14 +81,15 @@ def stats_for_paper_list(paper_list):
 
     return venue_stats, year_stats, venue_type_stats
 
-
-def search(keywords, attribute, yrs_range):
+def search(keywords, search_scope, attribute, yrs_range):
     res = []
     for venue_type in os.listdir(DATA_DIR):
         venue_type_dir = os.path.join(DATA_DIR, venue_type)
         if not os.path.isdir(venue_type_dir):
             continue
         for venue_name in os.listdir(venue_type_dir):
+            if venue_name not in search_scope:
+                continue
             venue_dir = os.path.join(venue_type_dir, venue_name)
             if not os.path.isdir(venue_dir):
                 continue
@@ -56,30 +108,6 @@ def search(keywords, attribute, yrs_range):
                             break
 
     return res
-
-
-def main():
-    # conditions
-    keywords = {'how far are we'}
-    attribute = 'title'
-    display_attributes = ['title', 'url', 'venue_name', 'venue_type', 'year']
-    yrs_range = [str(i) for i in range(2017, 2023)]
-
-    res = search(keywords, attribute, yrs_range)
-
-    for idx, paper in enumerate(res):
-        paper = {k: v for k, v in paper.items(
-        ) if v is not None and k in display_attributes}
-        print("Paper #{0}\n{1}\n".format(
-            idx, json.dumps(paper, sort_keys=True, indent=4)))
-
-    # print stats
-    print("counts: {0}".format(len(res)))
-    venue_stats, year_stats, venue_type_stats = stats_for_paper_list(res)
-    print("venue_stats:\n{0}\n\n".format(json.dumps(venue_stats, indent=4)))
-    print("year_stats:\n{0}\n\n".format(json.dumps(year_stats, indent=4)))
-    print("venue_type_stats:\n{0}\n".format(
-        json.dumps(venue_type_stats, indent=4)))
 
 
 if __name__ == '__main__':

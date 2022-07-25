@@ -1,0 +1,372 @@
+[
+    {
+        "title": "Editorial - looking back.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2431201",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Editorial - looking forward.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2431202",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Modeling and verifying hierarchical real-time systems using stateful timed CSP.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430537",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Views: Synthesizing fine-grained concurrency control.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430538",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Facilitating the transition from use case models to analysis models: Approach and experiments.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430539",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Achieving scalable model-based testing through test case diversity.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430540",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting missing method calls as violations of the majority rule.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430541",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scaling predictive analysis of concurrent programs by removing trace redundancy.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430542",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Synthesizing nonanomalous event-based controllers for liveness goals.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430536.2430543",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ConMem: Detecting Crash-Triggering Concurrency Bugs through an Effect-Oriented Approach.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430545.2430546",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Business Process Model Merging: An Approach to Business Process Consolidation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430545.2430547",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Personalized Reliability Prediction of Web Services.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430545.2430548",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated Comparison of State-Based Software Models in Terms of Their Language and Structure.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430545.2430549",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An Information Foraging Theory Perspective on Tools for Debugging, Refactoring, and Reuse Tasks.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430545.2430551",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verification across Intellectual Property Boundaries.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2430545.2430550",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Precise memory leak detection for java software using container profiling.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491511",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Marple: Detecting faults in path segments using automatically generated analyses.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491512",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fault localization prioritization: Comparing information-theoretic and coverage-based approaches.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491513",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Bounded satisfiability checking of metric temporal logic specifications.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491514",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The value of design rationale information.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491515",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Trading obliviousness for modularity with cooperative aspect-oriented programming.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491516",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An algebra of design patterns.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491517",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finite satisfiability of UML class diagrams with constrained class hierarchy.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491518",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Enabledness-based program abstractions for behavior validation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491519",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using a functional size measurement procedure to evaluate the quality of models in MDD environments.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491520",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Use case and task models: An integrated development methodology and its formal foundation.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2491509.2491521",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test-and-adapt: An approach for improving service interchangeability.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522921",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A methodology for testing CPU emulators.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522922",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exception handlers for healing component-based systems.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522923",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A theoretical analysis of the risk evaluation formulas for spectrum-based fault localization.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522924",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Path exploration based on symbolic output.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522925",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Path- and index-sensitive string analysis based on monadic second-order logic.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522926",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On software component co-installability.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522927",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Software effort estimation as a multiobjective learning problem.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522928",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A web-centred approach to end-user software engineering.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522929",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Portfolio: Searching for relevant functions and their usages in millions of lines of code.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522930",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluating a query framework for software evolution data.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2013,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2522920.2522931",
+        "volume": "22",
+        "abstract": null,
+        "keywords": null
+    }
+]

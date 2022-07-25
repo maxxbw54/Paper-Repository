@@ -1,0 +1,412 @@
+[
+    {
+        "title": "DEKANT: a static analysis tool that learns to detect web application vulnerabilities.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931041",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated and effective testing of web services for XML injection attacks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931042",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Binary code is not easy.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931047",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Specification of concretization and symbolization policies in symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931048",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "EagerMerge: an optimistic technique for efficient points-to analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931045",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "IPA: improving predictive analysis with pointer analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931046",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generating focused random tests using directed swarm testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931056",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Monkey see, monkey do: effective generation of GUI tests with inferred macro events.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931053",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Sapienz: multi-objective automated testing for Android applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931054",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FSX: fine-grained incremental unit test generation for C/C++ programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931055",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CSNIPPEX: automated synthesis of compilable code snippets from Q&A sites.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931058",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic test case generation: what if test code quality matters?",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931057",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analyzing test completeness for dynamic languages.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931059",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Unveiling anomalies and their impact on software quality in model-based automotive software revisions with software metrics and domain experts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931060",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practitioners' expectations on automated fault localization.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931051",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A learning-to-rank based fault localization approach using likely invariants.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931049",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Optimal sanitization synthesis for web application vulnerability repair.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931050",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ARROW: automated repair of races on client-side web pages.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931052",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic generation of oracles for exceptional behaviors.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931061",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verdict machinery: on the need to automatically make sense of test results.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931064",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Testing stochastic software using pseudo-oracles.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931063",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test oracle assessment and improvement.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931062",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DSI: an evidence-based approach to identify dynamic data structures in C programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931071",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Documenting database usages and schema constraints in database-centric applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931072",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exploring regular expression usage and context in Python.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931073",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Toward understanding compiler bugs in GCC and LLVM.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931074",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic modelling of Android malware for effective malware comprehension, detection, and classification.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931043",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DroidRA: taming reflection to support whole-program analysis of Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931044",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mutation-aware fault prediction.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931039",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predictive mutation testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931038",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Threats to the validity of mutation-based test assessment.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931040",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient race detection in the presence of programmatic event loops.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931068",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatically verifying and reproducing event-based races in Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931069",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SyncProf: detecting, localizing, and optimizing synchronization bottlenecks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931070",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Zero-overhead profiling via EM emanations.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931065",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient flow profiling for detecting performance bugs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931066",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Energy-aware test-suite minimization for Android apps.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2931067",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "COSTOTest: a tool for building and running test harness for service-based component models (demo).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2948704",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ASTOR: a program repair library for Java (demo).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2948705",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Jolinar: analysing the energy footprint of software applications (demo).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2948706",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PIT: a practical mutation testing tool for Java (demo).",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2931037.2948707",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

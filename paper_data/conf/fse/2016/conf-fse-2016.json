@@ -1,0 +1,1432 @@
+[
+    {
+        "title": "\"Womenomics\" and gender-inclusive software: what software engineers need to know (invited talk).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994159",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Building a socio-technical theory of coordination: why and how (outstanding research award).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994160",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Correct or usable? the limits of traditional verification (impact paper award).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994161",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Continuous deployment of mobile software at facebook (showcase).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994157",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Model, execute, and deploy: answering the hard questions in end-user programming (showcase).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994158",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Making invisible things visible: tracking down known vulnerabilities at 3000 companies (showcase).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994155",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Developer workflow at google (showcase).",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2994156",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Titanium: efficient analysis of evolving alloy specifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950337",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining performance specifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950314",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Designing minimal effective normative systems with the help of lightweight formal methods.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950307",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Proteus: computing disjunctive loop summary via path dependency analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950340",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A cross-tool communication study on program analysis tool notifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950304",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Factors influencing code review processes in industry.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950323",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Foraging and navigations, fundamentally: developers' predictions of value and cost.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950302",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How to break an API: cost negotiation and community values in three software ecosystems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950325",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Python predictive analysis for bug detection.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950357",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Crash consistency validation made easy.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950327",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Discovering bug patterns in JavaScript.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950308",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950353",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting sensitive data disclosure via bi-directional text correlation analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950348",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-representational security analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950356",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "String analysis for side channels with segmented oracles.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950362",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "WebRanz: web page randomization for better advertisement delivery and web-bot prevention.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950352",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A discrete-time feedback controller for containerized cloud applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950328",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Keep it SIMPLEX: satisfying multiple goals with guarantees in control-based self-adaptive systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950301",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated change impact analysis between SysML models of requirements and design.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950293",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Parameter-free probabilistic API mining across GitHub.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950319",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "API deprecation: a retrospective analysis and detection method for code examples on the web.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950298",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "When should internal interfaces be promoted to public?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950306",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "POLLUX: safely upgrading dependent application libraries.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950345",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Extracting instruction semantics via symbolic execution of code generators.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950335",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient generation of inductive validity cores for safety properties.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950346",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Correctness witnesses: exchanging verification results between verifiers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950351",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SMT-based verification of parameterized systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950330",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On-the-fly decomposition of specifications in software model checking.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950349",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On well-separation of GR(1) specifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950300",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lightweight specification and analysis of dynamic systems with rich configurations.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950318",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Gray links in the use of requirements traceability.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950354",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding and detecting wake lock misuses for Android applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950297",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DiagDroid: Android performance diagnosis via anatomizing asynchronous executions.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950316",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Minimizing GUI event traces.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950342",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Causal impact analysis for app releases in google play.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950320",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static DOM event dependency analysis for testing web applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950292",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On-demand strong update analysis via value-flow refinement.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950296",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Call graph construction for Java libraries.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950312",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Revamping JavaScript static analysis via localization and remediation of root causes of imprecision.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950338",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "What would users change in my app? summarizing app reviews for recommending software changes.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950299",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "API code recommendation using statistical learning from fine-grained changes.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950333",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TIPMerge: recommending experts for integrating changes across branches.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950339",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Interactive and guided architectural refactoring with search-based recommendation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950317",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Can testedness be effectively measured?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950324",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A large-scale empirical comparison of static and dynamic test case prioritization techniques.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950344",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analyzing the validity of selective mutation with dominator mutants.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950322",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An extensive study of static regression test selection in modern software evolution.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950361",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PerfGuard: binary-centric application performance monitoring in production environments.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950347",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Python probabilistic type inference with natural language support.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950343",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting and fixing precision-specific operations for measuring floating-point errors.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950355",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Deep API learning.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950334",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Build system with lazy retrieval for Java projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950358",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "iGen: dynamic interaction inference for configurable software.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950311",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CacheOptimizer: helping developers configure caching frameworks for hibernate-based database-centric web applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950303",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BinGo: cross-architecture cross-OS binary search.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950350",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Relationship-aware code search for JavaScript frameworks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950341",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Code relatives: detecting similarly behaving software.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950321",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding and generating high quality patches for concurrency bugs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950309",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Anti-patterns in search-based program repair.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950295",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semi-supervised verified feedback generation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950363",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "WATERFALL: an incremental approach for repairing record-replay tests of web applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950294",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficiency of projectional editing: a controlled experiment.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950315",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ECHO: instantaneous in situ race detection in the IDE.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950332",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting table clones and smells in spreadsheets.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950359",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Flow-sensitive composition of thread-modular abstract interpretation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950291",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A deployable sampling strategy for data race detection.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950310",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Online shared memory dependence reduction via bisectional coordination.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950326",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Parallel data race detection for task parallel programs with locks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950329",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Paradise unplugged: identifying barriers for female participation on stack overflow.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950331",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Why we refactor? confessions of GitHub contributors.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950305",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Effectiveness of code contribution: from patch-based to pull-request-based tools.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950364",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Isomorphic regression testing: executing uncovered branches without test augmentation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950313",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Directed test generation to detect loop inefficiencies.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950360",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Field-exhaustive testing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2950336",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Sustainable software design.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983983",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Designing for dystopia: software engineering research for the post-apocalypse.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983986",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Disrupting developer productivity one bot at a time.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983989",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Training the future workforce through task curation in an OSS ecosystem.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983984",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reaching the masses: a new subdiscipline of app programmer education.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983981",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Studying developer gaze to empower software engineering research and practice.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983988",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DeepSoft: a vision for a deep model of software.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983985",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Budgeted testing through an algorithmic lens.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983987",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reasoning with imprecise privacy preferences.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983982",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Bing developer assistant: improving developer productivity by recommending sample code.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983955",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cluster-based test suite functional analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983957",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A portable interface for runtime energy monitoring.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983956",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning for test prioritization: an industrial case study.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983954",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combinatorial generation of structurally complex test inputs for commercial software applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983959",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated test input generation for Android: are we really there yet in an industrial case?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983958",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "NonDex: a tool for detecting and debugging wrong assumptions on Java API specifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983932",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TIPMerge: recommending developers for merging branches.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983936",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Time-travel debugging for JavaScript/Node.js.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983933",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PUMConf: a tool to configure product specific use case and domain models in a product line.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983935",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "T2API: synthesizing API code usage templates from English texts with statistical translation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983931",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "JBSE: a symbolic executor for Java programs with complex heap inputs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983940",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ARdoc: app reviews development oriented classifier.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983938",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hunter: next-generation code reuse for Java.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983934",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BigDebug: interactive debugger for big data analytics in Apache Spark.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983930",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Visualizing code and coverage changes for code review.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983929",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "End-to-end memory behavior profiling with DINAMITE.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983941",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Validate your SPDX files for open source license violations.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983939",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FSX: a tool for fine-grained incremental unit test generation for C/C++ programs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983937",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Refactoring and migration of cascading style sheets: towards optimization and improved maintainability.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983943",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Developing a reusable control-based approach to build self-adaptive software systems with formal guarantees.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983949",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating repetitive code changes using examples.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983944",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding and improving continuous integration.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983952",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Guided code synthesis using deep neural networks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983951",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generating interactive web pages from storyboards.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983948",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Data structure synthesis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983946",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding behavioural patterns in JavaScript.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983947",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Regression testing of web applications using Record/Replay tools.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983942",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Supporting change in product lines within the context of use case-driven development and testing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983945",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Input-sensitive performance testing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983953",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the utility of dominator mutants for mutation testing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983950",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Effective assignment and assistance to software developers and reviewers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983960",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "RABIEF: range analysis based integer error fixing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983961",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fine-grained binary code authorship identification.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983962",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identifying participants for collaborative merge.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983963",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cozy: synthesizing collection data structures.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2986032",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Constraint-based event trace reduction.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983964",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic trigger generation for end user written rules for home automation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983965",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hotspot symbolic execution of floating-point programs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983966",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluation of fault localization techniques.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983967",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How should static analysis tools explain anomalies to developers?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983968",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Repairing test dependence.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983969",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combining bug detection and test case generation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983970",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SmartDebug: an interactive debug assistant for Java.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983971",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static loop analysis and its applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983972",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Social health cues developers use when choosing open source packages.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983973",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding and breaking test dependencies to speed up test execution.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983974",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic performance testing using input-sensitive profiling.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983975",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Enforcing correct array indexes with a type system.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983976",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Discovering additional violations of Java API invariants.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983977",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Preventing signedness errors in numerical computations in Java.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983978",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Bounded model checking of state-space digital systems: the impact of finite word-length effects on the implementation of fixed-point digital controllers based on state-space modeling.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983979",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Atlas: an intelligent, performant framework for web-based grid computing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2016,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2950290.2983980",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

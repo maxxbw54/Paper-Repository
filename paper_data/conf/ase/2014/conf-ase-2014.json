@@ -1,0 +1,1072 @@
+[
+    {
+        "title": "Keynote talk: the logic of information design.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643086",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Keynote talk: EasyChair.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643085",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Keynote talk: experiences from developing industrial software systems with long lifecycles.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643087",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated analysis of multithreaded programs for performance modeling.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642979",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Behavioral resource-aware model inference.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642988",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Targeted test input generation using symbolic-concrete backward execution.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642951",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Discriminating influences among instructions in a dynamic slice.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642962",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dompletion: DOM-aware JavaScript code completion.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642981",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Continuous test generation: enhancing continuous integration with automated test generation.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643002",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Leveraging existing tests in automated test generation for web applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642991",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated unit test generation for classes with environment dependencies.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642986",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding HTML presentation failures using image comparison techniques.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642966",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Accelerated test execution using GPUs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642957",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Seeking the user interface.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642976",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Interrogative-guided re-ranking for question-oriented software text retrieval.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642953",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study on reducing omission errors in practice.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642956",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fusion fault localizers.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642983",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated variability analysis and testing of an E-commerce site.: an experience report.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642939",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PrefFinder: getting the right preference in configurable software systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643009",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MiL testing of highly configurable continuous controllers: scalable search using surrogate models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642978",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Assertion guided abstraction: a cooperative optimization for dynamic partial order reduction.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642998",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Symbolic state validation through runtime data.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642973",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verifying self-adaptive applications suffering uncertainty.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642999",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated synthesis and deployment of cloud applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642980",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Concurrent transformation components using contention context sensors.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642995",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Assigning time budgets to component functions in the design of time-critical automotive systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643015",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "symMMU: symbolically executed runtime libraries for symbolic memory access.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642974",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evaluation of string constraint solvers in the context of symbolic execution.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643003",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Incremental symbolic execution for automated test suite maintenance.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642961",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Program analysis for secure big data processing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643006",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-objective optimization in rule-based design space exploration.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643005",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding performance stairs: elucidating heuristics.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642975",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fine-grained and accurate source code differencing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642982",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combining rule-based and information retrieval techniques to assign software change requests.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642964",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recommendation system for software refactoring using innovization and interactive dynamic optimization.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642965",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recommending refactorings based on team co-maintenance patterns.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642948",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Diver: precise dynamic impact analysis using dependence-based trace pruning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642950",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating regression verification.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642987",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical evaluation and comparison of manual and automated test selection.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643019",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Taming test inputs for separation assurance.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642940",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Transferring an automated test generation tool to practice: from pex to fakes and code digger.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642941",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Angels and monsters: an empirical investigation of potential test effectiveness and efficiency improvement from strongly subsuming higher order mutation.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643008",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scaling exact multi-objective combinatorial optimization by parallelization.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642971",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "42 variability bugs in the linux kernel: a qualitative analysis.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642990",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating the formalization of product comparison matrices.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643000",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Tracking load-time configuration options.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643001",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Statistical learning approach for mining API usage mappings for code migration.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643010",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Compatibility testing using patterns-based trace comparison.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642942",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Personas in the middle: automated support for creating personas as focal points in feature gathering forums.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642958",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Constructing adaptive configuration dialogs using crowd data.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642960",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Validating ajax applications using a delay-based mutation technique.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642996",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static, lightweight includes resolution for PHP.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643017",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Information flows as a permission mechanism.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643018",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Improving the accuracy of oracle verdicts through automated model steering.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642989",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated domain-specific C verification with mbeddr.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642938",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Pattern-based auto-completion of UML modeling activities.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642949",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Abstraction-aware verifying compiler for yet another MDD.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642952",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Docovery: toward generic automatic document recovery.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643004",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exact and approximate probabilistic symbolic execution for nondeterministic programs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643011",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Derailer: interactive security analysis for web applications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643012",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Tracking down root causes of defects in simulink models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642943",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The confidence in our k-tails.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642944",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Localization of concurrency bugs using shared memory access pairs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642972",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards self-healing smartphone software via automated patching.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642955",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Minimal strongly unsatisfiable subsets of reactive system specifications.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642968",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Droidmarking: resilient software watermarking for impeding android application repackaging.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642977",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "From out-place transformation evolution to in-place model patching.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642946",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using visual dataflow programming for interactive model comparison.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642984",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "NeedFeed: taming change notifications by modeling code relevance.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642985",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Active code search: incorporating user feedback to improve code search relevance.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642947",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Resilient user interface level tests.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642954",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Studying task allocation decisions of novice agile teams with data from agile project management tools.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642959",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PiE: programming in eliza.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642967",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Search-based inference of polynomial metamorphic relations.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642994",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A dynamic analysis to support object-sharing code refactorings.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642992",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Language fuzzing using constraint logic programming.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642963",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Tracing software build processes to uncover license compliance inconsistencies.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643013",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic verification of interactions in asynchronous systems with unbounded buffers.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643016",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards an intelligent domain-specific traceability solution.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642970",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated requirements analysis for a molecular watchdog timer.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643007",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Formalisation of the integration of behavior trees.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642945",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic early defects detection in use case documents.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642969",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SymCrash: selective recording for reproducing crashes.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642993",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Potential biases in bug localization: do they matter?",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2642997",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MIMIC: locating and understanding bugs by analyzing mimicked executions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2643014",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Workspace updates of visual models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648623",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Meta-Model validation and verification with MetaBest.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648617",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A web based UML modeling tool with touch screens.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648619",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SeSAME: modeling and analyzing high-quality service compositions.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648621",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MPAnalyzer: a tool for finding unintended inconsistencies in program source code.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648616",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Firecrow: a tool for web application analysis and reus.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648620",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "HUSACCT: architecture compliance checking with rich sets of module and rule types.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648624",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CoCoTest: a tool for model-in-the-loop testing of continuous controllers.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648625",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "8Cage: lightweight fault-based test generation for simulink.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648622",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PBGT tool: an integrated modeling and testing environment for pattern-based GUI testing.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648618",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A tool chain for generating the description files of highly available software.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648626",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DupFinder: integrated tool support for duplicate bug report detection.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2648627",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Determining the most probable root causes of run-time errors in simulink models.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653465",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Utilizing feature location techniques for feature addition and feature enhancement.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653466",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AugIR: the conceptual design and evaluation of an augmented interaction room.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653467",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A requirements monitoring infrastructure for systems of systems.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653468",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Embrace your issues: compassing the software engineering landscape using bug reports.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653469",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Issues of automated software composition in AI planning.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653470",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A proposal for revisiting coverage testing metrics.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653471",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Variability-aware change impact analysis of multi-language product lines.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653472",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Improvement of applications' stability through robust APIs.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653473",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Model-driven development of content management systems based on Joomla.",
+        "venue_name": "IEEE/ACM International Conference on Automated Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2642937.2653474",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

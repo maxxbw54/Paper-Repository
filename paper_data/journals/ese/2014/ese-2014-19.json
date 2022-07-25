@@ -1,0 +1,612 @@
+[
+    {
+        "title": "How changes affect software entropy: an empirical study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9214-z",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Contributions of model checking and CoFI methodology to the development of space embedded software.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9215-y",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A case study on bypass testing of web applications.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9216-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirically based terminology and taxonomy for global software engineering.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9217-9",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Software defect prediction using Bayesian networks.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9218-8",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static test case prioritization using topic models.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9219-7",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MND-SCEMP: an empirical study of a software cost estimation modeling process in the defense domain.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9220-1",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Investigation of individual factors impacting the effectiveness of requirements inspections: a replicated experiment.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9221-0",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Replications of software engineering experiments.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9290-8",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the role of tests in test-driven development: a differentiated and partial replication.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9259-7",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Are test cases needed? Replicated comparison between exploratory and test-case-based software testing.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9266-8",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A replicated quasi-experimental study on the influence of personality and team climate in software development.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9265-9",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Effectiveness for detecting faults within and outside the scope of testing techniques: an independent replication.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9267-7",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Examination of the software architecture change characterization scheme using three empirical studies.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9223-y",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Configuring latent Dirichlet allocation based feature location.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9224-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Replication of empirical studies in software engineering research: a systematic mapping study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9227-7",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An industrial study of applying input space partitioning to test financial calculation engines.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9229-5",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On using machine learning to automatically classify software applications into domain categories.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9230-z",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "What are developers talking about? An analysis of topics and trends in Stack Overflow.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9231-y",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study of control logic specifications for programmable logic controllers.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9232-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Comprehensibility of UML-based software product line specifications - A controlled experiment.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9234-8",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Investigating the effects of personality traits on pair programming in a higher education setting through a family of experiments.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9238-4",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A successful application of a Test-Driven Development strategy in the industrial environment.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9281-9",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predicting object-oriented class reuse-proneness using internal quality attributes.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9239-3",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Data collection in global software engineering research: learning from past experience.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-012-9240-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A flexible method to estimate the software development effort based on the classification of projects and localization of comparisons.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9241-4",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Conducting quantitative software engineering studies with Alitheia Core.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9242-3",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The impact of UML modeling on defect density and defect resolution time in a proprietary system.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9243-2",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the variation and specialisation of workload - A case study of the Gnome ecosystem community.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9244-1",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Correlations between bugginess and time-based commit characteristics.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9245-0",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A family of experiments to assess the effectiveness and efficiency of source code obfuscation techniques.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9248-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An evaluation of the statistical convertibility of Function Points into COSMIC Function Points.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9246-z",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Assessing the capability of code smells to explain maintenance problems: an empirical study combining quantitative and qualitative data.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9250-3",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Challenges and industry practices for managing software variability in small and medium sized enterprises.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9253-0",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Experiences with incorporating formal techniques into industrial practice.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9251-2",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Resolving the challenges of time and distance.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-014-9309-9",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Agile vs. structured distributed software development: A case study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9271-y",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "From offshore outsourcing to insourcing and partnerships: four failed outsourcing attempts.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9272-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Special issue on program comprehension.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-014-9329-5",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "High-MCC Functions in the Linux Kernel.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9275-7",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Measuring and modeling programming experience.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9286-4",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study on the impact of static typing on software maintainability.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9289-1",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Labeling source code with information retrieval methods: an empirical study.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9285-5",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Guest editorial: Search-based software engineering.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-014-9310-3",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An experimental evaluation of the importance of randomness in hill climbing searches applied to software engineering problems.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9294-4",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AutoRELAX: automatically RELAXing a goal model to address uncertainty.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-014-9305-0",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Evolving robust networks for systems-of-systems: is it viable for large networks?",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9295-3",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Software process evaluation: a machine learning framework with application to defect management process.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9254-z",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recovering from a decade: a systematic mapping of information retrieval approaches to software traceability.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9255-y",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating extract class refactoring: an improved method and its evaluation.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9256-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Bug characteristics in open source software.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9258-8",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An experimental investigation on the effects of context on source code identifiers splitting and expansion.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9260-1",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study of identifier splitting techniques.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9261-0",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Variation factors in the design and analysis of replicated controlled experiments - Three (dis)similar studies on inspections versus unit testing.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9262-z",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Challenges and practices in aligning requirements with verification and validation: a case study of six companies.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9263-y",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SWordNet: Inferring semantically related words from software context.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9264-x",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Empirical study on the maintainability of Web applications: Model-driven Engineering vs Code-centric.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9269-5",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reporting experiments to satisfy professionals' information needs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9268-6",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Validating differential relationships between risk categories and project performance as perceived by managers.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9270-z",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Performance assessment of an architecture with adaptative interfaces for people with special needs.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-013-9297-1",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Waste identification and elimination in information technology organizations.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-014-9302-3",
+        "volume": "19",
+        "abstract": null,
+        "keywords": null
+    }
+]

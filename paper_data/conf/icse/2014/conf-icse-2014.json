@@ -1,0 +1,992 @@
+[
+    {
+        "title": "Cowboys, ankle sprains, and keepers of quality: how is video game development different from software development?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568226",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analyze this! 145 questions for data scientists in software engineering.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568233",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The dimensions of software engineering success.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568261",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How do professionals perceive legacy systems and software modernization?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568318",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SimRT: an automated framework to support regression testing for data races.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568294",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Performance regression testing target prioritization via performance risk analysis.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568232",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Code coverage for suite evaluation by developers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568278",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Time pressure: a controlled experiment of test case development and requirements review.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568245",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verifying component and connector models against crosscutting structural views.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568237",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TradeMaker: automated dynamic analysis of synthesized tradespaces.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568291",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Lifting model transformations to product lines.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568267",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated goal operationalisation based on interpolation and SAT solving.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568323",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining configuration constraints: static analyses and empirical results.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568283",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Which configuration option should I change?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568251",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting differences across multiple instances of code clones.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568298",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Achieving accuracy and scalability simultaneously in detecting application clones on Android markets.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568286",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Two's company, three's a crowd: a case study of crowdsourcing software development.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568249",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Does latitude hurt while longitude kills? geographical and temporal separation in a large scale software development project.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568279",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Software engineering at the speed of light: how developers stay current using twitter.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568305",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Building it together: synchronous development in OSS.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568238",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A critical review of \"automatic patch generation learned from human-written patches\": essay on the problem statement and the evaluation of automatic software repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568324",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Data-guided repair of selection statements.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568303",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The strength of random search on automated program repair.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568254",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MintHint: automated synthesis of repair hints.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568258",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining behavior models from user-intensive web applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568234",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reviser: efficiently updating IDE-/IFDS-based data-flow analyses in response to incremental program changes.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568243",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated design of self-adaptive software with control-theoretical formal guarantees.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568272",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Perturbation analysis of stochastic systems with empirical distribution parameters.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568256",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How do centralized and distributed version control systems impact software changes?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568322",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Transition from centralized to decentralized version control systems: a case study on reasons, barriers, and outcomes.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568284",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An exploratory study of the pull-based software development model.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568260",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Influence of social and technical factors for evaluating contribution in GitHub.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568315",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding JavaScript event-based interactions.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568268",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding understanding source code with functional magnetic resonance imaging.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568252",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Improving automated source code summarization via an eye-tracking study of programmers.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568247",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using psycho-physiological measures to assess task difficulty in software development.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568266",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dictionary learning based software defect prediction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568320",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Comparing static bug finders and statistical prediction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568269",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Coverage is not strongly correlated with test suite effectiveness.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568271",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How to make best use of cross-company data in software effort estimation?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568228",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CARE: cache guided deterministic replay for concurrent Java programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568236",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inferring models of concurrent systems from logs of their behavior with CSight.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568246",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Unleashing concurrency for irregular data structures.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568277",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ConLock: a constraint-based approach to dynamic checking on deadlocks in multithreaded programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568312",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SEEDS: a software engineer's energy-optimization decision support framework.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568297",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "APE: an annotation language and middleware for energy-efficient mobile application development.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568288",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Making web applications more energy efficient for OLED smartphones.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568321",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Micro execution.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568273",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Unit test virtualization with VMVM.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568248",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Interpolated n-grams for model based testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568242",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An analysis of the relationship between conditional entropy and failed error propagation in software testing.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568314",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Trading robustness for maintainability: an empirical study of evolving c# programs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568308",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Case studies and tools for contract specifications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568285",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using dynamic analysis to generate disjunctive invariants.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568275",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inductive verification of data model invariants for web applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568281",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How do API documentation and static typing affect API usability?",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568299",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Live API documentation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568313",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CodeHint: dynamic and interactive synthesis of code snippets.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568250",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Spotting working code examples.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568292",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Self-adaptation through incremental generative model transformations at runtime.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568310",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hope for the best, prepare for the worst: multi-tier control for adaptive systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568264",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Brownout: building more robust cloud applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568227",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Integrating adaptive user interface capabilities in enterprise applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568230",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Programmers' build errors: a case study (at google).",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568255",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding and improving software build teams.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568274",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards efficient optimization in package management systems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568306",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Easing software component repository evolution.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568262",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AR-miner: mining informative reviews for developers from mobile app marketplace.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568263",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining billions of AST nodes to study actual and potential usage of Java language features.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568295",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining interprocedural, data-oriented usage patterns in JavaScript web applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568302",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining fine-grained code changes to detect unknown change patterns.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568317",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting memory leaks through introspective dynamic behavior modelling using machine learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568307",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated memory leak detection for production use.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568311",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Vejovis: suggesting fixes for JavaScript faults.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568257",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Is spreadsheet ambiguity harmful? detecting and repairing spreadsheet smells due to ambiguous computation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568316",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Us and them: a study of privacy requirements across north america, asia, and europe.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568244",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Distilling privacy requirements for mobile applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568240",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Uncertainty, risk, and information value in software requirements and architecture.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568239",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Requirements fixation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568235",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Exploring variability-aware execution for testing plugin-based web applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568300",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A study of equivalent and stubborn mutation operators using human analysis of equivalence.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568265",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cross-checking oracles from intrinsic software redundancy.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568287",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mind the gap: assessing the conformance of software traceability to relevant guidelines.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568290",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Effects of using examples on structural model comprehension: a controlled experiment.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568270",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Design rule spaces: a new form of architecture insight.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568241",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Controlled modeling environment using flexibly-formatted spreadsheets.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568231",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Feature maintenance with emergent interfaces.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568289",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting performance anti-patterns for applications developed using object-relational mapping.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568259",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Characterizing and detecting performance bugs for smartphone applications.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568229",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Checking app behavior against app descriptions.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568276",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AsDroid: detecting stealthy behaviors in Android applications by user interface and program behavior contradiction.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568301",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Patch verification via multiversion interprocedural control flow graphs.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568304",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Property differencing for incremental checking.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568319",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Symbolic assume-guarantee reasoning through BDD learning.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568253",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Enhancing symbolic execution with veritesting.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568293",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Manual refactoring changes with automated refactoring validation.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568280",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Alternate refactoring paths reveal usability problems.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568282",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A study and toolkit for asynchronous programming in c#.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568309",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reuse-oriented reverse engineering of functional components from x86 binaries.",
+        "venue_name": "International Conference on Software Engineering",
+        "year": 2014,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2568225.2568296",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

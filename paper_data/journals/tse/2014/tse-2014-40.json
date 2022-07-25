@@ -1,0 +1,885 @@
+[
+    {
+        "title": "Signing Off: The State of the Journal.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2298171",
+        "volume": "40",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How Effectively Does Metamorphic Testing Alleviate the Oracle Problem?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.46",
+        "volume": "40",
+        "abstract": "In software testing, something which can verify the correctness of test case execution results is called an oracle. The oracle problem occurs when either an oracle does not exist, or exists but is too expensive to be used. Metamorphic testing is a testing approach which uses metamorphic relations, properties of the software under test represented in the form of relations among inputs and outputs of multiple executions, to help verify the correctness of a program. This paper presents new empirical evidence to support this approach, which has been used to alleviate the oracle problem in various applications and to enhance several software analysis and testing techniques. It has been observed that identification of a sufficient number of appropriate metamorphic relations for testing, even by inexperienced testers, was possible with a very small amount of training. Furthermore, the cost-effectiveness of the approach could be enhanced through the use of more diverse metamorphic relations. The empirical studies presented in this paper clearly show that a small number of diverse metamorphic relations, even those identified in an ad hoc manner, had a similar fault-detection capability to a test oracle, and could thus effectively help alleviate the oracle problem.",
+        "keywords": [
+            "Computer crashes",
+            "Software",
+            "Educational institutions",
+            "Software testing",
+            "Training",
+            "Benchmark testing"
+        ]
+    },
+    {
+        "title": "Overcoming the Equivalent Mutant Problem: A Systematic Literature Review and a Comparative Experiment of Second Order Mutation.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.44",
+        "volume": "40",
+        "abstract": "Context. The equivalent mutant problem (EMP) is one of the crucial problems in mutation testing widely studied over decades. Objectives. The objectives are: to present a systematic literature review (SLR) in the field of EMP; to identify, classify and improve the existing, or implement new, methods which try to overcome EMP and evaluate them. Method. We performed SLR based on the search of digital libraries. We implemented four second order mutation (SOM) strategies, in addition to first order mutation (FOM), and compared them from different perspectives. Results. Our SLR identified 17 relevant techniques (in 22 articles) and three categories of techniques: detecting (DEM); suggesting (SEM); and avoiding equivalent mutant generation (AEMG). The experiment indicated that SOM in general and JudyDiffOp strategy in particular provide the best results in the following areas: total number of mutants generated; the association between the type of mutation strategy and whether the generated mutants were equivalent or not; the number of not killed mutants; mutation testing time; time needed for manual classification. Conclusions . The results in the DEM category are still far from perfect. Thus, the SEM and AEMG categories have been developed. The JudyDiffOp algorithm achieved good results in many areas.",
+        "keywords": [
+            "Testing",
+            "Systematics",
+            "Educational institutions",
+            "Databases",
+            "Libraries",
+            "Java",
+            "Informatics"
+        ]
+    },
+    {
+        "title": "Reducing Masking Effects in CombinatorialInteraction Testing: A Feedback DrivenAdaptive Approach.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.53",
+        "volume": "40",
+        "abstract": "The configuration spaces of modern software systems are too large to test exhaustively. Combinatorial interaction testing (CIT) approaches, such as covering arrays, systematically sample the configuration space and test only the selected configurations. The basic justification for CIT approaches is that they can cost-effectively exercise all system behaviors caused by the settings of t or fewer options. We conjecture, however, that in practice some of these behaviors are not actually tested because of unanticipated masking effects - test case failures that perturb system execution so as to prevent some behaviors from being exercised. While prior research has identified this problem, most solutions require knowing the masking effects a priori. In practice this is impractical, if not impossible. In this work, we reduce the harmful consequences of masking effects. First we define a novel interaction testing criterion, which aims to ensure that each test case has a fair chance to test all valid t-way combinations of option settings. We then introduce a feedback driven adaptive combinatorial testing process (FDA-CIT) to materialize this criterion in practice. At each iteration of FDA-CIT, we detect potential masking effects, heuristically isolate their likely causes (i.e., fault characterization), and then generate new samples that allow previously masked combinations to be tested in configurations that avoid the likely failure causes. The iterations end when the new interaction testing criterion has been satisfied. This paper compares two different fault characterization approaches - an integral part of the proposed approach, and empirically assesses their effectiveness and efficiency in removing masking effects on two widely used open source software systems. It also compares FDA-CIT against error locating arrays, a state of the art approach for detecting and locating failures. Furthermore, the scalability of the proposed approach is evaluated by comparing it with perfect test scenarios, in which all masking effects are known a priori. Our results suggest that masking effects do exist in practice, and that our approach provides a promising and efficient way to work around them, without requiring that masking effects be known a priori.",
+        "keywords": [
+            "Testing",
+            "Adaptive arrays",
+            "Educational institutions",
+            "Scalability",
+            "Servers",
+            "Electronic mail",
+            "Software systems"
+        ]
+    },
+    {
+        "title": "Variability Mining: Consistent Semi-automatic Detection of Product-Line Features.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.45",
+        "volume": "40",
+        "abstract": "Software product line engineering is an efficient means to generate a set of tailored software products from a common implementation. However, adopting a product-line approach poses a major challenge and significant risks, since typically legacy code must be migrated toward a product line. Our aim is to lower the adoption barrier by providing semi-automatic tool support—called variability mining —to support developers in locating, documenting, and extracting implementations of product-line features from legacy code. Variability mining combines prior work on concern location, reverse engineering, and variability-aware type systems, but is tailored specifically for the use in product lines. Our work pursues three technical goals: (1) we provide a consistency indicator based on a variability-aware type system, (2) we mine features at a fine level of granularity, and (3) we exploit domain knowledge about the relationship between features when available. With a quantitative study, we demonstrate that variability mining can efficiently support developers in locating features.",
+        "keywords": [
+            "Feature extraction",
+            "Software",
+            "Context",
+            "Data mining",
+            "Java",
+            "Companies",
+            "Educational institutions"
+        ]
+    },
+    {
+        "title": "Improved Evolutionary Algorithm Design for the Project Scheduling Problem Based on Runtime Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.52",
+        "volume": "40",
+        "abstract": "Several variants of evolutionary algorithms (EAs) have been applied to solve the project scheduling problem (PSP), yet their performance highly depends on design choices for the EA. It is still unclear how and why different EAs perform differently. We present the first runtime analysis for the PSP, gaining insights into the performance of EAs on the PSP in general, and on specific instance classes that are easy or hard. Our theoretical analysis has practical implications-based on it, we derive an improved EA design. This includes normalizing employees' dedication for different tasks to ensure they are not working overtime; a fitness function that requires fewer pre-defined parameters and provides a clear gradient towards feasible solutions; and an improved representation and mutation operator. Both our theoretical and empirical results show that our design is very effective. Combining the use of normalization to a population gave the best results in our experiments, and normalization was a key component for the practical effectiveness of the new design. Not only does our paper offer a new and effective algorithm for the PSP, it also provides a rigorous theoretical analysis to explain the efficiency of the algorithm, especially for increasingly large projects.",
+        "keywords": [
+            "Software",
+            "Schedules",
+            "Scheduling",
+            "Algorithm design and analysis",
+            "Software algorithms",
+            "Resource management",
+            "Software engineering"
+        ]
+    },
+    {
+        "title": "Detecting Memory Leaks Statically with Full-Sparse Value-Flow Analysis.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2302311",
+        "volume": "40",
+        "abstract": "We introduce a static detector, Saber, for detecting memory leaks in C programs. Leveraging recent advances on sparse pointer analysis, Saber is the first to use a full-sparse value-flow analysis for detecting memory leaks statically. Saber tracks the flow of values from allocation to free sites using a sparse value-flow graph (SVFG) that captures def-use chains and value flows via assignments for all memory locations represented by both top-level and address-taken pointers. By exploiting field-, flow- and context-sensitivity during different phases of the analysis, Saber detects memory leaks in a program by solving a graph reachability problem on its SVFG. Saber, which is fully implemented in Open64, is effective at detecting 254 leaks in the 15 SPEC2000 C programs and seven applications, while keeping the false positive rate at 18.3 percent. Saber compares favorably with several static leak detectors in terms of accuracy (leaks and false alarms reported) and scalability (LOC analyzed per second). In particular, compared with Fastcheck (which analyzes allocated objects flowing only into top-level pointers) using the 15 SPEC2000 C programs, Saber detects 44.1 percent more leaks at a slightly higher false positive rate but is only a few times slower.",
+        "keywords": [
+            "Detectors",
+            "Resource management",
+            "Accuracy",
+            "Scalability",
+            "Abstracts",
+            "Standards",
+            "Sensitivity"
+        ]
+    },
+    {
+        "title": "GossipKit: A Unified ComponentFramework for Gossip.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.50",
+        "volume": "40",
+        "abstract": "Although the principles of gossip protocols are relatively easy to grasp, their variety can make their design and evaluation highly time consuming. This problem is compounded by the lack of a unified programming framework for gossip, which means developers cannot easily reuse, compose, or adapt existing solutions to fit their needs, and have limited opportunities to share knowledge and ideas. In this paper, we consider how component frameworks, which have been widely applied to implement middleware solutions, can facilitate the development of gossip-based systems in a way that is both generic and simple. We show how such an approach can maximize code reuse, simplify the implementation of gossip protocols, and facilitate dynamic evolution and redeployment.Also known as “epidemic” protocols.",
+        "keywords": [
+            "Protocols",
+            "Peer-to-peer computing",
+            "Programming",
+            "Wireless sensor networks",
+            "Ad hoc networks",
+            "Software",
+            "Assembly"
+        ]
+    },
+    {
+        "title": "Learning Assumptions for CompositionalVerification of Timed Systems.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.57",
+        "volume": "40",
+        "abstract": "Compositional techniques such as assume-guarantee reasoning (AGR) can help to alleviate the state space explosion problem associated with model checking. However, compositional verification is difficult to be automated, especially for timed systems, because constructing appropriate assumptions for AGR usually requires human creativity and experience. To automate compositional verification of timed systems, we propose a compositional verification framework using a learning algorithm for automatic construction of timed assumptions for AGR. We prove the correctness and termination of the proposed learning-based framework, and experimental results show that our method performs significantly better than traditional monolithic timed model checking.",
+        "keywords": [
+            "Model checking",
+            "Educational institutions",
+            "Explosions",
+            "Learning automata",
+            "Atomic clocks",
+            "Cognition"
+        ]
+    },
+    {
+        "title": "Modeling Human-in-the-Loop Security Analysis and Decision-Making Processes.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2302433",
+        "volume": "40",
+        "abstract": "This paper presents a novel application of computer-assisted formal methods for systematically specifying, documenting, statically and dynamically checking, and maintaining human-centered workflow processes. This approach provides for end-to-end verification and validation of process workflows, which is needed for process workflows that are intended for use in developing and maintaining high-integrity systems. We demonstrate the technical feasibility of our approach by applying it on the development of the US government's process workflow for implementing, certifying, and accrediting cross-domain computer security solutions. Our approach involves identifying human-in-the-loop decision points in the process activities and then modeling these via statechart assertions. We developed techniques to specify and enforce workflow hierarchies, which was a challenge due to the existence of concurrent activities within complex workflow processes. Some of the key advantages of our approach are: it results in development of a model that is executable, supporting both upfront and runtime checking of process-workflow requirements; aids comprehension and communication among stakeholders and process engineers; and provides for incorporating accountability and risk management into the engineering of process workflows.",
+        "keywords": [
+            "Unified modeling language",
+            "Object oriented modeling",
+            "Software",
+            "Runtime",
+            "Formal specifications",
+            "Analytical models",
+            "Business"
+        ]
+    },
+    {
+        "title": "Multi-Objective Quality-Driven Service Selection - A Fully Polynomial Time Approximation Scheme.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.61",
+        "volume": "40",
+        "abstract": "The goal of multi-objective quality-driven service selection (QDSS) is to find service selections for a workflow whose quality-of-service (QoS) values are Pareto-optimal. We consider multiple QoS attributes such as response time, cost, and reliability. A selection is Pareto-optimal if no other selection has better QoS values for some attributes and at least equivalent values for all others. Exact algorithms have been proposed that find all Pareto-optimal selections. They suffer however from exponential complexity. Randomized algorithms scale well but do not offer any formal guarantees on result precision. We present the first approximation scheme for QDSS. It aims at the sweet spot between exact and randomized algorithms: It combines polynomial complexity with formal result precision guarantees. A parameter allows to seamlessly trade result precision against efficiency. We formally analyze complexity and precision guarantees and experimentally compare our algorithm against exact and randomized approaches. Comparing with exact algorithms, our approximation scheme allows to reduce optimization time from hours to seconds. Its approximation error remains below 1.4 percent while randomized algorithms come close to the theoretical maximum.",
+        "keywords": [
+            "Quality of service",
+            "Approximation methods",
+            "Approximation algorithms",
+            "Polynomials",
+            "Complexity theory",
+            "Optimization",
+            "Motion pictures"
+        ]
+    },
+    {
+        "title": "Quality-Aware Service Selection for Service-Based Systems Based on Iterative Multi-Attribute Combinatorial Auction.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.2297911",
+        "volume": "40",
+        "abstract": "The service-oriented paradigm offers support for engineering service-based systems (SBSs) based on service composition where existing services are composed to create new services. The selection of services with the aim to fulfil the quality constraints becomes critical and challenging to the success of SBSs, especially when the quality constraints are stringent. However, none of the existing approaches for quality-aware service composition has sufficiently considered the following two critical issues to increase the success rate of finding a solution: 1) the complementarities between services; and 2) the competition among service providers. This paper proposes a novel approach called combinatorial auction for service selection (CASS) to support effective and efficient service selection for SBSs based on combinatorial auction. In CASS, service providers can bid for combinations of services and apply discounts or premiums to their offers for the multi-dimensional quality of the services. Based on received bids, CASS attempts to find a solution that achieves the SBS owner's optimisation goal while fulfilling all quality constraints for the SBS. When a solution cannot be found based on current bids, the auction iterates so that service providers can improve their bids to increase their chances of winning. This paper systematically describes the auction process and the supporting mechanisms. Experimental results show that by exploiting the complementarities between services and the competition among service providers, CASS significantly outperforms existing quality-aware service selection approaches in finding optimal solutions and guaranteeing system optimality. Meanwhile, the duration and coordination overhead of CASS are kept at satisfactory levels in scenarios on different scales.",
+        "keywords": [
+            "Scattering",
+            "Quality of service",
+            "Optimization",
+            "Contracts",
+            "Abstracts",
+            "Time factors"
+        ]
+    },
+    {
+        "title": "An Observe-Model-Exercise* Paradigm to Test Event-Driven Systems with Undetermined Input Spaces.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2300857",
+        "volume": "40",
+        "abstract": "System testing of software applications with a graphical-user interface (GUI) front-end requires that sequences of GUI events, that sample the application's input space, be generated and executed as test cases on the GUI. However, the context-sensitive behavior of the GUI of most of today's non-trivial software applications makes it practically impossible to fully determine the software's input space. Consequently, GUI testers-both automated and manual-working with undetermined input spaces are, in some sense, blindly navigating the GUI, unknowingly missing allowable event sequences, and failing to realize that the GUI implementation may allow the execution of some disallowed sequences. In this paper, we develop a new paradigm for GUI testing, one that we call Observe-Model-Exercise* (OME*) to tackle the challenges of testing context-sensitive GUIs with undetermined input spaces. Starting with an incomplete model of the GUI's input space, a set of coverage elements to test, and test cases, OME* iteratively observes the existence of new events during execution of the test cases, expands the model of the GUI's input space, computes new coverage elements, and obtains new test cases to exercise the new elements. Our experiment with 8 open-source software subjects, more than 500,000 test cases running for almost 1,100 machine-days, shows that OME* is able to expand the test space on average by 464.11 percent; it detected 34 faults that had never been detected before.",
+        "keywords": [
+            "Graphical user interfaces",
+            "Computational modeling",
+            "Blogs",
+            "Testing",
+            "Software",
+            "Context",
+            "Layout"
+        ]
+    },
+    {
+        "title": "Governing Software Process Improvementsin Globally Distributed Product Development.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.58",
+        "volume": "40",
+        "abstract": "Continuous software process improvement (SPI) practices have been extensively prescribed to improve performance of software projects. However, SPI implementation mechanisms have received little scholarly attention, especially in the context of distributed software product development. We took an action research approach to study the SPI journey of a large multinational enterprise that adopted a distributed product development strategy. We describe the interventions and action research cycles enacted over a period of five years in collaboration with the firm, which resulted in a custom SPI framework that catered to both the social and technical needs of the firm's distributed teams. Institutionalizing the process maturity framework got stalled initially because the SPI initiatives were perceived by product line managers as a mechanism for exercising wider controls by the firm's top management. The implementation mechanism was subsequently altered to co-opt product line managers, which contributed to a wider adoption of the SPI framework. Insights that emerge from our analysis of the firm's SPI journey pertain to the integration of the technical and social views of software development, preserving process diversity through the use of a multi-tiered, non-blueprint approach to SPI, the linkage between key process areas and project control modes, and the role of SPI in aiding organizational learning.",
+        "keywords": [
+            "Software",
+            "Product development",
+            "Process control",
+            "Benchmark testing",
+            "ISO standards",
+            "Resource management",
+            "Quality management"
+        ]
+    },
+    {
+        "title": "iTree: Efficiently Discovering High-Coverage Configurations Using Interaction Trees.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.55",
+        "volume": "40",
+        "abstract": "Modern software systems are increasingly configurable. While this has many benefits, it also makes some software engineering tasks,such as software testing, much harder. This is because, in theory,unique errors could be hiding in any configuration, and, therefore,every configuration may need to undergo expensive testing. As this is generally infeasible, developers need cost-effective technique for selecting which specific configurations they will test. One popular selection approach is combinatorial interaction testing (CIT), where the developer selects a strength t and then computes a covering array (a set of configurations) in which all t-way combinations of configuration option settings appear at least once. In prior work, we demonstrated several limitations of the CIT approach. In particular, we found that a given system's effective configuration space - the minimal set of configurations needed to achieve a specific goal - could comprise only a tiny subset of the system's full configuration space. We also found that effective configuration space may not be well approximated by t-way covering arrays. Based on these insights we have developed an algorithm called interaction tree discovery (iTree). iTree is an iterative learning algorithm that efficiently searches for a small set of configurations that closely approximates a system's effective configuration space. On each iteration iTree tests the system on a small sample of carefully chosen configurations, monitors the system's behaviors, and then applies machine learning techniques to discover which combinations of option settings are potentially responsible for any newly observed behaviors. This information is used in the next iteration to pick a new sample of configurations that are likely to reveal further new behaviors. In prior work, we presented an initial version of iTree and performed an initial evaluation with promising results. This paper presents an improved iTree algorithm in greater detail. The key improvements are based on our use of composite proto-interactions - a construct that improves iTree's ability to correctly learn key configuration option combinations, which in turn significantly improves iTree's running time, without sacrificing effectiveness. Finally, the paper presents a detailed evaluation of the improved iTree algorithm by comparing the coverage it achieves versus that of covering arrays and randomly generated configuration sets, including a significantly expanded scalability evaluation with the ~ 1M-LOC MySQL. Our results strongly suggest that the improved iTree algorithm is highly scalable and can identify a high-coverage test set of configurations more effectively than existing methods.",
+        "keywords": [
+            "Testing",
+            "Arrays",
+            "Software algorithms",
+            "Software engineering",
+            "Machine learning algorithms",
+            "Software systems",
+            "Algorithm design and analysis"
+        ]
+    },
+    {
+        "title": "Magiclock: Scalable Detection ofPotential Deadlocks in Large-ScaleMultithreaded Programs.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2301725",
+        "volume": "40",
+        "abstract": "We present Magiclock, a novel potential deadlock detection technique by analyzing execution traces (containing no deadlock occurrence) of large-scale multithreaded programs. Magiclock iteratively eliminates removable lock dependencies before potential deadlock localization. It divides lock dependencies into thread specific partitions, consolidates equivalent lock dependencies, and searches over the set of lock dependency chains without the need to examine any duplicated permutations of the same lock dependency chains. We validate Magiclock through a suite of real-world, large-scale multithreaded programs. The experimental results show that Magiclock is significantly more scalable and efficient than existing dynamic detectors in analyzing and detecting potential deadlocks in execution traces of large-scale multithreaded programs.",
+        "keywords": [
+            "System recovery",
+            "Message systems",
+            "Classification algorithms",
+            "Instruction sets",
+            "Image edge detection",
+            "Monitoring",
+            "Multicore processing"
+        ]
+    },
+    {
+        "title": "Variability in Software Systems - A Systematic Literature Review.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.56",
+        "volume": "40",
+        "abstract": "Context: Variability (i.e., the ability of software systems or artifacts to be adjusted for different contexts) became a key property of many systems. Objective: We analyze existing research on variability in software systems. We investigate variability handling in major software engineering phases (e.g., requirements engineering, architecting). Method: We performed a systematic literature review. A manual search covered 13 premium software engineering journals and 18 premium conferences, resulting in 15,430 papers searched and 196 papers considered for analysis. To improve reliability and to increase reproducibility, we complemented the manual search with a targeted automated search. Results: Software quality attributes have not received much attention in the context of variability. Variability is studied in all software engineering phases, but testing is underrepresented. Data to motivate the applicability of current approaches are often insufficient; research designs are vaguely described. Conclusions: Based on our findings we propose dimensions of variability in software engineering. This empirically grounded classification provides a step towards a unifying, integrated perspective of variability in software systems, spanning across disparate or loosely coupled research themes in the software engineering community. Finally, we provide recommendations to bridge the gap between research and practice and point to opportunities for future research.",
+        "keywords": [
+            "Decision support systems",
+            "Software systems",
+            "Systematics",
+            "Software engineering",
+            "Context",
+            "Manuals",
+            "Data collection"
+        ]
+    },
+    {
+        "title": "You Are the Only Possible Oracle: Effective Test Selection for End Users of Interactive Machine Learning Systems.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.59",
+        "volume": "40",
+        "abstract": "How do you test a program when only a single user, with no expertise in software testing, is able to determine if the program is performing correctly? Such programs are common today in the form of machine-learned classifiers. We consider the problem of testing this common kind of machine-generated program when the only oracle is an end user: e.g., only you can determine if your email is properly filed. We present test selection methods that provide very good failure rates even for small test suites, and show that these methods work in both large-scale random experiments using a “gold standard” and in studies with real users. Our methods are inexpensive and largely algorithm-independent. Key to our methods is an exploitation of properties of classifiers that is not possible in traditional software testing. Our results suggest that it is plausible for time-pressured end users to interactively detect failures-even very hard-to-find failures-without wading through a large number of successful (and thus less useful) tests. We additionally show that some methods are able to find the arguably most difficult-to-detect faults of classifiers: cases where machine learning algorithms have high confidence in an incorrect result.",
+        "keywords": [
+            "Testing",
+            "Software",
+            "Training",
+            "Training data",
+            "Electronic mail",
+            "Software algorithms",
+            "Machine learning algorithms"
+        ]
+    },
+    {
+        "title": "A Model-Driven Methodology for Developing Secure Data-Management Applications.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.2297116",
+        "volume": "40",
+        "abstract": "We present a novel model-driven methodology for developing secure data-management applications. System developers proceed by modeling three different views of the desired application: its data model, security model, and GUI model. These models formalize respectively the application's data domain, authorization policy, and its graphical interface together with the application's behavior. Afterwards a model-transformation function lifts the policy specified by the security model to the GUI model. This allows a separation of concerns where behavior and security are specified separately, and subsequently combined to generate a security-aware GUI model. Finally, a code generator generates a multi-tier application, along with all support for access control, from the security-aware GUI model. We report on applications built using our approach and the associated tool.",
+        "keywords": [
+            "Data models",
+            "Graphical user interfaces",
+            "Unified modeling language",
+            "Authorization",
+            "Syntactics"
+        ]
+    },
+    {
+        "title": "Analyzing Critical Decision-Based Processes.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2312954",
+        "volume": "40",
+        "abstract": "Decision-based processes are composed of tasks whose application may depend on explicit decisions relying on the state of the process environment. In specific domains such as healthcare, decision-based processes are often complex and critical in terms of timing and resources. The paper presents a variety of tool-supported techniques for analyzing models of such processes. The analyses allow a variety of errors to be detected early and incrementally on partial models, notably: inadequate decisions resulting from inaccurate or outdated information about the environment state; incomplete decisions; non-deterministic task selections; unreachable tasks along process paths; and violations of non-functional process requirements involving time, resources or costs. The proposed techniques are based on different instantiations of the same generic algorithm that propagates decorations iteratively through the process model. This algorithm in particular allows event-based models to be automatically decorated with state-based invariants. A formal language supporting both event-based and state-based specifications is introduced as a process modeling language to enable such analyses. This language mimics the informal flowcharts commonly used by process stakeholders. It extends High-Level Message Sequence Charts with guards on task-related and environment-related variables. The language provides constructs for specifying task compositions, task refinements, decision trees, multi-agent communication scenarios, and time and resource constraints. The proposed techniques are demonstrated on the incremental building and analysis of a complex model of a real protocol for cancer therapy.",
+        "keywords": [
+            "Analytical models",
+            "Unified modeling language",
+            "Algorithm design and analysis",
+            "Semantics",
+            "Blood",
+            "Flowcharts",
+            "Medical treatment"
+        ]
+    },
+    {
+        "title": "Automatic Summarization of Bug Reports.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.2297712",
+        "volume": "40",
+        "abstract": "Software developers access bug reports in a project's bug repository to help with a number of different tasks, including understanding how previous changes have been made and understanding multiple aspects of particular defects. A developer's interaction with existing bug reports often requires perusing a substantial amount of text. In this article, we investigate whether it is possible to summarize bug reports automatically so that developers can perform their tasks by consulting shorter summaries instead of entire bug reports. We investigated whether existing conversation-based automated summarizers are applicable to bug reports and found that the quality of generated summaries is similar to summaries produced for e-mail threads and other conversations. We also trained a summarizer on a bug report corpus. This summarizer produces summaries that are statistically better than summaries produced by existing conversation-based generators. To determine if automatically produced bug report summaries can help a developer with their work, we conducted a task-based evaluation that considered the use of summaries for bug report duplicate detection tasks. We found that summaries helped the study participants save time, that there was no evidence that accuracy degraded when summaries were used and that most participants preferred working with summaries to working with original bug reports.",
+        "keywords": [
+            "Software",
+            "Electronic mail",
+            "Computer bugs",
+            "Natural languages",
+            "Feature extraction",
+            "Detectors"
+        ]
+    },
+    {
+        "title": "Effects of Developer Experience on Learningand Applying Unit Test-Driven Development.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.2295827",
+        "volume": "40",
+        "abstract": "Unit test-driven development (UTDD) is a software development practice where unit test cases are specified iteratively and incrementally before production code. In the last years, researchers have conducted several studies within academia and industry on the effectiveness of this software development practice. They have investigated its utility as compared to other development techniques, focusing mainly on code quality and productivity. This quasi-experiment analyzes the influence of the developers' experience level on the ability to learn and apply UTDD. The ability to apply UTDD is measured in terms of process conformance and development time. From the research point of view, our goal is to evaluate how difficult is learning UTDD by professionals without any prior experience in this technique. From the industrial point of view, the goal is to evaluate the possibility of using this software development practice as an effective solution to take into account in real projects. Our results suggest that skilled developers are able to quickly learn the UTDD concepts and, after practicing them for a short while, become as effective in performing small programming tasks as compared to more traditional test-last development techniques. Junior programmers differ only in their ability to discover the best design, and this translates into a performance penalty since they need to revise their design choices more frequently than senior programmers.",
+        "keywords": [
+            "Software",
+            "Testing",
+            "Training",
+            "Programming profession",
+            "Context",
+            "Production"
+        ]
+    },
+    {
+        "title": "On the Asymptotic Behavior of Adaptive Testing Strategy for Software Reliability Assessment.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2310194",
+        "volume": "40",
+        "abstract": "In software reliability assessment, one problem of interest is how to minimize the variance of reliability estimator, which is often considered as an optimization goal. The basic idea is that an estimator with lower variance makes the estimates more predictable and accurate. Adaptive Testing (AT) is an online testing strategy, which can be adopted to minimize the variance of software reliability estimator. In order to reduce the computational overhead of decision-making, the implemented AT strategy in practice deviates from its theoretical design that guarantees AT's local optimality. This work aims to investigate the asymptotic behavior of AT to improve its global performance without losing the local optimality. To this end, a new AT strategy named Adaptive Testing with Gradient Descent method (AT-GD) is proposed. Theoretical analysis indicates that AT-GD, a locally optimal testing strategy, converges to the globally optimal solution as the assessment process proceeds. Simulation and experiments are set up to validate AT-GD's effectiveness and efficiency. Besides, sensitivity analysis of AT-GD is also conducted in this study.",
+        "keywords": [
+            "Testing",
+            "Software reliability",
+            "Software",
+            "Global Positioning System",
+            "Aircraft",
+            "Reliability theory"
+        ]
+    },
+    {
+        "title": "Synthesizing Multithreaded Code from Real-Time Object-Oriented Models via Schedulability-Aware Thread Derivation.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.47",
+        "volume": "40",
+        "abstract": "One of the major difficulties in developing embedded systems with object-oriented modeling is to translate a designed model into code that satisfies required real-time performance. This paper proposes scenario-based implementation synthesis architecture with timing guarantee (SISAtime) that addresses these difficulties. The problems that SISAtime must solve are: how to synthesize multithreaded-code from a real-time object-oriented model; and how to design supporting development tools and runtime system architecture while ensuring that the scenarios in the system have minimal response times and the code satisfies the given timing constraints with a minimal number of threads. SISAtime provides a new scheduling algorithm which minimizes scenario response times. SISAtime also provides a new thread derivation method that derives tasks and maps tasks to threads while automatically assigning task scheduling attributes. We have fully implemented SISAtime by extending the RoseRT development tool that uses UML 2.0 as a modeling language, and we applied it to an existing industrial private branch exchange system. The performance evaluation results show that the response times, context switches, and the number of threads of the system with SISAtime were reduced by 21.6, 33.2, and 65.2 percent, respectively, compared to the system with the best known existing thread derivation method.",
+        "keywords": [
+            "Unified modeling language",
+            "Object oriented modeling",
+            "Message systems",
+            "Timing",
+            "Time factors",
+            "Real-time systems",
+            "Ports (Computers)"
+        ]
+    },
+    {
+        "title": "Automated Fixing of Programs with Contracts.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2312918",
+        "volume": "40",
+        "abstract": "This paper describes AutoFix, an automatic debugging technique that can fix faults in general-purpose software. To provide high-quality fix suggestions and to enable automation of the whole debugging process, AutoFix relies on the presence of simple specification elements in the form of contracts (such as pre- and postconditions). Using contracts enhances the precision of dynamic analysis techniques for fault detection and localization, and for validating fixes. The only required user input to the AutoFix supporting tool is then a faulty program annotated with contracts; the tool produces a collection of validated fixes for the fault ranked according to an estimate of their suitability. In an extensive experimental evaluation, we applied AutoFix to over 200 faults in four code bases of different maturity and quality (of implementation and of contracts). AutoFix successfully fixed 42 percent of the faults, producing, in the majority of cases, corrections of quality comparable to those competent programmers would write; the used computational resources were modest, with an average time per fix below 20 minutes on commodity hardware. These figures compare favorably to the state of the art in automated program fixing, and demonstrate that the AutoFix approach is successfully applicable to reduce the debugging burden in real-world scenarios.",
+        "keywords": [
+            "Indexes",
+            "Contracts",
+            "Debugging",
+            "Libraries",
+            "Software engineering",
+            "Software",
+            "Automation"
+        ]
+    },
+    {
+        "title": "Conservation of Information: Software'sHidden Clockwork?",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2316158",
+        "volume": "40",
+        "abstract": "In this paper it is proposed that the Conservation of Hartley-Shannon Information (hereafter contracted to H-S Information) plays the same role in discrete systems as the Conservation of Energy does in physical systems. In particular, using a variational approach, it is shown that the symmetry of scale-invariance, power-laws and the Conservation of H-S Information are intimately related and lead to the prediction that the component sizes of any software system assembled from components made from discrete tokens always asymptote to a scale-free power-law distribution in the \n<italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">unique</i>\n alphabet of tokens used to construct each component. This is then validated to a very high degree of significance on some 100 million lines of software in seven different programming languages independently of how the software was produced, what it does, who produced it or what stage of maturity it has reached. A further implication of the theory presented here is that the average size of components depends only on their unique alphabet, independently of the package they appear in. This too is demonstrated on the main data set and also on 24 additional Fortran 90 packages.",
+        "keywords": [
+            "Software systems",
+            "Computer languages",
+            "Genomics",
+            "Bioinformatics",
+            "Genetic communication"
+        ]
+    },
+    {
+        "title": "Formulating Cost-Effective Monitoring Strategies for Service-Based Systems.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.48",
+        "volume": "40",
+        "abstract": "When operating in volatile environments, service-based systems (SBSs) that are dynamically composed from component services must be monitored in order to guarantee timely and successful delivery of outcomes in response to user requests. However, monitoring consumes resources and very often impacts on the quality of the SBSs being monitored. Such resource and system costs need to be considered in formulating monitoring strategies for SBSs. The critical path of a composite SBS, i.e., the execution path in the service composition with the maximum execution time, is of particular importance in cost-effective monitoring as it determines the response time of the entire SBS. In volatile operating environments, the critical path of an SBS is probabilistic, as every execution path can be critical with a certain probability, i.e., its criticality. As such, it is important to estimate the criticalities of different execution paths when deciding which parts of the SBS to monitor. Furthermore, cost-effective monitoring also requires management of the trade-off between the benefit and cost of monitoring. In this paper, we propose CriMon, a novel approach to formulating and evaluating monitoring strategies for SBSs. CriMon first calculates the criticalities of the execution paths and the component services of an SBS and then, based on those criticalities, generates the optimal monitoring strategy considering both the benefit and cost of monitoring. CriMon has two monitoring strategy formulation methods, namely local optimisation and global optimisation. In-lab experimental results demonstrate that the response time of an SBS can be managed cost-effectively through CriMon-based monitoring. The effectiveness and efficiency of the two monitoring strategy formulation methods are also evaluated and compared.",
+        "keywords": [
+            "Monitoring",
+            "Scattering",
+            "Probability",
+            "Time factors",
+            "Runtime",
+            "Probabilistic logic",
+            "Quality of service"
+        ]
+    },
+    {
+        "title": "Modular Software Model Checking for Distributed Systems.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.49",
+        "volume": "40",
+        "abstract": "Distributed systems are complex, being usually composed of several subsystems running in parallel. Concurrent execution and inter-process communication in these systems are prone to errors that are difficult to detect by traditional testing, which does not cover every possible program execution. Unlike testing, model checking can detect such faults in a concurrent system by exploring every possible state of the system. However, most model-checking techniques require that a system be described in a modeling language. Although this simplifies verification, faults may be introduced in the implementation. Recently, some model checkers verify program code at runtime but tend to be limited to stand-alone programs. This paper proposes cache-based model checking, which relaxes this limitation to some extent by verifying one process at a time and running other processes in another execution environment. This approach has been implemented as an extension of Java PathFinder, a Java model checker. It is a scalable and promising technique to handle distributed systems. To support a larger class of distributed systems, a checkpointing tool is also integrated into the verification system. Experimental results on various distributed systems show the capability and scalability of cache-based model checking.",
+        "keywords": [
+            "Model checking",
+            "Software",
+            "Java",
+            "Checkpointing",
+            "Synchronization",
+            "Scalability",
+            "Message systems"
+        ]
+    },
+    {
+        "title": "REPENT: Analyzing the Nature of Identifier Renamings.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2312942",
+        "volume": "40",
+        "abstract": "Source code lexicon plays a paramount role in software quality: poor lexicon can lead to poor comprehensibility and even increase software fault-proneness. For this reason, renaming a program entity, i.e., altering the entity identifier, is an important activity during software evolution. Developers rename when they feel that the name of an entity is not (anymore) consistent with its functionality, or when such a name may be misleading. A survey that we performed with 71 developers suggests that 39 percent perform renaming from a few times per week to almost every day and that 92 percent of the participants consider that renaming is not straightforward. However, despite the cost that is associated with renaming, renamings are seldom if ever documented-for example, less than 1 percent of the renamings in the five programs that we studied. This explains why participants largely agree on the usefulness of automatically documenting renamings. In this paper we propose REanaming Program ENTities (REPENT), an approach to automatically document-detect and classify-identifier renamings in source code. REPENT detects renamings based on a combination of source code differencing and data flow analyses. Using a set of natural language tools, REPENT classifies renamings into the different dimensions of a taxonomy that we defined. Using the documented renamings, developers will be able to, for example, look up methods that are part of the public API (as they impact client applications), or look for inconsistencies between the name and the implementation of an entity that underwent a high risk renaming (e.g., towards the opposite meaning). We evaluate the accuracy and completeness of REPENT on the evolution history of five open-source Java programs. The study indicates a precision of 88 percent and a recall of 92 percent. In addition, we report an exploratory study investigating and discussing how identifiers are renamed in the five programs, according to our taxonomy.",
+        "keywords": [
+            "Taxonomy",
+            "Semantics",
+            "Java",
+            "Grammar",
+            "Software",
+            "History",
+            "Documentation"
+        ]
+    },
+    {
+        "title": "Bayesian Networks For Evidence-Based Decision-Making in Software Engineering.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2321179",
+        "volume": "40",
+        "abstract": "Recommendation systems in software engineering (SE) should be designed to integrate evidence into practitioners experience. Bayesian networks (BNs) provide a natural statistical framework for evidence-based decision-making by incorporating an integrated summary of the available evidence and associated uncertainty (of consequences). In this study, we follow the lead of computational biology and healthcare decision-making, and investigate the applications of BNs in SE in terms of 1) main software engineering challenges addressed, 2) techniques used to learn causal relationships among variables, 3) techniques used to infer the parameters, and 4) variable types used as BN nodes. We conduct a systematic mapping study to investigate each of these four facets and compare the current usage of BNs in SE with these two domains. Subsequently, we highlight the main limitations of the usage of BNs in SE and propose a Hybrid BN to improve evidence-based decision-making in SE. In two industrial cases, we build sample hybrid BNs and evaluate their performance. The results of our empirical analyses show that hybrid BNs are powerful frameworks that combine expert knowledge with quantitative data. As researchers in SE become more aware of the underlying dynamics of BNs, the proposed models will also advance and naturally contribute to evidence based-decision-making.",
+        "keywords": null
+    },
+    {
+        "title": "Dealing with Traceability in the MDDof Model Transformations.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2316132",
+        "volume": "40",
+        "abstract": "Traceability has always been acknowledged as a relevant topic in Software Engineering. However, keeping track of the relationships between the different assets involved in a development process is a complex and tedious task. The fact that the main assets handled in any model-driven engineering project are models and model transformations eases the task. In order to take advantage of this scenario, which has not been appropriately capitalized on by the most widely adopted model transformation languages before, this work presents MeTAGeM-Trace, a methodological and technical proposal with which to support the model-driven development of model transformations that include trace generation. The underlying idea is to start from a high-level specification of the transformation which is subsequently refined into lower-level transformation models in terms of a set of DSLs until the source code that implements the transformation can be generated. Running this transformation produces not only the corresponding target models, but also a trace model between the elements of the source and target models. As part of the proposal, an EMF-based toolkit has been developed to support the development of ATL and ETL model transformations. This toolkit has been empirically validated by conducting a set of case studies following a systematic research methodology.",
+        "keywords": null
+    },
+    {
+        "title": "GEA: A Goal-Driven Approach toDiscovering Early Aspects.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2322368",
+        "volume": "40",
+        "abstract": "Aspect-oriented software development has become an important development and maintenance approach to software engineering across requirements, design and implementation phases. However, discovering early aspects from requirements for a better integration of crosscutting concerns into a target system is still not well addressed in the existing works. In this paper, we propose a Goal-driven Early Aspect approach (called GEA) to discovering early aspects by means of a clustering algorithm in which relationships among goals and use cases are utilized to explore similarity degrees of clustering goals, and total interaction degrees are devised to check the validity of the formation of each cluster. Introducing early aspects not only enhances the goal-driven requirements modeling to manage crosscutting concerns, but also provides modularity insights into the analysis and design of software development. Moreover, relationships among goals represented numerically are more informative to discover early aspects and more easily to be processed computationally than qualitative terms. The proposed approach is illustrated by using two problem domains: a meeting scheduler system and a course enrollment system. An experiment is also conducted to evaluate the benefits of the proposed approach with Mann-Whitney U-test to show that the difference between with GEA and without GEA is statistically significant.",
+        "keywords": null
+    },
+    {
+        "title": "Researcher Bias: The Use of Machine Learning in Software Defect Prediction.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2322358",
+        "volume": "40",
+        "abstract": "Background. The ability to predict defect-prone software components would be valuable. Consequently, there have been many empirical studies to evaluate the performance of different techniques endeavouring to accomplish this effectively. However no one technique dominates and so designing a reliable defect prediction model remains problematic. Objective. We seek to make sense of the many conflicting experimental results and understand which factors have the largest effect on predictive performance. Method. We conduct a meta-analysis of all relevant, high quality primary studies of defect prediction to determine what factors influence predictive performance. This is based on 42 primary studies that satisfy our inclusion criteria that collectively report 600 sets of empirical prediction results. By reverse engineering a common response variable we build a random effects ANOVA model to examine the relative contribution of four model building factors (classifier, data set, input metrics and researcher group) to model prediction performance. Results. Surprisingly we find that the choice of classifier has little impact upon performance (1.3 percent) and in contrast the major (31 percent) explanatory factor is the researcher group. It matters more who does the work than what is done. Conclusion. To overcome this high level of researcher bias, defect prediction researchers should (i) conduct blind analysis, (ii) improve reporting protocols and (iii) conduct more intergroup studies in order to alleviate expertise issues. Lastly, research is required to determine whether this bias is prevalent in other applications domains.",
+        "keywords": null
+    },
+    {
+        "title": "Static Analysis for Extracting Permission Checks of a Large Scale Framework: The Challenges and Solutions for Analyzing Android.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2322867",
+        "volume": "40",
+        "abstract": "A common security architecture is based on the protection of certain resources by permission checks (used e.g., in Android and Blackberry). It has some limitations, for instance, when applications are granted more permissions than they actually need, which facilitates all kinds of malicious usage (e.g., through code injection). The analysis of permission-based framework requires a precise mapping between API methods of the framework and the permissions they require. In this paper, we show that naive static analysis fails miserably when applied with off-the-shelf components on the Android framework. We then present an advanced class-hierarchy and field-sensitive set of analyses to extract this mapping. Those static analyses are capable of analyzing the Android framework. They use novel domain specific optimizations dedicated to Android.",
+        "keywords": null
+    },
+    {
+        "title": "An Empirical Study of RefactoringChallenges and Benefits at Microsoft.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2318734",
+        "volume": "40",
+        "abstract": "It is widely believed that refactoring improves software quality and developer productivity. However, few empirical studies quantitatively assess refactoring benefits or investigate developers' perception towards these benefits. This paper presents a field study of refactoring benefits and challenges at Microsoft through three complementary study methods: a survey, semi-structured interviews with professional software engineers, and quantitative analysis of version history data. Our survey finds that the refactoring definition in practice is not confined to a rigorous definition of semantics-preserving code transformations and that developers perceive that refactoring involves substantial cost and risks. We also report on interviews with a designated refactoring team that has led a multi-year, centralized effort on refactoring Windows. The quantitative analysis of Windows 7 version history finds the top 5 percent of preferentially refactored modules experience higher reduction in the number of inter-module dependencies and several complexity measures but increase size more than the bottom 95 percent. This indicates that measuring the impact of refactoring requires multi-dimensional assessment.",
+        "keywords": null
+    },
+    {
+        "title": "Bypassing the Combinatorial Explosion: Using Similarity to Generate and Prioritize T-Wise Test Configurations for Software Product Lines.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2327020",
+        "volume": "40",
+        "abstract": "Large Software Product Lines (SPLs) are common in industry, thus introducing the need of practical solutions to test them. To this end, t-wise can help to drastically reduce the number of product configurations to test. Current t-wise approaches for SPLs are restricted to small values of t. In addition, these techniques fail at providing means to finely control the configuration process. In view of this, means for automatically generating and prioritizing product configurations for large SPLs are required. This paper proposes (a) a search-based approach capable of generating product configurations for large SPLs, forming a scalable and flexible alternative to current techniques and (b) prioritization algorithms for any set of product configurations. Both these techniques employ a similarity heuristic. The ability of the proposed techniques is assessed in an empirical study through a comparison with state of the art tools. The comparison focuses on both the product configuration generation and the prioritization aspects. The results demonstrate that existing t-wise tools and prioritization techniques fail to handle large SPLs. On the contrary, the proposed techniques are both effective and scalable. Additionally, the experiments show that the similarity heuristic can be used as a viable alternative to t-wise.",
+        "keywords": null
+    },
+    {
+        "title": "Methodbook: Recommending Move Method Refactorings via Relational Topic Models.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.60",
+        "volume": "40",
+        "abstract": "During software maintenance and evolution the internal structure of the software system undergoes continuous changes. These modifications drift the source code away from its original design, thus deteriorating its quality, including cohesion and coupling of classes. Several refactoring methods have been proposed to overcome this problem. In this paper we propose a novel technique to identify Move Method refactoring opportunities and remove the Feature Envy bad smell from source code. Our approach, coined as Methodbook, is based on relational topic models (RTM), a probabilistic technique for representing and modeling topics, documents (in our case methods) and known relationships among these. Methodbook uses RTM to analyze both structural and textual information gleaned from software to better support move method refactoring. We evaluated Methodbook in two case studies. The first study has been executed on six software systems to analyze if the move method operations suggested by Methodbook help to improve the design quality of the systems as captured by quality metrics. The second study has been conducted with eighty developers that evaluated the refactoring recommendations produced by Methodbook. The achieved results indicate that Methodbook provides accurate and meaningful recommendations for move method refactoring operations.",
+        "keywords": [
+            "Software systems",
+            "Couplings",
+            "Measurement",
+            "Object oriented modeling",
+            "Educational institutions",
+            "Electronic mail"
+        ]
+    },
+    {
+        "title": "SymbexNet: Testing Network Protocol Implementations with Symbolic Execution and Rule-Based Specifications.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2323977",
+        "volume": "40",
+        "abstract": "Implementations of network protocols, such as DNS, DHCP and Zeroconf, are prone to flaws, security vulnerabilities and interoperability issues caused by developer mistakes and ambiguous requirements in protocol specifications. Detecting such problems is not easy because (i) many bugs manifest themselves only after prolonged operation; (ii) reasoning about semantic errors requires a machine-readable specification; and (iii) the state space of complex protocol implementations is large. This article presents a novel approach that combines symbolic execution and rule-based specifications to detect various types of flaws in network protocol implementations. The core idea behind our approach is to (1) automatically generate high-coverage test input packets for a network protocol implementation using single- and multi-packet exchange symbolic execution (targeting stateless and stateful protocols, respectively) and then (2) use these packets to detect potential violations of manual rules derived from the protocol specification, and check the interoperability of different implementations of the same network protocol. We present a system based on these techniques, SymbexNet, and evaluate it on multiple implementations of two network protocols: Zeroconf, a service discovery protocol, and DHCP, a network configuration protocol. SymbexNet is able to discover non-trivial bugs as well as interoperability problems, most of which have been confirmed by the developers.",
+        "keywords": null
+    },
+    {
+        "title": "Symbolic Crosschecking of Data-Parallel Floating-Point Code.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.2297120",
+        "volume": "40",
+        "abstract": "We present a symbolic execution-based technique for cross-checking programs accelerated using SIMD or OpenCL against an unaccelerated version, as well as a technique for detecting data races in OpenCL programs. Our techniques are implemented in KLEE-CL, a tool based on the symbolic execution engine KLEE that supports symbolic reasoning on the equivalence between expressions involving both integer and floating-point operations. While the current generation of constraint solvers provide effective support for integer arithmetic, the situation is different for floating-point arithmetic, due to the complexity inherent in such computations. The key insight behind our approach is that floating-point values are only reliably equal if they are essentially built by the same operations. This allows us to use an algorithm based on symbolic expression matching augmented with canonicalisation rules to determine path equivalence. Under symbolic execution, we have to verify equivalence along every feasible control-flow path. We reduce the branching factor of this process by aggressively merging conditionals, if-converting branches into select operations via an aggressive phi-node folding transformation. To support the Intel Streaming SIMD Extension (SSE) instruction set, we lower SSE instructions to equivalent generic vector operations, which in turn are interpreted in terms of primitive integer and floating-point operations. To support OpenCL programs, we symbolically model the OpenCL environment using an OpenCL runtime library targeted to symbolic execution. We detect data races by keeping track of all memory accesses using a memory log, and reporting a race whenever we detect that two accesses conflict. By representing the memory log symbolically, we are also able to detect races associated with symbolically-indexed accesses of memory objects. We used KLEE-CL to prove the bounded equivalence between scalar and data-parallel versions of floating-point programs and find a number of issues in a variety of open source projects that use SSE and OpenCL, including mismatches between implementations, memory errors, race conditions and a compiler bug.",
+        "keywords": [
+            "Vectors",
+            "Kernel",
+            "Computational modeling",
+            "Computer architecture",
+            "Semantics",
+            "Programming",
+            "Parallel processing"
+        ]
+    },
+    {
+        "title": "An Empirical Analysis of Business Process Execution Language Usage.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2322618",
+        "volume": "40",
+        "abstract": "The current state of executable business process languages allows for and demands optimization of design practices and specifications. In this paper, we present the first empirical study that analyses Web Services Business Process Execution Language (WS-BPEL or BPEL) usage and characteristics of real world executable business processes. We have analysed 1,145 BPEL processes by measuring activity usage and process complexity. In addition, we investigated the occurrence of activity usage patterns. The results revealed that the usage frequency of BPEL activities varies and that some activities have a strong co-occurrence. BPEL activities often appear in activity patterns that are repeated in multiple processes. Furthermore, the current process complexity metrics have proved to be inadequate for measuring BPEL process complexity. The empirical results provide fundamental knowledge on how BPEL specification and process design practices can be improved. We propose BPEL design guidelines and BPEL language improvements for the design of more understandable and less complex processes. The results are of interest to business process language designers, business process tool developers, business process designers and developers, and software engineering researchers, and contribute to the general understanding of BPEL and service-oriented architecture.",
+        "keywords": null
+    },
+    {
+        "title": "Managing Technical Debt in EnterpriseSoftware Packages.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2327027",
+        "volume": "40",
+        "abstract": "We develop an evolutionary model and theory of software technical debt accumulation to facilitate a rigorous and balanced analysis of its benefits and costs in the context of a large commercial enterprise software package. Our theory focuses on the optimization problem involved in managing technical debt, and illustrates the different tradeoff patterns between software quality and customer satisfaction under early and late adopter scenarios at different lifecycle stages of the software package. We empirically verify our theory utilizing a ten year longitudinal data set drawn from 69 customer installations of the software package. We then utilize the empirical results to develop actionable policies for managing technical debt in enterprise software product adoption.",
+        "keywords": null
+    },
+    {
+        "title": "Predicting Consistency-Maintenance Requirement of Code Clonesat Copy-and-Paste Time.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2323972",
+        "volume": "40",
+        "abstract": "Code clones have always been a double edged sword in software development. On one hand, it is a very convenient way to reuse existing code, and to save coding effort. On the other hand, since developers may need to ensure consistency among cloned code segments, code clones can lead to extra maintenance effort and even bugs. Recently studies on the evolution of code clones show that only some of the code clones experience consistent changes during their evolution history. Therefore, if we can accurately predict whether a code clone will experience consistent changes, we will be able to provide useful recommendations to developers onleveraging the convenience of some code cloning operations, while avoiding other code cloning operations to reduce future consistency maintenance effort. In this paper, we define a code cloning operation as consistency-maintenance-required if its generated code clones experience consistent changes in the software evolution history, and we propose a novel approach that automatically predicts whether a code cloning operation requires consistency maintenance at the time point of performing copy-and-paste operations. Our insight is that whether a code cloning operation requires consistency maintenance may relate to the characteristics of the code to be cloned and the characteristics of its context. Based on a number of attributes extracted from the cloned code and the context of the code cloning operation, we use Bayesian Networks, a machine-learning technique, to predict whether an intended code cloning operation requires consistency maintenance. We evaluated our approach on four subjects-two large-scale Microsoft software projects, and two popular open-source software projects-under two usage scenarios: 1) recommend developers to perform only the cloning operations predicted to be very likely to be consistency-maintenance-free, and 2) recommend developers to perform all cloning operations unless they are predicted very likely to be consistency-maintenance-required. In the first scenario, our approach is able to recommend developers to perform more than 50 percent cloning operations with a precision of at least 94 percent in the four subjects. In the second scenario, our approach is able to avoid 37 to 72 percent consistency-maintenance-required code clones by warning developers on only 13 to 40 percent code clones, in the four subjects.",
+        "keywords": null
+    },
+    {
+        "title": "Specification and Verification of NormativeTexts Using C-O Diagrams.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2013.54",
+        "volume": "40",
+        "abstract": "C-O diagrams have been introduced as a means to have a more visual representation of normative texts and electronic contracts, where it is possible to represent the obligations, permissions and prohibitions of the different signatories, as well as the penalties resulting from non-fulfillment of their obligations and prohibitions. In such diagrams we are also able to represent absolute and relative timing constraints. In this paper we present a formal semantics for C-O diagrams based on timed automata extended with information regarding the satisfaction and violation of clauses in order to represent different deontic modalities. As a proof of concept, we apply our approach to two different case studies, where the method presented here has successfully identified problems in the specification.",
+        "keywords": [
+            "Automata",
+            "Clocks",
+            "Contracts",
+            "Semantics",
+            "Cost accounting",
+            "Synchronization",
+            "Formal languages"
+        ]
+    },
+    {
+        "title": "Supporting Process Model Validation through Natural Language Generation.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2327044",
+        "volume": "40",
+        "abstract": "The design and development of process-aware information systems is often supported by specifying requirements as business process models. Although this approach is generally accepted as an effective strategy, it remains a fundamental challenge to adequately validate these models given the diverging skill set of domain experts and system analysts. As domain experts often do not feel confident in judging the correctness and completeness of process models that system analysts create, the validation often has to regress to a discourse using natural language. In order to support such a discourse appropriately, so-called verbalization techniques have been defined for different types of conceptual models. However, there is currently no sophisticated technique available that is capable of generating natural-looking text from process models. In this paper, we address this research gap and propose a technique for generating natural language texts from business process models. A comparison with manually created process descriptions demonstrates that the generated texts are superior in terms of completeness, structure, and linguistic complexity. An evaluation with users further demonstrates that the texts are very understandable and effectively allow the reader to infer the process model semantics. Hence, the generated texts represent a useful input for process model validation.",
+        "keywords": null
+    },
+    {
+        "title": "A Cooperative Parallel Search-Based Software Engineering Approach for Code-Smells Detection.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2331057",
+        "volume": "40",
+        "abstract": "We propose in this paper to consider code-smells detection as a distributed optimization problem. The idea is that different methods are combined in parallel during the optimization process to find a consensus regarding the detection of code-smells. To this end, we used Parallel Evolutionary algorithms (P-EA) where many evolutionary algorithms with different adaptations (fitness functions, solution representations, and change operators) are executed, in a parallel cooperative manner, to solve a common goal which is the detection of code-smells. An empirical evaluation to compare the implementation of our cooperative P-EA approach with random search, two single population-based approaches and two code-smells detection techniques that are not based on meta-heuristics search. The statistical analysis of the obtained results provides evidence to support the claim that cooperative P-EA is more efficient and effective than state of the art detection approaches based on a benchmark of nine large open source systems where more than 85 percent of precision and recall scores are obtained on a variety of eight different types of code-smells.",
+        "keywords": null
+    },
+    {
+        "title": "A General Testability Theory: Classes, Properties, Complexity, and Testing Reductions.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2331690",
+        "volume": "40",
+        "abstract": "In this paper we develop a general framework to reason about testing. The difficulty of testing is assessed in terms of the amount of tests that must be applied to determine whether the system is correct or not. Based on this criterion, five testability classes are presented and related. We also explore conditions that enable and disable finite testability, and their relation to testing hypotheses is studied. We measure how far incomplete test suites are from being complete, which allows us to compare and select better incomplete test suites. The complexity of finding that measure, as well as the complexity of finding minimum complete test suites, is identified. Furthermore, we address the reduction of testing problems to each other, that is, we study how the problem of finding test suites to test systems of some kind can be reduced to the problem of finding test suites for another kind of systems. This enables to export testing methods. In order to illustrate how general notions are applied to specific cases, many typical examples from the formal testing techniques domain are presented.",
+        "keywords": null
+    },
+    {
+        "title": "A Scalable Approach to Exact Model and Commonality Counting for Extended Feature Models.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2331073",
+        "volume": "40",
+        "abstract": "A software product line is an engineering approach to efficient development of software product portfolios. Key to the success of the approach is to identify the common and variable features of the products and the interdependencies between them, which are usually modeled using feature models. Implicitly, such models also include valuable information that can be used by economic models to estimate the payoffs of a product line. Unfortunately, as product lines grow, analyzing large feature models manually becomes impracticable. This paper proposes an algorithm to compute the total number of products that a feature model represents and, for each feature, the number of products that implement it. The inference of both parameters is helpful to describe the standardization/parameterization balance of a product line, detect scope flaws, assess the product line incremental development, and improve the accuracy of economic models. The paper reports experimental evidence that our algorithm has better runtime performance than existing alternative approaches.",
+        "keywords": null
+    },
+    {
+        "title": "GreenDroid: Automated Diagnosis of Energy Inefficiency for Smartphone Applications.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2323982",
+        "volume": "40",
+        "abstract": "Smartphone applications' energy efficiency is vital, but many Android applications suffer from serious energy inefficiency problems. Locating these problems is labor-intensive and automated diagnosis is highly desirable. However, a key challenge is the lack of a decidable criterion that facilitates automated judgment of such energy problems. Our work aims to address this challenge. We conducted an in-depth study of 173 open-source and 229 commercial Android applications, and observed two common causes of energy problems: missing deactivation of sensors or wake locks, and cost-ineffective use of sensory data. With these findings, wepropose an automated approach to diagnosing energy problems in Android applications. Our approach explores an application's state space by systematically executing the application using Java PathFinder (JPF). It monitors sensor and wake lock operations to detect missing deactivation of sensors and wake locks. It also tracks the transformation and usage of sensory data and judges whether they are effectively utilized by the application using our state-sensitive data utilization metric. In this way, our approach can generate detailed reports with actionable information to assist developers in validating detected energy problems. We built our approach as a tool, GreenDroid, on top of JPF. Technically, we addressed the challenges of generating user interaction events and scheduling event handlers in extending JPF for analyzing Android applications. We evaluated GreenDroid using 13 real-world popular Android applications. GreenDroid completed energy efficiency diagnosis for these applications in a few minutes. It successfully located real energy problems in these applications, and additionally found new unreported energy problems that were later confirmed by developers.",
+        "keywords": null
+    },
+    {
+        "title": "NLP-KAOS for Systems Goal Elicitation: Smart Metering System Case Study.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2339811",
+        "volume": "40",
+        "abstract": "This paper presents a computational method that employs Natural Language Processing (NLP) and text mining techniques to support requirements engineers in extracting and modeling goals from textual documents. We developed a NLP-based goal elicitation approach within the context of KAOS goal-oriented requirements engineering method. The hierarchical relationships among goals are inferred by automatically building taxonomies from extracted goals. We use smart metering system as a case study to investigate the proposed approach. Smart metering system is an important subsystem of the next generation of power systems (smart grids). Goals are extracted by semantically parsing the grammar of goal-related phrases in abstracts of research publications. The results of this case study show that the developed approach is an effective way to model goals for complex systems, and in particular, for the research-intensive complex systems.",
+        "keywords": null
+    },
+    {
+        "title": "On the Accuracy, Efficiency, and Reusability of Automated Test Oracles for Android Devices.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2331982",
+        "volume": "40",
+        "abstract": "Automated GUI testing consists of simulating user events and validating the changes in the GUI in order to determine if an Android application meets specifications. Traditional record-replay testing tools mainly focus on facilitating the test case writing process but not the replay and verification process. The accuracy of testing tools degrades significantly when the device under test (DUT) is under heavy load. In order to improve the accuracy, our previous work, SPAG, uses event batching and smart wait function to eliminate the uncertainty of the replay process and adopts GUI layout information to verify the testing results. SPAG maintains an accuracy of up to 99.5 percent and outperforms existing methods. In this work, we propose smart phone automated GUI testing tool with camera (SPAG-C), an extension of SPAG, to test an Android hardware device. Our goal is to further reduce the time required to record test cases and increase reusability of the test oracle without compromising test accuracy. In the record stage, SPAG captures screenshots from device's frame buffer and writes verification commands into the test case. Unlike SPAG, SPAG-C captures the screenshots from an external camera instead of frame buffer. In the replay stage, SPAG-C automatically performs image comparison while SPAG simply performs a string comparison to verify the test results. In order to make SPAG-C reusable for different devices and to allow bettersynchronization at the time of capturing images, we develop a new architecture that uses an external camera and Web services to decouple the test oracle. Our experiments show that recording a test case using SPAG-C's automatic verification is as fast as SPAG's but more accurate. Moreover, SPAG-C is 50 to 75 percent faster than SPAG in achieving the same test accuracy. With reusability, SPAG-C reduces the testing time from days to hours for heterogeneous devices.",
+        "keywords": null
+    },
+    {
+        "title": "On the Effectiveness of Contracts as Test Oracles in the Detection and Diagnosis of Functional Faults in Concurrent Object-Oriented Software.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2339829",
+        "volume": "40",
+        "abstract": "Design by contract (DbC) is a software development methodology that focuses on clearly defining the interfaces between components to produce better quality object-oriented software. Though there exists ample support for DbC for sequential programs, applying DbC to concurrent programs presents several challenges. Using Java as the target programming language, we tackle such challenges by augmenting the Java Modelling Language (JML) and modifying the JML compiler (jmlc) to generate runtime assertion checking code to support DbC in concurrent programs. We applied our solution in a carefully designed case study on a highly concurrent industrial software system from the telecommunications domain to assess the effectiveness of contracts as test oracles in detecting and diagnosing functional faults in concurrent software. Based on these results, clear and objective requirements are defined for contracts to be effective test oracles for concurrent programs whilst balancing the effort to design them. Effort is measured indirectly through the contract complexity measure (CCM), a measure we define. Main results include that contracts of a realistic level of completeness and complexity can detect around 76 percent of faults and reduce the diagnosis effort for such faults tenfold. We, therefore, show that DbC can be applied to concurrent software and can be a valuable tool to improve the economics of software engineering.",
+        "keywords": null
+    },
+    {
+        "title": "Predicting Vulnerable Software Components via Text Mining.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2340398",
+        "volume": "40",
+        "abstract": "This paper presents an approach based on machine learning to predict which components of a software application contain security vulnerabilities. The approach is based on text mining the source code of the components. Namely, each component is characterized as a series of terms contained in its source code, with the associated frequencies. These features are used to forecast whether each component is likely to contain vulnerabilities. In an exploratory validation with 20 Android applications, we discovered that a dependable prediction model can be built. Such model could be useful to prioritize the validation activities, e.g., to identify the components needing special scrutiny.",
+        "keywords": null
+    },
+    {
+        "title": "Requirements Elicitation and Specification Using the Agent Paradigm: The Case Study of an Aircraft Turnaround Simulator.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2339827",
+        "volume": "40",
+        "abstract": "In this paper, we describe research results arising from a technology transfer exercise on agent-oriented requirements engineering with an industry partner. We introduce two improvements to the state-of-the-art in agent-oriented requirements engineering, designed to mitigate two problems experienced by ourselves and our industry partner: (1) the lack of systematic methods for agent-oriented requirements elicitation and modelling; and (2) the lack of prescribed deliverables in agent-oriented requirements engineering. We discuss the application of our new approach to an aircraft turnaround simulator built in conjunction with our industry partner, and show how agent-oriented models can be derived and used to construct a complete requirements package. We evaluate this by having three independent people design and implement prototypes of the aircraft turnaround simulator, and comparing the three prototypes. Our evaluation indicates that our approach is effective at delivering correct, complete, and consistent requirements that satisfy the stakeholders, and can be used in a repeatable manner to produce designs and implementations. We discuss lessons learnt from applying this approach.",
+        "keywords": null
+    },
+    {
+        "title": "Supporting the Combined Selection of Model-Based Testing Techniques.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2312915",
+        "volume": "40",
+        "abstract": "The technical literature on model-based testing (MBT) offers us several techniques with different characteristics and goals. Contemporary software projects usually need to make use of different software testing techniques. However, a lack of empirical information regarding their scalability and effectiveness is observed. It makes their application difficult in real projects, increasing the technical difficulties to combine two or more MBT techniques for the same software project. In addition, current software testing selection approaches offer limited support for the combined selection of techniques. Therefore, this paper describes the conception and evaluation of an approach aimed at supporting the combined selection of MBT techniques for software projects. It consists of an evidence-based body of knowledge with 219 MBT techniques and their corresponding characteristics and a selection process that provides indicators on the level of adequacy (impact indicator) amongst MBT techniques and software projects characteristics. Results from the data analysis indicate it contributes to improve the effectiveness and efficiency of the selection process when compared to another selection approach available in the technical literature. Aiming at facilitating its use, a computerized infrastructure, evaluated into an industrial context and evolved to implement all the facilities needed to support such selection approach, is presented.",
+        "keywords": [
+            "Software testing",
+            "Context",
+            "Computational modeling",
+            "Organizations",
+            "Software quality"
+        ]
+    },
+    {
+        "title": "A Component Model for Model Transformations.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2339852",
+        "volume": "40",
+        "abstract": "Model-driven engineering promotes an active use of models to conduct the software development process. In this way, models are used to specify, simulate, verify, test and generate code for the final systems. Model transformations are key enablers for this approach, being used to manipulate instance models of a certain modelling language. However, while other development paradigms make available techniques to increase productivity through reutilization, there are few proposals for the reuse of model transformations across different modelling languages. As a result, transformations have to be developed from scratch even if other similar ones exist. In this paper, we propose a technique for the flexible reutilization of model transformations. Our proposal is based on generic programming for the definition and instantiation of transformation templates, and on component-based development for the encapsulation and composition of transformations. We have designed a component model for model transformations, supported by an implementation currently targeting the Atlas Transformation Language (ATL). To evaluate its reusability potential, we report on a generic transformation component to analyse workflow models through their transformation into Petri nets, which we have reused for eight workflow languages, including UML Activity Diagrams, YAWL and two versions of BPMN.",
+        "keywords": null
+    },
+    {
+        "title": "Keeping the Development Environment Up to Date - A Study of the Situated Practices of Appropriating the Eclipse IDE.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2354047",
+        "volume": "40",
+        "abstract": "Software engineers and developers are surrounded by highly complex software systems. What does it take to cope with these? We introduce a field study that explores the maintenance of the Eclipse Integrated Development Environment by software developers as part of their daily work. The study focuses on appropriation of the Eclipse IDE. We present an empirical view on appropriation as a means to maintain the collective ability to work. We visited seven different organizations and observed and interviewed their members. Each organization was chosen to provide an overall picture of Eclipse use throughout the industry. The results decompose the appropriation of Eclipse by software developers in organizations into four categories: learning, tailoring and discovering, as well as the cross-cutting category: collaboration. The categories are grounded in situations that provoked a need to change as well as in policies adopted for coping with this need. By discussing these categories against the background of Eclipse and its ecosystem, we want to illustrate in what ways appropriation of component- or plugin- based software is nowadays a common and highly complex challenge for Eclipse users, and how the related appropriation practices can be supported by IT systems.",
+        "keywords": null
+    },
+    {
+        "title": "Rate-Based Queueing Simulation Model of Open Source Software Debugging Activities.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2354032",
+        "volume": "40",
+        "abstract": "Open source software (OSS) approach has become increasingly prevalent for software development. As the widespread utilization of OSS, the reliability of OSS products becomes an important issue. By simulating the testing and debugging processes of software life cycle, the rate-based queueing simulation model has shown its feasibility for closed source software (CSS) reliability assessment. However, the debugging activities of OSS projects are different in many ways from those of CSS projects and thus the simulation approach needs to be calibrated for OSS projects. In this paper, we first characterize the debugging activities of OSS projects. Based on this, we propose a new rate-based queueing simulation framework for OSS reliability assessment including the model and the procedures. Then a decision model is developed to determine the optimal version-updating time with respect to two objectives: minimizing the time for version update, and maximizing OSS reliability. To illustrate the proposed framework, three real datasets from Apache and GNOME projects are used. The empirical results indicate that our framework is able to effectively approximate the real scenarios. Moreover, the influences of the core contributor staffing levels are analyzed and the optimal version-updating times are obtained.",
+        "keywords": null
+    },
+    {
+        "title": "Test Code Quality and Its Relation to Issue Handling Performance.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2342227",
+        "volume": "40",
+        "abstract": "Automated testing is a basic principle of agile development. Its benefits include early defect detection, defect causelocalization and removal of fear to apply changes to the code. Therefore, maintaining high quality test code is essential. This study introduces a model that assesses test code quality by combining source code metrics that reflect three main aspects of test codequality: completeness, effectiveness and maintainability. The model is inspired by the Software Quality Model of the SoftwareImprovement Group which aggregates source code metrics into quality ratings based on benchmarking. To validate the model we assess the relation between test code quality, as measured by the model, and issue handling performance. An experiment isconducted in which the test code quality model is applied to \n<inline-formula><tex-math notation=\"LaTeX\">$18$</tex-math></inline-formula>\n open source systems. The test quality ratings are tested for correlation with issue handling indicators, which are obtained by mining issue repositories. In particular, we study the (1) defect resolution speed, (2) throughput and (3) productivity issue handling metrics. The results reveal a significant positive correlation between test code quality and two out of the three issue handling metrics (throughput and productivity), indicating that good test code quality positively influences issue handling performance.",
+        "keywords": null
+    },
+    {
+        "title": "Using Traceability Links to Recommend Adaptive Changes for Documentation Evolution.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2347969",
+        "volume": "40",
+        "abstract": "Developer documentation helps developers learn frameworks and libraries, yet developing and maintaining accurate documentation requires considerable effort and resources. Contributors who work on developer documentation often need to manually track all changes in the code, determine which changes are significant enough to document, and then, adapt the documentation. We propose AdDoc, a technique that automatically discovers documentation patterns, i.e., coherent sets of code elements that are documented together, and that reports violations of these patterns as the code and the documentation evolves. We evaluated our approach in a retrospective analysis of four Java open source projects and found that at least 50 percent of all the changes in the documentation were related to existing documentation patterns. Our technique allows contributors to quickly adapt existing documentation, so that they can focus their documentation effort on the new features.",
+        "keywords": null
+    },
+    {
+        "title": "An Empirical Methodology to Evaluate Vulnerability Discovery Models.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2354037",
+        "volume": "40",
+        "abstract": "Vulnerability discovery models (VDMs) operate on known vulnerability data to estimate the total number of vulnerabilities that will be reported after a software is released. VDMs have been proposed by industry and academia, but there has been no systematic independent evaluation by researchers who are not model proponents. Moreover, the traditional evaluation methodology has some issues that biased previous studies in the field. In this work we propose an empirical methodology that systematically evaluates the performance of VDMs along two dimensions (quality and predictability) and addresses all identified issues of the traditional methodology. We conduct an experiment to evaluate most existing VDMs on popular web browsers' vulnerability data. Our comparison shows that the results obtained by the proposed methodology are more informative than those by the traditional methodology. Among evaluated VDMs, the simplest linear model is the most appropriate choice in terms of both quality and predictability for the first 6-12 months since a release date. Otherwise, logistics-based models are better choices.",
+        "keywords": null
+    },
+    {
+        "title": "Construction and Validation of an Instrument for Measuring Programming Skill.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2348997",
+        "volume": "40",
+        "abstract": "Skilled workers are crucial to the success of software development. The current practice in research and industry for assessing programming skills is mostly to use proxy variables of skill, such as education, experience, and multiple-choice knowledge tests. There is as yet no valid and efficient way to measure programming skill. The aim of this research is to develop a valid instrument that measures programming skill by inferring skill directly from the performance on programming tasks. Over two days, 65 professional developers from eight countries solved 19 Java programming tasks. Based on the developers' performance, the Rasch measurement model was used to construct the instrument. The instrument was found to have satisfactory (internal) psychometric properties and correlated with external variables in compliance with theoretical expectations. Such an instrument has many implications for practice, for example, in job recruitment and project allocation.",
+        "keywords": null
+    },
+    {
+        "title": "Input-Sensitive Profiling.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2339825",
+        "volume": "40",
+        "abstract": "In this article we present a building block technique and a toolkit towards automatic discovery of workload-dependentperformance bottlenecks. From one or more runs of a program, our profiler automatically measures how the performance of individual routines scales as a function of the input size, yielding clues to their growth rate. The output of the profiler is, for each executed routine of the program, a set of tuples that aggregate performance costs by input size. The collected profiles can be used to produceperformance plots and derive trend functions by statistical curve fitting techniques. A key feature of our method is the ability toautomatically measure the size of the input given to a generic code fragment: to this aim, we propose an effective metric for estimating the input size of a routine and show how to compute it efficiently. We discuss several examples, showing that our approach can reveal asymptotic bottlenecks that other profilers may fail to detect and can provide useful characterizations of the workload and behavior of individual routines in the context of mainstream applications, yielding several code optimizations as well as algorithmic improvements. To prove the feasibility of our techniques, we implemented a Valgrind tool called aprof and performed an extensive experimentalevaluation on the SPEC CPU2006 benchmarks. Our experiments show that aprof delivers comparable performance to otherprominent Valgrind tools, and can generate informative plots even from single runs on typical workloads for mostalgorithmically-critical routines.",
+        "keywords": null
+    },
+    {
+        "title": "Making CEGAR More Efficient in Software Model Checking.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2357442",
+        "volume": "40",
+        "abstract": "Counter-example guided abstraction refinement (CEGAR) is widely used in software model checking. With an abstract model, the state space is largely reduced, however, a counterexample found in such a model that does not satisfy the desired property may not exist in the concrete model. Therefore, how to check whether a reported counterexample is spurious is a key problem in the abstraction-refinement loop. Next, in the case that a spurious counterexample is found, the abstract model needs to be further refined where an NP-hard state separation problem is often involved. Thus, how to refine the abstract model efficiently has attracted a great attention in the past years. In this paper, by re-analyzing spurious counterexamples, a new formal definition of spurious paths is given. Based on it, efficient algorithms for detecting spurious counterexamples are presented. By the new algorithms, when dealing with infinite counterexamples, the finite prefix to be analyzed will be polynomially shorter than the one dealt with by the existing algorithms. Moreover, in practical terms, the new algorithms can naturally be parallelized that enables multi-core processors contributes more in spurious counterexample checking. In addition, a novel refining approach by adding extra Boolean variables to the abstract model is presented. With this approach, not only the NP-hard state separation problem can be avoided, but also a smaller refined abstract model can be obtained. Experimental results show that the new algorithms perform well in practice.",
+        "keywords": null
+    },
+    {
+        "title": "Model-Transformation Design Patterns.",
+        "venue_name": "IEEE Transactions on Software Engineering",
+        "year": 2014,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1109/TSE.2014.2354344",
+        "volume": "40",
+        "abstract": "This paper defines a catalogue of patterns for the specification and design of model transformations, and provides a systematic scheme and classification of these patterns, together with pattern application examples in leading model transformation languages such as ATL, QVT, GrGen.NET, and others. We consider patterns for improving transformation modularization and efficiency and for reducing data storage requirements. We define a metamodel-based formalization of model transformation design patterns, and measurement-based techniques to guide the selection of patterns. We also provide an evaluation of the effectiveness of transformation patterns on a range of different case studies.",
+        "keywords": null
+    }
+]

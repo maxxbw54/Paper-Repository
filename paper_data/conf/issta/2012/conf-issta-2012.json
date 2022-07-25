@@ -1,0 +1,312 @@
+[
+    {
+        "title": "RefaFlex: safer refactorings for reflective Java programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336754",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "THeME: a system for testing by hardware monitoring events.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336755",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-slicing: a compiler-supported parallel approach to data dependence profiling.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336756",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Remedying the eval that men do.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336758",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "State aware test case regeneration for improving web application test suite coverage and fault detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336759",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ViewPoints: differential string analysis for discovering client- and server-side input validation inconsistencies.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336760",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Search-based system testing: high coverage, no false alarms.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336762",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Swarm testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336763",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Compositional load test generation for software pipelines.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336764",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combining model-based and combinatorial testing for effective test case generation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336765",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A first step towards algorithm plagiarism detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336767",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A quantitative study of accuracy in system call-based malware detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336768",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Undangle: early detection of dangling pointers in use-after-free and double-free vulnerabilities.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336769",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Memoized symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336771",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Abstracting path conditions.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336772",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Probabilistic symbolic execution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336773",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A human study of patch maintainability.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336775",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding user understanding: determining correctness of generated program invariants.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336776",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Empirical investigation of search algorithms for environment model-based testing of real-time embedded software.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336777",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Testing concurrent programs to achieve high synchronization coverage.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336779",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CARISMA: a context-sensitive approach to race-condition sample-instance selection for multithreaded applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336780",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cooperative types for controlling thread interference in Java.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336781",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding errors in multithreaded GUI applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336782",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static memory leak detection using full-sparse value-flow analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336784",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Static detection of brittle parameter typing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336785",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Measuring enforcement windows with symbolic trace interpretation: what well-behaved programs say.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336786",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting inconsistencies via universal reachability analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336788",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Residual investigation: predictive and precise bug detection.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336789",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Isolating failure causes through test case generation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336790",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient regression testing of ontology-driven systems.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336792",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Regression mutation testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2338965.2336793",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

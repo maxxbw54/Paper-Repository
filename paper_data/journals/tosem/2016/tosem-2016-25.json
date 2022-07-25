@@ -1,0 +1,312 @@
+[
+    {
+        "title": "Editorial Journal-First Publication for the Software Engineering Community.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2837717",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding Integer Overflow in C/C++.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2743019",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Intelligent Code Completion with Bayesian Networks.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2744200",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combining Genetic Algorithms and Constraint Programming to Support Stress Testing of Task Deadlines.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2818640",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Do Automatically Generated Test Cases Make Debugging Easier? An Experimental Assessment of Debugging Effectiveness and Efficiency.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2768829",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test Case Prioritization Using Extended Digraphs.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2789209",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Boa: Ultra-Large-Scale Software Repository and Source-Code Mining.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2803171",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2818639",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Type-Based Call Graph Construction Algorithms for Scala.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2824234",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Estimating Semantic Relatedness in Source Code.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2824251",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Editorial.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2904898",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding JavaScript Event-Based Interactions with Clematis.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2876441",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inflow and Retention in OSS Communities with Commercial Involvement: A Case Study of Three Hybrid Projects.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2876443",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Concurrency Debugging with Differential Schedule Projections.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2885495",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Control Explicit-Data Symbolic Model Checking.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2888393",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Less is More: Estimating Probabilistic Rewards over Partial System Explorations.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2890494",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SIP: Optimal Product Selection from Feature Models Using Many-Objective Evolutionary Optimization.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2897760",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DiaPro: Unifying Dynamic Impact Analyses for Improved and Variable Cost-Effectiveness.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2894751",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Stack Memory Abstraction and Symbolic Analysis Framework for Executables.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2897511",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-Step Learning and Adaptive Search for Learning Complex Model Transformations from Examples.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2904904",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Learning Weighted Assumptions for Compositional Verification of Markov Decision Processes.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2907943",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining Privacy Goals from Privacy Policies Using Hybridized Task Recomposition.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2907942",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-Criteria Code Refactoring Using Search-Based Software Engineering: An Industrial Case Study.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2932631",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using Cohesion and Coupling for Software Remodularization: Is It Enough?",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2928268",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The Effect of Program and Model Structure on the Effectiveness of MC/DC Test Adequacy Coverage.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2934672",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Stochastic Performance Analysis of Global Software Development Teams.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2955093",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hierarchical Program Paths.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2963094",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Impact-Driven Process Model Repair.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2980764",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generating API Call Rules from Version History and Stack Overflow Posts.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2990497",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dynamic Dependence Summaries.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/2968444",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A Posteriori Typing for Model-Driven Engineering: Concepts, Analysis, and Applications.",
+        "venue_name": "ACM Transactions on Software Engineering and Methodology",
+        "year": 2016,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1145/3063384",
+        "volume": "25",
+        "abstract": null,
+        "keywords": null
+    }
+]

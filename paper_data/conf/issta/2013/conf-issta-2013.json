@@ -1,0 +1,382 @@
+[
+    {
+        "title": "Expressing and checking intended changes via software change contracts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483772",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding rare numerical stability errors in concurrent computations.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483791",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Parallel bounded analysis in code with rich invariants by refinement of field bounds.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483770",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient and flexible GUI test execution via test merging.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483781",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatically repairing broken workflows for evolving GUI applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483775",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semi-valid input coverage for fuzz testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483787",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated testing with targeted event sequence generation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483777",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Calculating source line level energy information for Android applications.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483780",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Context-sensitive delta inference for identifying workload-dependent performance bottlenecks.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483784",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Combining model checking and testing with an application to reliability prediction and distribution.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483779",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dynamically validating static memory leak warnings.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483778",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Collecting a heap of shapes.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483761",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Griffin: grouping suspicious memory-access patterns to improve understanding of concurrency bugs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483792",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Variable and thread bounding for systematic testing of multithreaded programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483764",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "EnforceMOP: a runtime property enforcement system for multithreaded programs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483766",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SimRacer: an automated framework to support testing for process-level races.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483771",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practical static race detection for Java parallel loops.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483765",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using automated program repair for evaluating the effectiveness of fault localization techniques.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483785",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Data model property inference and repair.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483768",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "F3: fault localization for field failures.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483763",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Selective mutation testing for concurrent code.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483773",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Faster mutation testing inspired by test prioritization and reduction.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483782",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Declarative mocking.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483790",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Orthogonal exploration of the search space in evolutionary test case generation.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483789",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hybrid learning: interface generation through static, dynamic, and symbolic analysis.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483783",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Optimizing monitoring of finite state properties through monitor compaction.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483762",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Does automated white-box test generation really help software testers?",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483774",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Comparing non-adequate test suites using coverage criteria.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483769",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Threats to the validity and value of empirical assessments of the accuracy of coverage-based fault locators.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483767",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study of PHP feature usage: a static analysis perspective.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483786",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practical blended taint analysis for JavaScript.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483788",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Finding your way in the testing jungle: a learning approach to web security testing.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2483776",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Debugging non-deadlock concurrency bugs.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2492395",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generation of Java programs properties from test purposes.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2492400",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Generation of test databases using sampling methods.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2492397",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Analysis of performance regression testing data by transaction profiles.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2492399",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Product-line verification with feature-oriented contracts.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2492396",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Formal safety proof: a real case study in a railway interlocking system.",
+        "venue_name": "International Symposium on Software Testing and Analysis",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2483760.2492398",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

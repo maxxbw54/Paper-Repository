@@ -1,0 +1,602 @@
+[
+    {
+        "title": "Testing mined specifications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393598",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting and analyzing insecure component usage.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393599",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Retargeting Android applications to Java bytecode.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393600",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SelfMotion: a declarative language for adaptive service-oriented mobile apps.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393602",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "REPERTOIRE: a cross-system porting analysis tool for forked software projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393603",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating adaptive maintenance changes with SrcML and LINQ.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393604",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Searching connected API subgraph via text phrases.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393606",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AUSUM: approach for unsupervised bug report summarization.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393607",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated extraction of security policies from natural-language software documents.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393608",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practical change impact analysis based on static program slicing for industrial software systems.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393610",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MayPar: a may-happen-in-parallel analyzer for concurrent objects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393611",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Sando: an extensible local code search framework.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393612",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automating presentation changes in dynamic web applications via collaborative hybrid analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393614",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "(Withdrawn)",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393615",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Mining the execution history of a software system to infer the best time for its adaptation.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393616",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SecuriTAS: a tool for engineering adaptive security.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393618",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dione: an integrated measurement and defect prediction solution.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393619",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dealing with uncertainty in early software architecture.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393621",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Software change contracts.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393622",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Semantic fault diagnosis: automatic natural-language fault descriptions.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393623",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Toward measuring program comprehension with functional magnetic resonance imaging.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393624",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Toward semantic search via SMT solver.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393625",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inference and checking of context-sensitive pluggable types.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393626",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scalable malware clustering through coarse-grained behavior modeling.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393627",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Has this bug been reported?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393628",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Concept-based failure clustering.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393629",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Seeing the forest and the trees: focusing team interaction on value and effort drivers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393630",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "From pixels to bytes: evolutionary scenario based design with video.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393631",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Service selection for happy users: making user-intuitive quality abstractions.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393632",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Understanding myths and realities of test-suite evolution.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393634",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Test input generation using dynamic programming.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393635",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CarFast: achieving higher statement coverage faster.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393636",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scalable test data generation from multidimensional models.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393637",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "UMLtoCSP (UOST): a tool for efficient verification of UML/OCL class diagrams through model slicing.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393639",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ReImInfer: method purity inference for Java.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393640",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TouchDevelop: app development on mobile devices.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393641",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FaultTracer: a change impact and regression fault analysis tool for evolving Java programs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393642",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficiently scripting change-resilient tests.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393643",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Improving software developers' fluency by recommending development environment commands.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393645",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "History slicing: assisting code-evolution tasks.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393646",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Who is going to mentor newcomers in open source projects?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393647",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Assessing the value of branches with what-if analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393648",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "DTAM: dynamic taint analysis of multi-threaded programs for relevancy.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393650",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predicting null-pointer dereferences in concurrent programs.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393651",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Asynchronous programs with prioritized task-buffers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393652",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Do crosscutting concerns cause modularity problems?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393654",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A field study of refactoring challenges and benefits.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393655",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How do software engineers understand code changes?: an exploratory study in industry.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393656",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Variability points and design pattern usage in architectural tactics.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393657",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A case study of cross-system porting in forked projects.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393659",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How do developers use parallel libraries?",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393660",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Seeking the ground truth: a retroactive study on the evolution and migration of software libraries.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393661",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How do developers react to API deprecation?: the case of a smalltalk ecosystem.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393662",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Conditional model checking: a technique to pass information between verifiers.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393664",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Green: reducing, reusing and recycling constraints in program analysis.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393665",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automated concolic testing of smartphone apps.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393666",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Rubicon: bounded verification of web applications.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393667",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Recalling the \"imprecision\" of cross-project defect prediction.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393669",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An industrial study on the risk of software changes.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393670",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-layered approach for recovering links between bug reports and fixes.",
+        "venue_name": "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+        "year": 2012,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2393596.2393671",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]

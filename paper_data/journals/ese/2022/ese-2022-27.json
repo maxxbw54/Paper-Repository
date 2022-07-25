@@ -1138,5 +1138,45 @@
         "volume": "27",
         "abstract": null,
         "keywords": null
+    },
+    {
+        "title": "A qualitative study of developers' discussions of their problems and joys during the early COVID-19 months.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10156-z",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Defect prediction using deep learning with Network Portrait Divergence for software evolution.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10147-0",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study of data constraint implementations in Java.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10175-w",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A mixed-methods analysis of micro-collaborative coding practices in OpenStack.",
+        "venue_name": "Empirical Software Engineering",
+        "year": 2022,
+        "venue_type": "journals",
+        "url": "https://doi.org/10.1007/s10664-022-10167-w",
+        "volume": "27",
+        "abstract": null,
+        "keywords": null
     }
 ]
