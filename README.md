@@ -8,6 +8,7 @@
 - ASE
 - FSE
 - ISSTA
+- CCS
 
 ### Journals
 

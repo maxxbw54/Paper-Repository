@@ -1,0 +1,1522 @@
+[
+    {
+        "title": "A security framework for the analysis and design of software attestation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516650",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "OASIS: on achieving a sanctuary for integrity and secrecy on untrusted platforms.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516678",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BIOS chronomancy: fixing the core root of trust for measurement.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516714",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Flexible and scalable digital signatures in TPM 2.0.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516729",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Rethinking SSL development in an appified world.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516655",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Protocol misidentification made easy with format-transforming encryption.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516657",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An empirical study of cryptographic misuse in android applications.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516693",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting stealthy, distributed SSH brute-forcing.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516719",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A clinical study of risk factors related to malware infections.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516747",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Delta: automatic identification of unknown web-based infection campaigns.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516725",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Beheading hydras: performing effective botnet takedowns.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516749",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Shady paths: leveraging surfing crowds to detect malicious web pages.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516682",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Honeywords: making password-cracking detectable.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516671",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Quantifying the security of graphical passwords: the case of android unlock patterns.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516700",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Measuring password guessability for an entire university.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516726",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SAuth: protecting user accounts from password database leaks.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516746",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Monitor integrity protection with space efficiency and separate compilation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516649",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Relational abstract interpretation for the verification of 2-hypersafety properties.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516721",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Formal verification of information flow security for a simple arm-based separation kernel.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516702",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ShadowReplica: efficient parallelization of dynamic data flow tracking.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516704",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Multi-cloud oblivious storage.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516673",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Policy-based secure deletion.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516690",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Secure data deletion from persistent media.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516699",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PoWerStore: proofs of writing for efficient and robust storage.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516750",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Path ORAM: an extremely simple oblivious RAM protocol.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516660",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PHANTOM: practical oblivious computation in a secure processor.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516692",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practical dynamic proofs of retrievability.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516669",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Users get routed: traffic correlation on tor by realistic adversaries.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516651",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PCTCP: per-circuit TCP-over-IPsec transport for anonymous communication overlay networks.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516715",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cover your ACKs: pitfalls of covert channel censorship circumvention.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516742",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An analysis of the EMV channel establishment protocol.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516748",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the security of TLS renegotiation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516694",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Using SMT solvers to automate design tasks for encryption and signature schemes.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516718",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The science, engineering and business of cyber security.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516755",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AVANT-GUARD: scalable and vigilant switch flow management in software-defined networks.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516684",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "MinimaLT: minimal-latency networking through better security.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516737",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Impact of integrity attacks on real-time pricing in smart grids.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516705",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Configuration-based IDS for advanced metering infrastructure.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516745",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Practical constructions and new proof methods for large universe attribute-based encryption.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516672",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Blackbox traceable CP-ABE: how to catch people leaking their keys by selling decryption devices on ebay.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516683",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Obfuscation resilient binary code reuse through trace-oriented programming.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516664",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Chucky: exposing missing checks in source code for vulnerability discovery.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516665",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Scheduling black-box mutational fuzzing.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516736",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fast two-party secure computation with minimal assumptions.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516698",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "More efficient oblivious transfer and extensions for faster secure computation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516738",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An architecture for practical actively secure MPC with dishonest majority.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516744",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Belief semantics of authorization logic.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516667",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Automatic verification of protocols with lists of unbounded length.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516679",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Relational abstraction in community-based secure collaboration.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516720",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "When kids' toys breach mobile phone security.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516659",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Vetting undesirable behaviors in android apps with permission use analysis.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516689",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The impact of vendor customizations on android security.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516728",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Unauthorized origin crossing on mobile platforms: threats and mitigation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516727",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Security analysis of pseudo-random number generators with input: /dev/random is not robust.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516653",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Predictability of Android OpenSSL's pseudo random number generator.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516706",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Delegatable pseudorandom functions and applications.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516668",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Ensuring high-quality randomness in cryptographic key generation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516680",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FANCI: identification of stealthy malicious logic using boolean functional analysis.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516654",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Security analysis of integrated circuit camouflaging.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516656",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Low-fat pointers: compact encoding and efficient gate-level implementation of fat pointers for spatial safety and capability-based security.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516713",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Breaking and entering through the silicon.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516717",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Polyglots: crossing origins by crossing formats.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516685",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ViceROI: catching click-spam in search ad networks.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516688",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "mXSS attacks: attacking well-secured web-applications by using innerHTML mutations.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516723",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "When private set intersection meets big data: an efficient and scalable protocol.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516701",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Privacy-preserving matrix factorization.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516751",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PICCO: a general-purpose compiler for private distributed computation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516752",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Düppel: retrofitting commodity operating systems to mitigate cache side channels in the cloud.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516741",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Tappan Zee (north) bridge: mining memory accesses for introspection.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516697",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Towards reducing the attack surface of software backdoors.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516716",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Verifiable delegation of computation on outsourced data.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516681",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Outsourced symmetric private information retrieval.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516730",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Membership privacy: a unifying framework for privacy definitions.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516686",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Geo-indistinguishability: differential privacy for location-based systems.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516735",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Control-Alt-Hack: the design and evaluation of a card game for computer security awareness and education.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516753",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Security analysis of a widely deployed locking system.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516733",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The cyber arms race.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516756",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "How to keep a secret: leakage deterring public-key cryptosystems.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516691",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Zero-knowledge using garbled circuits: how to prove non-algebraic statements efficiently.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516662",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Elligator: elliptic-curve points indistinguishable from uniform random strings.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516734",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "ASIST: architectural support for instruction set randomization.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516670",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Librando: transparent code randomization for just-in-time compilers.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516675",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "LogGC: garbage collecting audit log.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516731",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identity, location, disease and more: inferring your secrets from android public resources.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516661",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Preventing accidental data disclosure in modern operating systems.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516677",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AppIntent: analyzing sensitive data transmission in android for privacy leakage detection.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516676",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cross-origin pixel stealing: timing attacks using CSS filters.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516712",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Seeing double: reconstructing obscured typed input from repeated compromising reflections.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516709",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The robustness of hollow CAPTCHAs.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516732",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Anonymous credentials light.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516687",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Heart-to-heart (H2H): authentication for implanted medical devices.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516658",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "OAKE: a new family of implicitly authenticated diffie-hellman protocols.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516695",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "FPDetective: dusting the web for fingerprinters.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516674",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Addressing the concerns of the lacks family: quantification of kin genomic privacy.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516707",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Hang with your buddies to resist intersection attacks.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516740",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Content-based isolation: rethinking isolation policy design on client systems.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516722",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Diglossia: detecting code injection attacks with precision and efficiency.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516696",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "25 million flows later: large-scale detection of DOM-based XSS.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516703",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "deDacota: toward preventing server-side XSS via automatic code and data separation.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516708",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Certified computer-aided cryptography: efficient provably secure machine code from high-level implementations.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516652",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Computationally complete symbolic attacker and key exchange.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516710",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Fully automated analysis of padding-based encryption in the computational model.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516663",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Deduction soundness: prove one, get five for free.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516711",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Efficient targeted key subset retrieval in fractal hash sequences.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516739",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "HIFS: history independence for file systems.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516724",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "AUTOCRYPT: enabling homomorphic computation on servers to protect sensitive web content.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516666",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Protecting sensitive web content from client-side vulnerabilities with CRYPTONS.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516743",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Adjustably encrypted in-memory column-store.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512491",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Demonstrating a trust framework for evaluating GNSS signal integrity.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512492",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Inherent PUFs and secure PRNGs on commercial off-the-shelf microcontrollers.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512493",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "An IDS framework for internet of things empowered by 6LoWPAN.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512494",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Secure and customizable web development in the safe activation framework.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512495",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Enabling trusted stores for android.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512496",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Gradiant asymmetric encryption and verification systems based on handwritten signature.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512497",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the real-time masking of the sound of credit cards using hot patching.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512498",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Critique of the CISSP common body of knowledge of cryptography.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512499",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Preserving privacy and accountability for personal devices.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512500",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Caching oblivious memory access: an extension to the HCRYPT virtual machine.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512501",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Data quality evaluation: integrating security and accuracy.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512502",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Graphical password using object-based image ranking.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512503",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A semantic-aware approach to reasoning about network traffic relations.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512504",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Detecting malware through temporal function-based features.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512505",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Event-based isolation of critical data in the cloud.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512506",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "BotFlex: a community-driven tool for botnetdetection.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512507",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Signal anomaly based attack detection in wireless sensor networks.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512508",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Enhanced embedded device security by combining hardware-based trust mechanisms.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512509",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "On the anonymity of Israel's general elections.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512510",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Secure authentication from facial attributeswith no privacy loss.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512511",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Performance signatures of mobile phone browsers.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512512",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A new framework against privilege escalation attacks on android.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512513",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TRIPLEX: verifying data minimisation in communication systems.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512514",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "SHAMROCK: self contained cryptography and key management processor.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512515",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "trend of online flash XSS vulnerabilities.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512516",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Cross-platform malware: write once, infect everywhere.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512517",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Introducing pathogen: a real-time virtualmachine introspection framework.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512518",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "PnP: improving web browsing performance over tor using web resource prefetch-and-push.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512519",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Sniffing and propagating malwares through WPAD deception in LANs.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512520",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "A footprint of third-party tracking on mobile web.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512521",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Dr. Watson provides data for post-breach analysis.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512522",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Reflected attacks abusing honeypots.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512523",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "TouchCtrl: fine-grained access control for collaborative environments.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512524",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "CRYPTSERVER: strong data protection in commodity LAMP servers.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512525",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Identity-based steganography and its applications to censorship resistance.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512526",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Sechduler: a security-aware kernel scheduler.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512527",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Passwords on flexible display devices.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512528",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Revisiting anomaly detection system design philosophy.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2512529",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Summary/overview for artificial intelligence and security (AISec'13).",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2509031",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "The first workshop on language support for privacy-enhancing technologies (PETShop'13).",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2509032",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Smart energy grid security workshop (SEGS'13).",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2509035",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Constructive and destructive aspects of embedded security in the internet of things.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516757",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Trusted execution environments on mobile devices.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516758",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    },
+    {
+        "title": "Easily instrumenting android applications for security purposes.",
+        "venue_name": "Conference on Computer and Communications Security",
+        "year": 2013,
+        "venue_type": "conf",
+        "url": "https://doi.org/10.1145/2508859.2516759",
+        "volume": null,
+        "abstract": null,
+        "keywords": null
+    }
+]
